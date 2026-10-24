@@ -1,4 +1,6 @@
+import { useState } from 'preact/hooks';
 import { Avatar } from '../components/Avatar';
+import { LoadBackupButton } from '../components/LoadBackupButton';
 import { HoldButton } from '../components/HoldButton';
 import { Mascot } from '../components/Mascot';
 import { t, type Lang } from '../i18n';
@@ -12,6 +14,7 @@ export function ProfilesScreen({
   onSelect,
   onParent,
   onSetup,
+  onBackupLoaded,
 }: {
   lang: Lang;
   parentLang: Lang;
@@ -19,7 +22,9 @@ export function ProfilesScreen({
   onSelect: (p: Profile) => void;
   onParent: () => void;
   onSetup: () => void;
+  onBackupLoaded: (profiles: Profile[]) => void;
 }) {
+  const [error, setError] = useState('');
   if (!profiles.length) {
     // First launch: nothing to protect yet, so setup skips the parent gate.
     return (
@@ -28,9 +33,14 @@ export function ProfilesScreen({
         <div class="card setup-card">
           <h1>{t(parentLang, 'profiles.setupTitle')}</h1>
           <p>{t(parentLang, 'profiles.setupText')}</p>
-          <button type="button" class="btn primary" onClick={onSetup}>
-            {t(parentLang, 'profiles.setupButton')}
-          </button>
+          <div class="row">
+            <button type="button" class="btn primary" onClick={onSetup}>
+              {t(parentLang, 'profiles.setupButton')}
+            </button>
+            {/* Moving from another device: bring the children's progress along. */}
+            <LoadBackupButton lang={parentLang} onLoaded={(ps) => onBackupLoaded(ps)} onError={setError} />
+          </div>
+          {error && <p class="status error">{error}</p>}
         </div>
       </main>
     );

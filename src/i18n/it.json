@@ -131,7 +131,20 @@
     "storage": "Memoria",
     "persisted": "I progressi sono salvati in modo permanente su questo dispositivo.",
     "notPersisted": "Il browser potrebbe cancellare i progressi se la memoria scarseggia. Aggiungi l'app alla schermata Home per tenerli al sicuro.",
-    "stats": "{stars} stelle · {answered} domande risposte"
+    "stats": "{stars} stelle · {answered} domande risposte",
+    "backup": "Backup e cambio di dispositivo",
+    "backupText": "Salva tutti i profili e i progressi in un file. Per passare a un altro dispositivo (per esempio dall'iPad all'iPhone), invia il file con AirDrop o salvalo in File e caricalo lì.",
+    "backupSave": "Salva backup",
+    "backupLoad": "Carica backup",
+    "backupSaved": "Backup creato.",
+    "backupConfirm": "Caricare il backup del {date} con {names}? Verrà unito a questo dispositivo: non si cancella nulla.",
+    "backupDone": "Backup caricato: {added} nuovi, {merged} uniti.",
+    "backupError": "Questo file non è un backup di Wunderfrage.",
+    "install": "App nella schermata Home",
+    "installed": "Installata. Wunderfrage funziona offline e i progressi sono al sicuro.",
+    "installSteps": "Apri questa pagina in Safari, tocca Condividi e poi «Aggiungi alla schermata Home». Dopo, l'app funziona offline e il browser non cancella i progressi.",
+    "privacy": "Privacy",
+    "privacyText": "Niente pubblicità, niente account, nessun tracciamento. Profili e progressi restano su questo dispositivo, salvo se salvi un backup."
   },
   "languageName": {
     "de": "tedesco",

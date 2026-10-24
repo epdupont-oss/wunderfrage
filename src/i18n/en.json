@@ -131,7 +131,20 @@
     "storage": "Storage",
     "persisted": "Progress is stored permanently on this device.",
     "notPersisted": "The browser may clear progress if storage runs low. Add the app to the Home Screen to keep it safe.",
-    "stats": "{stars} stars · {answered} questions answered"
+    "stats": "{stars} stars · {answered} questions answered",
+    "backup": "Backup and moving devices",
+    "backupText": "Save all profiles and progress in one file. To move to another device (for example from iPad to iPhone), send the file with AirDrop or save it in Files, then load it there.",
+    "backupSave": "Save backup",
+    "backupLoad": "Load backup",
+    "backupSaved": "Backup created.",
+    "backupConfirm": "Load the backup from {date} with {names}? It is combined with this device – nothing is deleted.",
+    "backupDone": "Backup loaded: {added} new, {merged} combined.",
+    "backupError": "This file is not a Wunderfrage backup.",
+    "install": "App on the Home Screen",
+    "installed": "Installed. Wunderfrage works offline and progress is stored safely.",
+    "installSteps": "Open this page in Safari, tap Share and then “Add to Home Screen”. After that, the app works offline and the browser will not clear its progress.",
+    "privacy": "Privacy",
+    "privacyText": "No ads, no accounts, no tracking. Profiles and progress stay on this device unless you save a backup."
   },
   "languageName": {
     "de": "German",

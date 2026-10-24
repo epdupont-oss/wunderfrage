@@ -4,6 +4,8 @@ import { CATEGORIES, type CategoryId } from '../content/categories';
 import { hasContent } from '../content/bank';
 import { LANG_NAMES, LANGS, t, type Lang } from '../i18n';
 import { onVoicesChanged, speakNow, voiceFor, voicesFor } from '../speech/speech';
+import { createBackup, saveBackupFile } from '../storage/backup';
+import { LoadBackupButton } from '../components/LoadBackupButton';
 import {
   defaultSettings,
   deleteProgress,
@@ -36,6 +38,14 @@ export function ParentScreen({
   const [editing, setEditing] = useState<Profile | null>(() => (profiles.length ? null : blankProfile(lang)));
   const [stats, setStats] = useState<Record<string, { stars: number; answered: number }>>({});
   const [, forceVoices] = useState(0);
+  const [backupStatus, setBackupStatus] = useState<{ text: string; error?: boolean } | null>(null);
+
+  const saveBackup = async () => {
+    setBackupStatus(null);
+    if (await saveBackupFile(await createBackup())) setBackupStatus({ text: t(lang, 'parent.backupSaved') });
+  };
+
+
 
   useEffect(() => {
     const off = onVoicesChanged(() => forceVoices((n) => n + 1));
@@ -175,12 +185,46 @@ export function ParentScreen({
       </section>
 
       <section class="card">
+        <h2>{t(lang, 'parent.backup')}</h2>
+        <p class="muted">{t(lang, 'parent.backupText')}</p>
+        <div class="row start">
+          <button type="button" class="btn" onClick={saveBackup}>
+            💾 {t(lang, 'parent.backupSave')}
+          </button>
+          <LoadBackupButton
+            lang={lang}
+            onLoaded={async (loaded, text) => {
+              await onProfilesChange(loaded);
+              setBackupStatus({ text });
+            }}
+            onError={(text) => setBackupStatus({ text, error: true })}
+          />
+        </div>
+        {backupStatus && (
+          <p class={`status${backupStatus.error ? ' error' : ''}`} role="status">
+            {backupStatus.text}
+          </p>
+        )}
+      </section>
+
+      <section class="card">
+        <h2>{t(lang, 'parent.install')}</h2>
+        <p class="muted">{t(lang, isInstalled() ? 'parent.installed' : 'parent.installSteps')}</p>
         <h2>{t(lang, 'parent.storage')}</h2>
         <p class="muted">{t(lang, persisted ? 'parent.persisted' : 'parent.notPersisted')}</p>
+      </section>
+
+      <section class="card">
+        <h2>{t(lang, 'parent.privacy')}</h2>
+        <p class="muted">{t(lang, 'parent.privacyText')}</p>
       </section>
     </main>
   );
 }
+
+/** True when running as an app from the Home Screen rather than in a browser tab. */
+const isInstalled = () =>
+  window.matchMedia?.('(display-mode: standalone)').matches || (navigator as { standalone?: boolean }).standalone === true;
 
 function blankProfile(lang: Lang): Profile {
   return {

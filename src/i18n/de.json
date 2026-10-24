@@ -131,7 +131,20 @@
     "storage": "Speicher",
     "persisted": "Der Fortschritt ist dauerhaft auf diesem Gerät gespeichert.",
     "notPersisted": "Der Browser könnte den Fortschritt löschen, wenn der Speicher knapp wird. Füge die App zum Home-Bildschirm hinzu, damit er sicher bleibt.",
-    "stats": "{stars} Sterne · {answered} Fragen beantwortet"
+    "stats": "{stars} Sterne · {answered} Fragen beantwortet",
+    "backup": "Sicherung und Geräte wechseln",
+    "backupText": "Speichere alle Profile und den Fortschritt in einer Datei. Für ein anderes Gerät (zum Beispiel vom iPad aufs iPhone) die Datei per AirDrop senden oder in «Dateien» sichern und dort laden.",
+    "backupSave": "Sicherung speichern",
+    "backupLoad": "Sicherung laden",
+    "backupSaved": "Sicherung erstellt.",
+    "backupConfirm": "Sicherung vom {date} mit {names} laden? Sie wird mit diesem Gerät zusammengeführt – es wird nichts gelöscht.",
+    "backupDone": "Sicherung geladen: {added} neu, {merged} zusammengeführt.",
+    "backupError": "Diese Datei ist keine Wunderfrage-Sicherung.",
+    "install": "App auf dem Home-Bildschirm",
+    "installed": "Installiert. Wunderfrage funktioniert offline und der Fortschritt ist sicher gespeichert.",
+    "installSteps": "Öffne diese Seite in Safari, tippe auf «Teilen» und dann auf «Zum Home-Bildschirm». Danach funktioniert die App offline und der Browser löscht den Fortschritt nicht.",
+    "privacy": "Datenschutz",
+    "privacyText": "Keine Werbung, keine Konten, kein Tracking. Profile und Fortschritt bleiben auf diesem Gerät, ausser du speicherst eine Sicherung."
   },
   "languageName": {
     "de": "Deutsch",

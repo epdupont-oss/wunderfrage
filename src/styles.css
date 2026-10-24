@@ -939,6 +939,29 @@ button {
 .check small {
   color: var(--muted);
 }
+.row.start {
+  justify-content: flex-start;
+}
+.file-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+}
+.file-btn input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+.status {
+  margin: 12px 0 0;
+  font-weight: 700;
+  color: var(--good);
+}
+.status.error {
+  color: #c0392b;
+}
 .danger-zone {
   display: flex;
   gap: 12px;

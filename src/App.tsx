@@ -14,6 +14,7 @@ import {
 } from './storage/db';
 import { cancel, setSpeechRate, setVoicePreferences } from './speech/speech';
 import { setSoundEnabled } from './audio/sfx';
+import { setCalmMoment } from './pwa';
 import type { CategoryId } from './content/categories';
 import { loadCategories } from './content/bank';
 import { buildRound, mathsPool, recordAnswer, type RoundQuestion } from './game/round';
@@ -59,6 +60,11 @@ export function App() {
       setPersisted(await requestPersistence());
     })();
   }, []);
+
+  // App updates may only reload the page on the start screen or the profile picker.
+  useEffect(() => {
+    setCalmMoment((screen.name === 'start' || screen.name === 'profiles') && !gateOpen);
+  }, [screen.name, gateOpen]);
 
   // Apply the active child's speech and sound settings.
   useEffect(() => {
@@ -141,6 +147,7 @@ export function App() {
           onSelect={selectProfile}
           onParent={openGate}
           onSetup={() => go({ name: 'parent' })}
+          onBackupLoaded={setProfiles}
         />
       );
       break;
@@ -209,7 +216,17 @@ export function App() {
 
   return (
     <>
-      {view ?? <ProfilesScreen lang={kidLang} parentLang={app.parentLang} profiles={profiles} onSelect={selectProfile} onParent={openGate} onSetup={() => go({ name: 'parent' })} />}
+      {view ?? (
+        <ProfilesScreen
+          lang={kidLang}
+          parentLang={app.parentLang}
+          profiles={profiles}
+          onSelect={selectProfile}
+          onParent={openGate}
+          onSetup={() => go({ name: 'parent' })}
+          onBackupLoaded={setProfiles}
+        />
+      )}
       {gateOpen && (
         <ParentGate
           lang={app.parentLang}
