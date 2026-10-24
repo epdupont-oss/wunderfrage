@@ -6,6 +6,13 @@
  */
 import { registerSW } from 'virtual:pwa-register';
 
+// Tell a newly installed service worker that this window runs the calm-update code,
+// so it waits for a calm moment instead of taking over (see public/sw-migrate.js).
+navigator.serviceWorker?.addEventListener('message', (event) => {
+  if (event.data?.type === 'WUNDERFRAGE_PING') event.ports[0]?.postMessage({ type: 'WUNDERFRAGE_PONG' });
+});
+navigator.serviceWorker?.startMessages();
+
 let updateReady = false;
 let calm = false;
 

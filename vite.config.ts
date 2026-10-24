@@ -34,6 +34,8 @@ export default defineConfig({
         // Precache everything, including the lazily loaded question bank chunks.
         globPatterns: ['**/*.{js,css,html,svg,png,ico,json,webmanifest}'],
         navigateFallback: 'index.html',
+        // One-time takeover from the first published version (see public/sw-migrate.js).
+        importScripts: ['sw-migrate.js'],
         cleanupOutdatedCaches: true,
       },
     }),
