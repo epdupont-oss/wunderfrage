@@ -1,0 +1,4638 @@
+[
+  {
+    "id": "body-see-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit siehst du?",
+      "en": "What do you see with?",
+      "it": "Con che cosa vedi?"
+    },
+    "answers": [
+      {
+        "id": "eyes",
+        "icon": "👀",
+        "label": {
+          "de": "Augen",
+          "en": "Eyes",
+          "it": "Occhi"
+        },
+        "correct": true
+      },
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit den Augen siehst du.",
+      "en": "You see with your eyes.",
+      "it": "Vedi con gli occhi."
+    },
+    "funFact": {
+      "de": "Wenn du blinzelst, werden deine Augen sauber und feucht.",
+      "en": "When you blink, your eyes get cleaned and kept moist.",
+      "it": "Quando sbatti le palpebre, gli occhi si puliscono e restano umidi."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-hear-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit hörst du?",
+      "en": "What do you hear with?",
+      "it": "Con che cosa senti i suoni?"
+    },
+    "answers": [
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": true
+      },
+      {
+        "id": "eyes",
+        "icon": "👀",
+        "label": {
+          "de": "Augen",
+          "en": "Eyes",
+          "it": "Occhi"
+        },
+        "correct": false
+      },
+      {
+        "id": "feet",
+        "icon": "🦶",
+        "label": {
+          "de": "Füsse",
+          "en": "Feet",
+          "it": "Piedi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit den Ohren hörst du.",
+      "en": "You hear with your ears.",
+      "it": "Senti con le orecchie."
+    },
+    "funFact": {
+      "de": "Im Ohr ist der kleinste Knochen deines Körpers.",
+      "en": "The smallest bone in your body is inside your ear.",
+      "it": "Nell'orecchio c'è l'osso più piccolo del corpo."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-smell-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit riechst du?",
+      "en": "What do you smell with?",
+      "it": "Con che cosa senti gli odori?"
+    },
+    "answers": [
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": true
+      },
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "hand",
+        "icon": "✋",
+        "label": {
+          "de": "Hand",
+          "en": "Hand",
+          "it": "Mano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit der Nase riechst du.",
+      "en": "You smell with your nose.",
+      "it": "Senti gli odori con il naso."
+    },
+    "funFact": {
+      "de": "Deine Nase kann sehr viele verschiedene Gerüche erkennen.",
+      "en": "Your nose can tell apart a huge number of different smells.",
+      "it": "Il tuo naso riconosce tantissimi odori diversi."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-taste-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit schmeckst du, ob etwas süss ist?",
+      "en": "What do you use to taste if something is sweet?",
+      "it": "Con che cosa senti se una cosa è dolce?"
+    },
+    "answers": [
+      {
+        "id": "tongue",
+        "icon": "👅",
+        "label": {
+          "de": "Zunge",
+          "en": "Tongue",
+          "it": "Lingua"
+        },
+        "correct": true
+      },
+      {
+        "id": "foot",
+        "icon": "🦶",
+        "label": {
+          "de": "Fuss",
+          "en": "Foot",
+          "it": "Piede"
+        },
+        "correct": false
+      },
+      {
+        "id": "ear",
+        "icon": "👂",
+        "label": {
+          "de": "Ohr",
+          "en": "Ear",
+          "it": "Orecchio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit der Zunge schmeckst du.",
+      "en": "You taste with your tongue.",
+      "it": "Senti i sapori con la lingua."
+    },
+    "funFact": {
+      "de": "Auf deiner Zunge sind tausende winzige Geschmacksknospen.",
+      "en": "Your tongue has thousands of tiny taste buds.",
+      "it": "Sulla lingua hai migliaia di minuscole papille gustative."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-fingers-hand",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Finger hat eine Hand?",
+      "en": "How many fingers are on one hand?",
+      "it": "Quante dita ha una mano?"
+    },
+    "visual": "✋",
+    "answers": [
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Hand hat fünf Finger. Zähl mal nach!",
+      "en": "One hand has five fingers. Count them!",
+      "it": "Una mano ha cinque dita. Contale!"
+    },
+    "funFact": {
+      "de": "Mit dem Daumen kannst du Dinge gut festhalten.",
+      "en": "Your thumb helps you hold things tightly.",
+      "it": "Il pollice ti aiuta a tenere bene le cose."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-heart-beats",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht in deiner Brust «bum, bum»?",
+      "en": "What goes “ba-boom” in your chest?",
+      "it": "Che cosa fa «tum tum» nel tuo petto?"
+    },
+    "answers": [
+      {
+        "id": "heart",
+        "icon": "❤️",
+        "label": {
+          "de": "Herz",
+          "en": "Heart",
+          "it": "Cuore"
+        },
+        "correct": true
+      },
+      {
+        "id": "tooth",
+        "icon": "🦷",
+        "label": {
+          "de": "Zahn",
+          "en": "Tooth",
+          "it": "Dente"
+        },
+        "correct": false
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das ist dein Herz. Es schlägt die ganze Zeit.",
+      "en": "That's your heart. It beats all the time.",
+      "it": "È il tuo cuore: batte sempre."
+    },
+    "funFact": {
+      "de": "Wenn du rennst, schlägt dein Herz schneller.",
+      "en": "When you run, your heart beats faster.",
+      "it": "Quando corri, il cuore batte più veloce."
+    },
+    "tags": [
+      "heart"
+    ]
+  },
+  {
+    "id": "body-brush-teeth",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was putzt du morgens und abends?",
+      "en": "What do you brush every morning and evening?",
+      "it": "Che cosa lavi con lo spazzolino mattina e sera?"
+    },
+    "answers": [
+      {
+        "id": "teeth",
+        "icon": "🦷",
+        "label": {
+          "de": "Zähne",
+          "en": "Teeth",
+          "it": "Denti"
+        },
+        "correct": true
+      },
+      {
+        "id": "tree",
+        "icon": "🌳",
+        "label": {
+          "de": "Baum",
+          "en": "Tree",
+          "it": "Albero"
+        },
+        "correct": false
+      },
+      {
+        "id": "cloud",
+        "icon": "☁️",
+        "label": {
+          "de": "Wolke",
+          "en": "Cloud",
+          "it": "Nuvola"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Du putzt deine Zähne, damit sie gesund bleiben.",
+      "en": "You brush your teeth to keep them healthy.",
+      "it": "Ti lavi i denti per tenerli sani."
+    },
+    "funFact": {
+      "de": "Kinder haben zwanzig Milchzähne.",
+      "en": "Children have twenty baby teeth.",
+      "it": "I bambini hanno venti denti da latte."
+    },
+    "tags": [
+      "teeth",
+      "health"
+    ]
+  },
+  {
+    "id": "body-milk-teeth-fall",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Milchzähne fallen irgendwann aus. Stimmt das?",
+      "en": "Baby teeth fall out one day. Is that true?",
+      "it": "I denti da latte prima o poi cadono. È vero?"
+    },
+    "visual": "🦷",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Danach wachsen grössere Zähne nach.",
+      "en": "That's true! Bigger teeth grow in their place.",
+      "it": "È vero! Al loro posto crescono denti più grandi."
+    },
+    "funFact": {
+      "de": "Die neuen Zähne müssen ein ganzes Leben lang halten. Darum gut putzen!",
+      "en": "The new teeth have to last your whole life – so brush them well!",
+      "it": "I denti nuovi devono durare tutta la vita: lavali bene!"
+    },
+    "tags": [
+      "teeth"
+    ]
+  },
+  {
+    "id": "body-walk-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit gehst du?",
+      "en": "What do you walk with?",
+      "it": "Con che cosa cammini?"
+    },
+    "answers": [
+      {
+        "id": "legs",
+        "icon": "🦵",
+        "label": {
+          "de": "Beine",
+          "en": "Legs",
+          "it": "Gambe"
+        },
+        "correct": true
+      },
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "eyes",
+        "icon": "👀",
+        "label": {
+          "de": "Augen",
+          "en": "Eyes",
+          "it": "Occhi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit den Beinen gehst du.",
+      "en": "You walk with your legs.",
+      "it": "Cammini con le gambe."
+    },
+    "funFact": {
+      "de": "Dein längster Knochen ist im Oberschenkel.",
+      "en": "Your longest bone is in your thigh.",
+      "it": "L'osso più lungo del corpo è nella coscia."
+    },
+    "tags": [
+      "bones"
+    ]
+  },
+  {
+    "id": "body-sleep-grow",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Kinder brauchen viel Schlaf zum Wachsen. Stimmt das?",
+      "en": "Children need lots of sleep to grow. Is that true?",
+      "it": "I bambini hanno bisogno di dormire tanto per crescere. È vero?"
+    },
+    "visual": "😴",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Im Schlaf erholt sich dein Körper und wächst.",
+      "en": "That's true! While you sleep, your body rests and grows.",
+      "it": "È vero! Mentre dormi il corpo si riposa e cresce."
+    },
+    "funFact": {
+      "de": "Im Schlaf ordnet dein Gehirn, was du am Tag gelernt hast.",
+      "en": "While you sleep, your brain sorts out what you learned during the day.",
+      "it": "Mentre dormi, il cervello mette in ordine quello che hai imparato."
+    },
+    "tags": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "body-before-eating",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was machst du vor dem Essen?",
+      "en": "What do you do before you eat?",
+      "it": "Che cosa fai prima di mangiare?"
+    },
+    "answers": [
+      {
+        "id": "wash-my-hands",
+        "icon": "🧼",
+        "label": {
+          "de": "Hände waschen",
+          "en": "Wash my hands",
+          "it": "Mi lavo le mani"
+        },
+        "correct": true
+      },
+      {
+        "id": "put-on-my-shoes",
+        "icon": "👟",
+        "label": {
+          "de": "Schuhe anziehen",
+          "en": "Put on my shoes",
+          "it": "Mi metto le scarpe"
+        },
+        "correct": false
+      },
+      {
+        "id": "go-to-bed",
+        "icon": "🛏️",
+        "label": {
+          "de": "Ins Bett gehen",
+          "en": "Go to bed",
+          "it": "Vado a letto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Vor dem Essen wäschst du die Hände.",
+      "en": "Before eating, you wash your hands.",
+      "it": "Prima di mangiare ti lavi le mani."
+    },
+    "funFact": {
+      "de": "Seife hilft, Keime von den Händen zu waschen.",
+      "en": "Soap helps wash germs off your hands.",
+      "it": "Il sapone aiuta a togliere i germi dalle mani."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-has-bones",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In deinem Körper sind Knochen. Stimmt das?",
+      "en": "There are bones inside your body. Is that true?",
+      "it": "Dentro il tuo corpo ci sono le ossa. È vero?"
+    },
+    "visual": "🦴",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Deine Knochen halten dich aufrecht.",
+      "en": "That's true! Your bones hold you up.",
+      "it": "È vero! Le ossa ti tengono in piedi."
+    },
+    "funFact": {
+      "de": "Ein Baby hat mehr Knochen als ein Erwachsener. Einige wachsen später zusammen.",
+      "en": "A baby has more bones than a grown-up. Some of them join together later.",
+      "it": "Un neonato ha più ossa di un adulto: alcune poi si uniscono."
+    },
+    "tags": [
+      "bones"
+    ]
+  },
+  {
+    "id": "body-breathing",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft dir beim Atmen?",
+      "en": "What helps you breathe?",
+      "it": "Che cosa ti aiuta a respirare?"
+    },
+    "answers": [
+      {
+        "id": "lungs",
+        "icon": "🫁",
+        "label": {
+          "de": "Lunge",
+          "en": "Lungs",
+          "it": "Polmoni"
+        },
+        "correct": true
+      },
+      {
+        "id": "feet",
+        "icon": "🦶",
+        "label": {
+          "de": "Füsse",
+          "en": "Feet",
+          "it": "Piedi"
+        },
+        "correct": false
+      },
+      {
+        "id": "teeth",
+        "icon": "🦷",
+        "label": {
+          "de": "Zähne",
+          "en": "Teeth",
+          "it": "Denti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Lunge holt Luft in deinen Körper.",
+      "en": "Your lungs bring air into your body.",
+      "it": "I polmoni portano l'aria nel tuo corpo."
+    },
+    "funFact": {
+      "de": "Du atmest jeden Tag tausende Male, auch im Schlaf.",
+      "en": "You breathe thousands of times every day, even while you sleep.",
+      "it": "Respiri migliaia di volte al giorno, anche mentre dormi."
+    },
+    "tags": [
+      "lungs"
+    ]
+  },
+  {
+    "id": "body-think-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit denkst du?",
+      "en": "What do you think with?",
+      "it": "Con che cosa pensi?"
+    },
+    "answers": [
+      {
+        "id": "brain",
+        "icon": "🧠",
+        "label": {
+          "de": "Gehirn",
+          "en": "Brain",
+          "it": "Cervello"
+        },
+        "correct": true
+      },
+      {
+        "id": "foot",
+        "icon": "🦶",
+        "label": {
+          "de": "Fuss",
+          "en": "Foot",
+          "it": "Piede"
+        },
+        "correct": false
+      },
+      {
+        "id": "arm",
+        "icon": "💪",
+        "label": {
+          "de": "Arm",
+          "en": "Arm",
+          "it": "Braccio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit dem Gehirn denkst du.",
+      "en": "You think with your brain.",
+      "it": "Pensi con il cervello."
+    },
+    "funFact": {
+      "de": "Dein Gehirn arbeitet immer, auch wenn du schläfst.",
+      "en": "Your brain is always working, even when you're asleep.",
+      "it": "Il cervello lavora sempre, anche quando dormi."
+    },
+    "tags": [
+      "brain"
+    ]
+  },
+  {
+    "id": "body-healthy-snack",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein gesunder Znüni?",
+      "en": "Which one is a healthy snack?",
+      "it": "Quale merenda è sana?"
+    },
+    "answers": [
+      {
+        "id": "apple",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfel",
+          "en": "Apple",
+          "it": "Mela"
+        },
+        "correct": true
+      },
+      {
+        "id": "lollipop",
+        "icon": "🍭",
+        "label": {
+          "de": "Lutscher",
+          "en": "Lollipop",
+          "it": "Lecca-lecca"
+        },
+        "correct": false
+      },
+      {
+        "id": "doughnut",
+        "icon": "🍩",
+        "label": {
+          "de": "Donut",
+          "en": "Doughnut",
+          "it": "Ciambella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Apfel ist ein gesunder Znüni.",
+      "en": "An apple is a healthy snack.",
+      "it": "Una mela è una merenda sana."
+    },
+    "funFact": {
+      "de": "Obst und Gemüse geben dir Vitamine.",
+      "en": "Fruit and vegetables give you vitamins.",
+      "it": "Frutta e verdura ti danno vitamine."
+    },
+    "tags": [
+      "food",
+      "health"
+    ],
+    "uncertain": "German uses the Swiss word «Znüni» (mid-morning snack); use «Pausensnack» for de-DE."
+  },
+  {
+    "id": "body-thirsty",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was trinkst du am besten, wenn du Durst hast?",
+      "en": "What is the best drink when you're thirsty?",
+      "it": "Che cosa è meglio bere quando hai sete?"
+    },
+    "answers": [
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": true
+      },
+      {
+        "id": "fizzy-drink",
+        "icon": "🥤",
+        "label": {
+          "de": "Limonade",
+          "en": "Fizzy drink",
+          "it": "Bibita gassata"
+        },
+        "correct": false
+      },
+      {
+        "id": "coffee",
+        "icon": "☕",
+        "label": {
+          "de": "Kaffee",
+          "en": "Coffee",
+          "it": "Caffè"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wasser ist das beste Getränk gegen Durst.",
+      "en": "Water is the best drink when you're thirsty.",
+      "it": "L'acqua è la bevanda migliore contro la sete."
+    },
+    "funFact": {
+      "de": "Dein Körper besteht zu mehr als der Hälfte aus Wasser.",
+      "en": "More than half of your body is water.",
+      "it": "Più di metà del tuo corpo è fatta d'acqua."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-sneeze",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wohin niest du am besten?",
+      "en": "Where is the best place to sneeze?",
+      "it": "Dove è meglio starnutire?"
+    },
+    "visual": "🤧",
+    "answers": [
+      {
+        "id": "into-my-elbow",
+        "icon": "💪",
+        "label": {
+          "de": "In den Ellbogen",
+          "en": "Into my elbow",
+          "it": "Nel gomito"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-other-people",
+        "icon": "🧑‍🤝‍🧑",
+        "label": {
+          "de": "Auf andere Leute",
+          "en": "On other people",
+          "it": "Addosso agli altri"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-my-plate",
+        "icon": "🍽️",
+        "label": {
+          "de": "Auf den Teller",
+          "en": "On my plate",
+          "it": "Nel piatto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Niese in den Ellbogen. So kommen keine Keime auf die Hände.",
+      "en": "Sneeze into your elbow so germs don't get on your hands.",
+      "it": "Starnutisci nel gomito, così i germi non finiscono sulle mani."
+    },
+    "funFact": {
+      "de": "Fast alle Menschen machen beim Niesen die Augen zu.",
+      "en": "Almost everybody closes their eyes when they sneeze.",
+      "it": "Quasi tutti chiudono gli occhi quando starnutiscono."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-same-eye-colour",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Alle Menschen haben die gleiche Augenfarbe. Stimmt das?",
+      "en": "Everybody has the same eye colour. Is that true?",
+      "it": "Tutte le persone hanno gli occhi dello stesso colore. È vero?"
+    },
+    "visual": "👀",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Augen können braun, blau, grün oder grau sein.",
+      "en": "Eyes can be brown, blue, green or grey.",
+      "it": "Gli occhi possono essere marroni, azzurri, verdi o grigi."
+    },
+    "funFact": {
+      "de": "Die häufigste Augenfarbe auf der Welt ist braun.",
+      "en": "The most common eye colour in the world is brown.",
+      "it": "Il colore degli occhi più diffuso al mondo è il marrone."
+    },
+    "tags": [
+      "eyes"
+    ]
+  },
+  {
+    "id": "body-hair-grows",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Deine Haare wachsen immer weiter. Stimmt das?",
+      "en": "Your hair keeps on growing. Is that true?",
+      "it": "I capelli continuano a crescere. È vero?"
+    },
+    "visual": "💇",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Darum musst du sie ab und zu schneiden lassen.",
+      "en": "That's true! That's why you need a haircut now and then.",
+      "it": "È vero! Per questo ogni tanto bisogna tagliarli."
+    },
+    "funFact": {
+      "de": "Haare wachsen jeden Monat ungefähr einen Zentimeter.",
+      "en": "Hair grows about one centimetre every month.",
+      "it": "I capelli crescono circa un centimetro al mese."
+    },
+    "tags": [
+      "hair"
+    ]
+  },
+  {
+    "id": "body-bigger-adult-baby",
+    "category": "body",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist grösser?",
+      "en": "Who is bigger?",
+      "it": "Chi è più grande?"
+    },
+    "answers": [
+      {
+        "id": "grown-up",
+        "icon": "🧑",
+        "label": {
+          "de": "Erwachsener",
+          "en": "Grown-up",
+          "it": "Adulto"
+        },
+        "correct": true
+      },
+      {
+        "id": "baby",
+        "icon": "👶",
+        "label": {
+          "de": "Baby",
+          "en": "Baby",
+          "it": "Neonato"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Erwachsene sind grösser als Babys.",
+      "en": "Grown-ups are bigger than babies.",
+      "it": "Gli adulti sono più grandi dei neonati."
+    },
+    "funFact": {
+      "de": "Im ersten Jahr wächst ein Baby ganz besonders schnell.",
+      "en": "Babies grow especially fast in their first year.",
+      "it": "Nel primo anno i neonati crescono velocissimi."
+    },
+    "tags": [
+      "growing"
+    ]
+  },
+  {
+    "id": "body-longer-leg-nose",
+    "category": "body",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist länger?",
+      "en": "Which is longer?",
+      "it": "Che cosa è più lungo?"
+    },
+    "answers": [
+      {
+        "id": "leg",
+        "icon": "🦵",
+        "label": {
+          "de": "Bein",
+          "en": "Leg",
+          "it": "Gamba"
+        },
+        "correct": true
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Dein Bein ist viel länger als deine Nase.",
+      "en": "Your leg is much longer than your nose.",
+      "it": "La gamba è molto più lunga del naso."
+    },
+    "funFact": {
+      "de": "Wenn du die Arme ausstreckst, sind sie zusammen ungefähr so lang, wie du gross bist.",
+      "en": "Stretch out your arms: from fingertip to fingertip is about as long as you are tall.",
+      "it": "Se allarghi le braccia, da una mano all'altra misuri circa quanto la tua altezza."
+    },
+    "tags": [
+      "growing"
+    ]
+  },
+  {
+    "id": "body-runny-nose",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was brauchst du, wenn deine Nase läuft?",
+      "en": "What do you need when your nose is runny?",
+      "it": "Che cosa ti serve quando ti cola il naso?"
+    },
+    "answers": [
+      {
+        "id": "tissue",
+        "icon": "🧻",
+        "label": {
+          "de": "Taschentuch",
+          "en": "Tissue",
+          "it": "Fazzoletto"
+        },
+        "correct": true
+      },
+      {
+        "id": "sock",
+        "icon": "🧦",
+        "label": {
+          "de": "Socke",
+          "en": "Sock",
+          "it": "Calzino"
+        },
+        "correct": false
+      },
+      {
+        "id": "banana",
+        "icon": "🍌",
+        "label": {
+          "de": "Banane",
+          "en": "Banana",
+          "it": "Banana"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einem Taschentuch putzt du die Nase.",
+      "en": "You blow your nose with a tissue.",
+      "it": "Ti soffi il naso con un fazzoletto."
+    },
+    "funFact": {
+      "de": "Der Schleim in der Nase fängt Staub und Keime ab.",
+      "en": "The slime in your nose catches dust and germs.",
+      "it": "Il muco nel naso cattura polvere e germi."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-feel-warm-cold",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit spürst du, ob etwas warm oder kalt ist?",
+      "en": "What do you use to feel if something is warm or cold?",
+      "it": "Con che cosa senti se una cosa è calda o fredda?"
+    },
+    "answers": [
+      {
+        "id": "skin",
+        "icon": "✋",
+        "label": {
+          "de": "Haut",
+          "en": "Skin",
+          "it": "Pelle"
+        },
+        "correct": true
+      },
+      {
+        "id": "my-ears-hear-it",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren hören es",
+          "en": "My ears hear it",
+          "it": "Le orecchie lo sentono"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-tips-of-my-hair",
+        "icon": "💇",
+        "label": {
+          "de": "Haarspitzen",
+          "en": "The tips of my hair",
+          "it": "Le punte dei capelli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit der Haut spürst du Wärme und Kälte.",
+      "en": "Your skin feels warm and cold.",
+      "it": "Con la pelle senti il caldo e il freddo."
+    },
+    "funFact": {
+      "de": "Die Haut ist das grösste Organ deines Körpers.",
+      "en": "Your skin is the biggest organ of your body.",
+      "it": "La pelle è l'organo più grande del corpo."
+    },
+    "tags": [
+      "senses",
+      "skin"
+    ]
+  },
+  {
+    "id": "body-bend-leg",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft deinem Bein, sich zu beugen?",
+      "en": "What lets your leg bend?",
+      "it": "Che cosa permette alla gamba di piegarsi?"
+    },
+    "answers": [
+      {
+        "id": "knee",
+        "icon": "🦵",
+        "label": {
+          "de": "Knie",
+          "en": "Knee",
+          "it": "Ginocchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      },
+      {
+        "id": "ear",
+        "icon": "👂",
+        "label": {
+          "de": "Ohr",
+          "en": "Ear",
+          "it": "Orecchio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit dem Knie kannst du dein Bein beugen.",
+      "en": "Your knee lets your leg bend.",
+      "it": "Il ginocchio permette alla gamba di piegarsi."
+    },
+    "funFact": {
+      "de": "Die Kniescheibe ist ein kleiner runder Knochen vorne am Knie.",
+      "en": "Your kneecap is a small round bone at the front of your knee.",
+      "it": "La rotula è un piccolo osso rotondo davanti al ginocchio."
+    },
+    "tags": [
+      "bones"
+    ]
+  },
+  {
+    "id": "body-yawn-catching",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wenn jemand gähnt, musst du oft auch gähnen. Stimmt das?",
+      "en": "When someone yawns, you often yawn too. Is that true?",
+      "it": "Quando qualcuno sbadiglia, spesso sbadigli anche tu. È vero?"
+    },
+    "visual": "🥱",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Gähnen ist ansteckend.",
+      "en": "That's true! Yawning is catching.",
+      "it": "È vero! Lo sbadiglio è contagioso."
+    },
+    "funFact": {
+      "de": "Sogar Hunde gähnen manchmal, wenn ihr Mensch gähnt.",
+      "en": "Even dogs sometimes yawn when their owner yawns.",
+      "it": "Perfino i cani a volte sbadigliano quando sbadiglia il loro padrone."
+    },
+    "tags": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-sun-protect",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was schützt deine Haut vor zu viel Sonne?",
+      "en": "What protects your skin from too much sun?",
+      "it": "Che cosa protegge la pelle dal troppo sole?"
+    },
+    "answers": [
+      {
+        "id": "sun-cream",
+        "icon": "🧴",
+        "label": {
+          "de": "Sonnencreme",
+          "en": "Sun cream",
+          "it": "Crema solare"
+        },
+        "correct": true
+      },
+      {
+        "id": "ice-cubes",
+        "icon": "🧊",
+        "label": {
+          "de": "Eiswürfel",
+          "en": "Ice cubes",
+          "it": "Cubetti di ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Sonnencreme schützt deine Haut.",
+      "en": "Sun cream protects your skin.",
+      "it": "La crema solare protegge la pelle."
+    },
+    "funFact": {
+      "de": "Auch ein Hut und Schatten schützen dich vor der Sonne.",
+      "en": "A hat and shade protect you from the sun too.",
+      "it": "Anche il cappello e l'ombra ti proteggono dal sole."
+    },
+    "tags": [
+      "skin",
+      "health"
+    ]
+  },
+  {
+    "id": "body-tears-clean",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Tränen halten deine Augen sauber. Stimmt das?",
+      "en": "Tears keep your eyes clean. Is that true?",
+      "it": "Le lacrime tengono puliti gli occhi. È vero?"
+    },
+    "visual": "💧",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Tränen waschen Staub aus deinen Augen.",
+      "en": "That's true! Tears wash dust out of your eyes.",
+      "it": "È vero! Le lacrime lavano via la polvere dagli occhi."
+    },
+    "funFact": {
+      "de": "Deine Augen machen jeden Tag ein wenig Tränenflüssigkeit, auch wenn du nicht weinst.",
+      "en": "Your eyes make a little tear fluid every day, even when you're not crying.",
+      "it": "Gli occhi producono un po' di lacrime ogni giorno, anche quando non piangi."
+    },
+    "tags": [
+      "eyes"
+    ]
+  },
+  {
+    "id": "body-swallow-food",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wohin geht dein Essen, wenn du es schluckst?",
+      "en": "Where does your food go when you swallow it?",
+      "it": "Dove va il cibo quando lo inghiotti?"
+    },
+    "answers": [
+      {
+        "id": "into-my-tummy",
+        "icon": "🍽️",
+        "label": {
+          "de": "In den Magen",
+          "en": "Into my tummy",
+          "it": "Nello stomaco"
+        },
+        "correct": true
+      },
+      {
+        "id": "into-my-ears",
+        "icon": "👂",
+        "label": {
+          "de": "In die Ohren",
+          "en": "Into my ears",
+          "it": "Nelle orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "into-my-nose",
+        "icon": "👃",
+        "label": {
+          "de": "In die Nase",
+          "en": "Into my nose",
+          "it": "Nel naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Essen rutscht in deinen Magen.",
+      "en": "Food slides down into your tummy.",
+      "it": "Il cibo scende nello stomaco."
+    },
+    "funFact": {
+      "de": "Im Magen wird das Essen zu einem weichen Brei gemischt.",
+      "en": "In your tummy, food gets mixed into a soft mush.",
+      "it": "Nello stomaco il cibo diventa una pappa morbida."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "body-muscles-stronger",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was wird stärker, wenn du viel turnst und spielst?",
+      "en": "What gets stronger when you play and move a lot?",
+      "it": "Che cosa diventa più forte se giochi e ti muovi tanto?"
+    },
+    "answers": [
+      {
+        "id": "muscles",
+        "icon": "💪",
+        "label": {
+          "de": "Muskeln",
+          "en": "Muscles",
+          "it": "Muscoli"
+        },
+        "correct": true
+      },
+      {
+        "id": "hair",
+        "icon": "💇",
+        "label": {
+          "de": "Haare",
+          "en": "Hair",
+          "it": "Capelli"
+        },
+        "correct": false
+      },
+      {
+        "id": "t-shirt",
+        "icon": "👕",
+        "label": {
+          "de": "T-Shirt",
+          "en": "T-shirt",
+          "it": "Maglietta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Deine Muskeln werden stärker, wenn du sie benutzt.",
+      "en": "Your muscles get stronger when you use them.",
+      "it": "I muscoli diventano più forti quando li usi."
+    },
+    "funFact": {
+      "de": "Wenn du lächelst, benutzt du viele kleine Muskeln im Gesicht.",
+      "en": "When you smile, you use lots of little muscles in your face.",
+      "it": "Quando sorridi usi tanti piccoli muscoli del viso."
+    },
+    "tags": [
+      "muscles"
+    ]
+  },
+  {
+    "id": "body-toes",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo sind deine Zehen?",
+      "en": "Where are your toes?",
+      "it": "Dove sono le dita dei piedi?"
+    },
+    "answers": [
+      {
+        "id": "on-my-feet",
+        "icon": "🦶",
+        "label": {
+          "de": "An den Füssen",
+          "en": "On my feet",
+          "it": "Sui piedi"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-my-ears",
+        "icon": "👂",
+        "label": {
+          "de": "An den Ohren",
+          "en": "On my ears",
+          "it": "Sulle orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-my-nose",
+        "icon": "👃",
+        "label": {
+          "de": "An der Nase",
+          "en": "On my nose",
+          "it": "Sul naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Zehen sind an deinen Füssen.",
+      "en": "Your toes are on your feet.",
+      "it": "Le dita dei piedi sono, appunto, sui piedi!"
+    },
+    "funFact": {
+      "de": "Der grosse Zeh hilft dir, beim Gehen das Gleichgewicht zu halten.",
+      "en": "Your big toe helps you keep your balance when you walk.",
+      "it": "L'alluce ti aiuta a stare in equilibrio quando cammini."
+    },
+    "tags": [
+      "feet"
+    ]
+  },
+  {
+    "id": "body-have-two",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hast du zwei Mal?",
+      "en": "Which do you have two of?",
+      "it": "Che cosa hai due volte?"
+    },
+    "answers": [
+      {
+        "id": "eyes",
+        "icon": "👀",
+        "label": {
+          "de": "Augen",
+          "en": "Eyes",
+          "it": "Occhi"
+        },
+        "correct": true
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      },
+      {
+        "id": "tongue",
+        "icon": "👅",
+        "label": {
+          "de": "Zunge",
+          "en": "Tongue",
+          "it": "Lingua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Du hast zwei Augen.",
+      "en": "You have two eyes.",
+      "it": "Hai due occhi."
+    },
+    "funFact": {
+      "de": "Mit zwei Augen kannst du gut schätzen, wie weit etwas weg ist.",
+      "en": "With two eyes you can judge how far away something is.",
+      "it": "Con due occhi capisci bene quanto è lontana una cosa."
+    },
+    "tags": [
+      "senses",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-have-one",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hast du nur einmal?",
+      "en": "Which do you have only one of?",
+      "it": "Che cosa hai una volta sola?"
+    },
+    "answers": [
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": true
+      },
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "eyes",
+        "icon": "👀",
+        "label": {
+          "de": "Augen",
+          "en": "Eyes",
+          "it": "Occhi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Du hast nur eine Nase.",
+      "en": "You have only one nose.",
+      "it": "Hai un naso solo."
+    },
+    "funFact": {
+      "de": "Deine Nase wärmt die Luft, bevor sie in die Lunge geht.",
+      "en": "Your nose warms the air before it goes into your lungs.",
+      "it": "Il naso scalda l'aria prima che arrivi ai polmoni."
+    },
+    "tags": [
+      "senses",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-clap",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit klatschst du?",
+      "en": "What do you clap with?",
+      "it": "Con che cosa batti le mani?"
+    },
+    "answers": [
+      {
+        "id": "hands",
+        "icon": "👏",
+        "label": {
+          "de": "Hände",
+          "en": "Hands",
+          "it": "Mani"
+        },
+        "correct": true
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      },
+      {
+        "id": "ears",
+        "icon": "👂",
+        "label": {
+          "de": "Ohren",
+          "en": "Ears",
+          "it": "Orecchie"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Du klatschst mit den Händen.",
+      "en": "You clap with your hands.",
+      "it": "Si batte con le mani."
+    },
+    "funFact": {
+      "de": "In jeder Hand hast du über zwanzig kleine Knochen.",
+      "en": "Each of your hands has more than twenty small bones.",
+      "it": "In ogni mano hai più di venti piccole ossa."
+    },
+    "tags": [
+      "bones"
+    ]
+  },
+  {
+    "id": "body-smile-with",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit lächelst du?",
+      "en": "What do you smile with?",
+      "it": "Con che cosa sorridi?"
+    },
+    "answers": [
+      {
+        "id": "mouth",
+        "icon": "👄",
+        "label": {
+          "de": "Mund",
+          "en": "Mouth",
+          "it": "Bocca"
+        },
+        "correct": true
+      },
+      {
+        "id": "ear",
+        "icon": "👂",
+        "label": {
+          "de": "Ohr",
+          "en": "Ear",
+          "it": "Orecchio"
+        },
+        "correct": false
+      },
+      {
+        "id": "foot",
+        "icon": "🦶",
+        "label": {
+          "de": "Fuss",
+          "en": "Foot",
+          "it": "Piede"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Du lächelst mit dem Mund.",
+      "en": "You smile with your mouth.",
+      "it": "Sorridi con la bocca."
+    },
+    "funFact": {
+      "de": "Lächeln ist ansteckend: Wenn du lächelst, lächeln andere oft zurück.",
+      "en": "Smiling is catching: when you smile, people often smile back.",
+      "it": "Il sorriso è contagioso: se sorridi, gli altri spesso ti sorridono."
+    },
+    "tags": [
+      "face"
+    ]
+  },
+  {
+    "id": "body-cold-weather",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ziehst du an, wenn es draussen kalt ist?",
+      "en": "What do you put on when it's cold outside?",
+      "it": "Che cosa ti metti quando fuori fa freddo?"
+    },
+    "answers": [
+      {
+        "id": "gloves",
+        "icon": "🧤",
+        "label": {
+          "de": "Handschuhe",
+          "en": "Gloves",
+          "it": "Guanti"
+        },
+        "correct": true
+      },
+      {
+        "id": "shorts",
+        "icon": "🩳",
+        "label": {
+          "de": "Kurze Hose",
+          "en": "Shorts",
+          "it": "Pantaloncini"
+        },
+        "correct": false
+      },
+      {
+        "id": "flip-flops",
+        "icon": "🩴",
+        "label": {
+          "de": "Flip-Flops",
+          "en": "Flip-flops",
+          "it": "Infradito"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Handschuhe halten deine Hände warm.",
+      "en": "Gloves keep your hands warm.",
+      "it": "I guanti tengono le mani al caldo."
+    },
+    "funFact": {
+      "de": "Wenn du frierst, zitterst du. Das Zittern macht dich wieder wärmer.",
+      "en": "When you're cold, you shiver. Shivering warms you up.",
+      "it": "Quando hai freddo tremi: tremare ti riscalda."
+    },
+    "tags": [
+      "health",
+      "seasons"
+    ]
+  },
+  {
+    "id": "body-blood-colour",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe hat dein Blut?",
+      "en": "What colour is your blood?",
+      "it": "Di che colore è il sangue?"
+    },
+    "answers": [
+      {
+        "id": "red",
+        "icon": "🔴",
+        "label": {
+          "de": "Rot",
+          "en": "Red",
+          "it": "Rosso"
+        },
+        "correct": true
+      },
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Blu"
+        },
+        "correct": false
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Blut ist rot.",
+      "en": "Blood is red.",
+      "it": "Il sangue è rosso."
+    },
+    "funFact": {
+      "de": "Wenn du dich schneidest, bildet sich ein Schorf. Er deckt die Wunde zu, bis sie heilt.",
+      "en": "When you cut yourself, a scab forms. It covers the cut until it heals.",
+      "it": "Quando ti tagli si forma una crosticina che copre la ferita finché guarisce."
+    },
+    "tags": [
+      "blood"
+    ]
+  },
+  {
+    "id": "body-run-breathe",
+    "category": "body",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wenn du rennst, atmest du schneller. Stimmt das?",
+      "en": "When you run, you breathe faster. Is that true?",
+      "it": "Quando corri respiri più in fretta. È vero?"
+    },
+    "visual": "🏃",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Beim Rennen braucht dein Körper mehr Luft.",
+      "en": "That's true! Your body needs more air when you run.",
+      "it": "È vero! Quando corri il corpo ha bisogno di più aria."
+    },
+    "funFact": {
+      "de": "Auch dein Herz schlägt beim Rennen schneller.",
+      "en": "Your heart beats faster when you run, too.",
+      "it": "Quando corri batte più veloce anche il cuore."
+    },
+    "tags": [
+      "lungs"
+    ]
+  },
+  {
+    "id": "body-glasses",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft, wenn die Augen nicht gut sehen?",
+      "en": "What helps when your eyes can't see well?",
+      "it": "Che cosa aiuta quando gli occhi non vedono bene?"
+    },
+    "answers": [
+      {
+        "id": "glasses",
+        "icon": "👓",
+        "label": {
+          "de": "Brille",
+          "en": "Glasses",
+          "it": "Occhiali"
+        },
+        "correct": true
+      },
+      {
+        "id": "cap",
+        "icon": "🧢",
+        "label": {
+          "de": "Mütze",
+          "en": "Cap",
+          "it": "Berretto"
+        },
+        "correct": false
+      },
+      {
+        "id": "socks",
+        "icon": "🧦",
+        "label": {
+          "de": "Socken",
+          "en": "Socks",
+          "it": "Calzini"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Brille hilft, wieder scharf zu sehen.",
+      "en": "Glasses help you see clearly again.",
+      "it": "Gli occhiali aiutano a vedere di nuovo bene."
+    },
+    "funFact": {
+      "de": "Die Gläser einer Brille lenken das Licht so, dass alles scharf wird.",
+      "en": "The lenses in glasses bend the light so everything looks sharp.",
+      "it": "Le lenti degli occhiali piegano la luce così tutto appare nitido."
+    },
+    "tags": [
+      "eyes"
+    ]
+  },
+  {
+    "id": "body-strong-heart",
+    "category": "body",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht dein Herz stark?",
+      "en": "What makes your heart strong?",
+      "it": "Che cosa rende forte il tuo cuore?"
+    },
+    "answers": [
+      {
+        "id": "running-and-playing",
+        "icon": "🏃",
+        "label": {
+          "de": "Rennen und Spielen",
+          "en": "Running and playing",
+          "it": "Correre e giocare"
+        },
+        "correct": true
+      },
+      {
+        "id": "lying-down-all-day",
+        "icon": "🛋️",
+        "label": {
+          "de": "Den ganzen Tag liegen",
+          "en": "Lying down all day",
+          "it": "Stare sdraiati tutto il giorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "lots-of-sweets",
+        "icon": "🍭",
+        "label": {
+          "de": "Viele Bonbons",
+          "en": "Lots of sweets",
+          "it": "Tante caramelle"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bewegung macht dein Herz stark.",
+      "en": "Moving about makes your heart strong.",
+      "it": "Muoversi rende il cuore forte."
+    },
+    "funFact": {
+      "de": "Dein Herz ist ein Muskel. Bewegung trainiert ihn.",
+      "en": "Your heart is a muscle. Exercise trains it.",
+      "it": "Il cuore è un muscolo: il movimento lo allena."
+    },
+    "tags": [
+      "heart",
+      "health"
+    ]
+  },
+  {
+    "id": "body-grow-strong",
+    "category": "body",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft dir, gross und stark zu werden?",
+      "en": "What helps you grow big and strong?",
+      "it": "Che cosa ti aiuta a crescere grande e forte?"
+    },
+    "answers": [
+      {
+        "id": "good-food-sleep-and-exercise",
+        "icon": "🥦",
+        "label": {
+          "de": "Gutes Essen, Schlaf und Bewegung",
+          "en": "Good food, sleep and exercise",
+          "it": "Cibo sano, sonno e movimento"
+        },
+        "correct": true
+      },
+      {
+        "id": "watching-tv-all-day",
+        "icon": "📺",
+        "label": {
+          "de": "Den ganzen Tag fernsehen",
+          "en": "Watching TV all day",
+          "it": "Guardare la TV tutto il giorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "only-sweets",
+        "icon": "🍭",
+        "label": {
+          "de": "Nur Süssigkeiten",
+          "en": "Only sweets",
+          "it": "Solo dolci"
+        },
+        "correct": false
+      },
+      {
+        "id": "never-sleeping",
+        "icon": "🌙",
+        "label": {
+          "de": "Nie schlafen",
+          "en": "Never sleeping",
+          "it": "Non dormire mai"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gutes Essen, genug Schlaf und viel Bewegung helfen dir beim Wachsen.",
+      "en": "Good food, enough sleep and lots of exercise help you grow.",
+      "it": "Cibo sano, sonno a sufficienza e tanto movimento ti aiutano a crescere."
+    },
+    "funFact": {
+      "de": "Draussen spielen ist gut für Muskeln, Knochen und gute Laune.",
+      "en": "Playing outside is good for your muscles, bones and mood.",
+      "it": "Giocare all'aperto fa bene a muscoli, ossa e buonumore."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-heart-sleep",
+    "category": "body",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Dein Herz schlägt auch, wenn du schläfst. Stimmt das?",
+      "en": "Your heart keeps beating while you sleep. Is that true?",
+      "it": "Il cuore batte anche quando dormi. È vero?"
+    },
+    "visual": "❤️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Dein Herz macht nie Pause.",
+      "en": "That's true! Your heart never takes a break.",
+      "it": "È vero! Il cuore non si ferma mai."
+    },
+    "funFact": {
+      "de": "Ein Kinderherz schlägt schneller als das Herz eines Erwachsenen.",
+      "en": "A child's heart beats faster than a grown-up's.",
+      "it": "Il cuore di un bambino batte più veloce di quello di un adulto."
+    },
+    "tags": [
+      "heart",
+      "sleep"
+    ]
+  },
+  {
+    "id": "body-baby-teeth-count",
+    "category": "body",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Milchzähne hat ein Kind?",
+      "en": "How many baby teeth does a child have?",
+      "it": "Quanti denti da latte ha un bambino?"
+    },
+    "visual": "🦷",
+    "answers": [
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "thirty-two",
+        "icon": "32",
+        "label": {
+          "de": "Zweiunddreissig",
+          "en": "Thirty-two",
+          "it": "Trentadue"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Kinder haben zwanzig Milchzähne.",
+      "en": "Children have twenty baby teeth.",
+      "it": "I bambini hanno venti denti da latte."
+    },
+    "funFact": {
+      "de": "Erwachsene haben später bis zu 32 Zähne.",
+      "en": "Grown-ups later have up to 32 teeth.",
+      "it": "Da grandi si possono avere fino a 32 denti."
+    },
+    "tags": [
+      "teeth",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-bone-count",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Knochen hat ein erwachsener Mensch ungefähr?",
+      "en": "About how many bones does a grown-up have?",
+      "it": "Quante ossa ha circa un adulto?"
+    },
+    "visual": "🦴",
+    "answers": [
+      {
+        "id": "two-hundred-and-six",
+        "icon": "206",
+        "label": {
+          "de": "Zweihundertsechs",
+          "en": "Two hundred and six",
+          "it": "Duecentosei"
+        },
+        "correct": true
+      },
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": false
+      },
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Erwachsener hat 206 Knochen.",
+      "en": "A grown-up has 206 bones.",
+      "it": "Un adulto ha 206 ossa."
+    },
+    "funFact": {
+      "de": "Mehr als die Hälfte deiner Knochen sitzt in den Händen und Füssen.",
+      "en": "More than half of your bones are in your hands and feet.",
+      "it": "Più della metà delle ossa si trova nelle mani e nei piedi."
+    },
+    "tags": [
+      "bones",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-biggest-organ",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist das grösste Organ deines Körpers?",
+      "en": "What is the biggest organ of your body?",
+      "it": "Qual è l'organo più grande del corpo?"
+    },
+    "answers": [
+      {
+        "id": "skin",
+        "icon": "✋",
+        "label": {
+          "de": "Haut",
+          "en": "Skin",
+          "it": "Pelle"
+        },
+        "correct": true
+      },
+      {
+        "id": "heart",
+        "icon": "❤️",
+        "label": {
+          "de": "Herz",
+          "en": "Heart",
+          "it": "Cuore"
+        },
+        "correct": false
+      },
+      {
+        "id": "brain",
+        "icon": "🧠",
+        "label": {
+          "de": "Gehirn",
+          "en": "Brain",
+          "it": "Cervello"
+        },
+        "correct": false
+      },
+      {
+        "id": "lungs",
+        "icon": "🫁",
+        "label": {
+          "de": "Lunge",
+          "en": "Lungs",
+          "it": "Polmoni"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Haut ist dein grösstes Organ. Sie bedeckt den ganzen Körper.",
+      "en": "Your skin is your biggest organ. It covers your whole body.",
+      "it": "La pelle è l'organo più grande: copre tutto il corpo."
+    },
+    "funFact": {
+      "de": "Deine Haut erneuert sich ständig. Alte Hautschüppchen fallen einfach ab.",
+      "en": "Your skin is always renewing itself. Old flakes of skin just fall off.",
+      "it": "La pelle si rinnova di continuo: le cellule vecchie cadono da sole."
+    },
+    "tags": [
+      "skin",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-heart-pumps",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was pumpt dein Herz durch den Körper?",
+      "en": "What does your heart pump around your body?",
+      "it": "Che cosa pompa il cuore in tutto il corpo?"
+    },
+    "answers": [
+      {
+        "id": "blood",
+        "icon": "🩸",
+        "label": {
+          "de": "Blut",
+          "en": "Blood",
+          "it": "Sangue"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "air",
+        "icon": "🌬️",
+        "label": {
+          "de": "Luft",
+          "en": "Air",
+          "it": "Aria"
+        },
+        "correct": false
+      },
+      {
+        "id": "food",
+        "icon": "🍽️",
+        "label": {
+          "de": "Essen",
+          "en": "Food",
+          "it": "Cibo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Herz pumpt Blut durch den ganzen Körper.",
+      "en": "Your heart pumps blood all around your body.",
+      "it": "Il cuore pompa il sangue in tutto il corpo."
+    },
+    "funFact": {
+      "de": "Dein Herz schlägt ungefähr hunderttausend Mal am Tag.",
+      "en": "Your heart beats about a hundred thousand times a day.",
+      "it": "Il cuore batte circa centomila volte al giorno."
+    },
+    "tags": [
+      "heart",
+      "blood"
+    ]
+  },
+  {
+    "id": "body-lungs-take",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was holt die Lunge aus der Luft?",
+      "en": "What do your lungs take from the air?",
+      "it": "Che cosa prendono i polmoni dall'aria?"
+    },
+    "answers": [
+      {
+        "id": "oxygen",
+        "icon": "🫧",
+        "label": {
+          "de": "Sauerstoff",
+          "en": "Oxygen",
+          "it": "Ossigeno"
+        },
+        "correct": true
+      },
+      {
+        "id": "sugar",
+        "icon": "🍬",
+        "label": {
+          "de": "Zucker",
+          "en": "Sugar",
+          "it": "Zucchero"
+        },
+        "correct": false
+      },
+      {
+        "id": "blood",
+        "icon": "🩸",
+        "label": {
+          "de": "Blut",
+          "en": "Blood",
+          "it": "Sangue"
+        },
+        "correct": false
+      },
+      {
+        "id": "light",
+        "icon": "💡",
+        "label": {
+          "de": "Licht",
+          "en": "Light",
+          "it": "Luce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Lunge holt Sauerstoff aus der Luft. Den braucht dein ganzer Körper.",
+      "en": "Your lungs take oxygen from the air. Your whole body needs it.",
+      "it": "I polmoni prendono l'ossigeno dall'aria: serve a tutto il corpo."
+    },
+    "funFact": {
+      "de": "Innen sehen deine Lungen aus wie ein Baum mit ganz vielen kleinen Ästen.",
+      "en": "Inside, your lungs look like a tree with lots of tiny branches.",
+      "it": "Dentro, i polmoni sembrano un albero con tantissimi rametti."
+    },
+    "tags": [
+      "lungs"
+    ]
+  },
+  {
+    "id": "body-smallest-bone",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo ist dein kleinster Knochen?",
+      "en": "Where is your smallest bone?",
+      "it": "Dove si trova l'osso più piccolo del corpo?"
+    },
+    "answers": [
+      {
+        "id": "in-my-ear",
+        "icon": "👂",
+        "label": {
+          "de": "Im Ohr",
+          "en": "In my ear",
+          "it": "Nell'orecchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-my-foot",
+        "icon": "🦶",
+        "label": {
+          "de": "Im Fuss",
+          "en": "In my foot",
+          "it": "Nel piede"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-my-nose",
+        "icon": "👃",
+        "label": {
+          "de": "In der Nase",
+          "en": "In my nose",
+          "it": "Nel naso"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-my-hand",
+        "icon": "✋",
+        "label": {
+          "de": "In der Hand",
+          "en": "In my hand",
+          "it": "Nella mano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der kleinste Knochen heisst Steigbügel und sitzt im Ohr.",
+      "en": "The smallest bone is called the stirrup and it's in your ear.",
+      "it": "L'osso più piccolo si chiama staffa e si trova nell'orecchio."
+    },
+    "funFact": {
+      "de": "Der Steigbügel ist kleiner als ein Reiskorn.",
+      "en": "The stirrup bone is smaller than a grain of rice.",
+      "it": "La staffa è più piccola di un chicco di riso."
+    },
+    "tags": [
+      "bones",
+      "senses"
+    ]
+  },
+  {
+    "id": "body-longest-bone",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo ist dein längster Knochen?",
+      "en": "Where is your longest bone?",
+      "it": "Dove si trova l'osso più lungo del corpo?"
+    },
+    "answers": [
+      {
+        "id": "in-my-thigh",
+        "icon": "🦵",
+        "label": {
+          "de": "Im Oberschenkel",
+          "en": "In my thigh",
+          "it": "Nella coscia"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-my-upper-arm",
+        "icon": "💪",
+        "label": {
+          "de": "Im Oberarm",
+          "en": "In my upper arm",
+          "it": "Nel braccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-my-foot",
+        "icon": "🦶",
+        "label": {
+          "de": "Im Fuss",
+          "en": "In my foot",
+          "it": "Nel piede"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-my-nose",
+        "icon": "👃",
+        "label": {
+          "de": "In der Nase",
+          "en": "In my nose",
+          "it": "Nel naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Oberschenkelknochen ist der längste Knochen.",
+      "en": "The thigh bone is the longest bone.",
+      "it": "Il femore, nella coscia, è l'osso più lungo."
+    },
+    "funFact": {
+      "de": "Der Oberschenkelknochen ist auch einer der stärksten Knochen.",
+      "en": "The thigh bone is also one of the strongest bones.",
+      "it": "Il femore è anche uno degli ossi più forti."
+    },
+    "tags": [
+      "bones"
+    ]
+  },
+  {
+    "id": "body-blue-blood",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Das Blut in deinen Adern ist blau. Stimmt das?",
+      "en": "The blood in your veins is blue. Is that true?",
+      "it": "Il sangue nelle vene è blu. È vero?"
+    },
+    "visual": "🩸",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Blut ist immer rot. Die Adern sehen durch die Haut nur bläulich aus.",
+      "en": "Blood is always red. Veins just look bluish through your skin.",
+      "it": "Il sangue è sempre rosso: le vene sembrano blu solo attraverso la pelle."
+    },
+    "funFact": {
+      "de": "Rote Blutkörperchen bringen Sauerstoff in jeden Winkel deines Körpers.",
+      "en": "Red blood cells carry oxygen to every corner of your body.",
+      "it": "I globuli rossi portano l'ossigeno in ogni angolo del corpo."
+    },
+    "tags": [
+      "blood",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-brain-energy",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Dein Gehirn braucht sehr viel Energie. Stimmt das?",
+      "en": "Your brain uses a lot of energy. Is that true?",
+      "it": "Il cervello consuma tantissima energia. È vero?"
+    },
+    "visual": "🧠",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das Gehirn ist klein, braucht aber etwa ein Fünftel deiner Energie.",
+      "en": "That's true! Your brain is small, but it uses about a fifth of your energy.",
+      "it": "È vero! Il cervello è piccolo ma usa circa un quinto della tua energia."
+    },
+    "funFact": {
+      "de": "Im Gehirn schicken sich Milliarden von Nervenzellen ständig Nachrichten.",
+      "en": "Billions of nerve cells in your brain are constantly sending each other messages.",
+      "it": "Nel cervello miliardi di cellule nervose si mandano continuamente messaggi."
+    },
+    "tags": [
+      "brain"
+    ]
+  },
+  {
+    "id": "body-blocked-nose-taste",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Mit verstopfter Nase schmeckt das Essen nach weniger. Stimmt das?",
+      "en": "With a blocked nose, food tastes of less. Is that true?",
+      "it": "Con il naso chiuso il cibo sa di meno. È vero?"
+    },
+    "visual": "🤧",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ein grosser Teil vom Geschmack kommt eigentlich aus der Nase.",
+      "en": "That's true! Much of what we call taste really comes from smell.",
+      "it": "È vero! Gran parte del sapore in realtà arriva dal naso."
+    },
+    "funFact": {
+      "de": "Die Zunge erkennt süss, sauer, salzig, bitter und umami.",
+      "en": "Your tongue can sense sweet, sour, salty, bitter and umami.",
+      "it": "La lingua riconosce dolce, aspro, salato, amaro e umami."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-vitamin-c",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Essen hat viel Vitamin C?",
+      "en": "Which food has lots of vitamin C?",
+      "it": "Quale cibo ha tanta vitamina C?"
+    },
+    "answers": [
+      {
+        "id": "orange",
+        "icon": "🍊",
+        "label": {
+          "de": "Orange",
+          "en": "Orange",
+          "it": "Arancia"
+        },
+        "correct": true
+      },
+      {
+        "id": "sweet",
+        "icon": "🍬",
+        "label": {
+          "de": "Bonbon",
+          "en": "Sweet",
+          "it": "Caramella"
+        },
+        "correct": false
+      },
+      {
+        "id": "butter",
+        "icon": "🧈",
+        "label": {
+          "de": "Butter",
+          "en": "Butter",
+          "it": "Burro"
+        },
+        "correct": false
+      },
+      {
+        "id": "white-bread",
+        "icon": "🥖",
+        "label": {
+          "de": "Weissbrot",
+          "en": "White bread",
+          "it": "Pane bianco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Orangen haben viel Vitamin C.",
+      "en": "Oranges have lots of vitamin C.",
+      "it": "Le arance hanno tanta vitamina C."
+    },
+    "funFact": {
+      "de": "Auch Peperoni und Kiwis haben sehr viel Vitamin C.",
+      "en": "Peppers and kiwis are full of vitamin C too.",
+      "it": "Anche peperoni e kiwi hanno tantissima vitamina C."
+    },
+    "tags": [
+      "food",
+      "health"
+    ],
+    "uncertain": "German uses the Swiss word «Peperoni» for bell peppers (de-DE: Paprika)."
+  },
+  {
+    "id": "body-strong-bones",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht Knochen und Zähne stark?",
+      "en": "What makes bones and teeth strong?",
+      "it": "Che cosa rende forti ossa e denti?"
+    },
+    "answers": [
+      {
+        "id": "milk-and-cheese",
+        "icon": "🥛",
+        "label": {
+          "de": "Milch und Käse",
+          "en": "Milk and cheese",
+          "it": "Latte e formaggio"
+        },
+        "correct": true
+      },
+      {
+        "id": "sweets",
+        "icon": "🍭",
+        "label": {
+          "de": "Süssigkeiten",
+          "en": "Sweets",
+          "it": "Dolci"
+        },
+        "correct": false
+      },
+      {
+        "id": "fizzy-drinks",
+        "icon": "🥤",
+        "label": {
+          "de": "Limonade",
+          "en": "Fizzy drinks",
+          "it": "Bibite gassate"
+        },
+        "correct": false
+      },
+      {
+        "id": "chips",
+        "icon": "🍟",
+        "label": {
+          "de": "Pommes",
+          "en": "Chips",
+          "it": "Patatine fritte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Milch und Käse haben viel Kalzium. Das macht Knochen und Zähne stark.",
+      "en": "Milk and cheese have lots of calcium, which makes bones and teeth strong.",
+      "it": "Latte e formaggio hanno tanto calcio, che rende forti ossa e denti."
+    },
+    "funFact": {
+      "de": "Auch Bewegung macht deine Knochen stärker.",
+      "en": "Exercise makes your bones stronger too.",
+      "it": "Anche il movimento rende le ossa più forti."
+    },
+    "tags": [
+      "bones",
+      "food"
+    ]
+  },
+  {
+    "id": "body-why-sweat",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum schwitzt du, wenn dir heiss ist?",
+      "en": "Why do you sweat when you're hot?",
+      "it": "Perché sudi quando hai caldo?"
+    },
+    "visual": "🥵",
+    "answers": [
+      {
+        "id": "to-cool-your-body-down",
+        "icon": "🌡️",
+        "label": {
+          "de": "Damit der Körper abkühlt",
+          "en": "To cool your body down",
+          "it": "Per raffreddare il corpo"
+        },
+        "correct": true
+      },
+      {
+        "id": "because-you-re-tired",
+        "icon": "😴",
+        "label": {
+          "de": "Weil du müde bist",
+          "en": "Because you're tired",
+          "it": "Perché sei stanco"
+        },
+        "correct": false
+      },
+      {
+        "id": "to-wash-yourself",
+        "icon": "🧽",
+        "label": {
+          "de": "Damit du sauber wirst",
+          "en": "To wash yourself",
+          "it": "Per lavarti"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-you-re-losing-air",
+        "icon": "🎈",
+        "label": {
+          "de": "Weil du Luft verlierst",
+          "en": "Because you're losing air",
+          "it": "Perché perdi aria"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schweiss kühlt deinen Körper ab, wenn es heiss ist.",
+      "en": "Sweat cools your body down when it's hot.",
+      "it": "Il sudore raffredda il corpo quando fa caldo."
+    },
+    "funFact": {
+      "de": "Wenn der Schweiss auf der Haut trocknet, nimmt er Wärme mit.",
+      "en": "As sweat dries on your skin, it carries heat away.",
+      "it": "Quando il sudore si asciuga sulla pelle, porta via il calore."
+    },
+    "tags": [
+      "skin"
+    ]
+  },
+  {
+    "id": "body-blinks-per-minute",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie oft blinzelst du ungefähr in einer Minute?",
+      "en": "About how often do you blink in a minute?",
+      "it": "Quante volte sbatti le palpebre in un minuto, più o meno?"
+    },
+    "visual": "👁️",
+    "answers": [
+      {
+        "id": "about-fifteen-times",
+        "icon": "15",
+        "label": {
+          "de": "Etwa fünfzehn Mal",
+          "en": "About fifteen times",
+          "it": "Circa quindici volte"
+        },
+        "correct": true
+      },
+      {
+        "id": "once",
+        "icon": "1",
+        "label": {
+          "de": "Einmal",
+          "en": "Once",
+          "it": "Una volta"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred-times",
+        "icon": "100",
+        "label": {
+          "de": "Hundert Mal",
+          "en": "A hundred times",
+          "it": "Cento volte"
+        },
+        "correct": false
+      },
+      {
+        "id": "five-hundred-times",
+        "icon": "500",
+        "label": {
+          "de": "Fünfhundert Mal",
+          "en": "Five hundred times",
+          "it": "Cinquecento volte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die meisten Menschen blinzeln etwa fünfzehn Mal pro Minute.",
+      "en": "Most people blink about fifteen times a minute.",
+      "it": "La maggior parte delle persone sbatte le palpebre circa quindici volte al minuto."
+    },
+    "funFact": {
+      "de": "Ein Blinzeln dauert nur etwa eine Drittelsekunde.",
+      "en": "A blink only lasts about a third of a second.",
+      "it": "Un battito di ciglia dura solo un terzo di secondo circa."
+    },
+    "tags": [
+      "eyes",
+      "numbers"
+    ],
+    "uncertain": "Normal blink rates vary a lot (roughly 10–20 per minute); 'about fifteen' is a typical average."
+  },
+  {
+    "id": "body-adult-teeth",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Zähne haben Erwachsene höchstens?",
+      "en": "What is the most teeth a grown-up can have?",
+      "it": "Quanti denti può avere al massimo un adulto?"
+    },
+    "visual": "🦷",
+    "answers": [
+      {
+        "id": "thirty-two",
+        "icon": "32",
+        "label": {
+          "de": "Zweiunddreissig",
+          "en": "Thirty-two",
+          "it": "Trentadue"
+        },
+        "correct": true
+      },
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": false
+      },
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Erwachsene haben bis zu 32 Zähne, Kinder 20 Milchzähne.",
+      "en": "Grown-ups have up to 32 teeth; children have 20 baby teeth.",
+      "it": "Gli adulti hanno fino a 32 denti, i bambini 20 denti da latte."
+    },
+    "funFact": {
+      "de": "Zahnschmelz ist das härteste Material in deinem Körper.",
+      "en": "Tooth enamel is the hardest material in your body.",
+      "it": "Lo smalto dei denti è il materiale più duro del corpo."
+    },
+    "tags": [
+      "teeth",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-knee-reflex",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wenn der Arzt unter dein Knie klopft, zuckt das Bein von allein. Stimmt das?",
+      "en": "When the doctor taps below your knee, your leg kicks by itself. Is that true?",
+      "it": "Quando il medico batte sotto il ginocchio, la gamba scatta da sola. È vero?"
+    },
+    "visual": "🦵",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das ist ein Reflex: Der Körper reagiert, bevor du nachdenkst.",
+      "en": "That's true! It's a reflex: your body reacts before you think.",
+      "it": "È vero! È un riflesso: il corpo reagisce prima che tu ci pensi."
+    },
+    "funFact": {
+      "de": "Reflexe schützen dich. Von einer heissen Herdplatte ziehst du die Hand blitzschnell weg.",
+      "en": "Reflexes protect you – you snatch your hand away from a hot stove in a flash.",
+      "it": "I riflessi ti proteggono: togli subito la mano da un fornello caldo."
+    },
+    "tags": [
+      "brain"
+    ]
+  },
+  {
+    "id": "body-goosebumps",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann bekommst du Gänsehaut?",
+      "en": "When do you get goosebumps?",
+      "it": "Quando ti viene la pelle d'oca?"
+    },
+    "answers": [
+      {
+        "id": "when-i-m-cold",
+        "icon": "🥶",
+        "label": {
+          "de": "Wenn mir kalt ist",
+          "en": "When I'm cold",
+          "it": "Quando ho freddo"
+        },
+        "correct": true
+      },
+      {
+        "id": "when-i-eat",
+        "icon": "🍽️",
+        "label": {
+          "de": "Wenn ich esse",
+          "en": "When I eat",
+          "it": "Quando mangio"
+        },
+        "correct": false
+      },
+      {
+        "id": "when-i-m-asleep",
+        "icon": "😴",
+        "label": {
+          "de": "Wenn ich schlafe",
+          "en": "When I'm asleep",
+          "it": "Quando dormo"
+        },
+        "correct": false
+      },
+      {
+        "id": "when-i-brush-my-teeth",
+        "icon": "🦷",
+        "label": {
+          "de": "Beim Zähneputzen",
+          "en": "When I brush my teeth",
+          "it": "Quando mi lavo i denti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei Kälte stellen sich die kleinen Härchen auf der Haut auf.",
+      "en": "When you're cold, the tiny hairs on your skin stand up.",
+      "it": "Quando hai freddo, i peletti sulla pelle si drizzano."
+    },
+    "funFact": {
+      "de": "Bei Tieren mit Fell stellen sich dabei die Haare auf. Das hält sie warm.",
+      "en": "In furry animals the fur stands up, which keeps them warm.",
+      "it": "Negli animali con la pelliccia il pelo si gonfia e li tiene al caldo."
+    },
+    "tags": [
+      "skin"
+    ]
+  },
+  {
+    "id": "body-tummy-rumble",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum knurrt dein Magen manchmal?",
+      "en": "Why does your tummy rumble sometimes?",
+      "it": "Perché a volte la pancia brontola?"
+    },
+    "visual": "🍽️",
+    "answers": [
+      {
+        "id": "it-s-working-and-empty",
+        "icon": "🍽️",
+        "label": {
+          "de": "Er arbeitet und ist leer",
+          "en": "It's working and empty",
+          "it": "Lavora ed è vuota"
+        },
+        "correct": true
+      },
+      {
+        "id": "there-s-a-dog-inside",
+        "icon": "🐶",
+        "label": {
+          "de": "Ein Hund ist drin",
+          "en": "There's a dog inside",
+          "it": "C'è un cane dentro"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-s-singing-a-song",
+        "icon": "🎵",
+        "label": {
+          "de": "Er singt ein Lied",
+          "en": "It's singing a song",
+          "it": "Canta una canzone"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-s-angry",
+        "icon": "😠",
+        "label": {
+          "de": "Er ist wütend",
+          "en": "It's angry",
+          "it": "È arrabbiata"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Magen bewegt sich ständig. Wenn er leer ist, hört man Luft und Säfte gluckern.",
+      "en": "Your tummy is always moving. When it's empty, you can hear air and juices gurgling.",
+      "it": "Lo stomaco si muove sempre: quando è vuoto si sentono aria e succhi gorgogliare."
+    },
+    "funFact": {
+      "de": "Auch dein Darm macht Geräusche. Das ist ganz normal.",
+      "en": "Your intestines make noises too. That's completely normal.",
+      "it": "Anche l'intestino fa rumori: è normalissimo."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "body-five-senses",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Sinne zählt man meistens auf?",
+      "en": "How many senses are usually listed?",
+      "it": "Quanti sensi si elencano di solito?"
+    },
+    "answers": [
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Sehen, Hören, Riechen, Schmecken und Tasten: das sind die fünf Sinne.",
+      "en": "Seeing, hearing, smelling, tasting and touching: the five senses.",
+      "it": "Vista, udito, olfatto, gusto e tatto: sono i cinque sensi."
+    },
+    "funFact": {
+      "de": "Dazu kommen noch weitere, zum Beispiel der Gleichgewichtssinn im Ohr.",
+      "en": "There are more too, like your sense of balance in your ear.",
+      "it": "Ce ne sono anche altri, come il senso dell'equilibrio nell'orecchio."
+    },
+    "tags": [
+      "senses",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-balance",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Körperteil hilft dir, das Gleichgewicht zu halten?",
+      "en": "Which body part helps you keep your balance?",
+      "it": "Quale parte del corpo ti aiuta a stare in equilibrio?"
+    },
+    "answers": [
+      {
+        "id": "ear",
+        "icon": "👂",
+        "label": {
+          "de": "Ohr",
+          "en": "Ear",
+          "it": "Orecchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "nose",
+        "icon": "👃",
+        "label": {
+          "de": "Nase",
+          "en": "Nose",
+          "it": "Naso"
+        },
+        "correct": false
+      },
+      {
+        "id": "teeth",
+        "icon": "🦷",
+        "label": {
+          "de": "Zähne",
+          "en": "Teeth",
+          "it": "Denti"
+        },
+        "correct": false
+      },
+      {
+        "id": "hair",
+        "icon": "💇",
+        "label": {
+          "de": "Haare",
+          "en": "Hair",
+          "it": "Capelli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Tief im Ohr ist dein Gleichgewichtsorgan.",
+      "en": "Deep inside your ear is your balance organ.",
+      "it": "In fondo all'orecchio c'è l'organo dell'equilibrio."
+    },
+    "funFact": {
+      "de": "Wenn du dich schnell drehst, schwappt Flüssigkeit im Ohr weiter. Darum wird dir schwindlig.",
+      "en": "When you spin fast, liquid in your ear keeps sloshing. That's why you feel dizzy.",
+      "it": "Se giri velocemente, il liquido nell'orecchio continua a muoversi: per questo ti gira la testa."
+    },
+    "tags": [
+      "senses"
+    ]
+  },
+  {
+    "id": "body-nails-faster",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Fingernägel wachsen schneller als Zehennägel. Stimmt das?",
+      "en": "Fingernails grow faster than toenails. Is that true?",
+      "it": "Le unghie delle mani crescono più in fretta di quelle dei piedi. È vero?"
+    },
+    "visual": "💅",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Fingernägel wachsen etwa doppelt so schnell.",
+      "en": "That's true! Fingernails grow about twice as fast.",
+      "it": "È vero! Crescono circa il doppio più in fretta."
+    },
+    "funFact": {
+      "de": "Nägel und Haare sind aus demselben Stoff gemacht: Keratin.",
+      "en": "Nails and hair are made of the same stuff: keratin.",
+      "it": "Unghie e capelli sono fatti della stessa sostanza: la cheratina."
+    },
+    "tags": [
+      "skin"
+    ]
+  },
+  {
+    "id": "body-fingerprints-twins",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Jeder Mensch hat eigene Fingerabdrücke, sogar Zwillinge. Stimmt das?",
+      "en": "Everyone has their own fingerprints, even twins. Is that true?",
+      "it": "Ognuno ha le sue impronte digitali, perfino i gemelli. È vero?"
+    },
+    "visual": "☝️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Keine zwei Menschen haben genau dieselben Fingerabdrücke.",
+      "en": "That's true! No two people have exactly the same fingerprints.",
+      "it": "È vero! Non esistono due persone con le stesse impronte."
+    },
+    "funFact": {
+      "de": "Auch Koalas haben Fingerabdrücke, die unseren sehr ähnlich sind.",
+      "en": "Koalas have fingerprints that look a lot like ours.",
+      "it": "Anche i koala hanno impronte digitali molto simili alle nostre."
+    },
+    "tags": [
+      "skin",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-blood-tubes",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heissen die Schläuche, in denen dein Blut fliesst?",
+      "en": "What are the tubes your blood flows through called?",
+      "it": "Come si chiamano i tubicini in cui scorre il sangue?"
+    },
+    "answers": [
+      {
+        "id": "blood-vessels",
+        "icon": "🩸",
+        "label": {
+          "de": "Blutgefässe",
+          "en": "Blood vessels",
+          "it": "Vasi sanguigni"
+        },
+        "correct": true
+      },
+      {
+        "id": "muscles",
+        "icon": "💪",
+        "label": {
+          "de": "Muskeln",
+          "en": "Muscles",
+          "it": "Muscoli"
+        },
+        "correct": false
+      },
+      {
+        "id": "bones",
+        "icon": "🦴",
+        "label": {
+          "de": "Knochen",
+          "en": "Bones",
+          "it": "Ossa"
+        },
+        "correct": false
+      },
+      {
+        "id": "hairs",
+        "icon": "💇",
+        "label": {
+          "de": "Haare",
+          "en": "Hairs",
+          "it": "Capelli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Blut fliesst in Blutgefässen: Arterien, Venen und ganz feinen Äderchen.",
+      "en": "Blood flows through blood vessels: arteries, veins and tiny capillaries.",
+      "it": "Il sangue scorre nei vasi sanguigni: arterie, vene e capillari."
+    },
+    "funFact": {
+      "de": "Alle deine Blutgefässe aneinandergereiht würden mehr als zweimal um die Erde reichen.",
+      "en": "All your blood vessels laid end to end would go round the Earth more than twice.",
+      "it": "Tutti i tuoi vasi sanguigni messi in fila farebbero più di due volte il giro della Terra."
+    },
+    "tags": [
+      "blood"
+    ],
+    "uncertain": "The 'twice round the Earth' figure (~100,000 km of vessels in an adult) is a widely quoted estimate."
+  },
+  {
+    "id": "body-heavier-brain-heart",
+    "category": "body",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schwerer?",
+      "en": "Which is heavier?",
+      "it": "Che cosa pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "brain",
+        "icon": "🧠",
+        "label": {
+          "de": "Gehirn",
+          "en": "Brain",
+          "it": "Cervello"
+        },
+        "correct": true
+      },
+      {
+        "id": "heart",
+        "icon": "❤️",
+        "label": {
+          "de": "Herz",
+          "en": "Heart",
+          "it": "Cuore"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Gehirn ist schwerer als das Herz.",
+      "en": "The brain is heavier than the heart.",
+      "it": "Il cervello pesa più del cuore."
+    },
+    "funFact": {
+      "de": "Ein erwachsenes Gehirn wiegt ungefähr so viel wie anderthalb Liter Wasser.",
+      "en": "A grown-up's brain weighs about as much as one and a half litres of water.",
+      "it": "Il cervello di un adulto pesa circa quanto un litro e mezzo d'acqua."
+    },
+    "tags": [
+      "brain"
+    ]
+  },
+  {
+    "id": "body-grows-faster",
+    "category": "body",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was wächst schneller?",
+      "en": "Which grows faster?",
+      "it": "Che cosa cresce più in fretta?"
+    },
+    "answers": [
+      {
+        "id": "hair",
+        "icon": "💇",
+        "label": {
+          "de": "Haare",
+          "en": "Hair",
+          "it": "Capelli"
+        },
+        "correct": true
+      },
+      {
+        "id": "fingernails",
+        "icon": "💅",
+        "label": {
+          "de": "Fingernägel",
+          "en": "Fingernails",
+          "it": "Unghie"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Haare wachsen schneller als Fingernägel.",
+      "en": "Hair grows faster than fingernails.",
+      "it": "I capelli crescono più in fretta delle unghie."
+    },
+    "funFact": {
+      "de": "Ein Haar wächst nicht ewig: Nach ein paar Jahren fällt es aus, und ein neues wächst nach.",
+      "en": "A hair doesn't grow forever: after a few years it falls out and a new one grows.",
+      "it": "Un capello non cresce per sempre: dopo qualche anno cade e ne nasce uno nuovo."
+    },
+    "tags": [
+      "hair"
+    ]
+  },
+  {
+    "id": "body-moves-bones",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was bewegt deine Knochen?",
+      "en": "What moves your bones?",
+      "it": "Che cosa muove le ossa?"
+    },
+    "answers": [
+      {
+        "id": "muscles",
+        "icon": "💪",
+        "label": {
+          "de": "Muskeln",
+          "en": "Muscles",
+          "it": "Muscoli"
+        },
+        "correct": true
+      },
+      {
+        "id": "lungs",
+        "icon": "🫁",
+        "label": {
+          "de": "Lunge",
+          "en": "Lungs",
+          "it": "Polmoni"
+        },
+        "correct": false
+      },
+      {
+        "id": "teeth",
+        "icon": "🦷",
+        "label": {
+          "de": "Zähne",
+          "en": "Teeth",
+          "it": "Denti"
+        },
+        "correct": false
+      },
+      {
+        "id": "hair",
+        "icon": "💇",
+        "label": {
+          "de": "Haare",
+          "en": "Hair",
+          "it": "Capelli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Muskeln ziehen an den Knochen und bewegen sie.",
+      "en": "Muscles pull on your bones and move them.",
+      "it": "I muscoli tirano le ossa e le fanno muovere."
+    },
+    "funFact": {
+      "de": "Du hast über 600 Muskeln im Körper.",
+      "en": "You have more than 600 muscles in your body.",
+      "it": "Nel corpo hai più di 600 muscoli."
+    },
+    "tags": [
+      "muscles"
+    ]
+  },
+  {
+    "id": "body-sleep-hours",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Stunden Schlaf brauchen Schulkinder ungefähr?",
+      "en": "About how many hours of sleep do school children need?",
+      "it": "Di quante ore di sonno hanno bisogno circa gli scolari?"
+    },
+    "answers": [
+      {
+        "id": "about-ten",
+        "icon": "😴",
+        "label": {
+          "de": "Etwa zehn",
+          "en": "About ten",
+          "it": "Circa dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "⏰",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "🌙",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty",
+        "icon": "🛏️",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schulkinder brauchen etwa neun bis elf Stunden Schlaf.",
+      "en": "School children need about nine to eleven hours of sleep.",
+      "it": "Gli scolari hanno bisogno di circa nove-undici ore di sonno."
+    },
+    "funFact": {
+      "de": "Auch Erwachsene brauchen sieben bis neun Stunden Schlaf.",
+      "en": "Grown-ups need seven to nine hours of sleep too.",
+      "it": "Anche gli adulti hanno bisogno di sette-nove ore di sonno."
+    },
+    "tags": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "body-heart-fist",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Dein Herz ist ungefähr so gross wie deine Faust. Stimmt das?",
+      "en": "Your heart is about the size of your fist. Is that true?",
+      "it": "Il tuo cuore è grande più o meno come il tuo pugno. È vero?"
+    },
+    "visual": "✊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Mach eine Faust: So gross ist ungefähr dein Herz.",
+      "en": "That's true! Make a fist – that's about how big your heart is.",
+      "it": "È vero! Stringi il pugno: più o meno è grande così."
+    },
+    "funFact": {
+      "de": "Das Herz ist ein starker Muskel, der nie Pause macht.",
+      "en": "Your heart is a strong muscle that never takes a break.",
+      "it": "Il cuore è un muscolo forte che non fa mai pausa."
+    },
+    "tags": [
+      "heart"
+    ]
+  },
+  {
+    "id": "body-energy-food",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was gibt dir lange Energie für einen Ausflug?",
+      "en": "What gives you lasting energy for a day out?",
+      "it": "Che cosa ti dà energia a lungo per una gita?"
+    },
+    "answers": [
+      {
+        "id": "wholemeal-bread",
+        "icon": "🍞",
+        "label": {
+          "de": "Vollkornbrot",
+          "en": "Wholemeal bread",
+          "it": "Pane integrale"
+        },
+        "correct": true
+      },
+      {
+        "id": "only-sweets",
+        "icon": "🍬",
+        "label": {
+          "de": "Nur Bonbons",
+          "en": "Only sweets",
+          "it": "Solo caramelle"
+        },
+        "correct": false
+      },
+      {
+        "id": "only-fizzy-drinks",
+        "icon": "🥤",
+        "label": {
+          "de": "Nur Limonade",
+          "en": "Only fizzy drinks",
+          "it": "Solo bibite gassate"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice-cubes",
+        "icon": "🧊",
+        "label": {
+          "de": "Eiswürfel",
+          "en": "Ice cubes",
+          "it": "Cubetti di ghiaccio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Vollkornbrot gibt lange Energie. Süsses gibt nur ganz kurz Kraft.",
+      "en": "Wholemeal bread gives lasting energy. Sweets only give a short burst.",
+      "it": "Il pane integrale dà energia a lungo; i dolci solo per poco."
+    },
+    "funFact": {
+      "de": "Vollkorn hält lange satt, weil es langsam verdaut wird.",
+      "en": "Wholegrain keeps you full for longer because it is digested slowly.",
+      "it": "I cereali integrali saziano a lungo perché si digeriscono lentamente."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "body-skin-flakes",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Jeden Tag verlierst du winzige Hautschüppchen. Stimmt das?",
+      "en": "You lose tiny flakes of skin every day. Is that true?",
+      "it": "Ogni giorno perdi minuscole squame di pelle. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Unten wächst immer neue Haut nach.",
+      "en": "That's true! New skin keeps growing underneath.",
+      "it": "È vero! Sotto cresce sempre pelle nuova."
+    },
+    "funFact": {
+      "de": "Ein Teil vom Staub in deinem Zimmer sind solche Hautschüppchen.",
+      "en": "Some of the dust in your room is made of these skin flakes.",
+      "it": "Una parte della polvere in camera tua è fatta di queste squame di pelle."
+    },
+    "tags": [
+      "skin",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-more-bones-baby",
+    "category": "body",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer hat mehr Knochen?",
+      "en": "Who has more bones?",
+      "it": "Chi ha più ossa?"
+    },
+    "answers": [
+      {
+        "id": "baby",
+        "icon": "👶",
+        "label": {
+          "de": "Baby",
+          "en": "Baby",
+          "it": "Neonato"
+        },
+        "correct": true
+      },
+      {
+        "id": "grown-up",
+        "icon": "🧑",
+        "label": {
+          "de": "Erwachsener",
+          "en": "Grown-up",
+          "it": "Adulto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Babys haben fast 300 Knochen. Viele wachsen später zusammen.",
+      "en": "Babies have nearly 300 bones. Many of them join together later.",
+      "it": "I neonati hanno quasi 300 ossa: molte poi si saldano insieme."
+    },
+    "funFact": {
+      "de": "Darum ist der Kopf von Babys an einer Stelle oben noch weich.",
+      "en": "That's why a baby's head still has a soft spot on top.",
+      "it": "Per questo la testa dei neonati ha ancora un punto morbido in alto."
+    },
+    "tags": [
+      "bones",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-body-water",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viel von deinem Körper ist Wasser?",
+      "en": "How much of your body is water?",
+      "it": "Quanta parte del tuo corpo è acqua?"
+    },
+    "answers": [
+      {
+        "id": "more-than-half",
+        "icon": "💧",
+        "label": {
+          "de": "Mehr als die Hälfte",
+          "en": "More than half",
+          "it": "Più della metà"
+        },
+        "correct": true
+      },
+      {
+        "id": "none-at-all",
+        "icon": "🚫",
+        "label": {
+          "de": "Gar nichts",
+          "en": "None at all",
+          "it": "Per niente"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-tiny-bit",
+        "icon": "🤏",
+        "label": {
+          "de": "Ein winziges bisschen",
+          "en": "A tiny bit",
+          "it": "Pochissima"
+        },
+        "correct": false
+      },
+      {
+        "id": "all-of-it",
+        "icon": "🌊",
+        "label": {
+          "de": "Alles",
+          "en": "All of it",
+          "it": "Tutto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mehr als die Hälfte deines Körpers ist Wasser.",
+      "en": "More than half of your body is water.",
+      "it": "Più della metà del corpo è acqua."
+    },
+    "funFact": {
+      "de": "Darum ist Trinken so wichtig, besonders wenn es heiss ist.",
+      "en": "That's why drinking is so important, especially when it's hot.",
+      "it": "Per questo è così importante bere, soprattutto quando fa caldo."
+    },
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "body-white-blood-cells",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was machen weisse Blutkörperchen?",
+      "en": "What do white blood cells do?",
+      "it": "Che cosa fanno i globuli bianchi?"
+    },
+    "answers": [
+      {
+        "id": "they-fight-germs",
+        "icon": "🛡️",
+        "label": {
+          "de": "Sie bekämpfen Krankheitskeime",
+          "en": "They fight germs",
+          "it": "Combattono i germi"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-colour-the-blood",
+        "icon": "🎨",
+        "label": {
+          "de": "Sie färben das Blut",
+          "en": "They colour the blood",
+          "it": "Colorano il sangue"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-digest-food",
+        "icon": "🍽️",
+        "label": {
+          "de": "Sie verdauen das Essen",
+          "en": "They digest food",
+          "it": "Digeriscono il cibo"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-build-bones",
+        "icon": "🦴",
+        "label": {
+          "de": "Sie bauen Knochen",
+          "en": "They build bones",
+          "it": "Costruiscono le ossa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Weisse Blutkörperchen sind die Polizei deines Körpers: Sie bekämpfen Keime.",
+      "en": "White blood cells are your body's police: they fight germs.",
+      "it": "I globuli bianchi sono la polizia del corpo: combattono i germi."
+    },
+    "funFact": {
+      "de": "Fieber hilft dem Körper oft dabei, Keime zu bekämpfen.",
+      "en": "A fever often helps your body fight germs.",
+      "it": "Spesso la febbre aiuta il corpo a combattere i germi."
+    },
+    "tags": [
+      "blood",
+      "health"
+    ]
+  },
+  {
+    "id": "body-digestion-starts",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo beginnt die Verdauung?",
+      "en": "Where does digestion begin?",
+      "it": "Dove comincia la digestione?"
+    },
+    "answers": [
+      {
+        "id": "in-the-mouth",
+        "icon": "👄",
+        "label": {
+          "de": "Im Mund",
+          "en": "In the mouth",
+          "it": "In bocca"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-stomach",
+        "icon": "🍽️",
+        "label": {
+          "de": "Im Magen",
+          "en": "In the stomach",
+          "it": "Nello stomaco"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-feet",
+        "icon": "🦶",
+        "label": {
+          "de": "In den Füssen",
+          "en": "In the feet",
+          "it": "Nei piedi"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-ears",
+        "icon": "👂",
+        "label": {
+          "de": "In den Ohren",
+          "en": "In the ears",
+          "it": "Nelle orecchie"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schon beim Kauen fängt der Speichel an, das Essen zu verdauen.",
+      "en": "As you chew, your spit already starts digesting the food.",
+      "it": "Già masticando, la saliva comincia a digerire il cibo."
+    },
+    "funFact": {
+      "de": "Du machst jeden Tag ungefähr einen Liter Speichel.",
+      "en": "You make about a litre of spit every day.",
+      "it": "Ogni giorno produci circa un litro di saliva."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "body-long-intestine",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Dein Dünndarm ist länger, als du gross bist. Stimmt das?",
+      "en": "Your small intestine is longer than you are tall. Is that true?",
+      "it": "Il tuo intestino tenue è più lungo di quanto sei alto. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Er liegt zusammengefaltet in deinem Bauch.",
+      "en": "That's true! It's folded up inside your tummy.",
+      "it": "È vero! Sta tutto ripiegato nella pancia."
+    },
+    "funFact": {
+      "de": "Ausgestreckt wäre der Dünndarm eines Erwachsenen mehrere Meter lang.",
+      "en": "Stretched out, a grown-up's small intestine would be several metres long.",
+      "it": "Disteso, l'intestino tenue di un adulto sarebbe lungo diversi metri."
+    },
+    "tags": [
+      "food",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-pupils-dark",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert mit deinen Pupillen im Dunkeln?",
+      "en": "What happens to your pupils in the dark?",
+      "it": "Che cosa succede alle pupille al buio?"
+    },
+    "visual": "👁️",
+    "answers": [
+      {
+        "id": "they-get-bigger",
+        "icon": "⚫",
+        "label": {
+          "de": "Sie werden grösser",
+          "en": "They get bigger",
+          "it": "Diventano più grandi"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-get-smaller",
+        "icon": "🔹",
+        "label": {
+          "de": "Sie werden kleiner",
+          "en": "They get smaller",
+          "it": "Diventano più piccole"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-change-colour",
+        "icon": "🎨",
+        "label": {
+          "de": "Sie ändern die Farbe",
+          "en": "They change colour",
+          "it": "Cambiano colore"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-disappear",
+        "icon": "💨",
+        "label": {
+          "de": "Sie verschwinden",
+          "en": "They disappear",
+          "it": "Spariscono"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Dunkeln werden die Pupillen grösser. So kommt mehr Licht ins Auge.",
+      "en": "In the dark your pupils get bigger to let in more light.",
+      "it": "Al buio le pupille si allargano per far entrare più luce."
+    },
+    "funFact": {
+      "de": "Katzen können ihre Pupillen noch viel stärker öffnen. Darum sehen sie nachts so gut.",
+      "en": "Cats can open their pupils even wider. That's why they see so well at night.",
+      "it": "I gatti allargano le pupille ancora di più: per questo vedono bene di notte."
+    },
+    "tags": [
+      "eyes"
+    ]
+  },
+  {
+    "id": "body-taller-morning",
+    "category": "body",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Am Morgen bist du ein kleines bisschen grösser als am Abend. Stimmt das?",
+      "en": "You are a tiny bit taller in the morning than in the evening. Is that true?",
+      "it": "Al mattino sei un pochino più alto che alla sera. È vero?"
+    },
+    "visual": "📏",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Tagsüber werden die Polster zwischen deinen Rückenwirbeln etwas zusammengedrückt.",
+      "en": "That's true! During the day, the cushions between the bones of your spine get squeezed a little.",
+      "it": "È vero! Durante il giorno i cuscinetti tra le vertebre si schiacciano un po'."
+    },
+    "funFact": {
+      "de": "Astronauten im Weltall werden sogar ein paar Zentimeter grösser.",
+      "en": "Astronauts in space even grow a few centimetres taller.",
+      "it": "Nello spazio gli astronauti diventano addirittura qualche centimetro più alti."
+    },
+    "tags": [
+      "bones",
+      "surprise"
+    ]
+  },
+  {
+    "id": "body-heart-chambers",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Räume hat dein Herz?",
+      "en": "How many chambers does your heart have?",
+      "it": "Quante cavità ha il cuore?"
+    },
+    "visual": "❤️",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eine",
+          "en": "One",
+          "it": "Una"
+        },
+        "correct": false
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Herz hat vier Räume: zwei Vorhöfe und zwei Kammern.",
+      "en": "Your heart has four chambers: two at the top and two at the bottom.",
+      "it": "Il cuore ha quattro cavità: due atri e due ventricoli."
+    },
+    "funFact": {
+      "de": "Die rechte Seite pumpt Blut zur Lunge, die linke Seite in den ganzen Körper.",
+      "en": "The right side pumps blood to the lungs, the left side to the rest of the body.",
+      "it": "La parte destra pompa il sangue ai polmoni, la sinistra in tutto il corpo."
+    },
+    "tags": [
+      "heart",
+      "numbers"
+    ]
+  },
+  {
+    "id": "body-protects-brain",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was schützt dein Gehirn?",
+      "en": "What protects your brain?",
+      "it": "Che cosa protegge il cervello?"
+    },
+    "answers": [
+      {
+        "id": "the-skull",
+        "icon": "🦴",
+        "label": {
+          "de": "Der Schädelknochen",
+          "en": "The skull",
+          "it": "Il cranio"
+        },
+        "correct": true
+      },
+      {
+        "id": "your-hair",
+        "icon": "💇",
+        "label": {
+          "de": "Die Haare",
+          "en": "Your hair",
+          "it": "I capelli"
+        },
+        "correct": false
+      },
+      {
+        "id": "your-ears",
+        "icon": "👂",
+        "label": {
+          "de": "Die Ohren",
+          "en": "Your ears",
+          "it": "Le orecchie"
+        },
+        "correct": false
+      },
+      {
+        "id": "your-cap",
+        "icon": "🧢",
+        "label": {
+          "de": "Die Mütze",
+          "en": "Your cap",
+          "it": "Il berretto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Dein Gehirn liegt sicher im harten Schädelknochen.",
+      "en": "Your brain sits safely inside your hard skull.",
+      "it": "Il cervello sta al sicuro dentro il cranio duro."
+    },
+    "funFact": {
+      "de": "Beim Fahrradfahren schützt ein Helm deinen Kopf zusätzlich.",
+      "en": "When you ride a bike, a helmet gives your head extra protection.",
+      "it": "In bicicletta il casco protegge ancora di più la testa."
+    },
+    "tags": [
+      "brain",
+      "bones"
+    ]
+  },
+  {
+    "id": "body-tooth-decay",
+    "category": "body",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft am besten gegen Löcher in den Zähnen?",
+      "en": "What helps most against holes in your teeth?",
+      "it": "Che cosa aiuta di più contro le carie?"
+    },
+    "answers": [
+      {
+        "id": "brushing-your-teeth-well",
+        "icon": "🪥",
+        "label": {
+          "de": "Gut Zähne putzen",
+          "en": "Brushing your teeth well",
+          "it": "Lavarsi bene i denti"
+        },
+        "correct": true
+      },
+      {
+        "id": "sucking-sweets",
+        "icon": "🍬",
+        "label": {
+          "de": "Bonbons lutschen",
+          "en": "Sucking sweets",
+          "it": "Succhiare caramelle"
+        },
+        "correct": false
+      },
+      {
+        "id": "drinking-lots-of-fizzy-drinks",
+        "icon": "🥤",
+        "label": {
+          "de": "Viel Limonade trinken",
+          "en": "Drinking lots of fizzy drinks",
+          "it": "Bere tante bibite"
+        },
+        "correct": false
+      },
+      {
+        "id": "never-brushing",
+        "icon": "😬",
+        "label": {
+          "de": "Nie putzen",
+          "en": "Never brushing",
+          "it": "Non lavarli mai"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gründliches Zähneputzen schützt vor Löchern in den Zähnen.",
+      "en": "Brushing well protects you from holes in your teeth.",
+      "it": "Lavarsi bene i denti protegge dalle carie."
+    },
+    "funFact": {
+      "de": "Löcher entstehen, wenn Bakterien Zucker fressen und dabei Säure machen.",
+      "en": "Holes form when bacteria eat sugar and make acid.",
+      "it": "Le carie nascono quando i batteri mangiano lo zucchero e producono acido."
+    },
+    "tags": [
+      "teeth",
+      "health"
+    ]
+  }
+]

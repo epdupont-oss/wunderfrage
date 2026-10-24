@@ -1,0 +1,4763 @@
+[
+  {
+    "id": "italy-flag",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Zu welchem Land gehört diese Fahne?",
+      "en": "Which country does this flag belong to?",
+      "it": "Di quale paese è questa bandiera?"
+    },
+    "visual": "🇮🇹",
+    "answers": [
+      {
+        "id": "italy",
+        "icon": "🍕",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🏔️",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      },
+      {
+        "id": "france",
+        "icon": "🥐",
+        "label": {
+          "de": "Frankreich",
+          "en": "France",
+          "it": "Francia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das ist die italienische Fahne: grün, weiss und rot.",
+      "en": "That's the Italian flag: green, white and red.",
+      "it": "È la bandiera italiana: verde, bianca e rossa."
+    },
+    "funFact": {
+      "de": "Die italienische Fahne nennt man «Tricolore», das heisst «dreifarbig».",
+      "en": "The Italian flag is called the “Tricolore”, which means “three colours”.",
+      "it": "La bandiera italiana si chiama «Tricolore»."
+    },
+    "tags": [
+      "flag"
+    ]
+  },
+  {
+    "id": "italy-pizza",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Essen kommt aus Italien?",
+      "en": "Which food comes from Italy?",
+      "it": "Quale cibo viene dall'Italia?"
+    },
+    "answers": [
+      {
+        "id": "pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Pizza",
+          "en": "Pizza",
+          "it": "Pizza"
+        },
+        "correct": true
+      },
+      {
+        "id": "sushi",
+        "icon": "🍣",
+        "label": {
+          "de": "Sushi",
+          "en": "Sushi",
+          "it": "Sushi"
+        },
+        "correct": false
+      },
+      {
+        "id": "taco",
+        "icon": "🌮",
+        "label": {
+          "de": "Taco",
+          "en": "Taco",
+          "it": "Taco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Pizza kommt aus Italien.",
+      "en": "Pizza comes from Italy.",
+      "it": "La pizza viene dall'Italia."
+    },
+    "funFact": {
+      "de": "Die Pizza Margherita hat die Farben der italienischen Fahne: Basilikum, Mozzarella und Tomate.",
+      "en": "Pizza Margherita has the colours of the Italian flag: basil, mozzarella and tomato.",
+      "it": "La pizza Margherita ha i colori della bandiera: basilico, mozzarella e pomodoro."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-pasta",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was essen viele Menschen in Italien sehr gern?",
+      "en": "What do lots of people in Italy love to eat?",
+      "it": "Che cosa mangiano volentieri molte persone in Italia?"
+    },
+    "answers": [
+      {
+        "id": "pasta",
+        "icon": "🍝",
+        "label": {
+          "de": "Pasta",
+          "en": "Pasta",
+          "it": "Pasta"
+        },
+        "correct": true
+      },
+      {
+        "id": "grasshoppers",
+        "icon": "🦗",
+        "label": {
+          "de": "Heuschrecken",
+          "en": "Grasshoppers",
+          "it": "Cavallette"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice-cubes",
+        "icon": "🧊",
+        "label": {
+          "de": "Eiswürfel",
+          "en": "Ice cubes",
+          "it": "Cubetti di ghiaccio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Italien isst man sehr gern Pasta.",
+      "en": "In Italy people love eating pasta.",
+      "it": "In Italia si mangia tanta pasta."
+    },
+    "funFact": {
+      "de": "In Italien gibt es Hunderte verschiedene Pasta-Formen.",
+      "en": "There are hundreds of different pasta shapes in Italy.",
+      "it": "In Italia esistono centinaia di formati di pasta."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-gelato",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist «Gelato»?",
+      "en": "What is “gelato”?",
+      "it": "Che cos'è il gelato?"
+    },
+    "answers": [
+      {
+        "id": "italian-ice-cream",
+        "icon": "🍦",
+        "label": {
+          "de": "Italienische Glace",
+          "en": "Italian ice cream",
+          "it": "Un dolce freddo e cremoso"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Käse",
+          "en": "Cheese",
+          "it": "Formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "bread",
+        "icon": "🥖",
+        "label": {
+          "de": "Brot",
+          "en": "Bread",
+          "it": "Pane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gelato ist italienische Glace.",
+      "en": "Gelato is Italian ice cream.",
+      "it": "Il gelato è un dolce freddo e cremoso."
+    },
+    "funFact": {
+      "de": "Gelato ist besonders cremig, weil weniger Luft hineingerührt wird.",
+      "en": "Gelato is extra creamy because less air is churned into it.",
+      "it": "Il gelato è molto cremoso perché ci si incorpora poca aria."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-boot-shape",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie sieht Italien auf der Landkarte aus?",
+      "en": "What does Italy look like on a map?",
+      "it": "Che forma ha l'Italia sulla cartina?"
+    },
+    "visual": "🇮🇹",
+    "answers": [
+      {
+        "id": "like-a-boot",
+        "icon": "👢",
+        "label": {
+          "de": "Wie ein Stiefel",
+          "en": "Like a boot",
+          "it": "Come uno stivale"
+        },
+        "correct": true
+      },
+      {
+        "id": "like-a-ball",
+        "icon": "⚽",
+        "label": {
+          "de": "Wie ein Ball",
+          "en": "Like a ball",
+          "it": "Come un pallone"
+        },
+        "correct": false
+      },
+      {
+        "id": "like-a-star",
+        "icon": "⭐",
+        "label": {
+          "de": "Wie ein Stern",
+          "en": "Like a star",
+          "it": "Come una stella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Italien sieht aus wie ein Stiefel.",
+      "en": "Italy looks like a boot.",
+      "it": "L'Italia sembra uno stivale."
+    },
+    "funFact": {
+      "de": "Vor der Stiefelspitze liegt die Insel Sizilien, fast wie ein Ball.",
+      "en": "The island of Sicily sits by the toe of the boot, almost like a football.",
+      "it": "Davanti alla punta dello stivale c'è la Sicilia, quasi come un pallone."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-capital",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die Hauptstadt von Italien?",
+      "en": "What is the capital of Italy?",
+      "it": "Qual è la capitale d'Italia?"
+    },
+    "answers": [
+      {
+        "id": "rome",
+        "icon": "🏛️",
+        "label": {
+          "de": "Rom",
+          "en": "Rome",
+          "it": "Roma"
+        },
+        "correct": true
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      },
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Rom ist die Hauptstadt von Italien.",
+      "en": "Rome is the capital of Italy.",
+      "it": "Roma è la capitale d'Italia."
+    },
+    "funFact": {
+      "de": "Rom ist fast 2800 Jahre alt.",
+      "en": "Rome is almost 2,800 years old.",
+      "it": "Roma ha quasi 2800 anni."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-boats-city",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt fährt man mit Booten statt mit Autos?",
+      "en": "In which city do people travel by boat instead of by car?",
+      "it": "In quale città ci si sposta in barca invece che in auto?"
+    },
+    "answers": [
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": true
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      },
+      {
+        "id": "rome",
+        "icon": "🏛️",
+        "label": {
+          "de": "Rom",
+          "en": "Rome",
+          "it": "Roma"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Venedig gibt es Kanäle statt Strassen.",
+      "en": "Venice has canals instead of roads.",
+      "it": "A Venezia ci sono canali invece di strade."
+    },
+    "funFact": {
+      "de": "Venedig ist auf über hundert kleinen Inseln gebaut.",
+      "en": "Venice is built on more than a hundred small islands.",
+      "it": "Venezia è costruita su più di cento isolette."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-gondola",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das schmale schwarze Boot in Venedig?",
+      "en": "What is the narrow black boat in Venice called?",
+      "it": "Come si chiama la barca nera e stretta di Venezia?"
+    },
+    "answers": [
+      {
+        "id": "gondola",
+        "icon": "🛶",
+        "label": {
+          "de": "Gondel",
+          "en": "Gondola",
+          "it": "Gondola"
+        },
+        "correct": true
+      },
+      {
+        "id": "cruise-ship",
+        "icon": "🚢",
+        "label": {
+          "de": "Kreuzfahrtschiff",
+          "en": "Cruise ship",
+          "it": "Nave da crociera"
+        },
+        "correct": false
+      },
+      {
+        "id": "speedboat",
+        "icon": "🚤",
+        "label": {
+          "de": "Schnellboot",
+          "en": "Speedboat",
+          "it": "Motoscafo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Venedig fährt man mit der Gondel.",
+      "en": "In Venice you ride in a gondola.",
+      "it": "A Venezia si va in gondola."
+    },
+    "funFact": {
+      "de": "Der Gondoliere steht hinten und rudert mit nur einem Ruder.",
+      "en": "The gondolier stands at the back and rows with just one oar.",
+      "it": "Il gondoliere sta in piedi a poppa e rema con un solo remo."
+    },
+    "tags": [
+      "cities",
+      "transport"
+    ]
+  },
+  {
+    "id": "italy-leaning-tower",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Turm in Italien ist schief?",
+      "en": "Which tower in Italy leans to one side?",
+      "it": "Quale torre in Italia è storta?"
+    },
+    "answers": [
+      {
+        "id": "the-tower-of-pisa",
+        "icon": "🗼",
+        "label": {
+          "de": "Der Turm von Pisa",
+          "en": "The Tower of Pisa",
+          "it": "La Torre di Pisa"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-statue-of-liberty",
+        "icon": "🗽",
+        "label": {
+          "de": "Die Freiheitsstatue",
+          "en": "The Statue of Liberty",
+          "it": "La Statua della Libertà"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-castle",
+        "icon": "🏰",
+        "label": {
+          "de": "Ein Schloss",
+          "en": "A castle",
+          "it": "Un castello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Turm von Pisa ist schief.",
+      "en": "The Tower of Pisa leans.",
+      "it": "La Torre di Pisa pende."
+    },
+    "funFact": {
+      "de": "Der Turm wurde schon beim Bauen schief, weil der Boden darunter weich ist.",
+      "en": "The tower started leaning while it was being built, because the ground is soft.",
+      "it": "La torre ha cominciato a pendere già durante la costruzione, perché il terreno è morbido."
+    },
+    "tags": [
+      "cities",
+      "buildings"
+    ],
+    "uncertain": "🗼 is the Tokyo Tower emoji, used as a generic tower."
+  },
+  {
+    "id": "italy-by-the-sea",
+    "category": "italy",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Italien liegt am Meer. Stimmt das?",
+      "en": "Italy is by the sea. Is that true?",
+      "it": "L'Italia è sul mare. È vero?"
+    },
+    "visual": "🌊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Italien ist fast überall vom Mittelmeer umgeben.",
+      "en": "That's true! Italy is almost surrounded by the Mediterranean Sea.",
+      "it": "È vero! L'Italia è quasi tutta circondata dal Mar Mediterraneo."
+    },
+    "funFact": {
+      "de": "Italien hat über 7000 Kilometer Küste.",
+      "en": "Italy has more than 7,000 kilometres of coastline.",
+      "it": "L'Italia ha più di 7000 chilometri di coste."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-volcano",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Berg in Italien spuckt manchmal Lava?",
+      "en": "Which mountain in Italy sometimes spits out lava?",
+      "it": "Quale montagna in Italia a volte sputa lava?"
+    },
+    "answers": [
+      {
+        "id": "mount-etna",
+        "icon": "🌋",
+        "label": {
+          "de": "Der Ätna",
+          "en": "Mount Etna",
+          "it": "L'Etna"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Das Matterhorn",
+          "en": "The Matterhorn",
+          "it": "Il Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hill-with-trees",
+        "icon": "🌳",
+        "label": {
+          "de": "Ein Hügel mit Bäumen",
+          "en": "A hill with trees",
+          "it": "Una collina con alberi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Ätna ist ein Vulkan auf Sizilien.",
+      "en": "Etna is a volcano in Sicily.",
+      "it": "L'Etna è un vulcano in Sicilia."
+    },
+    "funFact": {
+      "de": "Der Ätna ist der höchste aktive Vulkan Europas.",
+      "en": "Etna is the highest active volcano in Europe.",
+      "it": "L'Etna è il vulcano attivo più alto d'Europa."
+    },
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "italy-hello",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie sagt man auf Italienisch «Hallo»?",
+      "en": "How do you say “hello” in Italian?",
+      "it": "Come si saluta in italiano?"
+    },
+    "visual": "👋",
+    "answers": [
+      {
+        "id": "ciao",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Ciao",
+          "en": "Ciao",
+          "it": "Ciao"
+        },
+        "correct": true
+      },
+      {
+        "id": "hola",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Hola",
+          "en": "Hola",
+          "it": "Hola"
+        },
+        "correct": false
+      },
+      {
+        "id": "bonjour",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Bonjour",
+          "en": "Bonjour",
+          "it": "Bonjour"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf Italienisch sagt man «Ciao».",
+      "en": "In Italian you say “ciao”.",
+      "it": "In italiano si dice «ciao»."
+    },
+    "funFact": {
+      "de": "«Ciao» sagt man zur Begrüssung und auch zum Abschied.",
+      "en": "“Ciao” means both hello and goodbye.",
+      "it": "«Ciao» si dice sia quando ci si incontra sia quando ci si saluta."
+    },
+    "tags": [
+      "language"
+    ]
+  },
+  {
+    "id": "italy-colosseum",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches riesige alte Gebäude steht in Rom?",
+      "en": "Which huge ancient building stands in Rome?",
+      "it": "Quale enorme edificio antico si trova a Roma?"
+    },
+    "answers": [
+      {
+        "id": "the-colosseum",
+        "icon": "🏟️",
+        "label": {
+          "de": "Das Kolosseum",
+          "en": "The Colosseum",
+          "it": "Il Colosseo"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-statue-of-liberty",
+        "icon": "🗽",
+        "label": {
+          "de": "Die Freiheitsstatue",
+          "en": "The Statue of Liberty",
+          "it": "La Statua della Libertà"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-eiffel-tower",
+        "icon": "🗼",
+        "label": {
+          "de": "Der Eiffelturm",
+          "en": "The Eiffel Tower",
+          "it": "La Torre Eiffel"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Kolosseum ist ein riesiges, fast 2000 Jahre altes Gebäude.",
+      "en": "The Colosseum is a huge building nearly 2,000 years old.",
+      "it": "Il Colosseo è un enorme edificio di quasi 2000 anni."
+    },
+    "funFact": {
+      "de": "Ins Kolosseum passten etwa fünfzigtausend Zuschauer.",
+      "en": "About fifty thousand spectators fitted inside the Colosseum.",
+      "it": "Nel Colosseo entravano circa cinquantamila spettatori."
+    },
+    "tags": [
+      "history",
+      "buildings"
+    ]
+  },
+  {
+    "id": "italy-margherita",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt auf eine Pizza Margherita?",
+      "en": "What goes on a Pizza Margherita?",
+      "it": "Che cosa c'è sulla pizza Margherita?"
+    },
+    "answers": [
+      {
+        "id": "tomato-mozzarella-and-basil",
+        "icon": "🍅",
+        "label": {
+          "de": "Tomate, Mozzarella und Basilikum",
+          "en": "Tomato, mozzarella and basil",
+          "it": "Pomodoro, mozzarella e basilico"
+        },
+        "correct": true
+      },
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish-fingers",
+        "icon": "🐟",
+        "label": {
+          "de": "Fischstäbchen",
+          "en": "Fish fingers",
+          "it": "Bastoncini di pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf die Margherita kommen Tomate, Mozzarella und Basilikum.",
+      "en": "A Margherita has tomato, mozzarella and basil.",
+      "it": "Sulla Margherita ci sono pomodoro, mozzarella e basilico."
+    },
+    "funFact": {
+      "de": "Man erzählt, sie wurde nach der Königin Margherita benannt.",
+      "en": "People say it was named after Queen Margherita.",
+      "it": "Si racconta che porti il nome della regina Margherita."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-olive-tree",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Baum wächst in Italien oft und gibt uns Öl?",
+      "en": "Which tree grows a lot in Italy and gives us oil?",
+      "it": "Quale albero cresce spesso in Italia e ci dà l'olio?"
+    },
+    "answers": [
+      {
+        "id": "olive-tree",
+        "icon": "🫒",
+        "label": {
+          "de": "Olivenbaum",
+          "en": "Olive tree",
+          "it": "Olivo"
+        },
+        "correct": true
+      },
+      {
+        "id": "fir-tree",
+        "icon": "🌲",
+        "label": {
+          "de": "Tanne",
+          "en": "Fir tree",
+          "it": "Abete"
+        },
+        "correct": false
+      },
+      {
+        "id": "coconut-palm",
+        "icon": "🌴",
+        "label": {
+          "de": "Kokospalme",
+          "en": "Coconut palm",
+          "it": "Palma da cocco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus Oliven macht man Olivenöl.",
+      "en": "Olive oil is made from olives.",
+      "it": "Con le olive si fa l'olio d'oliva."
+    },
+    "funFact": {
+      "de": "Olivenbäume können über tausend Jahre alt werden.",
+      "en": "Olive trees can live for more than a thousand years.",
+      "it": "Gli olivi possono vivere più di mille anni."
+    },
+    "tags": [
+      "food",
+      "nature"
+    ]
+  },
+  {
+    "id": "italy-lemons",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche gelbe Frucht wächst in Süditalien am Meer?",
+      "en": "Which yellow fruit grows by the sea in southern Italy?",
+      "it": "Quale frutto giallo cresce al mare nel sud Italia?"
+    },
+    "answers": [
+      {
+        "id": "lemons",
+        "icon": "🍋",
+        "label": {
+          "de": "Zitronen",
+          "en": "Lemons",
+          "it": "Limoni"
+        },
+        "correct": true
+      },
+      {
+        "id": "coconuts",
+        "icon": "🥥",
+        "label": {
+          "de": "Kokosnüsse",
+          "en": "Coconuts",
+          "it": "Noci di cocco"
+        },
+        "correct": false
+      },
+      {
+        "id": "blueberries",
+        "icon": "🫐",
+        "label": {
+          "de": "Heidelbeeren",
+          "en": "Blueberries",
+          "it": "Mirtilli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Süditalien wachsen viele Zitronen.",
+      "en": "Lots of lemons grow in southern Italy.",
+      "it": "Nel sud Italia crescono tanti limoni."
+    },
+    "funFact": {
+      "de": "An der Amalfiküste wachsen besonders grosse Zitronen.",
+      "en": "Extra big lemons grow on the Amalfi Coast.",
+      "it": "Sulla Costiera Amalfitana crescono limoni grandissimi."
+    },
+    "tags": [
+      "food",
+      "nature"
+    ]
+  },
+  {
+    "id": "italy-swiss-neighbour",
+    "category": "italy",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Italien ist ein Nachbarland der Schweiz. Stimmt das?",
+      "en": "Italy is a neighbour of Switzerland. Is that true?",
+      "it": "L'Italia confina con la Svizzera. È vero?"
+    },
+    "visual": "🇨🇭🇮🇹",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Italien liegt südlich der Schweiz.",
+      "en": "That's true! Italy lies to the south of Switzerland.",
+      "it": "È vero! L'Italia si trova a sud della Svizzera."
+    },
+    "funFact": {
+      "de": "Im Tessin und in Teilen von Graubünden spricht man auch Italienisch.",
+      "en": "In Ticino and parts of Graubünden, people speak Italian too.",
+      "it": "In Ticino e in parte dei Grigioni si parla italiano."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-azzurri",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe tragen die italienischen Fussballspieler meistens?",
+      "en": "What colour do Italy's football players usually wear?",
+      "it": "Di che colore è di solito la maglia della nazionale italiana di calcio?"
+    },
+    "visual": "⚽",
+    "answers": [
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Azzurro"
+        },
+        "correct": true
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "yellow",
+        "icon": "🟡",
+        "label": {
+          "de": "Gelb",
+          "en": "Yellow",
+          "it": "Giallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die italienische Nationalmannschaft spielt in Blau.",
+      "en": "Italy's national team plays in blue.",
+      "it": "La nazionale italiana gioca in azzurro."
+    },
+    "funFact": {
+      "de": "Darum nennt man sie «die Azzurri», die Blauen.",
+      "en": "That's why they're called “the Azzurri” – the Blues.",
+      "it": "Per questo la chiamano «gli Azzurri»."
+    },
+    "tags": [
+      "sport"
+    ]
+  },
+  {
+    "id": "italy-sicily",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die grosse Insel an der Spitze des Stiefels?",
+      "en": "What is the big island at the toe of the boot called?",
+      "it": "Come si chiama la grande isola sulla punta dello stivale?"
+    },
+    "answers": [
+      {
+        "id": "sicily",
+        "icon": "🏝️",
+        "label": {
+          "de": "Sizilien",
+          "en": "Sicily",
+          "it": "Sicilia"
+        },
+        "correct": true
+      },
+      {
+        "id": "mont-blanc",
+        "icon": "🏔️",
+        "label": {
+          "de": "Mont Blanc",
+          "en": "Mont Blanc",
+          "it": "Monte Bianco"
+        },
+        "correct": false
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Insel an der Stiefelspitze heisst Sizilien.",
+      "en": "The island at the toe of the boot is Sicily.",
+      "it": "L'isola sulla punta dello stivale è la Sicilia."
+    },
+    "funFact": {
+      "de": "Sizilien ist die grösste Insel im Mittelmeer.",
+      "en": "Sicily is the largest island in the Mediterranean.",
+      "it": "La Sicilia è l'isola più grande del Mediterraneo."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-tiramisu",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches süsse Dessert kommt aus Italien?",
+      "en": "Which sweet dessert comes from Italy?",
+      "it": "Quale dolce viene dall'Italia?"
+    },
+    "answers": [
+      {
+        "id": "tiramisu",
+        "icon": "🍰",
+        "label": {
+          "de": "Tiramisù",
+          "en": "Tiramisu",
+          "it": "Tiramisù"
+        },
+        "correct": true
+      },
+      {
+        "id": "croissant",
+        "icon": "🥐",
+        "label": {
+          "de": "Gipfeli",
+          "en": "Croissant",
+          "it": "Croissant"
+        },
+        "correct": false
+      },
+      {
+        "id": "doughnut",
+        "icon": "🍩",
+        "label": {
+          "de": "Donut",
+          "en": "Doughnut",
+          "it": "Ciambella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Tiramisù ist ein italienisches Dessert.",
+      "en": "Tiramisu is an Italian dessert.",
+      "it": "Il tiramisù è un dolce italiano."
+    },
+    "funFact": {
+      "de": "«Tiramisù» heisst übersetzt «Zieh mich hoch».",
+      "en": "“Tiramisu” means “pick me up”.",
+      "it": "«Tiramisù» vuol dire proprio «tirami su»!"
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-pinocchio",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wessen Nase wird länger, wenn er lügt?",
+      "en": "Whose nose grows longer when he tells a lie?",
+      "it": "A chi si allunga il naso quando dice una bugia?"
+    },
+    "answers": [
+      {
+        "id": "pinocchio",
+        "icon": "🤥",
+        "label": {
+          "de": "Pinocchio",
+          "en": "Pinocchio",
+          "it": "Pinocchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "heidi",
+        "icon": "🐐",
+        "label": {
+          "de": "Heidi",
+          "en": "Heidi",
+          "it": "Heidi"
+        },
+        "correct": false
+      },
+      {
+        "id": "little-red-riding-hood",
+        "icon": "🧺",
+        "label": {
+          "de": "Rotkäppchen",
+          "en": "Little Red Riding Hood",
+          "it": "Cappuccetto Rosso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pinocchios Nase wird länger, wenn er lügt.",
+      "en": "Pinocchio's nose grows when he lies.",
+      "it": "A Pinocchio si allunga il naso quando dice le bugie."
+    },
+    "funFact": {
+      "de": "Die Geschichte von Pinocchio hat der Italiener Carlo Collodi erfunden.",
+      "en": "The story of Pinocchio was written by the Italian Carlo Collodi.",
+      "it": "Le avventure di Pinocchio le ha scritte Carlo Collodi."
+    },
+    "tags": [
+      "stories"
+    ]
+  },
+  {
+    "id": "italy-befana",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer bringt in Italien am 6. Januar Süssigkeiten?",
+      "en": "Who brings children sweets in Italy on 6 January?",
+      "it": "Chi porta i dolci ai bambini il 6 gennaio?"
+    },
+    "answers": [
+      {
+        "id": "the-befana",
+        "icon": "🧹",
+        "label": {
+          "de": "Die Befana",
+          "en": "The Befana",
+          "it": "La Befana"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-easter-bunny",
+        "icon": "🐰",
+        "label": {
+          "de": "Der Osterhase",
+          "en": "The Easter Bunny",
+          "it": "Il coniglio pasquale"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-turkey",
+        "icon": "🦃",
+        "label": {
+          "de": "Ein Truthahn",
+          "en": "A turkey",
+          "it": "Un tacchino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am 6. Januar bringt die Befana den Kindern Süssigkeiten.",
+      "en": "On 6 January the Befana brings children sweets.",
+      "it": "Il 6 gennaio la Befana porta i dolci ai bambini."
+    },
+    "funFact": {
+      "de": "Die Befana ist eine freundliche alte Frau, die auf einem Besen fliegt.",
+      "en": "The Befana is a kind old woman who flies on a broomstick.",
+      "it": "La Befana è una vecchina gentile che vola su una scopa."
+    },
+    "tags": [
+      "traditions"
+    ]
+  },
+  {
+    "id": "italy-bigger-country",
+    "category": "italy",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Welches Land ist grösser?",
+      "en": "Which country is bigger?",
+      "it": "Quale paese è più grande?"
+    },
+    "answers": [
+      {
+        "id": "italy",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🇨🇭",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Italien ist viel grösser als die Schweiz.",
+      "en": "Italy is much bigger than Switzerland.",
+      "it": "L'Italia è molto più grande della Svizzera."
+    },
+    "funFact": {
+      "de": "Italien ist etwa siebenmal so gross wie die Schweiz.",
+      "en": "Italy is about seven times as big as Switzerland.",
+      "it": "L'Italia è circa sette volte più grande della Svizzera."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-higher-etna-pisa",
+    "category": "italy",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist höher?",
+      "en": "Which is higher?",
+      "it": "Che cosa è più alto?"
+    },
+    "answers": [
+      {
+        "id": "mount-etna",
+        "icon": "🌋",
+        "label": {
+          "de": "Ätna",
+          "en": "Mount Etna",
+          "it": "Etna"
+        },
+        "correct": true
+      },
+      {
+        "id": "tower-of-pisa",
+        "icon": "🗼",
+        "label": {
+          "de": "Turm von Pisa",
+          "en": "Tower of Pisa",
+          "it": "Torre di Pisa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Ätna ist ein riesiger Berg, der Turm nur ein Gebäude.",
+      "en": "Etna is a huge mountain; the tower is just a building.",
+      "it": "L'Etna è una montagna enorme, la torre solo un edificio."
+    },
+    "funFact": {
+      "de": "Der Turm von Pisa ist etwa 56 Meter hoch.",
+      "en": "The Tower of Pisa is about 56 metres tall.",
+      "it": "La Torre di Pisa è alta circa 56 metri."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-venice-cars",
+    "category": "italy",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In Venedig fahren viele Autos durch die Strassen. Stimmt das?",
+      "en": "Lots of cars drive through the streets of Venice. Is that true?",
+      "it": "A Venezia molte auto girano per le strade. È vero?"
+    },
+    "visual": "🛶",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "In der Altstadt von Venedig gibt es keine Autos.",
+      "en": "There are no cars in the old town of Venice.",
+      "it": "Nel centro storico di Venezia non ci sono auto."
+    },
+    "funFact": {
+      "de": "In Venedig geht man zu Fuss oder fährt mit dem Boot.",
+      "en": "In Venice you walk or go by boat.",
+      "it": "A Venezia si va a piedi o in barca."
+    },
+    "tags": [
+      "cities",
+      "transport"
+    ]
+  },
+  {
+    "id": "italy-winged-lion",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier mit Flügeln sieht man in Venedig überall?",
+      "en": "Which animal with wings can you see all over Venice?",
+      "it": "Quale animale con le ali si vede dappertutto a Venezia?"
+    },
+    "answers": [
+      {
+        "id": "a-lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Einen Löwen",
+          "en": "A lion",
+          "it": "Un leone"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-dragon",
+        "icon": "🐉",
+        "label": {
+          "de": "Einen Drachen",
+          "en": "A dragon",
+          "it": "Un drago"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-horse",
+        "icon": "🐴",
+        "label": {
+          "de": "Ein Pferd",
+          "en": "A horse",
+          "it": "Un cavallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der geflügelte Löwe ist das Zeichen von Venedig.",
+      "en": "The winged lion is the symbol of Venice.",
+      "it": "Il leone alato è il simbolo di Venezia."
+    },
+    "funFact": {
+      "de": "Der Löwe gehört zum heiligen Markus, dem Schutzpatron der Stadt.",
+      "en": "The lion belongs to Saint Mark, the city's patron saint.",
+      "it": "Il leone è il simbolo di San Marco, patrono della città."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-pesto",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche grüne Sauce macht man aus Basilikum?",
+      "en": "Which green sauce is made from basil?",
+      "it": "Quale salsa verde si fa con il basilico?"
+    },
+    "answers": [
+      {
+        "id": "pesto",
+        "icon": "🌿",
+        "label": {
+          "de": "Pesto",
+          "en": "Pesto",
+          "it": "Pesto"
+        },
+        "correct": true
+      },
+      {
+        "id": "chocolate-sauce",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokoladensauce",
+          "en": "Chocolate sauce",
+          "it": "Salsa al cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "strawberry-sauce",
+        "icon": "🍓",
+        "label": {
+          "de": "Erdbeersauce",
+          "en": "Strawberry sauce",
+          "it": "Salsa di fragole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pesto macht man aus Basilikum, Pinienkernen, Käse und Olivenöl.",
+      "en": "Pesto is made from basil, pine nuts, cheese and olive oil.",
+      "it": "Il pesto si fa con basilico, pinoli, formaggio e olio d'oliva."
+    },
+    "funFact": {
+      "de": "Das Pesto kommt aus Genua.",
+      "en": "Pesto comes from Genoa.",
+      "it": "Il pesto viene da Genova."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-pizza-naples",
+    "category": "italy",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Pizza wurde in Neapel berühmt. Stimmt das?",
+      "en": "Pizza became famous in Naples. Is that true?",
+      "it": "La pizza è diventata famosa a Napoli. È vero?"
+    },
+    "visual": "🍕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Neapel ist die Stadt der Pizza.",
+      "en": "That's true! Naples is the city of pizza.",
+      "it": "È vero! Napoli è la città della pizza."
+    },
+    "funFact": {
+      "de": "In Neapel gibt es Pizzerien, die über hundert Jahre alt sind.",
+      "en": "Naples has pizzerias that are more than a hundred years old.",
+      "it": "A Napoli ci sono pizzerie con più di cento anni."
+    },
+    "tags": [
+      "food",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-flag-middle",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe ist in der Mitte der italienischen Fahne?",
+      "en": "Which colour is in the middle of the Italian flag?",
+      "it": "Di che colore è la parte centrale della bandiera italiana?"
+    },
+    "visual": "🇮🇹",
+    "answers": [
+      {
+        "id": "white",
+        "icon": "⚪",
+        "label": {
+          "de": "Weiss",
+          "en": "White",
+          "it": "Bianco"
+        },
+        "correct": true
+      },
+      {
+        "id": "red",
+        "icon": "🔴",
+        "label": {
+          "de": "Rot",
+          "en": "Red",
+          "it": "Rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Mitte ist die Fahne weiss.",
+      "en": "The middle of the flag is white.",
+      "it": "Al centro la bandiera è bianca."
+    },
+    "funFact": {
+      "de": "Links ist sie grün, rechts rot.",
+      "en": "It's green on the left and red on the right.",
+      "it": "A sinistra è verde, a destra rossa."
+    },
+    "tags": [
+      "flag",
+      "colours"
+    ]
+  },
+  {
+    "id": "italy-beach",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was bauen Kinder am Strand in Italien?",
+      "en": "What do children build on the beach in Italy?",
+      "it": "Che cosa costruiscono i bambini sulla spiaggia in Italia?"
+    },
+    "answers": [
+      {
+        "id": "sandcastles",
+        "icon": "🏰",
+        "label": {
+          "de": "Sandburgen",
+          "en": "Sandcastles",
+          "it": "Castelli di sabbia"
+        },
+        "correct": true
+      },
+      {
+        "id": "snowmen",
+        "icon": "⛄",
+        "label": {
+          "de": "Schneemänner",
+          "en": "Snowmen",
+          "it": "Pupazzi di neve"
+        },
+        "correct": false
+      },
+      {
+        "id": "fir-trees",
+        "icon": "🌲",
+        "label": {
+          "de": "Tannenbäume",
+          "en": "Fir trees",
+          "it": "Abeti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am Strand bauen Kinder Sandburgen.",
+      "en": "On the beach children build sandcastles.",
+      "it": "In spiaggia i bambini costruiscono castelli di sabbia."
+    },
+    "funFact": {
+      "de": "In Italien gibt es sehr viele Strände.",
+      "en": "Italy has lots and lots of beaches.",
+      "it": "In Italia ci sono tantissime spiagge."
+    },
+    "tags": [
+      "summer"
+    ]
+  },
+  {
+    "id": "italy-thanks",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie sagt man auf Italienisch «Danke»?",
+      "en": "How do you say “thank you” in Italian?",
+      "it": "Come si ringrazia in italiano?"
+    },
+    "visual": "🙏",
+    "answers": [
+      {
+        "id": "grazie",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Grazie",
+          "en": "Grazie",
+          "it": "Grazie"
+        },
+        "correct": true
+      },
+      {
+        "id": "merci",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Merci",
+          "en": "Merci",
+          "it": "Merci"
+        },
+        "correct": false
+      },
+      {
+        "id": "gracias",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Gracias",
+          "en": "Gracias",
+          "it": "Gracias"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf Italienisch sagt man «Grazie».",
+      "en": "In Italian you say “grazie”.",
+      "it": "In italiano si dice «grazie»."
+    },
+    "funFact": {
+      "de": "«Prego» heisst «Bitte» oder «Gern geschehen».",
+      "en": "“Prego” means “please” or “you're welcome”.",
+      "it": "«Prego» si risponde a chi ti ringrazia."
+    },
+    "tags": [
+      "language"
+    ]
+  },
+  {
+    "id": "italy-northern-mountains",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heissen die hohen Berge im Norden von Italien?",
+      "en": "What are the high mountains in northern Italy called?",
+      "it": "Come si chiamano le alte montagne nel nord Italia?"
+    },
+    "answers": [
+      {
+        "id": "the-alps",
+        "icon": "🏔️",
+        "label": {
+          "de": "Die Alpen",
+          "en": "The Alps",
+          "it": "Le Alpi"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-andes",
+        "icon": "🦙",
+        "label": {
+          "de": "Die Anden",
+          "en": "The Andes",
+          "it": "Le Ande"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-himalayas",
+        "icon": "🐼",
+        "label": {
+          "de": "Der Himalaja",
+          "en": "The Himalayas",
+          "it": "L'Himalaya"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Norden von Italien stehen die Alpen.",
+      "en": "The Alps are in the north of Italy.",
+      "it": "Nel nord Italia ci sono le Alpi."
+    },
+    "funFact": {
+      "de": "Die Dolomiten in Italien leuchten bei Sonnenuntergang oft rosa.",
+      "en": "Italy's Dolomites often glow pink at sunset.",
+      "it": "Al tramonto le Dolomiti si tingono spesso di rosa."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "italy-violin",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Instrument mit vier Saiten wurde in Italien berühmt?",
+      "en": "Which four-stringed instrument became famous in Italy?",
+      "it": "Quale strumento a quattro corde è diventato famoso in Italia?"
+    },
+    "answers": [
+      {
+        "id": "violin",
+        "icon": "🎻",
+        "label": {
+          "de": "Geige",
+          "en": "Violin",
+          "it": "Violino"
+        },
+        "correct": true
+      },
+      {
+        "id": "drum",
+        "icon": "🥁",
+        "label": {
+          "de": "Trommel",
+          "en": "Drum",
+          "it": "Tamburo"
+        },
+        "correct": false
+      },
+      {
+        "id": "trumpet",
+        "icon": "🎺",
+        "label": {
+          "de": "Trompete",
+          "en": "Trumpet",
+          "it": "Tromba"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Geige wurde in Italien weiterentwickelt und berühmt.",
+      "en": "The violin was perfected in Italy and became famous.",
+      "it": "Il violino è stato perfezionato in Italia ed è diventato famoso."
+    },
+    "funFact": {
+      "de": "In Cremona baute Antonio Stradivari wunderschöne Geigen.",
+      "en": "In Cremona, Antonio Stradivari built beautiful violins.",
+      "it": "A Cremona Antonio Stradivari costruiva violini meravigliosi."
+    },
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "italy-spaghetti",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Pasta ist lang und dünn?",
+      "en": "Which pasta is long and thin?",
+      "it": "Quale pasta è lunga e sottile?"
+    },
+    "answers": [
+      {
+        "id": "spaghetti",
+        "icon": "🍝",
+        "label": {
+          "de": "Spaghetti",
+          "en": "Spaghetti",
+          "it": "Spaghetti"
+        },
+        "correct": true
+      },
+      {
+        "id": "pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Pizza",
+          "en": "Pizza",
+          "it": "Pizza"
+        },
+        "correct": false
+      },
+      {
+        "id": "ravioli",
+        "icon": "🥟",
+        "label": {
+          "de": "Ravioli",
+          "en": "Ravioli",
+          "it": "Ravioli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Spaghetti sind lang und dünn.",
+      "en": "Spaghetti is long and thin.",
+      "it": "Gli spaghetti sono lunghi e sottili."
+    },
+    "funFact": {
+      "de": "«Spaghetti» heisst «kleine Schnüre».",
+      "en": "“Spaghetti” means “little strings”.",
+      "it": "«Spaghetti» viene da «spago», cioè una cordicella."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-gelateria",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kaufst du in einer Gelateria?",
+      "en": "What do you buy in a gelateria?",
+      "it": "Che cosa compri in una gelateria?"
+    },
+    "answers": [
+      {
+        "id": "ice-cream",
+        "icon": "🍦",
+        "label": {
+          "de": "Glace",
+          "en": "Ice cream",
+          "it": "Gelato"
+        },
+        "correct": true
+      },
+      {
+        "id": "tools",
+        "icon": "🔧",
+        "label": {
+          "de": "Werkzeug",
+          "en": "Tools",
+          "it": "Attrezzi"
+        },
+        "correct": false
+      },
+      {
+        "id": "shoes",
+        "icon": "👟",
+        "label": {
+          "de": "Schuhe",
+          "en": "Shoes",
+          "it": "Scarpe"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Gelateria gibt es Glace.",
+      "en": "A gelateria sells ice cream.",
+      "it": "In gelateria si compra il gelato."
+    },
+    "funFact": {
+      "de": "Beliebte Sorten in Italien sind Stracciatella und Pistazie.",
+      "en": "Popular flavours in Italy are stracciatella and pistachio.",
+      "it": "Gusti amatissimi in Italia sono stracciatella e pistacchio."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-alpine-animal",
+    "category": "italy",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier klettert in den italienischen Alpen?",
+      "en": "Which animal climbs in the Italian Alps?",
+      "it": "Quale animale si arrampica sulle Alpi italiane?"
+    },
+    "answers": [
+      {
+        "id": "ibex",
+        "icon": "🐐",
+        "label": {
+          "de": "Steinbock",
+          "en": "Ibex",
+          "it": "Stambecco"
+        },
+        "correct": true
+      },
+      {
+        "id": "kangaroo",
+        "icon": "🦘",
+        "label": {
+          "de": "Känguru",
+          "en": "Kangaroo",
+          "it": "Canguro"
+        },
+        "correct": false
+      },
+      {
+        "id": "camel",
+        "icon": "🐪",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In den Alpen klettern Steinböcke.",
+      "en": "Ibexes climb in the Alps.",
+      "it": "Sulle Alpi si arrampicano gli stambecchi."
+    },
+    "funFact": {
+      "de": "Im Nationalpark Gran Paradiso im Aostatal leben viele Steinböcke.",
+      "en": "Lots of ibexes live in the Gran Paradiso National Park in the Aosta Valley.",
+      "it": "Nel Parco del Gran Paradiso, in Valle d'Aosta, vivono tanti stambecchi."
+    },
+    "tags": [
+      "animals",
+      "aosta"
+    ]
+  },
+  {
+    "id": "italy-aosta-french",
+    "category": "italy",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Region Italiens spricht man neben Italienisch auch Französisch?",
+      "en": "In which region of Italy do people speak French as well as Italian?",
+      "it": "In quale regione italiana si parla anche francese?"
+    },
+    "answers": [
+      {
+        "id": "the-aosta-valley",
+        "icon": "🏔️",
+        "label": {
+          "de": "Im Aostatal",
+          "en": "The Aosta Valley",
+          "it": "In Valle d'Aosta"
+        },
+        "correct": true
+      },
+      {
+        "id": "sicily",
+        "icon": "🌋",
+        "label": {
+          "de": "Auf Sizilien",
+          "en": "Sicily",
+          "it": "In Sicilia"
+        },
+        "correct": false
+      },
+      {
+        "id": "tuscany",
+        "icon": "🍷",
+        "label": {
+          "de": "In der Toskana",
+          "en": "Tuscany",
+          "it": "In Toscana"
+        },
+        "correct": false
+      },
+      {
+        "id": "sardinia",
+        "icon": "🏝️",
+        "label": {
+          "de": "Auf Sardinien",
+          "en": "Sardinia",
+          "it": "In Sardegna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Aostatal sind Italienisch und Französisch Amtssprachen.",
+      "en": "In the Aosta Valley, Italian and French are both official languages.",
+      "it": "In Valle d'Aosta italiano e francese sono entrambe lingue ufficiali."
+    },
+    "funFact": {
+      "de": "Vom Aostatal aus sieht man den Mont Blanc, den höchsten Berg der Alpen.",
+      "en": "From the Aosta Valley you can see Mont Blanc, the highest mountain in the Alps.",
+      "it": "Dalla Valle d'Aosta si vede il Monte Bianco, la montagna più alta delle Alpi."
+    },
+    "tags": [
+      "aosta",
+      "language"
+    ]
+  },
+  {
+    "id": "italy-vatican",
+    "category": "italy",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das kleinste Land der Welt, mitten in Rom?",
+      "en": "What is the smallest country in the world, right in the middle of Rome?",
+      "it": "Come si chiama lo stato più piccolo del mondo, nel cuore di Roma?"
+    },
+    "answers": [
+      {
+        "id": "vatican-city",
+        "icon": "🏛️",
+        "label": {
+          "de": "Vatikanstadt",
+          "en": "Vatican City",
+          "it": "Città del Vaticano"
+        },
+        "correct": true
+      },
+      {
+        "id": "liechtenstein",
+        "icon": "🏰",
+        "label": {
+          "de": "Liechtenstein",
+          "en": "Liechtenstein",
+          "it": "Liechtenstein"
+        },
+        "correct": false
+      },
+      {
+        "id": "monaco",
+        "icon": "🎰",
+        "label": {
+          "de": "Monaco",
+          "en": "Monaco",
+          "it": "Monaco"
+        },
+        "correct": false
+      },
+      {
+        "id": "san-marino",
+        "icon": "⛰️",
+        "label": {
+          "de": "San Marino",
+          "en": "San Marino",
+          "it": "San Marino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Vatikanstadt ist das kleinste Land der Welt.",
+      "en": "Vatican City is the smallest country in the world.",
+      "it": "La Città del Vaticano è lo stato più piccolo del mondo."
+    },
+    "funFact": {
+      "de": "Den Papst im Vatikan beschützt die Schweizergarde, Soldaten aus der Schweiz.",
+      "en": "The Pope in the Vatican is guarded by the Swiss Guard – soldiers from Switzerland!",
+      "it": "Il Papa in Vaticano è protetto dalla Guardia Svizzera, soldati che vengono dalla Svizzera."
+    },
+    "tags": [
+      "geography",
+      "switzerland",
+      "surprise"
+    ]
+  },
+  {
+    "id": "italy-san-marino",
+    "category": "italy",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Mitten in Italien liegt ein anderes kleines Land: San Marino. Stimmt das?",
+      "en": "There's another small country right inside Italy: San Marino. Is that true?",
+      "it": "Dentro l'Italia c'è un altro piccolo stato: San Marino. È vero?"
+    },
+    "visual": "⛰️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! San Marino ist ganz von Italien umgeben.",
+      "en": "That's true! San Marino is completely surrounded by Italy.",
+      "it": "È vero! San Marino è tutta circondata dall'Italia."
+    },
+    "funFact": {
+      "de": "San Marino ist eine der ältesten Republiken der Welt.",
+      "en": "San Marino is one of the oldest republics in the world.",
+      "it": "San Marino è una delle repubbliche più antiche del mondo."
+    },
+    "tags": [
+      "geography",
+      "surprise"
+    ]
+  },
+  {
+    "id": "italy-longest-river",
+    "category": "italy",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher ist der längste Fluss Italiens?",
+      "en": "What is the longest river in Italy?",
+      "it": "Qual è il fiume più lungo d'Italia?"
+    },
+    "answers": [
+      {
+        "id": "the-po",
+        "icon": "🏞️",
+        "label": {
+          "de": "Der Po",
+          "en": "The Po",
+          "it": "Il Po"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-tiber",
+        "icon": "🏛️",
+        "label": {
+          "de": "Der Tiber",
+          "en": "The Tiber",
+          "it": "Il Tevere"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-arno",
+        "icon": "🌉",
+        "label": {
+          "de": "Der Arno",
+          "en": "The Arno",
+          "it": "L'Arno"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-ticino",
+        "icon": "🌀",
+        "label": {
+          "de": "Der Tessin",
+          "en": "The Ticino",
+          "it": "Il Ticino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Po ist der längste Fluss Italiens.",
+      "en": "The Po is Italy's longest river.",
+      "it": "Il Po è il fiume più lungo d'Italia."
+    },
+    "funFact": {
+      "de": "Der Po fliesst von den Alpen bis ins Adriatische Meer.",
+      "en": "The Po flows from the Alps into the Adriatic Sea.",
+      "it": "Il Po scorre dalle Alpi fino al Mare Adriatico."
+    },
+    "tags": [
+      "rivers"
+    ]
+  },
+  {
+    "id": "italy-adriatic",
+    "category": "italy",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das Meer östlich von Italien?",
+      "en": "What is the sea to the east of Italy called?",
+      "it": "Come si chiama il mare a est dell'Italia?"
+    },
+    "answers": [
+      {
+        "id": "adriatic-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "Adria",
+          "en": "Adriatic Sea",
+          "it": "Mare Adriatico"
+        },
+        "correct": true
+      },
+      {
+        "id": "north-sea",
+        "icon": "❄️",
+        "label": {
+          "de": "Nordsee",
+          "en": "North Sea",
+          "it": "Mare del Nord"
+        },
+        "correct": false
+      },
+      {
+        "id": "black-sea",
+        "icon": "⚫",
+        "label": {
+          "de": "Schwarzes Meer",
+          "en": "Black Sea",
+          "it": "Mar Nero"
+        },
+        "correct": false
+      },
+      {
+        "id": "pacific-ocean",
+        "icon": "🐋",
+        "label": {
+          "de": "Pazifik",
+          "en": "Pacific Ocean",
+          "it": "Oceano Pacifico"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Östlich von Italien liegt die Adria.",
+      "en": "The Adriatic Sea lies east of Italy.",
+      "it": "A est dell'Italia c'è il Mare Adriatico."
+    },
+    "funFact": {
+      "de": "An der Adria gibt es lange Sandstrände.",
+      "en": "The Adriatic has long sandy beaches.",
+      "it": "Sull'Adriatico ci sono lunghe spiagge di sabbia."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-flag-colours-count",
+    "category": "italy",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Farben hat die italienische Fahne?",
+      "en": "How many colours does the Italian flag have?",
+      "it": "Quanti colori ha la bandiera italiana?"
+    },
+    "visual": "🇮🇹",
+    "answers": [
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eine",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die italienische Fahne hat drei Farben: Grün, Weiss und Rot.",
+      "en": "The Italian flag has three colours: green, white and red.",
+      "it": "La bandiera italiana ha tre colori: verde, bianco e rosso."
+    },
+    "funFact": {
+      "de": "Darum heisst sie «Il Tricolore».",
+      "en": "That's why it's called “Il Tricolore”.",
+      "it": "Per questo si chiama «il Tricolore»."
+    },
+    "tags": [
+      "flag",
+      "numbers"
+    ]
+  },
+  {
+    "id": "italy-milan",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Stadt ist berühmt für Mode und ihren riesigen Dom?",
+      "en": "Which city is famous for fashion and its huge cathedral?",
+      "it": "Quale città è famosa per la moda e per il suo enorme Duomo?"
+    },
+    "answers": [
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": true
+      },
+      {
+        "id": "naples",
+        "icon": "🍕",
+        "label": {
+          "de": "Neapel",
+          "en": "Naples",
+          "it": "Napoli"
+        },
+        "correct": false
+      },
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": false
+      },
+      {
+        "id": "pisa",
+        "icon": "🗼",
+        "label": {
+          "de": "Pisa",
+          "en": "Pisa",
+          "it": "Pisa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mailand ist berühmt für Mode und den Mailänder Dom.",
+      "en": "Milan is famous for fashion and its cathedral.",
+      "it": "Milano è famosa per la moda e per il Duomo."
+    },
+    "funFact": {
+      "de": "Am Mailänder Dom wurde fast 600 Jahre lang gebaut.",
+      "en": "Milan Cathedral took almost 600 years to finish.",
+      "it": "Il Duomo di Milano ha richiesto quasi 600 anni di lavori."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-david",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt steht Michelangelos berühmte Statue «David»?",
+      "en": "In which city is Michelangelo's famous statue of David?",
+      "it": "In quale città si trova il famoso David di Michelangelo?"
+    },
+    "answers": [
+      {
+        "id": "florence",
+        "icon": "🗿",
+        "label": {
+          "de": "Florenz",
+          "en": "Florence",
+          "it": "Firenze"
+        },
+        "correct": true
+      },
+      {
+        "id": "rome",
+        "icon": "🏛️",
+        "label": {
+          "de": "Rom",
+          "en": "Rome",
+          "it": "Roma"
+        },
+        "correct": false
+      },
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": false
+      },
+      {
+        "id": "naples",
+        "icon": "🍕",
+        "label": {
+          "de": "Neapel",
+          "en": "Naples",
+          "it": "Napoli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der «David» von Michelangelo steht in Florenz.",
+      "en": "Michelangelo's David is in Florence.",
+      "it": "Il David di Michelangelo è a Firenze."
+    },
+    "funFact": {
+      "de": "Die Statue ist über fünf Meter hoch und aus einem einzigen Marmorblock gemeisselt.",
+      "en": "The statue is over five metres tall and carved from a single block of marble.",
+      "it": "La statua è alta più di cinque metri e scolpita in un unico blocco di marmo."
+    },
+    "tags": [
+      "art",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-mona-lisa",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer malte die «Mona Lisa»?",
+      "en": "Who painted the Mona Lisa?",
+      "it": "Chi ha dipinto la Gioconda?"
+    },
+    "answers": [
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": true
+      },
+      {
+        "id": "michelangelo",
+        "icon": "🗿",
+        "label": {
+          "de": "Michelangelo",
+          "en": "Michelangelo",
+          "it": "Michelangelo"
+        },
+        "correct": false
+      },
+      {
+        "id": "raphael",
+        "icon": "🖼️",
+        "label": {
+          "de": "Raffael",
+          "en": "Raphael",
+          "it": "Raffaello"
+        },
+        "correct": false
+      },
+      {
+        "id": "vincent-van-gogh",
+        "icon": "🌻",
+        "label": {
+          "de": "Vincent van Gogh",
+          "en": "Vincent van Gogh",
+          "it": "Vincent van Gogh"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Leonardo da Vinci malte die «Mona Lisa».",
+      "en": "Leonardo da Vinci painted the Mona Lisa.",
+      "it": "Leonardo da Vinci ha dipinto la Gioconda."
+    },
+    "funFact": {
+      "de": "Leonardo zeichnete auch Pläne für Flugmaschinen.",
+      "en": "Leonardo also drew plans for flying machines.",
+      "it": "Leonardo disegnò anche progetti di macchine volanti."
+    },
+    "tags": [
+      "art",
+      "history"
+    ]
+  },
+  {
+    "id": "italy-sistine",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer malte die Decke der Sixtinischen Kapelle?",
+      "en": "Who painted the ceiling of the Sistine Chapel?",
+      "it": "Chi ha dipinto la volta della Cappella Sistina?"
+    },
+    "answers": [
+      {
+        "id": "michelangelo",
+        "icon": "🗿",
+        "label": {
+          "de": "Michelangelo",
+          "en": "Michelangelo",
+          "it": "Michelangelo"
+        },
+        "correct": true
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      },
+      {
+        "id": "pablo-picasso",
+        "icon": "🖌️",
+        "label": {
+          "de": "Pablo Picasso",
+          "en": "Pablo Picasso",
+          "it": "Pablo Picasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "vincent-van-gogh",
+        "icon": "🌻",
+        "label": {
+          "de": "Vincent van Gogh",
+          "en": "Vincent van Gogh",
+          "it": "Vincent van Gogh"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Michelangelo bemalte die Decke der Sixtinischen Kapelle.",
+      "en": "Michelangelo painted the Sistine Chapel ceiling.",
+      "it": "Michelangelo ha dipinto la volta della Cappella Sistina."
+    },
+    "funFact": {
+      "de": "Er arbeitete vier Jahre lang daran, oft auf einem hohen Gerüst.",
+      "en": "He worked on it for four years, often up on high scaffolding.",
+      "it": "Ci lavorò per quattro anni, spesso su un'alta impalcatura."
+    },
+    "tags": [
+      "art",
+      "history"
+    ]
+  },
+  {
+    "id": "italy-she-wolf",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier versorgte der Sage nach die Zwillinge Romulus und Remus?",
+      "en": "Which animal, says the legend, looked after the twins Romulus and Remus?",
+      "it": "Secondo la leggenda, quale animale allattò i gemelli Romolo e Remo?"
+    },
+    "answers": [
+      {
+        "id": "a-she-wolf",
+        "icon": "🐺",
+        "label": {
+          "de": "Eine Wölfin",
+          "en": "A she-wolf",
+          "it": "Una lupa"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-she-bear",
+        "icon": "🐻",
+        "label": {
+          "de": "Eine Bärin",
+          "en": "A she-bear",
+          "it": "Un'orsa"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Eine Kuh",
+          "en": "A cow",
+          "it": "Una mucca"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-goat",
+        "icon": "🐐",
+        "label": {
+          "de": "Eine Ziege",
+          "en": "A goat",
+          "it": "Una capra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Sage nach versorgte eine Wölfin die Zwillinge.",
+      "en": "According to legend, a she-wolf looked after the twins.",
+      "it": "Secondo la leggenda, una lupa allattò i gemelli."
+    },
+    "funFact": {
+      "de": "Romulus soll der Sage nach die Stadt Rom gegründet haben.",
+      "en": "Legend says Romulus founded the city of Rome.",
+      "it": "Si racconta che Romolo abbia fondato Roma."
+    },
+    "tags": [
+      "history",
+      "stories"
+    ]
+  },
+  {
+    "id": "italy-latin",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Sprache sprachen die alten Römer?",
+      "en": "What language did the ancient Romans speak?",
+      "it": "Che lingua parlavano gli antichi Romani?"
+    },
+    "answers": [
+      {
+        "id": "latin",
+        "icon": "📜",
+        "label": {
+          "de": "Latein",
+          "en": "Latin",
+          "it": "Latino"
+        },
+        "correct": true
+      },
+      {
+        "id": "english",
+        "icon": "🇬🇧",
+        "label": {
+          "de": "Englisch",
+          "en": "English",
+          "it": "Inglese"
+        },
+        "correct": false
+      },
+      {
+        "id": "german",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch",
+          "en": "German",
+          "it": "Tedesco"
+        },
+        "correct": false
+      },
+      {
+        "id": "french",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Französisch",
+          "en": "French",
+          "it": "Francese"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die alten Römer sprachen Latein.",
+      "en": "The ancient Romans spoke Latin.",
+      "it": "Gli antichi Romani parlavano latino."
+    },
+    "funFact": {
+      "de": "Aus Latein entstanden Italienisch, Französisch, Spanisch und auch Rätoromanisch.",
+      "en": "Italian, French, Spanish and even Romansh all grew out of Latin.",
+      "it": "Dal latino sono nati italiano, francese, spagnolo e anche il romancio."
+    },
+    "tags": [
+      "history",
+      "language"
+    ]
+  },
+  {
+    "id": "italy-pompeii",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche römische Stadt wurde vor fast 2000 Jahren von der Asche des Vesuvs bedeckt?",
+      "en": "Which Roman town was buried by ash from Vesuvius almost 2,000 years ago?",
+      "it": "Quale città romana fu sepolta dalla cenere del Vesuvio quasi 2000 anni fa?"
+    },
+    "answers": [
+      {
+        "id": "pompeii",
+        "icon": "🏺",
+        "label": {
+          "de": "Pompeji",
+          "en": "Pompeii",
+          "it": "Pompei"
+        },
+        "correct": true
+      },
+      {
+        "id": "rome",
+        "icon": "🏛️",
+        "label": {
+          "de": "Rom",
+          "en": "Rome",
+          "it": "Roma"
+        },
+        "correct": false
+      },
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": false
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pompeji wurde von der Asche des Vesuvs zugedeckt.",
+      "en": "Pompeii was covered by ash from Vesuvius.",
+      "it": "Pompei fu ricoperta dalla cenere del Vesuvio."
+    },
+    "funFact": {
+      "de": "Unter der Asche blieb die Stadt so gut erhalten, dass man heute durch ihre Strassen spazieren kann.",
+      "en": "Under the ash, the town was so well preserved that you can walk its streets today.",
+      "it": "Sotto la cenere la città si è conservata così bene che oggi si può passeggiare per le sue strade."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "italy-vesuvius",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Vulkan steht bei Neapel?",
+      "en": "Which volcano stands near Naples?",
+      "it": "Quale vulcano si trova vicino a Napoli?"
+    },
+    "answers": [
+      {
+        "id": "vesuvius",
+        "icon": "🌋",
+        "label": {
+          "de": "Der Vesuv",
+          "en": "Vesuvius",
+          "it": "Il Vesuvio"
+        },
+        "correct": true
+      },
+      {
+        "id": "etna",
+        "icon": "🔥",
+        "label": {
+          "de": "Der Ätna",
+          "en": "Etna",
+          "it": "L'Etna"
+        },
+        "correct": false
+      },
+      {
+        "id": "mont-blanc",
+        "icon": "🏔️",
+        "label": {
+          "de": "Der Mont Blanc",
+          "en": "Mont Blanc",
+          "it": "Il Monte Bianco"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Das Matterhorn",
+          "en": "The Matterhorn",
+          "it": "Il Cervino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Vesuv steht direkt bei Neapel.",
+      "en": "Vesuvius stands right next to Naples.",
+      "it": "Il Vesuvio sorge proprio accanto a Napoli."
+    },
+    "funFact": {
+      "de": "Der Vesuv ist einer der bekanntesten Vulkane der Welt.",
+      "en": "Vesuvius is one of the most famous volcanoes in the world.",
+      "it": "Il Vesuvio è uno dei vulcani più famosi al mondo."
+    },
+    "tags": [
+      "nature",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-mont-blanc",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher ist der höchste Berg der Alpen?",
+      "en": "What is the highest mountain in the Alps?",
+      "it": "Qual è la montagna più alta delle Alpi?"
+    },
+    "answers": [
+      {
+        "id": "mont-blanc",
+        "icon": "🏔️",
+        "label": {
+          "de": "Mont Blanc",
+          "en": "Mont Blanc",
+          "it": "Monte Bianco"
+        },
+        "correct": true
+      },
+      {
+        "id": "matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "dufourspitze",
+        "icon": "🗻",
+        "label": {
+          "de": "Dufourspitze",
+          "en": "Dufourspitze",
+          "it": "Punta Dufour"
+        },
+        "correct": false
+      },
+      {
+        "id": "eiger",
+        "icon": "🌄",
+        "label": {
+          "de": "Eiger",
+          "en": "Eiger",
+          "it": "Eiger"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mont Blanc ist der höchste Berg der Alpen.",
+      "en": "Mont Blanc is the highest mountain in the Alps.",
+      "it": "Il Monte Bianco è la montagna più alta delle Alpi."
+    },
+    "funFact": {
+      "de": "Er liegt an der Grenze zwischen dem Aostatal und Frankreich.",
+      "en": "It lies on the border between the Aosta Valley and France.",
+      "it": "Si trova al confine tra la Valle d'Aosta e la Francia."
+    },
+    "tags": [
+      "mountains",
+      "aosta"
+    ]
+  },
+  {
+    "id": "italy-aosta-tunnel",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Tunnel verbindet das Aostatal mit dem Wallis?",
+      "en": "Which tunnel links the Aosta Valley with the Swiss canton of Valais?",
+      "it": "Quale traforo collega la Valle d'Aosta con il Vallese?"
+    },
+    "answers": [
+      {
+        "id": "great-st-bernard-tunnel",
+        "icon": "🚗",
+        "label": {
+          "de": "Grosser-St.-Bernhard-Tunnel",
+          "en": "Great St Bernard Tunnel",
+          "it": "Traforo del Gran San Bernardo"
+        },
+        "correct": true
+      },
+      {
+        "id": "gotthard-base-tunnel",
+        "icon": "🚆",
+        "label": {
+          "de": "Gotthard-Basistunnel",
+          "en": "Gotthard Base Tunnel",
+          "it": "Galleria di base del San Gottardo"
+        },
+        "correct": false
+      },
+      {
+        "id": "channel-tunnel",
+        "icon": "🌊",
+        "label": {
+          "de": "Eurotunnel",
+          "en": "Channel Tunnel",
+          "it": "Tunnel della Manica"
+        },
+        "correct": false
+      },
+      {
+        "id": "seelisberg-tunnel",
+        "icon": "🏙️",
+        "label": {
+          "de": "Seelisbergtunnel",
+          "en": "Seelisberg Tunnel",
+          "it": "Galleria del Seelisberg"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Grosse-St.-Bernhard-Tunnel verbindet das Aostatal mit dem Wallis.",
+      "en": "The Great St Bernard Tunnel links the Aosta Valley with Valais.",
+      "it": "Il traforo del Gran San Bernardo collega la Valle d'Aosta al Vallese."
+    },
+    "funFact": {
+      "de": "Oben am Pass gibt es ein altes Hospiz, wo früher die Bernhardinerhunde lebten.",
+      "en": "At the top of the pass there's an old hospice where St Bernard dogs used to live.",
+      "it": "In cima al passo c'è un antico ospizio dove vivevano i cani San Bernardo."
+    },
+    "tags": [
+      "aosta",
+      "transport",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "italy-aosta-capital",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die Hauptstadt des Aostatals?",
+      "en": "What is the capital of the Aosta Valley?",
+      "it": "Qual è il capoluogo della Valle d'Aosta?"
+    },
+    "answers": [
+      {
+        "id": "aosta",
+        "icon": "🏔️",
+        "label": {
+          "de": "Aosta",
+          "en": "Aosta",
+          "it": "Aosta"
+        },
+        "correct": true
+      },
+      {
+        "id": "turin",
+        "icon": "🚗",
+        "label": {
+          "de": "Turin",
+          "en": "Turin",
+          "it": "Torino"
+        },
+        "correct": false
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      },
+      {
+        "id": "genoa",
+        "icon": "⚓",
+        "label": {
+          "de": "Genua",
+          "en": "Genoa",
+          "it": "Genova"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Hauptstadt des Aostatals heisst Aosta.",
+      "en": "The capital of the Aosta Valley is Aosta.",
+      "it": "Il capoluogo della Valle d'Aosta è Aosta."
+    },
+    "funFact": {
+      "de": "In Aosta steht noch ein römischer Torbogen, über 2000 Jahre alt.",
+      "en": "In Aosta there's still a Roman arch more than 2,000 years old.",
+      "it": "Ad Aosta c'è ancora un arco romano di oltre 2000 anni."
+    },
+    "tags": [
+      "aosta",
+      "cities",
+      "history"
+    ]
+  },
+  {
+    "id": "italy-gran-paradiso",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher ist der älteste Nationalpark Italiens?",
+      "en": "What is Italy's oldest national park?",
+      "it": "Qual è il parco nazionale più antico d'Italia?"
+    },
+    "answers": [
+      {
+        "id": "gran-paradiso",
+        "icon": "🐐",
+        "label": {
+          "de": "Gran Paradiso",
+          "en": "Gran Paradiso",
+          "it": "Gran Paradiso"
+        },
+        "correct": true
+      },
+      {
+        "id": "vesuvius",
+        "icon": "🌋",
+        "label": {
+          "de": "Vesuv",
+          "en": "Vesuvius",
+          "it": "Vesuvio"
+        },
+        "correct": false
+      },
+      {
+        "id": "cinque-terre",
+        "icon": "🌈",
+        "label": {
+          "de": "Cinque Terre",
+          "en": "Cinque Terre",
+          "it": "Cinque Terre"
+        },
+        "correct": false
+      },
+      {
+        "id": "stelvio",
+        "icon": "🏔️",
+        "label": {
+          "de": "Stilfserjoch",
+          "en": "Stelvio",
+          "it": "Stelvio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Nationalpark Gran Paradiso wurde 1922 gegründet.",
+      "en": "Gran Paradiso National Park was founded in 1922.",
+      "it": "Il Parco Nazionale del Gran Paradiso è stato fondato nel 1922."
+    },
+    "funFact": {
+      "de": "Er wurde gegründet, um die Steinböcke zu schützen.",
+      "en": "It was created to protect the ibex.",
+      "it": "È nato per proteggere gli stambecchi."
+    },
+    "tags": [
+      "aosta",
+      "nature",
+      "animals"
+    ]
+  },
+  {
+    "id": "italy-colosseum-age",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie alt ist das Kolosseum in Rom ungefähr?",
+      "en": "About how old is the Colosseum in Rome?",
+      "it": "Quanti anni ha circa il Colosseo?"
+    },
+    "answers": [
+      {
+        "id": "almost-2-000-years",
+        "icon": "🏟️",
+        "label": {
+          "de": "Fast 2000 Jahre",
+          "en": "Almost 2,000 years",
+          "it": "Quasi 2000 anni"
+        },
+        "correct": true
+      },
+      {
+        "id": "100-years",
+        "icon": "🎂",
+        "label": {
+          "de": "100 Jahre",
+          "en": "100 years",
+          "it": "100 anni"
+        },
+        "correct": false
+      },
+      {
+        "id": "500-years",
+        "icon": "🏰",
+        "label": {
+          "de": "500 Jahre",
+          "en": "500 years",
+          "it": "500 anni"
+        },
+        "correct": false
+      },
+      {
+        "id": "10-000-years",
+        "icon": "🦕",
+        "label": {
+          "de": "10 000 Jahre",
+          "en": "10,000 years",
+          "it": "10 000 anni"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Kolosseum wurde vor fast 2000 Jahren gebaut.",
+      "en": "The Colosseum was built almost 2,000 years ago.",
+      "it": "Il Colosseo è stato costruito quasi 2000 anni fa."
+    },
+    "funFact": {
+      "de": "Es hatte sogar ein riesiges Sonnendach aus Stoff.",
+      "en": "It even had a giant cloth sunshade.",
+      "it": "Aveva perfino un enorme tendone per fare ombra."
+    },
+    "tags": [
+      "history",
+      "buildings"
+    ]
+  },
+  {
+    "id": "italy-pisa-why",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum ist der Turm von Pisa schief?",
+      "en": "Why does the Tower of Pisa lean?",
+      "it": "Perché la Torre di Pisa pende?"
+    },
+    "answers": [
+      {
+        "id": "the-ground-under-it-is-soft",
+        "icon": "🏗️",
+        "label": {
+          "de": "Der Boden darunter ist weich",
+          "en": "The ground under it is soft",
+          "it": "Il terreno sotto è morbido"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-giant-pushed-it",
+        "icon": "💪",
+        "label": {
+          "de": "Ein Riese hat ihn geschoben",
+          "en": "A giant pushed it",
+          "it": "Un gigante l'ha spinta"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-was-built-that-way-on-purpose",
+        "icon": "📐",
+        "label": {
+          "de": "Er wurde absichtlich so gebaut",
+          "en": "It was built that way on purpose",
+          "it": "È stata costruita storta apposta"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-wind-bent-it",
+        "icon": "🌬️",
+        "label": {
+          "de": "Der Wind hat ihn gebogen",
+          "en": "The wind bent it",
+          "it": "Il vento l'ha piegata"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Boden unter dem Turm ist weich. Darum sank eine Seite ein.",
+      "en": "The ground under the tower is soft, so one side sank.",
+      "it": "Il terreno sotto la torre è morbido, così un lato è sprofondato."
+    },
+    "funFact": {
+      "de": "Ingenieure haben ihn gesichert, damit er nicht umfällt.",
+      "en": "Engineers have made it safe so it won't fall over.",
+      "it": "Gli ingegneri l'hanno messa in sicurezza perché non cada."
+    },
+    "tags": [
+      "buildings"
+    ]
+  },
+  {
+    "id": "italy-venice-built",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Worauf ist Venedig gebaut?",
+      "en": "What is Venice built on?",
+      "it": "Su che cosa è costruita Venezia?"
+    },
+    "answers": [
+      {
+        "id": "wooden-posts-in-the-water",
+        "icon": "🪵",
+        "label": {
+          "de": "Auf Holzpfählen im Wasser",
+          "en": "Wooden posts in the water",
+          "it": "Su pali di legno nell'acqua"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-mountain",
+        "icon": "⛰️",
+        "label": {
+          "de": "Auf einem Berg",
+          "en": "A mountain",
+          "it": "Su una montagna"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Auf Eis",
+          "en": "Ice",
+          "it": "Sul ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "desert-sand",
+        "icon": "🏜️",
+        "label": {
+          "de": "Auf Sand in der Wüste",
+          "en": "Desert sand",
+          "it": "Sulla sabbia del deserto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Venedig steht auf Millionen von Holzpfählen im schlammigen Boden der Lagune.",
+      "en": "Venice stands on millions of wooden posts driven into the muddy lagoon floor.",
+      "it": "Venezia poggia su milioni di pali di legno piantati nel fondo della laguna."
+    },
+    "funFact": {
+      "de": "Unter Wasser und ohne Luft verrottet das Holz kaum.",
+      "en": "Under water and without air, the wood hardly rots.",
+      "it": "Sott'acqua e senz'aria il legno quasi non marcisce."
+    },
+    "tags": [
+      "cities",
+      "surprise"
+    ]
+  },
+  {
+    "id": "italy-acqua-alta",
+    "category": "italy",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In Venedig steht manchmal Wasser auf dem Markusplatz. Stimmt das?",
+      "en": "Sometimes there's water standing in St Mark's Square in Venice. Is that true?",
+      "it": "A Venezia a volte c'è l'acqua in Piazza San Marco. È vero?"
+    },
+    "visual": "🌊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das nennt man «Acqua alta», hohes Wasser.",
+      "en": "That's true! It's called “acqua alta” – high water.",
+      "it": "È vero! Si chiama acqua alta."
+    },
+    "funFact": {
+      "de": "Dann laufen die Menschen auf Holzstegen über den Platz.",
+      "en": "Then people walk across the square on wooden walkways.",
+      "it": "Allora la gente attraversa la piazza sulle passerelle di legno."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-tricolore-order",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Reihenfolge stehen die Farben der italienischen Fahne, von links?",
+      "en": "In what order are the colours of the Italian flag, from the left?",
+      "it": "In che ordine sono i colori della bandiera italiana, da sinistra?"
+    },
+    "answers": [
+      {
+        "id": "green-white-red",
+        "icon": "🟢⚪🔴",
+        "label": {
+          "de": "Grün, Weiss, Rot",
+          "en": "Green, white, red",
+          "it": "Verde, bianco, rosso"
+        },
+        "correct": true
+      },
+      {
+        "id": "red-white-green",
+        "icon": "🔴⚪🟢",
+        "label": {
+          "de": "Rot, Weiss, Grün",
+          "en": "Red, white, green",
+          "it": "Rosso, bianco, verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "blue-white-red",
+        "icon": "🔵⚪🔴",
+        "label": {
+          "de": "Blau, Weiss, Rot",
+          "en": "Blue, white, red",
+          "it": "Blu, bianco, rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "black-red-gold",
+        "icon": "⚫🔴🟡",
+        "label": {
+          "de": "Schwarz, Rot, Gold",
+          "en": "Black, red, gold",
+          "it": "Nero, rosso, oro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Von links: Grün, Weiss, Rot.",
+      "en": "From the left: green, white, red.",
+      "it": "Da sinistra: verde, bianco, rosso."
+    },
+    "funFact": {
+      "de": "Die irische Fahne sieht ähnlich aus, hat aber Orange statt Rot.",
+      "en": "The Irish flag looks similar, but has orange instead of red.",
+      "it": "La bandiera irlandese è simile, ma ha l'arancione al posto del rosso."
+    },
+    "tags": [
+      "flag",
+      "colours"
+    ]
+  },
+  {
+    "id": "italy-regions",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Regionen hat Italien?",
+      "en": "How many regions does Italy have?",
+      "it": "Quante regioni ha l'Italia?"
+    },
+    "answers": [
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": true
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty-six",
+        "icon": "26",
+        "label": {
+          "de": "Sechsundzwanzig",
+          "en": "Twenty-six",
+          "it": "Ventisei"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Italien hat 20 Regionen.",
+      "en": "Italy has 20 regions.",
+      "it": "L'Italia ha 20 regioni."
+    },
+    "funFact": {
+      "de": "Das Aostatal ist die kleinste Region Italiens.",
+      "en": "The Aosta Valley is Italy's smallest region.",
+      "it": "La Valle d'Aosta è la regione più piccola d'Italia."
+    },
+    "tags": [
+      "geography",
+      "aosta",
+      "numbers"
+    ]
+  },
+  {
+    "id": "italy-two-islands",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches sind die zwei grössten Inseln Italiens?",
+      "en": "What are Italy's two biggest islands?",
+      "it": "Quali sono le due isole più grandi d'Italia?"
+    },
+    "answers": [
+      {
+        "id": "sicily-and-sardinia",
+        "icon": "🏝️",
+        "label": {
+          "de": "Sizilien und Sardinien",
+          "en": "Sicily and Sardinia",
+          "it": "Sicilia e Sardegna"
+        },
+        "correct": true
+      },
+      {
+        "id": "corsica-and-malta",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Korsika und Malta",
+          "en": "Corsica and Malta",
+          "it": "Corsica e Malta"
+        },
+        "correct": false
+      },
+      {
+        "id": "capri-and-elba",
+        "icon": "⛵",
+        "label": {
+          "de": "Capri und Elba",
+          "en": "Capri and Elba",
+          "it": "Capri ed Elba"
+        },
+        "correct": false
+      },
+      {
+        "id": "majorca-and-ibiza",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Mallorca und Ibiza",
+          "en": "Majorca and Ibiza",
+          "it": "Maiorca e Ibiza"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Sizilien und Sardinien sind die grössten Inseln Italiens.",
+      "en": "Sicily and Sardinia are Italy's largest islands.",
+      "it": "Sicilia e Sardegna sono le isole più grandi d'Italia."
+    },
+    "funFact": {
+      "de": "Korsika liegt gleich neben Sardinien, gehört aber zu Frankreich.",
+      "en": "Corsica lies right next to Sardinia, but belongs to France.",
+      "it": "La Corsica è vicinissima alla Sardegna, ma appartiene alla Francia."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-marco-polo",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Reisende aus Venedig erzählte von seiner Reise nach China?",
+      "en": "Which traveller from Venice told of his journey to China?",
+      "it": "Quale viaggiatore veneziano raccontò il suo viaggio in Cina?"
+    },
+    "answers": [
+      {
+        "id": "marco-polo",
+        "icon": "🐫",
+        "label": {
+          "de": "Marco Polo",
+          "en": "Marco Polo",
+          "it": "Marco Polo"
+        },
+        "correct": true
+      },
+      {
+        "id": "christopher-columbus",
+        "icon": "⛵",
+        "label": {
+          "de": "Christoph Kolumbus",
+          "en": "Christopher Columbus",
+          "it": "Cristoforo Colombo"
+        },
+        "correct": false
+      },
+      {
+        "id": "ferdinand-magellan",
+        "icon": "🧭",
+        "label": {
+          "de": "Ferdinand Magellan",
+          "en": "Ferdinand Magellan",
+          "it": "Ferdinando Magellano"
+        },
+        "correct": false
+      },
+      {
+        "id": "amerigo-vespucci",
+        "icon": "🗺️",
+        "label": {
+          "de": "Amerigo Vespucci",
+          "en": "Amerigo Vespucci",
+          "it": "Amerigo Vespucci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Marco Polo reiste von Venedig bis nach China.",
+      "en": "Marco Polo travelled from Venice all the way to China.",
+      "it": "Marco Polo viaggiò da Venezia fino in Cina."
+    },
+    "funFact": {
+      "de": "Er war über zwanzig Jahre lang unterwegs.",
+      "en": "He was away for more than twenty years.",
+      "it": "Rimase in viaggio per più di vent'anni."
+    },
+    "tags": [
+      "history",
+      "explorers"
+    ]
+  },
+  {
+    "id": "italy-columbus-city",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Aus welcher italienischen Stadt kam Christoph Kolumbus?",
+      "en": "Which Italian city did Christopher Columbus come from?",
+      "it": "Di quale città era Cristoforo Colombo?"
+    },
+    "answers": [
+      {
+        "id": "genoa",
+        "icon": "⚓",
+        "label": {
+          "de": "Genua",
+          "en": "Genoa",
+          "it": "Genova"
+        },
+        "correct": true
+      },
+      {
+        "id": "venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Venedig",
+          "en": "Venice",
+          "it": "Venezia"
+        },
+        "correct": false
+      },
+      {
+        "id": "rome",
+        "icon": "🏛️",
+        "label": {
+          "de": "Rom",
+          "en": "Rome",
+          "it": "Roma"
+        },
+        "correct": false
+      },
+      {
+        "id": "naples",
+        "icon": "🍕",
+        "label": {
+          "de": "Neapel",
+          "en": "Naples",
+          "it": "Napoli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Kolumbus kam aus der Hafenstadt Genua.",
+      "en": "Columbus came from the port city of Genoa.",
+      "it": "Colombo era della città portuale di Genova."
+    },
+    "funFact": {
+      "de": "Er segelte 1492 über den Atlantik nach Amerika.",
+      "en": "In 1492 he sailed across the Atlantic to America.",
+      "it": "Nel 1492 attraversò l'Atlantico fino in America."
+    },
+    "tags": [
+      "history",
+      "explorers"
+    ]
+  },
+  {
+    "id": "italy-america-named",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Nach welchem Italiener wurde Amerika benannt?",
+      "en": "Which Italian was America named after?",
+      "it": "Da quale italiano prende il nome l'America?"
+    },
+    "answers": [
+      {
+        "id": "amerigo-vespucci",
+        "icon": "🗺️",
+        "label": {
+          "de": "Amerigo Vespucci",
+          "en": "Amerigo Vespucci",
+          "it": "Amerigo Vespucci"
+        },
+        "correct": true
+      },
+      {
+        "id": "christopher-columbus",
+        "icon": "⛵",
+        "label": {
+          "de": "Christoph Kolumbus",
+          "en": "Christopher Columbus",
+          "it": "Cristoforo Colombo"
+        },
+        "correct": false
+      },
+      {
+        "id": "marco-polo",
+        "icon": "🐫",
+        "label": {
+          "de": "Marco Polo",
+          "en": "Marco Polo",
+          "it": "Marco Polo"
+        },
+        "correct": false
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Amerika ist nach Amerigo Vespucci benannt.",
+      "en": "America is named after Amerigo Vespucci.",
+      "it": "L'America prende il nome da Amerigo Vespucci."
+    },
+    "funFact": {
+      "de": "Vespucci kam aus Florenz und erkannte, dass Amerika ein eigener Kontinent ist.",
+      "en": "Vespucci came from Florence and realised America was a continent of its own.",
+      "it": "Vespucci era fiorentino e capì che l'America era un continente a sé."
+    },
+    "tags": [
+      "history",
+      "explorers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "italy-volta",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Italiener baute die erste Batterie?",
+      "en": "Which Italian built the first battery?",
+      "it": "Quale italiano costruì la prima pila?"
+    },
+    "answers": [
+      {
+        "id": "alessandro-volta",
+        "icon": "🔋",
+        "label": {
+          "de": "Alessandro Volta",
+          "en": "Alessandro Volta",
+          "it": "Alessandro Volta"
+        },
+        "correct": true
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      },
+      {
+        "id": "guglielmo-marconi",
+        "icon": "📻",
+        "label": {
+          "de": "Guglielmo Marconi",
+          "en": "Guglielmo Marconi",
+          "it": "Guglielmo Marconi"
+        },
+        "correct": false
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Alessandro Volta baute um 1800 die erste Batterie.",
+      "en": "Alessandro Volta built the first battery around 1800.",
+      "it": "Alessandro Volta costruì la prima pila intorno al 1800."
+    },
+    "funFact": {
+      "de": "Nach ihm ist die Einheit «Volt» benannt.",
+      "en": "The unit “volt” is named after him.",
+      "it": "Da lui prende il nome l'unità «volt»."
+    },
+    "tags": [
+      "inventions",
+      "science"
+    ]
+  },
+  {
+    "id": "italy-marconi",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Italiener war ein Pionier des Radios?",
+      "en": "Which Italian was a pioneer of radio?",
+      "it": "Quale italiano fu un pioniere della radio?"
+    },
+    "answers": [
+      {
+        "id": "guglielmo-marconi",
+        "icon": "📻",
+        "label": {
+          "de": "Guglielmo Marconi",
+          "en": "Guglielmo Marconi",
+          "it": "Guglielmo Marconi"
+        },
+        "correct": true
+      },
+      {
+        "id": "alessandro-volta",
+        "icon": "🔋",
+        "label": {
+          "de": "Alessandro Volta",
+          "en": "Alessandro Volta",
+          "it": "Alessandro Volta"
+        },
+        "correct": false
+      },
+      {
+        "id": "antonio-stradivari",
+        "icon": "🎻",
+        "label": {
+          "de": "Antonio Stradivari",
+          "en": "Antonio Stradivari",
+          "it": "Antonio Stradivari"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-pizza-maker",
+        "icon": "🍕",
+        "label": {
+          "de": "Ein Pizzabäcker",
+          "en": "A pizza maker",
+          "it": "Un pizzaiolo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Guglielmo Marconi schickte als einer der Ersten Nachrichten per Funk.",
+      "en": "Guglielmo Marconi was one of the first to send messages by radio.",
+      "it": "Guglielmo Marconi fu tra i primi a inviare messaggi via radio."
+    },
+    "funFact": {
+      "de": "Er bekam 1909 den Nobelpreis für Physik.",
+      "en": "He received the Nobel Prize in Physics in 1909.",
+      "it": "Nel 1909 ricevette il premio Nobel per la fisica."
+    },
+    "tags": [
+      "inventions",
+      "science"
+    ]
+  },
+  {
+    "id": "italy-opera",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Musiktheater mit viel Gesang entstand in Italien?",
+      "en": "Which kind of musical theatre with lots of singing began in Italy?",
+      "it": "Quale forma di teatro musicale con tanto canto è nata in Italia?"
+    },
+    "answers": [
+      {
+        "id": "opera",
+        "icon": "🎭",
+        "label": {
+          "de": "Die Oper",
+          "en": "Opera",
+          "it": "L'opera lirica"
+        },
+        "correct": true
+      },
+      {
+        "id": "hip-hop",
+        "icon": "🎤",
+        "label": {
+          "de": "Hip-Hop",
+          "en": "Hip-hop",
+          "it": "L'hip-hop"
+        },
+        "correct": false
+      },
+      {
+        "id": "yodelling",
+        "icon": "🏔️",
+        "label": {
+          "de": "Das Jodeln",
+          "en": "Yodelling",
+          "it": "Lo jodel"
+        },
+        "correct": false
+      },
+      {
+        "id": "techno",
+        "icon": "🎧",
+        "label": {
+          "de": "Techno",
+          "en": "Techno",
+          "it": "La techno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Oper entstand vor über 400 Jahren in Italien.",
+      "en": "Opera began in Italy more than 400 years ago.",
+      "it": "L'opera lirica è nata in Italia più di 400 anni fa."
+    },
+    "funFact": {
+      "de": "Das berühmteste Opernhaus in Mailand heisst «La Scala».",
+      "en": "Milan's most famous opera house is called “La Scala”.",
+      "it": "Il teatro d'opera più famoso di Milano è la Scala."
+    },
+    "tags": [
+      "music",
+      "history"
+    ]
+  },
+  {
+    "id": "italy-parmesan",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woher kommt der Parmesan-Käse?",
+      "en": "Where does Parmesan cheese come from?",
+      "it": "Da dove viene il Parmigiano?"
+    },
+    "answers": [
+      {
+        "id": "from-the-area-around-parma",
+        "icon": "🧀",
+        "label": {
+          "de": "Aus der Gegend um Parma",
+          "en": "From the area around Parma",
+          "it": "Dalla zona di Parma"
+        },
+        "correct": true
+      },
+      {
+        "id": "from-sicily",
+        "icon": "🏝️",
+        "label": {
+          "de": "Aus Sizilien",
+          "en": "From Sicily",
+          "it": "Dalla Sicilia"
+        },
+        "correct": false
+      },
+      {
+        "id": "from-venice",
+        "icon": "🛶",
+        "label": {
+          "de": "Aus Venedig",
+          "en": "From Venice",
+          "it": "Da Venezia"
+        },
+        "correct": false
+      },
+      {
+        "id": "from-vesuvius",
+        "icon": "🌋",
+        "label": {
+          "de": "Vom Vesuv",
+          "en": "From Vesuvius",
+          "it": "Dal Vesuvio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der echte Parmesan kommt aus der Gegend um Parma und Reggio Emilia.",
+      "en": "Real Parmesan comes from the area around Parma and Reggio Emilia.",
+      "it": "Il vero Parmigiano Reggiano viene dalla zona di Parma e Reggio Emilia."
+    },
+    "funFact": {
+      "de": "Ein ganzer Parmesan-Laib wiegt fast 40 Kilo.",
+      "en": "A whole wheel of Parmesan weighs almost 40 kilos.",
+      "it": "Una forma intera di Parmigiano pesa quasi 40 chili."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-risotto",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Risotto?",
+      "en": "What is risotto?",
+      "it": "Che cos'è il risotto?"
+    },
+    "answers": [
+      {
+        "id": "a-creamy-rice-dish",
+        "icon": "🍚",
+        "label": {
+          "de": "Ein cremiges Reisgericht",
+          "en": "A creamy rice dish",
+          "it": "Un piatto cremoso di riso"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-kind-of-pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Eine Art Pizza",
+          "en": "A kind of pizza",
+          "it": "Un tipo di pizza"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cake",
+        "icon": "🍰",
+        "label": {
+          "de": "Ein Kuchen",
+          "en": "A cake",
+          "it": "Una torta"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-fish-soup",
+        "icon": "🐟",
+        "label": {
+          "de": "Eine Fischsuppe",
+          "en": "A fish soup",
+          "it": "Una zuppa di pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Risotto ist ein cremiges Reisgericht aus Norditalien.",
+      "en": "Risotto is a creamy rice dish from northern Italy.",
+      "it": "Il risotto è un piatto cremoso di riso del nord Italia."
+    },
+    "funFact": {
+      "de": "Das Risotto alla milanese ist gelb, weil Safran darin ist.",
+      "en": "Risotto alla milanese is yellow because it contains saffron.",
+      "it": "Il risotto alla milanese è giallo grazie allo zafferano."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "italy-unesco",
+    "category": "italy",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Italien hat mehr Welterbe-Stätten als fast jedes andere Land. Stimmt das?",
+      "en": "Italy has more World Heritage Sites than almost any other country. Is that true?",
+      "it": "L'Italia ha più siti Patrimonio dell'Umanità di quasi ogni altro paese. È vero?"
+    },
+    "visual": "🏛️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Italien hat besonders viele Orte, die die UNESCO schützt.",
+      "en": "That's true! Italy has lots of places protected by UNESCO.",
+      "it": "È vero! L'Italia ha moltissimi luoghi protetti dall'UNESCO."
+    },
+    "funFact": {
+      "de": "Dazu gehören zum Beispiel Venedig und die Dolomiten.",
+      "en": "They include Venice and the Dolomites, for example.",
+      "it": "Tra questi ci sono Venezia e le Dolomiti."
+    },
+    "tags": [
+      "history",
+      "culture"
+    ]
+  },
+  {
+    "id": "italy-higher-mont-blanc",
+    "category": "italy",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist höher?",
+      "en": "Which is higher?",
+      "it": "Che cosa è più alto?"
+    },
+    "answers": [
+      {
+        "id": "mont-blanc",
+        "icon": "🏔️",
+        "label": {
+          "de": "Mont Blanc",
+          "en": "Mont Blanc",
+          "it": "Monte Bianco"
+        },
+        "correct": true
+      },
+      {
+        "id": "matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mont Blanc ist höher als das Matterhorn.",
+      "en": "Mont Blanc is higher than the Matterhorn.",
+      "it": "Il Monte Bianco è più alto del Cervino."
+    },
+    "funFact": {
+      "de": "Der Mont Blanc ist über 4800 Meter hoch.",
+      "en": "Mont Blanc is more than 4,800 metres high.",
+      "it": "Il Monte Bianco supera i 4800 metri."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "italy-longer-po",
+    "category": "italy",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher Fluss ist länger?",
+      "en": "Which river is longer?",
+      "it": "Quale fiume è più lungo?"
+    },
+    "answers": [
+      {
+        "id": "po",
+        "icon": "🏞️",
+        "label": {
+          "de": "Po",
+          "en": "Po",
+          "it": "Po"
+        },
+        "correct": true
+      },
+      {
+        "id": "tiber",
+        "icon": "🏛️",
+        "label": {
+          "de": "Tiber",
+          "en": "Tiber",
+          "it": "Tevere"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Po ist länger als der Tiber.",
+      "en": "The Po is longer than the Tiber.",
+      "it": "Il Po è più lungo del Tevere."
+    },
+    "funFact": {
+      "de": "Der Tiber fliesst mitten durch Rom.",
+      "en": "The Tiber flows right through Rome.",
+      "it": "Il Tevere attraversa Roma."
+    },
+    "tags": [
+      "rivers"
+    ]
+  },
+  {
+    "id": "italy-bigger-island",
+    "category": "italy",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Insel ist grösser?",
+      "en": "Which island is bigger?",
+      "it": "Quale isola è più grande?"
+    },
+    "answers": [
+      {
+        "id": "sicily",
+        "icon": "🌋",
+        "label": {
+          "de": "Sizilien",
+          "en": "Sicily",
+          "it": "Sicilia"
+        },
+        "correct": true
+      },
+      {
+        "id": "sardinia",
+        "icon": "🏝️",
+        "label": {
+          "de": "Sardinien",
+          "en": "Sardinia",
+          "it": "Sardegna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Sizilien ist ein kleines bisschen grösser als Sardinien.",
+      "en": "Sicily is a little bit bigger than Sardinia.",
+      "it": "La Sicilia è un po' più grande della Sardegna."
+    },
+    "funFact": {
+      "de": "Sizilien ist die grösste Insel im ganzen Mittelmeer.",
+      "en": "Sicily is the biggest island in the whole Mediterranean.",
+      "it": "La Sicilia è l'isola più grande di tutto il Mediterraneo."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-further-south",
+    "category": "italy",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Stadt liegt weiter im Süden?",
+      "en": "Which city is further south?",
+      "it": "Quale città è più a sud?"
+    },
+    "answers": [
+      {
+        "id": "naples",
+        "icon": "🍕",
+        "label": {
+          "de": "Neapel",
+          "en": "Naples",
+          "it": "Napoli"
+        },
+        "correct": true
+      },
+      {
+        "id": "milan",
+        "icon": "🏙️",
+        "label": {
+          "de": "Mailand",
+          "en": "Milan",
+          "it": "Milano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Neapel liegt im Süden, Mailand im Norden.",
+      "en": "Naples is in the south, Milan in the north.",
+      "it": "Napoli è al sud, Milano al nord."
+    },
+    "funFact": {
+      "de": "Im Süden Italiens ist es meistens wärmer als im Norden.",
+      "en": "It's usually warmer in southern Italy than in the north.",
+      "it": "Nel sud Italia di solito fa più caldo che al nord."
+    },
+    "tags": [
+      "geography",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-tyrrhenian",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Meer liegt westlich von Italien, zwischen Sardinien und dem Festland?",
+      "en": "Which sea lies west of Italy, between Sardinia and the mainland?",
+      "it": "Quale mare si trova a ovest dell'Italia, tra la Sardegna e la penisola?"
+    },
+    "answers": [
+      {
+        "id": "tyrrhenian-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "Tyrrhenisches Meer",
+          "en": "Tyrrhenian Sea",
+          "it": "Mar Tirreno"
+        },
+        "correct": true
+      },
+      {
+        "id": "adriatic-sea",
+        "icon": "🏖️",
+        "label": {
+          "de": "Adria",
+          "en": "Adriatic Sea",
+          "it": "Mare Adriatico"
+        },
+        "correct": false
+      },
+      {
+        "id": "north-sea",
+        "icon": "❄️",
+        "label": {
+          "de": "Nordsee",
+          "en": "North Sea",
+          "it": "Mare del Nord"
+        },
+        "correct": false
+      },
+      {
+        "id": "baltic-sea",
+        "icon": "🧊",
+        "label": {
+          "de": "Ostsee",
+          "en": "Baltic Sea",
+          "it": "Mar Baltico"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Zwischen Sardinien und dem Festland liegt das Tyrrhenische Meer.",
+      "en": "The Tyrrhenian Sea lies between Sardinia and the mainland.",
+      "it": "Tra la Sardegna e la penisola c'è il Mar Tirreno."
+    },
+    "funFact": {
+      "de": "Der Name kommt von einem alten Volk, den Etruskern.",
+      "en": "Its name comes from an ancient people, the Etruscans.",
+      "it": "Il nome deriva da un popolo antico, gli Etruschi."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "italy-shared-lake",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher See liegt teils in der Schweiz und teils in Italien?",
+      "en": "Which lake lies partly in Switzerland and partly in Italy?",
+      "it": "Quale lago si trova in parte in Svizzera e in parte in Italia?"
+    },
+    "answers": [
+      {
+        "id": "lake-maggiore",
+        "icon": "⛵",
+        "label": {
+          "de": "Lago Maggiore",
+          "en": "Lake Maggiore",
+          "it": "Lago Maggiore"
+        },
+        "correct": true
+      },
+      {
+        "id": "lake-garda",
+        "icon": "🏞️",
+        "label": {
+          "de": "Gardasee",
+          "en": "Lake Garda",
+          "it": "Lago di Garda"
+        },
+        "correct": false
+      },
+      {
+        "id": "lake-geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genfersee",
+          "en": "Lake Geneva",
+          "it": "Lago Lemano"
+        },
+        "correct": false
+      },
+      {
+        "id": "lake-constance",
+        "icon": "🌊",
+        "label": {
+          "de": "Bodensee",
+          "en": "Lake Constance",
+          "it": "Lago di Costanza"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Lago Maggiore liegt in der Schweiz und in Italien.",
+      "en": "Lake Maggiore lies in Switzerland and Italy.",
+      "it": "Il Lago Maggiore è in parte svizzero e in parte italiano."
+    },
+    "funFact": {
+      "de": "Am Schweizer Ufer liegen Locarno und Ascona.",
+      "en": "Locarno and Ascona lie on its Swiss shore.",
+      "it": "Sulla sponda svizzera ci sono Locarno e Ascona."
+    },
+    "tags": [
+      "geography",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "italy-venice-carnival",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Bei welchem Fest in Venedig tragen viele Menschen schöne Masken?",
+      "en": "At which festival in Venice do lots of people wear beautiful masks?",
+      "it": "In quale festa a Venezia molte persone indossano bellissime maschere?"
+    },
+    "answers": [
+      {
+        "id": "carnival",
+        "icon": "🎭",
+        "label": {
+          "de": "Beim Karneval",
+          "en": "Carnival",
+          "it": "Carnevale"
+        },
+        "correct": true
+      },
+      {
+        "id": "oktoberfest",
+        "icon": "🍺",
+        "label": {
+          "de": "Beim Oktoberfest",
+          "en": "Oktoberfest",
+          "it": "Oktoberfest"
+        },
+        "correct": false
+      },
+      {
+        "id": "halloween",
+        "icon": "🎃",
+        "label": {
+          "de": "An Halloween",
+          "en": "Halloween",
+          "it": "Halloween"
+        },
+        "correct": false
+      },
+      {
+        "id": "sechsel-uten",
+        "icon": "⛄",
+        "label": {
+          "de": "Am Sechseläuten",
+          "en": "Sechseläuten",
+          "it": "Sechseläuten"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Karneval von Venedig tragen viele Menschen Masken.",
+      "en": "At the Venice Carnival, lots of people wear masks.",
+      "it": "Al Carnevale di Venezia molti indossano maschere."
+    },
+    "funFact": {
+      "de": "Viele Masken sind aus Pappmaché und mit Gold verziert.",
+      "en": "Many masks are made of papier-mâché and decorated with gold.",
+      "it": "Molte maschere sono di cartapesta e decorate d'oro."
+    },
+    "tags": [
+      "traditions",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-ticino-river",
+    "category": "italy",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Der Fluss Tessin fliesst von der Schweiz nach Italien. Stimmt das?",
+      "en": "The river Ticino flows from Switzerland into Italy. Is that true?",
+      "it": "Il fiume Ticino scorre dalla Svizzera all'Italia. È vero?"
+    },
+    "visual": "🏞️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Er beginnt in den Schweizer Alpen und fliesst durch den Lago Maggiore.",
+      "en": "That's true! It starts in the Swiss Alps and flows through Lake Maggiore.",
+      "it": "È vero! Nasce nelle Alpi svizzere e attraversa il Lago Maggiore."
+    },
+    "funFact": {
+      "de": "Danach fliesst er in den Po.",
+      "en": "Then it flows into the Po.",
+      "it": "Poi si getta nel Po."
+    },
+    "tags": [
+      "rivers",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "italy-piazza",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist eine «Piazza»?",
+      "en": "What is a “piazza”?",
+      "it": "Che cos'è una piazza?"
+    },
+    "answers": [
+      {
+        "id": "a-town-square",
+        "icon": "🏛️",
+        "label": {
+          "de": "Ein Platz in der Stadt",
+          "en": "A town square",
+          "it": "Uno spazio aperto in città"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-pizza-with-egg",
+        "icon": "🍕",
+        "label": {
+          "de": "Eine Pizza mit Ei",
+          "en": "A pizza with egg",
+          "it": "Una pizza con l'uovo"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-boat",
+        "icon": "⛵",
+        "label": {
+          "de": "Ein Boot",
+          "en": "A boat",
+          "it": "Una barca"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-mountain",
+        "icon": "⛰️",
+        "label": {
+          "de": "Ein Berg",
+          "en": "A mountain",
+          "it": "Una montagna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Piazza ist ein Platz in der Stadt.",
+      "en": "A piazza is a town square.",
+      "it": "La piazza è uno spazio aperto in città, circondato da edifici."
+    },
+    "funFact": {
+      "de": "Auf der Piazza treffen sich die Leute zum Plaudern.",
+      "en": "People meet in the piazza to chat.",
+      "it": "In piazza la gente si incontra per chiacchierare."
+    },
+    "tags": [
+      "language",
+      "cities"
+    ]
+  },
+  {
+    "id": "italy-unified",
+    "category": "italy",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welchem Jahr wurde Italien ein vereintes Land?",
+      "en": "In which year did Italy become one united country?",
+      "it": "In che anno l'Italia è diventata un paese unito?"
+    },
+    "answers": [
+      {
+        "id": "1861",
+        "icon": "📜",
+        "label": {
+          "de": "1861",
+          "en": "1861",
+          "it": "1861"
+        },
+        "correct": true
+      },
+      {
+        "id": "1291",
+        "icon": "🏰",
+        "label": {
+          "de": "1291",
+          "en": "1291",
+          "it": "1291"
+        },
+        "correct": false
+      },
+      {
+        "id": "1991",
+        "icon": "💿",
+        "label": {
+          "de": "1991",
+          "en": "1991",
+          "it": "1991"
+        },
+        "correct": false
+      },
+      {
+        "id": "1066",
+        "icon": "⚔️",
+        "label": {
+          "de": "1066",
+          "en": "1066",
+          "it": "1066"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Italien wurde 1861 ein vereintes Königreich.",
+      "en": "Italy became a united kingdom in 1861.",
+      "it": "L'Italia è diventata un regno unito nel 1861."
+    },
+    "funFact": {
+      "de": "Vorher bestand Italien aus vielen einzelnen Staaten.",
+      "en": "Before that, Italy was made up of many separate states.",
+      "it": "Prima l'Italia era divisa in tanti stati diversi."
+    },
+    "tags": [
+      "history"
+    ]
+  }
+]

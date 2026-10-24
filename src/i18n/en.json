@@ -1,0 +1,170 @@
+{
+  "start": {
+    "go": "Let's go!",
+    "greeting": "Hello! I'm Pip the owl. Who is playing today?"
+  },
+  "profiles": {
+    "who": "Who is playing?",
+    "hello": "Hi {name}!",
+    "setupTitle": "Welcome to Wunderfrage!",
+    "setupText": "Let's create a profile for each child. This takes one minute.",
+    "setupButton": "Set up profiles"
+  },
+  "home": {
+    "choose": "What would you like to play?",
+    "switch": "Switch player",
+    "letsGo": "{category}! Let's go!",
+    "book": "My collection",
+    "plant": "My plant"
+  },
+  "categories": {
+    "science": "Science",
+    "maths": "Maths",
+    "deutsch": "German",
+    "italiano": "Italian",
+    "switzerland": "Switzerland",
+    "italy": "Italy",
+    "america": "America",
+    "animals": "Animals",
+    "body": "My body",
+    "space": "Space",
+    "nature": "Nature",
+    "surprise": "Surprise mix"
+  },
+  "quiz": {
+    "replay": "Listen again",
+    "confirm": "This one!",
+    "next": "Next",
+    "stop": "Stop",
+    "hint": "Tap a picture once to hear it. Tap it again to choose it!",
+    "true": "True",
+    "false": "Not true"
+  },
+  "feedback": {
+    "praise": [
+      "Great job!",
+      "Wow, you got it!",
+      "That's right!",
+      "Super!",
+      "Fantastic!",
+      "You're a star!",
+      "Brilliant!",
+      "Yes, exactly!",
+      "Well done!",
+      "Hooray, correct!",
+      "Amazing!",
+      "You're so clever!",
+      "Spot on!",
+      "Wonderful!",
+      "Excellent thinking!",
+      "Bravo!",
+      "You nailed it!",
+      "Woohoo, that's right!",
+      "Perfect!",
+      "You really knew that one!"
+    ],
+    "tryAgain": [
+      "Good try!",
+      "Nice thinking!",
+      "Almost!",
+      "Good guess!",
+      "Not quite, but well tried!"
+    ],
+    "answerIs": "The answer is: {answer}.",
+    "isTrue": "It's true!",
+    "isFalse": "That's not true.",
+    "funFact": "Did you know?",
+    "wordIs": "In {language}, you say:"
+  },
+  "roundEnd": {
+    "title": "Well done!",
+    "stars": "You collected {n} stars!",
+    "starsOne": "You collected one star!",
+    "starsNone": "You played a whole round! Every round makes you smarter.",
+    "again": "Play again",
+    "home": "Home",
+    "perfect": "Every single answer was right!",
+    "book": "My collection"
+  },
+  "gate": {
+    "hold": "Grown-ups: hold for 3 seconds",
+    "question": "What is {a} × {b}?",
+    "wrong": "Not quite. Here's another one:",
+    "cancel": "Cancel",
+    "ok": "OK"
+  },
+  "parent": {
+    "title": "Parent area",
+    "profiles": "Profiles",
+    "addProfile": "Add child",
+    "newProfile": "New profile",
+    "editProfile": "Edit profile",
+    "name": "Name",
+    "avatar": "Character",
+    "level": "Level",
+    "little": "Little (about 5)",
+    "big": "Big (about 8)",
+    "language": "Language",
+    "speechRate": "Speaking speed",
+    "slower": "slower",
+    "faster": "faster",
+    "test": "Test voice",
+    "testSentence": "Hello {name}! This is how I sound.",
+    "sound": "Sound effects",
+    "on": "On",
+    "off": "Off",
+    "categories": "Topics",
+    "noQuestionsYet": "no questions yet",
+    "reset": "Reset progress",
+    "resetConfirm": "Really delete all progress for {name}? This cannot be undone.",
+    "delete": "Delete profile",
+    "deleteConfirm": "Really delete {name}'s profile and all progress?",
+    "save": "Save",
+    "cancel": "Cancel",
+    "done": "Done",
+    "voices": "Voices on this device",
+    "voiceAuto": "Automatic: {voice}",
+    "voiceNone": "No voice found",
+    "voiceTip": "Tip: on the iPad, download “Enhanced” or “Premium” voices in Settings → Accessibility → Spoken Content → Voices for nicer speech, then restart the app.",
+    "parentLanguage": "Language of this parent area",
+    "noName": "Please enter a name.",
+    "storage": "Storage",
+    "persisted": "Progress is stored permanently on this device.",
+    "notPersisted": "The browser may clear progress if storage runs low. Add the app to the Home Screen to keep it safe.",
+    "stats": "{stars} stars · {answered} questions answered"
+  },
+  "languageName": {
+    "de": "German",
+    "en": "English",
+    "it": "Italian"
+  },
+  "rewards": {
+    "present": "You've earned a present!",
+    "tapToOpen": "Tap the present to open it!",
+    "newSticker": "A new sticker: {name}!",
+    "newBadge": "A new explorer badge: {tier} for {category}!",
+    "plantWater": "You played today, so your plant got some water!",
+    "plantGrew": "Look, your plant has grown!",
+    "nextSticker": "{n} more stars until your next sticker!",
+    "nextStickerOne": "Just one more star until your next sticker!",
+    "allStickers": "You've collected every single sticker. Amazing!",
+    "tier10": "Bronze",
+    "tier25": "Silver",
+    "tier50": "Gold",
+    "tier100": "Diamond"
+  },
+  "collection": {
+    "title": "My collection",
+    "stickers": "Stickers",
+    "badges": "Badges",
+    "locked": "Not collected yet. Keep collecting stars!",
+    "count": "{n} of {total}",
+    "badgeInfo": "{tier} badge for {category}: {n} correct answers.",
+    "badgeLocked": "Answer {n} questions right in {category} to win this badge. You have {have} so far."
+  },
+  "plant": {
+    "none": "Play a round and your plant will start to grow!",
+    "one": "You've played on one day. Your plant has started to grow!",
+    "days": "You've played on {n} days. Look how your plant is growing!"
+  }
+}

@@ -1,0 +1,4752 @@
+[
+  {
+    "id": "nature-rainbow",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was siehst du manchmal, wenn Sonne und Regen zusammenkommen?",
+      "en": "What can you sometimes see when there's sun and rain together?",
+      "it": "Che cosa vedi a volte quando ci sono insieme sole e pioggia?"
+    },
+    "answers": [
+      {
+        "id": "rainbow",
+        "icon": "🌈",
+        "label": {
+          "de": "Regenbogen",
+          "en": "Rainbow",
+          "it": "Arcobaleno"
+        },
+        "correct": true
+      },
+      {
+        "id": "snowman",
+        "icon": "⛄",
+        "label": {
+          "de": "Schneemann",
+          "en": "Snowman",
+          "it": "Pupazzo di neve"
+        },
+        "correct": false
+      },
+      {
+        "id": "moon",
+        "icon": "🌙",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei Sonne und Regen siehst du manchmal einen Regenbogen.",
+      "en": "With sun and rain together you can sometimes see a rainbow.",
+      "it": "Con sole e pioggia a volte si vede l'arcobaleno."
+    },
+    "funFact": {
+      "de": "Man sagt, der Regenbogen hat sieben Farben.",
+      "en": "People say a rainbow has seven colours.",
+      "it": "Si dice che l'arcobaleno abbia sette colori."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-rain-from",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Woher kommt der Regen?",
+      "en": "Where does rain come from?",
+      "it": "Da dove viene la pioggia?"
+    },
+    "answers": [
+      {
+        "id": "from-the-clouds",
+        "icon": "☁️",
+        "label": {
+          "de": "Aus den Wolken",
+          "en": "From the clouds",
+          "it": "Dalle nuvole"
+        },
+        "correct": true
+      },
+      {
+        "id": "from-the-trees",
+        "icon": "🌳",
+        "label": {
+          "de": "Aus den Bäumen",
+          "en": "From the trees",
+          "it": "Dagli alberi"
+        },
+        "correct": false
+      },
+      {
+        "id": "from-the-mountains",
+        "icon": "🏔️",
+        "label": {
+          "de": "Aus den Bergen",
+          "en": "From the mountains",
+          "it": "Dalle montagne"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Regen fällt aus den Wolken.",
+      "en": "Rain falls from the clouds.",
+      "it": "La pioggia cade dalle nuvole."
+    },
+    "funFact": {
+      "de": "Wolken bestehen aus winzigen Wassertröpfchen.",
+      "en": "Clouds are made of tiny drops of water.",
+      "it": "Le nuvole sono fatte di minuscole goccioline d'acqua."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-snow-season",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann schneit es bei uns meistens?",
+      "en": "When does it usually snow here?",
+      "it": "Quando nevica di solito da noi?"
+    },
+    "answers": [
+      {
+        "id": "in-winter",
+        "icon": "⛄",
+        "label": {
+          "de": "Im Winter",
+          "en": "In winter",
+          "it": "D'inverno"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-summer",
+        "icon": "☀️",
+        "label": {
+          "de": "Im Sommer",
+          "en": "In summer",
+          "it": "D'estate"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-a-hot-beach",
+        "icon": "🏖️",
+        "label": {
+          "de": "Am heissen Strand",
+          "en": "On a hot beach",
+          "it": "Sulla spiaggia calda"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Winter ist es kalt. Dann schneit es oft.",
+      "en": "Winter is cold, so it often snows.",
+      "it": "D'inverno fa freddo e spesso nevica."
+    },
+    "funFact": {
+      "de": "Jede Schneeflocke hat sechs Arme.",
+      "en": "Every snowflake has six arms.",
+      "it": "Ogni fiocco di neve ha sei punte."
+    },
+    "tags": [
+      "seasons",
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-leaves-fall",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann fallen die Blätter von den Bäumen?",
+      "en": "When do the leaves fall off the trees?",
+      "it": "Quando cadono le foglie dagli alberi?"
+    },
+    "answers": [
+      {
+        "id": "in-autumn",
+        "icon": "🍂",
+        "label": {
+          "de": "Im Herbst",
+          "en": "In autumn",
+          "it": "In autunno"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-spring",
+        "icon": "🌷",
+        "label": {
+          "de": "Im Frühling",
+          "en": "In spring",
+          "it": "In primavera"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-summer",
+        "icon": "☀️",
+        "label": {
+          "de": "Im Sommer",
+          "en": "In summer",
+          "it": "D'estate"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Herbst fallen die Blätter.",
+      "en": "Leaves fall in autumn.",
+      "it": "In autunno cadono le foglie."
+    },
+    "funFact": {
+      "de": "Im Herbst werden die Blätter gelb, orange und rot.",
+      "en": "In autumn, leaves turn yellow, orange and red.",
+      "it": "In autunno le foglie diventano gialle, arancioni e rosse."
+    },
+    "tags": [
+      "seasons",
+      "trees"
+    ]
+  },
+  {
+    "id": "nature-first-flowers",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann blühen die ersten bunten Blumen?",
+      "en": "When do the first colourful flowers bloom?",
+      "it": "Quando sbocciano i primi fiori colorati?"
+    },
+    "answers": [
+      {
+        "id": "in-spring",
+        "icon": "🌷",
+        "label": {
+          "de": "Im Frühling",
+          "en": "In spring",
+          "it": "In primavera"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-autumn",
+        "icon": "🍂",
+        "label": {
+          "de": "Im Herbst",
+          "en": "In autumn",
+          "it": "In autunno"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-middle-of-winter",
+        "icon": "⛄",
+        "label": {
+          "de": "Mitten im Winter",
+          "en": "In the middle of winter",
+          "it": "In pieno inverno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Frühling blühen viele Blumen.",
+      "en": "Lots of flowers bloom in spring.",
+      "it": "In primavera sbocciano tanti fiori."
+    },
+    "funFact": {
+      "de": "Schneeglöckchen blühen manchmal schon, wenn noch Schnee liegt.",
+      "en": "Snowdrops sometimes flower while there's still snow on the ground.",
+      "it": "I bucaneve a volte fioriscono quando c'è ancora la neve."
+    },
+    "tags": [
+      "seasons",
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-plants-need",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was brauchen Pflanzen zum Wachsen?",
+      "en": "What do plants need to grow?",
+      "it": "Di che cosa hanno bisogno le piante per crescere?"
+    },
+    "answers": [
+      {
+        "id": "water-and-light",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser und Licht",
+          "en": "Water and light",
+          "it": "Acqua e luce"
+        },
+        "correct": true
+      },
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "television",
+        "icon": "📺",
+        "label": {
+          "de": "Fernsehen",
+          "en": "Television",
+          "it": "Televisione"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pflanzen brauchen Wasser, Licht und gute Erde.",
+      "en": "Plants need water, light and good soil.",
+      "it": "Le piante hanno bisogno di acqua, luce e terra buona."
+    },
+    "funFact": {
+      "de": "Pflanzen machen aus Licht, Wasser und Luft ihre eigene Nahrung.",
+      "en": "Plants make their own food from light, water and air.",
+      "it": "Le piante si fanno il cibo da sole con luce, acqua e aria."
+    },
+    "tags": [
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-apples-grow",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo wachsen Äpfel?",
+      "en": "Where do apples grow?",
+      "it": "Dove crescono le mele?"
+    },
+    "answers": [
+      {
+        "id": "on-a-tree",
+        "icon": "🌳",
+        "label": {
+          "de": "Am Baum",
+          "en": "On a tree",
+          "it": "Sull'albero"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "Im Meer",
+          "en": "In the sea",
+          "it": "Nel mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-clouds",
+        "icon": "☁️",
+        "label": {
+          "de": "In den Wolken",
+          "en": "In the clouds",
+          "it": "Tra le nuvole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Äpfel wachsen am Apfelbaum.",
+      "en": "Apples grow on apple trees.",
+      "it": "Le mele crescono sul melo."
+    },
+    "funFact": {
+      "de": "Aus jeder Apfelblüte kann ein Apfel werden.",
+      "en": "Every apple blossom can become an apple.",
+      "it": "Da ogni fiore di melo può nascere una mela."
+    },
+    "tags": [
+      "trees",
+      "food"
+    ]
+  },
+  {
+    "id": "nature-bees-flowers",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Bienen fliegen gern zu Blumen. Stimmt das?",
+      "en": "Bees love flying to flowers. Is that true?",
+      "it": "Alle api piace volare sui fiori. È vero?"
+    },
+    "visual": "🐝🌸",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! In den Blumen finden sie süssen Nektar.",
+      "en": "That's true! They find sweet nectar in the flowers.",
+      "it": "È vero! Nei fiori trovano il nettare dolce."
+    },
+    "funFact": {
+      "de": "Bienen sehen Farben, die wir Menschen nicht sehen können.",
+      "en": "Bees can see colours that people can't see.",
+      "it": "Le api vedono colori che noi non possiamo vedere."
+    },
+    "tags": [
+      "insects",
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-day-light",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht den Tag hell?",
+      "en": "What makes the daytime bright?",
+      "it": "Che cosa rende luminoso il giorno?"
+    },
+    "answers": [
+      {
+        "id": "the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Die Sonne",
+          "en": "The sun",
+          "it": "Il sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-moon",
+        "icon": "🌙",
+        "label": {
+          "de": "Der Mond",
+          "en": "The moon",
+          "it": "La luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-torch",
+        "icon": "🔦",
+        "label": {
+          "de": "Eine Taschenlampe",
+          "en": "A torch",
+          "it": "Una torcia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne macht den Tag hell und warm.",
+      "en": "The sun makes the day bright and warm.",
+      "it": "Il sole rende il giorno luminoso e caldo."
+    },
+    "funFact": {
+      "de": "Die Sonne ist ein riesiger Stern.",
+      "en": "The sun is a gigantic star.",
+      "it": "Il sole è una stella enorme."
+    },
+    "tags": [
+      "sky"
+    ]
+  },
+  {
+    "id": "nature-thunderstorm",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hörst du bei einem Gewitter?",
+      "en": "What do you hear in a thunderstorm?",
+      "it": "Che cosa senti durante un temporale?"
+    },
+    "answers": [
+      {
+        "id": "thunder",
+        "icon": "⛈️",
+        "label": {
+          "de": "Donner",
+          "en": "Thunder",
+          "it": "Tuono"
+        },
+        "correct": true
+      },
+      {
+        "id": "music",
+        "icon": "🎶",
+        "label": {
+          "de": "Musik",
+          "en": "Music",
+          "it": "Musica"
+        },
+        "correct": false
+      },
+      {
+        "id": "barking",
+        "icon": "🐶",
+        "label": {
+          "de": "Bellen",
+          "en": "Barking",
+          "it": "Abbaiare"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei einem Gewitter donnert es.",
+      "en": "In a thunderstorm you hear thunder.",
+      "it": "Durante un temporale tuona."
+    },
+    "funFact": {
+      "de": "Zuerst siehst du den Blitz, dann hörst du den Donner. Licht ist schneller als Schall.",
+      "en": "You see the lightning first and hear the thunder after. Light is faster than sound.",
+      "it": "Prima vedi il lampo, poi senti il tuono: la luce è più veloce del suono."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-seed-becomes",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was wird aus einem Samen?",
+      "en": "What does a seed turn into?",
+      "it": "Che cosa diventa un seme?"
+    },
+    "answers": [
+      {
+        "id": "a-plant",
+        "icon": "🌱",
+        "label": {
+          "de": "Eine Pflanze",
+          "en": "A plant",
+          "it": "Una pianta"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Ein Stein",
+          "en": "A stone",
+          "it": "Un sasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Ein Fisch",
+          "en": "A fish",
+          "it": "Un pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus einem Samen wächst eine Pflanze.",
+      "en": "A plant grows from a seed.",
+      "it": "Da un seme nasce una pianta."
+    },
+    "funFact": {
+      "de": "Eine riesige Eiche wächst aus einer kleinen Eichel.",
+      "en": "A huge oak tree grows from a little acorn.",
+      "it": "Una grande quercia nasce da una piccola ghianda."
+    },
+    "tags": [
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-forest-home",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer wohnt im Wald?",
+      "en": "Who lives in the forest?",
+      "it": "Chi vive nel bosco?"
+    },
+    "answers": [
+      {
+        "id": "fox",
+        "icon": "🦊",
+        "label": {
+          "de": "Fuchs",
+          "en": "Fox",
+          "it": "Volpe"
+        },
+        "correct": true
+      },
+      {
+        "id": "whale",
+        "icon": "🐳",
+        "label": {
+          "de": "Wal",
+          "en": "Whale",
+          "it": "Balena"
+        },
+        "correct": false
+      },
+      {
+        "id": "camel",
+        "icon": "🐪",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Fuchs wohnt im Wald.",
+      "en": "The fox lives in the forest.",
+      "it": "La volpe vive nel bosco."
+    },
+    "funFact": {
+      "de": "Füchse wohnen in einer Höhle unter der Erde, dem Fuchsbau.",
+      "en": "Foxes live in an underground home called a den.",
+      "it": "Le volpi vivono in una tana sotto terra."
+    },
+    "tags": [
+      "forest"
+    ]
+  },
+  {
+    "id": "nature-ice-melts",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Eis schmilzt, wenn es warm wird. Stimmt das?",
+      "en": "Ice melts when it gets warm. Is that true?",
+      "it": "Il ghiaccio si scioglie quando fa caldo. È vero?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Aus Eis wird wieder Wasser.",
+      "en": "That's true! The ice turns back into water.",
+      "it": "È vero! Il ghiaccio torna a essere acqua."
+    },
+    "funFact": {
+      "de": "Eis schwimmt oben auf dem Wasser.",
+      "en": "Ice floats on top of water.",
+      "it": "Il ghiaccio galleggia sull'acqua."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "nature-after-rain",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was bleibt nach dem Regen auf dem Weg?",
+      "en": "What is left on the path after it rains?",
+      "it": "Che cosa resta sul sentiero dopo la pioggia?"
+    },
+    "answers": [
+      {
+        "id": "puddles",
+        "icon": "💦",
+        "label": {
+          "de": "Pfützen",
+          "en": "Puddles",
+          "it": "Pozzanghere"
+        },
+        "correct": true
+      },
+      {
+        "id": "biscuits",
+        "icon": "🍪",
+        "label": {
+          "de": "Kekse",
+          "en": "Biscuits",
+          "it": "Biscotti"
+        },
+        "correct": false
+      },
+      {
+        "id": "teddy-bears",
+        "icon": "🧸",
+        "label": {
+          "de": "Teddybären",
+          "en": "Teddy bears",
+          "it": "Orsacchiotti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Nach dem Regen gibt es Pfützen.",
+      "en": "After the rain there are puddles.",
+      "it": "Dopo la pioggia ci sono le pozzanghere."
+    },
+    "funFact": {
+      "de": "Wenn die Sonne scheint, verdunstet das Wasser aus der Pfütze.",
+      "en": "When the sun shines, the water in a puddle dries up into the air.",
+      "it": "Quando c'è il sole, l'acqua della pozzanghera evapora."
+    },
+    "tags": [
+      "weather",
+      "water"
+    ]
+  },
+  {
+    "id": "nature-wind-invisible",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Den Wind kann man nicht sehen, aber spüren. Stimmt das?",
+      "en": "You can't see the wind, but you can feel it. Is that true?",
+      "it": "Il vento non si vede, ma si sente. È vero?"
+    },
+    "visual": "🌬️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Du siehst nur, wie er Blätter und Drachen bewegt.",
+      "en": "That's true! You only see it moving leaves and kites.",
+      "it": "È vero! Vedi solo come muove foglie e aquiloni."
+    },
+    "funFact": {
+      "de": "Mit Windrädern macht man aus Wind Strom.",
+      "en": "Wind turbines turn wind into electricity.",
+      "it": "Con le pale eoliche il vento diventa elettricità."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-night-sky",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was siehst du nachts am Himmel?",
+      "en": "What do you see in the sky at night?",
+      "it": "Che cosa vedi in cielo di notte?"
+    },
+    "answers": [
+      {
+        "id": "stars",
+        "icon": "⭐",
+        "label": {
+          "de": "Sterne",
+          "en": "Stars",
+          "it": "Stelle"
+        },
+        "correct": true
+      },
+      {
+        "id": "rainbow",
+        "icon": "🌈",
+        "label": {
+          "de": "Regenbogen",
+          "en": "Rainbow",
+          "it": "Arcobaleno"
+        },
+        "correct": false
+      },
+      {
+        "id": "butterflies",
+        "icon": "🦋",
+        "label": {
+          "de": "Schmetterlinge",
+          "en": "Butterflies",
+          "it": "Farfalle"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Nachts siehst du Sterne am Himmel.",
+      "en": "At night you can see stars in the sky.",
+      "it": "Di notte in cielo vedi le stelle."
+    },
+    "funFact": {
+      "de": "Weit weg von Lampen und Lichtern sieht man viel mehr Sterne.",
+      "en": "Far away from lamps and lights you can see many more stars.",
+      "it": "Lontano dalle luci della città si vedono molte più stelle."
+    },
+    "tags": [
+      "sky"
+    ]
+  },
+  {
+    "id": "nature-mushrooms",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo wachsen viele Pilze?",
+      "en": "Where do lots of mushrooms grow?",
+      "it": "Dove crescono tanti funghi?"
+    },
+    "answers": [
+      {
+        "id": "in-the-forest",
+        "icon": "🌲",
+        "label": {
+          "de": "Im Wald",
+          "en": "In the forest",
+          "it": "Nel bosco"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "Im Meer",
+          "en": "In the sea",
+          "it": "Nel mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-clouds",
+        "icon": "☁️",
+        "label": {
+          "de": "In den Wolken",
+          "en": "In the clouds",
+          "it": "Tra le nuvole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im feuchten Wald wachsen viele Pilze.",
+      "en": "Lots of mushrooms grow in damp forests.",
+      "it": "Nel bosco umido crescono tanti funghi."
+    },
+    "funFact": {
+      "de": "Viele Pilze sind giftig. Darum: Pilze nie selbst pflücken und essen!",
+      "en": "Many mushrooms are poisonous. So never pick and eat mushrooms yourself!",
+      "it": "Molti funghi sono velenosi: non raccoglierli e non mangiarli mai da solo!"
+    },
+    "tags": [
+      "forest",
+      "safety"
+    ]
+  },
+  {
+    "id": "nature-desert-plant",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Pflanze wächst in der Wüste?",
+      "en": "Which plant grows in the desert?",
+      "it": "Quale pianta cresce nel deserto?"
+    },
+    "answers": [
+      {
+        "id": "cactus",
+        "icon": "🌵",
+        "label": {
+          "de": "Kaktus",
+          "en": "Cactus",
+          "it": "Cactus"
+        },
+        "correct": true
+      },
+      {
+        "id": "tulip",
+        "icon": "🌷",
+        "label": {
+          "de": "Tulpe",
+          "en": "Tulip",
+          "it": "Tulipano"
+        },
+        "correct": false
+      },
+      {
+        "id": "mushroom",
+        "icon": "🍄",
+        "label": {
+          "de": "Pilz",
+          "en": "Mushroom",
+          "it": "Fungo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Kaktus wächst in der trockenen Wüste.",
+      "en": "The cactus grows in the dry desert.",
+      "it": "Il cactus cresce nel deserto secco."
+    },
+    "funFact": {
+      "de": "Ein Kaktus speichert Wasser in seinem dicken Stamm.",
+      "en": "A cactus stores water in its thick stem.",
+      "it": "Il cactus conserva l'acqua nel suo fusto spesso."
+    },
+    "tags": [
+      "plants",
+      "desert"
+    ]
+  },
+  {
+    "id": "nature-follows-sun",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Blume dreht sich zur Sonne?",
+      "en": "Which flower turns towards the sun?",
+      "it": "Quale fiore si gira verso il sole?"
+    },
+    "answers": [
+      {
+        "id": "sunflower",
+        "icon": "🌻",
+        "label": {
+          "de": "Sonnenblume",
+          "en": "Sunflower",
+          "it": "Girasole"
+        },
+        "correct": true
+      },
+      {
+        "id": "rose",
+        "icon": "🌹",
+        "label": {
+          "de": "Rose",
+          "en": "Rose",
+          "it": "Rosa"
+        },
+        "correct": false
+      },
+      {
+        "id": "tulip",
+        "icon": "🌷",
+        "label": {
+          "de": "Tulpe",
+          "en": "Tulip",
+          "it": "Tulipano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonnenblume heisst so, weil sie sich zur Sonne dreht.",
+      "en": "The sunflower got its name because it turns towards the sun.",
+      "it": "Il girasole si chiama così perché si gira verso il sole."
+    },
+    "funFact": {
+      "de": "Junge Sonnenblumen drehen ihren Kopf am Tag mit der Sonne mit.",
+      "en": "Young sunflowers turn their heads to follow the sun during the day.",
+      "it": "I girasoli giovani durante il giorno seguono il sole con la testa."
+    },
+    "tags": [
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-warmest-season",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Jahreszeit ist es am wärmsten?",
+      "en": "Which season is the warmest?",
+      "it": "Qual è la stagione più calda?"
+    },
+    "answers": [
+      {
+        "id": "summer",
+        "icon": "☀️",
+        "label": {
+          "de": "Sommer",
+          "en": "Summer",
+          "it": "Estate"
+        },
+        "correct": true
+      },
+      {
+        "id": "winter",
+        "icon": "❄️",
+        "label": {
+          "de": "Winter",
+          "en": "Winter",
+          "it": "Inverno"
+        },
+        "correct": false
+      },
+      {
+        "id": "autumn",
+        "icon": "🍂",
+        "label": {
+          "de": "Herbst",
+          "en": "Autumn",
+          "it": "Autunno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Sommer ist es am wärmsten.",
+      "en": "Summer is the warmest season.",
+      "it": "L'estate è la stagione più calda."
+    },
+    "funFact": {
+      "de": "Im Sommer sind die Tage lang und die Nächte kurz.",
+      "en": "In summer the days are long and the nights are short.",
+      "it": "D'estate le giornate sono lunghe e le notti corte."
+    },
+    "tags": [
+      "seasons"
+    ]
+  },
+  {
+    "id": "nature-how-many-seasons",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Jahreszeiten gibt es bei uns?",
+      "en": "How many seasons do we have?",
+      "it": "Quante stagioni ci sono da noi?"
+    },
+    "visual": "🌷☀️🍂❄️",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Frühling, Sommer, Herbst und Winter: vier Jahreszeiten.",
+      "en": "Spring, summer, autumn and winter: four seasons.",
+      "it": "Primavera, estate, autunno e inverno: quattro stagioni."
+    },
+    "funFact": {
+      "de": "In manchen Ländern nahe am Äquator ist es das ganze Jahr warm.",
+      "en": "In some countries near the equator it's warm all year round.",
+      "it": "In alcuni paesi vicino all'equatore fa caldo tutto l'anno."
+    },
+    "tags": [
+      "seasons",
+      "numbers"
+    ]
+  },
+  {
+    "id": "nature-earth-blue",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Von weit oben sieht die Erde vor allem blau aus. Stimmt das?",
+      "en": "From far away, the Earth looks mostly blue. Is that true?",
+      "it": "Vista da lontano, la Terra sembra soprattutto blu. È vero?"
+    },
+    "visual": "🌍",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das Blau ist das Meer.",
+      "en": "That's true! The blue is the sea.",
+      "it": "È vero! Il blu è il mare."
+    },
+    "funFact": {
+      "de": "Das Meer bedeckt den grössten Teil der Erde.",
+      "en": "The sea covers most of the Earth.",
+      "it": "Il mare copre la maggior parte della Terra."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "nature-bird-nest",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was baut ein Vogel für seine Eier?",
+      "en": "What does a bird build for its eggs?",
+      "it": "Che cosa costruisce un uccello per le sue uova?"
+    },
+    "answers": [
+      {
+        "id": "a-nest",
+        "icon": "🪺",
+        "label": {
+          "de": "Ein Nest",
+          "en": "A nest",
+          "it": "Un nido"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-stone-house",
+        "icon": "🏠",
+        "label": {
+          "de": "Ein Haus aus Stein",
+          "en": "A stone house",
+          "it": "Una casa di pietra"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-car",
+        "icon": "🚗",
+        "label": {
+          "de": "Ein Auto",
+          "en": "A car",
+          "it": "Un'automobile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Vögel bauen ein Nest für ihre Eier.",
+      "en": "Birds build a nest for their eggs.",
+      "it": "Gli uccelli costruiscono un nido per le uova."
+    },
+    "funFact": {
+      "de": "Manche Vögel bauen ihr Nest aus Zweigen, Moos und sogar Spinnweben.",
+      "en": "Some birds build their nests from twigs, moss and even spider silk.",
+      "it": "Alcuni uccelli fanno il nido con rametti, muschio e perfino ragnatele."
+    },
+    "tags": [
+      "birds"
+    ]
+  },
+  {
+    "id": "nature-summer-snow",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo liegt oft auch im Sommer Schnee?",
+      "en": "Where is there often snow even in summer?",
+      "it": "Dove c'è spesso la neve anche d'estate?"
+    },
+    "answers": [
+      {
+        "id": "on-high-mountains",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf hohen Bergen",
+          "en": "On high mountains",
+          "it": "Sulle montagne alte"
+        },
+        "correct": true
+      },
+      {
+        "id": "at-the-beach",
+        "icon": "🏖️",
+        "label": {
+          "de": "Am Strand",
+          "en": "At the beach",
+          "it": "In spiaggia"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-desert",
+        "icon": "🏜️",
+        "label": {
+          "de": "In der Wüste",
+          "en": "In the desert",
+          "it": "Nel deserto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf hohen Bergen bleibt es kalt, darum liegt dort auch im Sommer Schnee.",
+      "en": "High mountains stay cold, so there's snow there even in summer.",
+      "it": "In alta montagna fa freddo, così la neve resta anche d'estate."
+    },
+    "funFact": {
+      "de": "Je höher man auf einen Berg steigt, desto kälter wird es.",
+      "en": "The higher you climb a mountain, the colder it gets.",
+      "it": "Più si sale in montagna, più fa freddo."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "nature-bigger-tree-flower",
+    "category": "nature",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist grösser?",
+      "en": "Which is bigger?",
+      "it": "Che cosa è più grande?"
+    },
+    "answers": [
+      {
+        "id": "tree",
+        "icon": "🌳",
+        "label": {
+          "de": "Baum",
+          "en": "Tree",
+          "it": "Albero"
+        },
+        "correct": true
+      },
+      {
+        "id": "flower",
+        "icon": "🌼",
+        "label": {
+          "de": "Blume",
+          "en": "Flower",
+          "it": "Fiore"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Baum ist viel grösser als eine Blume.",
+      "en": "A tree is much bigger than a flower.",
+      "it": "Un albero è molto più grande di un fiore."
+    },
+    "funFact": {
+      "de": "Die höchsten Bäume der Welt sind über hundert Meter hoch.",
+      "en": "The tallest trees in the world are over a hundred metres high.",
+      "it": "Gli alberi più alti del mondo superano i cento metri."
+    },
+    "tags": [
+      "trees",
+      "size"
+    ]
+  },
+  {
+    "id": "nature-colder-ice-tea",
+    "category": "nature",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist kälter?",
+      "en": "Which is colder?",
+      "it": "Che cosa è più freddo?"
+    },
+    "answers": [
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Eis",
+          "en": "Ice",
+          "it": "Ghiaccio"
+        },
+        "correct": true
+      },
+      {
+        "id": "tea",
+        "icon": "☕",
+        "label": {
+          "de": "Tee",
+          "en": "Tea",
+          "it": "Tè"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eis ist kalt, Tee ist warm.",
+      "en": "Ice is cold; tea is warm.",
+      "it": "Il ghiaccio è freddo, il tè è caldo."
+    },
+    "funFact": {
+      "de": "Wasser wird bei null Grad zu Eis.",
+      "en": "Water turns to ice at zero degrees.",
+      "it": "L'acqua diventa ghiaccio a zero gradi."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "nature-heavier-stone-feather",
+    "category": "nature",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schwerer?",
+      "en": "Which is heavier?",
+      "it": "Che cosa pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": true
+      },
+      {
+        "id": "feather",
+        "icon": "🪶",
+        "label": {
+          "de": "Feder",
+          "en": "Feather",
+          "it": "Piuma"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Stein ist viel schwerer als die Feder.",
+      "en": "The stone is much heavier than the feather.",
+      "it": "Il sasso pesa molto più della piuma."
+    },
+    "funFact": {
+      "de": "Eine Feder fällt langsam, weil die Luft sie bremst.",
+      "en": "A feather falls slowly because the air slows it down.",
+      "it": "La piuma cade lentamente perché l'aria la frena."
+    },
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "id": "nature-warmer-day",
+    "category": "nature",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wann ist es wärmer?",
+      "en": "When is it warmer?",
+      "it": "Quando fa più caldo?"
+    },
+    "answers": [
+      {
+        "id": "on-a-summer-s-day",
+        "icon": "🌞",
+        "label": {
+          "de": "An einem Sommertag",
+          "en": "On a summer's day",
+          "it": "In un giorno d'estate"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-a-winter-s-day",
+        "icon": "⛄",
+        "label": {
+          "de": "An einem Wintertag",
+          "en": "On a winter's day",
+          "it": "In un giorno d'inverno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Sommer ist es wärmer als im Winter.",
+      "en": "It's warmer in summer than in winter.",
+      "it": "D'estate fa più caldo che d'inverno."
+    },
+    "funFact": {
+      "de": "Im Winter steht die Sonne tiefer am Himmel. Darum wärmt sie weniger.",
+      "en": "In winter the sun is lower in the sky, so it warms us less.",
+      "it": "D'inverno il sole è più basso nel cielo e scalda meno."
+    },
+    "tags": [
+      "seasons"
+    ]
+  },
+  {
+    "id": "nature-rain-good",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Regen ist gut für die Pflanzen. Stimmt das?",
+      "en": "Rain is good for plants. Is that true?",
+      "it": "La pioggia fa bene alle piante. È vero?"
+    },
+    "visual": "🌧️🌱",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Pflanzen brauchen Wasser zum Leben.",
+      "en": "That's true! Plants need water to live.",
+      "it": "È vero! Le piante hanno bisogno di acqua per vivere."
+    },
+    "funFact": {
+      "de": "Nach dem Regen riecht es draussen oft ganz besonders.",
+      "en": "After rain, it often smells special outside.",
+      "it": "Dopo la pioggia fuori c'è spesso un profumo speciale."
+    },
+    "tags": [
+      "weather",
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-moon-changes",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Der Mond sieht nicht jede Nacht gleich aus. Stimmt das?",
+      "en": "The moon doesn't look the same every night. Is that true?",
+      "it": "La luna non è uguale tutte le notti. È vero?"
+    },
+    "visual": "🌙",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Mal ist er rund, mal sieht er aus wie eine Banane.",
+      "en": "That's true! Sometimes it's round, sometimes it looks like a banana.",
+      "it": "È vero! A volte è tonda, a volte sembra una banana."
+    },
+    "funFact": {
+      "de": "Etwa alle vier Wochen ist wieder Vollmond.",
+      "en": "There's a full moon about every four weeks.",
+      "it": "Circa ogni quattro settimane c'è la luna piena."
+    },
+    "tags": [
+      "sky"
+    ]
+  },
+  {
+    "id": "nature-morning-dew",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was glitzert am Morgen auf dem Gras?",
+      "en": "What sparkles on the grass in the morning?",
+      "it": "Che cosa luccica sull'erba al mattino?"
+    },
+    "answers": [
+      {
+        "id": "dewdrops",
+        "icon": "💧",
+        "label": {
+          "de": "Tautropfen",
+          "en": "Dewdrops",
+          "it": "Gocce di rugiada"
+        },
+        "correct": true
+      },
+      {
+        "id": "sugar",
+        "icon": "🍬",
+        "label": {
+          "de": "Zucker",
+          "en": "Sugar",
+          "it": "Zucchero"
+        },
+        "correct": false
+      },
+      {
+        "id": "stars",
+        "icon": "⭐",
+        "label": {
+          "de": "Sterne",
+          "en": "Stars",
+          "it": "Stelle"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am Morgen liegen oft Tautropfen auf dem Gras.",
+      "en": "In the morning there are often dewdrops on the grass.",
+      "it": "Al mattino sull'erba ci sono spesso gocce di rugiada."
+    },
+    "funFact": {
+      "de": "Tau entsteht, wenn die Luft in der Nacht abkühlt.",
+      "en": "Dew forms when the air cools down at night.",
+      "it": "La rugiada si forma quando di notte l'aria si raffredda."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-summer-leaves",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe haben die meisten Blätter im Sommer?",
+      "en": "What colour are most leaves in summer?",
+      "it": "Di che colore sono quasi tutte le foglie d'estate?"
+    },
+    "answers": [
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": true
+      },
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Blu"
+        },
+        "correct": false
+      },
+      {
+        "id": "purple",
+        "icon": "🟣",
+        "label": {
+          "de": "Lila",
+          "en": "Purple",
+          "it": "Viola"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Sommer sind die meisten Blätter grün.",
+      "en": "In summer most leaves are green.",
+      "it": "D'estate quasi tutte le foglie sono verdi."
+    },
+    "funFact": {
+      "de": "Das Grün hilft der Pflanze, aus Sonnenlicht Nahrung zu machen.",
+      "en": "The green helps the plant make food from sunlight.",
+      "it": "Il verde aiuta la pianta a trasformare la luce del sole in cibo."
+    },
+    "tags": [
+      "plants",
+      "colours"
+    ]
+  },
+  {
+    "id": "nature-glass-bottle",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wohin gehört eine leere Glasflasche?",
+      "en": "Where does an empty glass bottle go?",
+      "it": "Dove va una bottiglia di vetro vuota?"
+    },
+    "answers": [
+      {
+        "id": "in-the-bottle-bank",
+        "icon": "♻️",
+        "label": {
+          "de": "In die Glassammlung",
+          "en": "In the bottle bank",
+          "it": "Nella raccolta del vetro"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-forest",
+        "icon": "🌳",
+        "label": {
+          "de": "In den Wald",
+          "en": "In the forest",
+          "it": "Nel bosco"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-lake",
+        "icon": "🌊",
+        "label": {
+          "de": "In den See",
+          "en": "In the lake",
+          "it": "Nel lago"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Leere Glasflaschen gehören in die Glassammlung.",
+      "en": "Empty glass bottles go in the bottle bank.",
+      "it": "Le bottiglie di vetro vuote vanno nella raccolta del vetro."
+    },
+    "funFact": {
+      "de": "Aus altem Glas kann man immer wieder neue Flaschen machen.",
+      "en": "Old glass can be made into new bottles again and again.",
+      "it": "Con il vetro vecchio si possono fare sempre nuove bottiglie."
+    },
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "nature-picnic-litter",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was machst du mit dem Abfall nach dem Picknick?",
+      "en": "What do you do with your rubbish after a picnic?",
+      "it": "Che cosa fai con i rifiuti dopo il picnic?"
+    },
+    "answers": [
+      {
+        "id": "put-it-in-the-bin",
+        "icon": "🗑️",
+        "label": {
+          "de": "In den Abfalleimer werfen",
+          "en": "Put it in the bin",
+          "it": "Li butto nel cestino"
+        },
+        "correct": true
+      },
+      {
+        "id": "leave-it-on-the-ground",
+        "icon": "🌳",
+        "label": {
+          "de": "Liegen lassen",
+          "en": "Leave it on the ground",
+          "it": "Li lascio per terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "throw-it-in-the-stream",
+        "icon": "🌊",
+        "label": {
+          "de": "In den Bach werfen",
+          "en": "Throw it in the stream",
+          "it": "Li butto nel ruscello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Abfall gehört in den Abfalleimer oder wieder mit nach Hause.",
+      "en": "Rubbish goes in the bin or back home with you.",
+      "it": "I rifiuti vanno nel cestino o si riportano a casa."
+    },
+    "funFact": {
+      "de": "Eine Plastikflasche braucht hunderte Jahre, bis sie in der Natur zerfällt.",
+      "en": "A plastic bottle takes hundreds of years to break down in nature.",
+      "it": "Una bottiglia di plastica impiega centinaia di anni a decomporsi in natura."
+    },
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "id": "nature-save-water",
+    "category": "nature",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wasser sparen hilft der Natur. Stimmt das?",
+      "en": "Saving water helps nature. Is that true?",
+      "it": "Risparmiare acqua aiuta la natura. È vero?"
+    },
+    "visual": "🚰",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Sauberes Wasser ist kostbar.",
+      "en": "That's true! Clean water is precious.",
+      "it": "È vero! L'acqua pulita è preziosa."
+    },
+    "funFact": {
+      "de": "Beim Zähneputzen den Hahn zuzudrehen spart viel Wasser.",
+      "en": "Turning off the tap while you brush your teeth saves lots of water.",
+      "it": "Chiudere il rubinetto mentre ti lavi i denti fa risparmiare tanta acqua."
+    },
+    "tags": [
+      "environment",
+      "water"
+    ]
+  },
+  {
+    "id": "nature-snow-build",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kannst du aus Schnee bauen?",
+      "en": "What can you build out of snow?",
+      "it": "Che cosa puoi costruire con la neve?"
+    },
+    "answers": [
+      {
+        "id": "a-snowman",
+        "icon": "⛄",
+        "label": {
+          "de": "Einen Schneemann",
+          "en": "A snowman",
+          "it": "Un pupazzo di neve"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-kite",
+        "icon": "🪁",
+        "label": {
+          "de": "Einen Drachen",
+          "en": "A kite",
+          "it": "Un aquilone"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-bike",
+        "icon": "🚲",
+        "label": {
+          "de": "Ein Fahrrad",
+          "en": "A bike",
+          "it": "Una bicicletta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus Schnee kannst du einen Schneemann bauen.",
+      "en": "You can build a snowman out of snow.",
+      "it": "Con la neve puoi fare un pupazzo."
+    },
+    "funFact": {
+      "de": "Man sagt, keine Schneeflocke sieht genau gleich aus wie eine andere.",
+      "en": "People say no two snowflakes look exactly alike.",
+      "it": "Si dice che non esistano due fiocchi di neve uguali."
+    },
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "id": "nature-trees-give",
+    "category": "nature",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was schenkt uns ein Baum?",
+      "en": "What does a tree give us?",
+      "it": "Che cosa ci regala un albero?"
+    },
+    "answers": [
+      {
+        "id": "fruit-shade-and-wood",
+        "icon": "🍎",
+        "label": {
+          "de": "Früchte, Schatten und Holz",
+          "en": "Fruit, shade and wood",
+          "it": "Frutti, ombra e legno"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Käse",
+          "en": "Cheese",
+          "it": "Formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "milk",
+        "icon": "🥛",
+        "label": {
+          "de": "Milch",
+          "en": "Milk",
+          "it": "Latte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bäume geben uns Früchte, Schatten und Holz.",
+      "en": "Trees give us fruit, shade and wood.",
+      "it": "Gli alberi ci danno frutti, ombra e legno."
+    },
+    "funFact": {
+      "de": "Bäume machen Sauerstoff, den wir zum Atmen brauchen.",
+      "en": "Trees make the oxygen we need to breathe.",
+      "it": "Gli alberi producono l'ossigeno che respiriamo."
+    },
+    "tags": [
+      "trees"
+    ]
+  },
+  {
+    "id": "nature-rain-was-sea",
+    "category": "nature",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Das Wasser im Regen war vielleicht einmal im Meer. Stimmt das?",
+      "en": "The water in rain may once have been in the sea. Is that true?",
+      "it": "L'acqua della pioggia forse una volta era nel mare. È vero?"
+    },
+    "visual": "🌊☁️🌧️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Sonne lässt Meerwasser verdunsten. Es wird zu Wolken und fällt als Regen.",
+      "en": "That's true! The sun makes seawater evaporate. It forms clouds and falls as rain.",
+      "it": "È vero! Il sole fa evaporare l'acqua del mare, che forma nuvole e ricade come pioggia."
+    },
+    "funFact": {
+      "de": "Das Wasser auf der Erde wird immer wieder gebraucht. Das nennt man Wasserkreislauf.",
+      "en": "Earth's water gets used again and again. It's called the water cycle.",
+      "it": "L'acqua sulla Terra viene riutilizzata sempre: si chiama ciclo dell'acqua."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "nature-clouds-made",
+    "category": "nature",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus bestehen Wolken?",
+      "en": "What are clouds made of?",
+      "it": "Di che cosa sono fatte le nuvole?"
+    },
+    "visual": "☁️",
+    "answers": [
+      {
+        "id": "tiny-water-droplets",
+        "icon": "💧",
+        "label": {
+          "de": "Aus Wassertröpfchen",
+          "en": "Tiny water droplets",
+          "it": "Goccioline d'acqua"
+        },
+        "correct": true
+      },
+      {
+        "id": "sheep-s-wool",
+        "icon": "🐑",
+        "label": {
+          "de": "Aus Schafwolle",
+          "en": "Sheep's wool",
+          "it": "Lana di pecora"
+        },
+        "correct": false
+      },
+      {
+        "id": "candyfloss",
+        "icon": "🍭",
+        "label": {
+          "de": "Aus Zuckerwatte",
+          "en": "Candyfloss",
+          "it": "Zucchero filato"
+        },
+        "correct": false
+      },
+      {
+        "id": "smoke",
+        "icon": "💨",
+        "label": {
+          "de": "Aus Rauch",
+          "en": "Smoke",
+          "it": "Fumo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wolken bestehen aus ganz vielen winzigen Wassertröpfchen oder Eiskristallen.",
+      "en": "Clouds are made of lots of tiny water droplets or ice crystals.",
+      "it": "Le nuvole sono fatte di tantissime goccioline d'acqua o cristalli di ghiaccio."
+    },
+    "funFact": {
+      "de": "Eine grosse Wolke kann so schwer sein wie viele Elefanten.",
+      "en": "A big cloud can weigh as much as lots of elephants.",
+      "it": "Una grande nuvola può pesare quanto tanti elefanti."
+    },
+    "tags": [
+      "weather",
+      "surprise"
+    ]
+  },
+  {
+    "id": "nature-cold-rain",
+    "category": "nature",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Was fällt vom Himmel, wenn es sehr kalt ist?",
+      "en": "What falls from the sky when it's very cold?",
+      "it": "Che cosa cade dal cielo quando fa molto freddo?"
+    },
+    "answers": [
+      {
+        "id": "snow",
+        "icon": "❄️",
+        "label": {
+          "de": "Schnee",
+          "en": "Snow",
+          "it": "Neve"
+        },
+        "correct": true
+      },
+      {
+        "id": "blossoms",
+        "icon": "🌸",
+        "label": {
+          "de": "Blüten",
+          "en": "Blossoms",
+          "it": "Fiori"
+        },
+        "correct": false
+      },
+      {
+        "id": "sweets",
+        "icon": "🍬",
+        "label": {
+          "de": "Bonbons",
+          "en": "Sweets",
+          "it": "Caramelle"
+        },
+        "correct": false
+      },
+      {
+        "id": "warm-sand",
+        "icon": "🍂",
+        "label": {
+          "de": "Warmer Sand",
+          "en": "Warm sand",
+          "it": "Sabbia calda"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wenn es sehr kalt ist, fällt Schnee statt Regen.",
+      "en": "When it's very cold, snow falls instead of rain.",
+      "it": "Quando fa molto freddo, cade la neve invece della pioggia."
+    },
+    "funFact": {
+      "de": "Bei einem Gewitter fallen manchmal kleine Eiskugeln: Hagel.",
+      "en": "In a thunderstorm, little balls of ice sometimes fall: hail.",
+      "it": "Durante un temporale a volte cadono palline di ghiaccio: la grandine."
+    },
+    "tags": [
+      "weather",
+      "winter"
+    ]
+  },
+  {
+    "id": "nature-after-winter",
+    "category": "nature",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Jahreszeit kommt nach dem Winter?",
+      "en": "Which season comes after winter?",
+      "it": "Quale stagione viene dopo l'inverno?"
+    },
+    "answers": [
+      {
+        "id": "spring",
+        "icon": "🌷",
+        "label": {
+          "de": "Frühling",
+          "en": "Spring",
+          "it": "Primavera"
+        },
+        "correct": true
+      },
+      {
+        "id": "autumn",
+        "icon": "🍂",
+        "label": {
+          "de": "Herbst",
+          "en": "Autumn",
+          "it": "Autunno"
+        },
+        "correct": false
+      },
+      {
+        "id": "summer",
+        "icon": "☀️",
+        "label": {
+          "de": "Sommer",
+          "en": "Summer",
+          "it": "Estate"
+        },
+        "correct": false
+      },
+      {
+        "id": "another-winter",
+        "icon": "❄️",
+        "label": {
+          "de": "Noch ein Winter",
+          "en": "Another winter",
+          "it": "Un altro inverno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Nach dem Winter kommt der Frühling.",
+      "en": "Spring comes after winter.",
+      "it": "Dopo l'inverno arriva la primavera."
+    },
+    "funFact": {
+      "de": "Im Frühling werden die Tage wieder länger.",
+      "en": "In spring the days get longer again.",
+      "it": "In primavera le giornate si allungano."
+    },
+    "tags": [
+      "seasons"
+    ]
+  },
+  {
+    "id": "nature-year-or-day",
+    "category": "nature",
+    "level": "both",
+    "type": "compare",
+    "prompt": {
+      "de": "Was dauert länger?",
+      "en": "Which lasts longer?",
+      "it": "Che cosa dura di più?"
+    },
+    "answers": [
+      {
+        "id": "a-year",
+        "icon": "📅",
+        "label": {
+          "de": "Ein Jahr",
+          "en": "A year",
+          "it": "Un anno"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-day",
+        "icon": "☀️",
+        "label": {
+          "de": "Ein Tag",
+          "en": "A day",
+          "it": "Un giorno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Jahr ist viel länger als ein Tag.",
+      "en": "A year is much longer than a day.",
+      "it": "Un anno è molto più lungo di un giorno."
+    },
+    "funFact": {
+      "de": "Ein Jahr hat 365 Tage, manchmal 366.",
+      "en": "A year has 365 days, sometimes 366.",
+      "it": "Un anno ha 365 giorni, a volte 366."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "nature-water-boils",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Bei wie viel Grad kocht Wasser?",
+      "en": "At what temperature does water boil?",
+      "it": "A quanti gradi bolle l'acqua?"
+    },
+    "visual": "♨️",
+    "answers": [
+      {
+        "id": "100-degrees",
+        "icon": "100 °C",
+        "label": {
+          "de": "Bei 100 Grad",
+          "en": "100 degrees",
+          "it": "100 gradi"
+        },
+        "correct": true
+      },
+      {
+        "id": "10-degrees",
+        "icon": "10 °C",
+        "label": {
+          "de": "Bei 10 Grad",
+          "en": "10 degrees",
+          "it": "10 gradi"
+        },
+        "correct": false
+      },
+      {
+        "id": "50-degrees",
+        "icon": "50 °C",
+        "label": {
+          "de": "Bei 50 Grad",
+          "en": "50 degrees",
+          "it": "50 gradi"
+        },
+        "correct": false
+      },
+      {
+        "id": "1000-degrees",
+        "icon": "1000 °C",
+        "label": {
+          "de": "Bei 1000 Grad",
+          "en": "1000 degrees",
+          "it": "1000 gradi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wasser kocht bei 100 Grad Celsius.",
+      "en": "Water boils at 100 degrees Celsius.",
+      "it": "L'acqua bolle a 100 gradi Celsius."
+    },
+    "funFact": {
+      "de": "Hoch oben auf einem Berg kocht Wasser schon bei weniger als 100 Grad.",
+      "en": "High up on a mountain, water boils at less than 100 degrees.",
+      "it": "In alta montagna l'acqua bolle già sotto i 100 gradi."
+    },
+    "tags": [
+      "water",
+      "temperature"
+    ]
+  },
+  {
+    "id": "nature-water-freezes",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Bei wie viel Grad gefriert Wasser zu Eis?",
+      "en": "At what temperature does water freeze?",
+      "it": "A quanti gradi l'acqua diventa ghiaccio?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "0-degrees",
+        "icon": "0 °C",
+        "label": {
+          "de": "Bei 0 Grad",
+          "en": "0 degrees",
+          "it": "0 gradi"
+        },
+        "correct": true
+      },
+      {
+        "id": "30-degrees",
+        "icon": "30 °C",
+        "label": {
+          "de": "Bei 30 Grad",
+          "en": "30 degrees",
+          "it": "30 gradi"
+        },
+        "correct": false
+      },
+      {
+        "id": "50-degrees",
+        "icon": "50 °C",
+        "label": {
+          "de": "Bei 50 Grad",
+          "en": "50 degrees",
+          "it": "50 gradi"
+        },
+        "correct": false
+      },
+      {
+        "id": "100-degrees",
+        "icon": "100 °C",
+        "label": {
+          "de": "Bei 100 Grad",
+          "en": "100 degrees",
+          "it": "100 gradi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wasser gefriert bei 0 Grad Celsius.",
+      "en": "Water freezes at 0 degrees Celsius.",
+      "it": "L'acqua gela a 0 gradi Celsius."
+    },
+    "funFact": {
+      "de": "Salzwasser gefriert erst bei tieferen Temperaturen. Darum streut man im Winter Salz auf die Strassen.",
+      "en": "Salty water freezes at lower temperatures – that's why roads are salted in winter.",
+      "it": "L'acqua salata gela a temperature più basse: per questo d'inverno si sparge sale sulle strade."
+    },
+    "tags": [
+      "water",
+      "temperature"
+    ]
+  },
+  {
+    "id": "nature-steam",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist Wasserdampf?",
+      "en": "What is steam?",
+      "it": "Che cos'è il vapore acqueo?"
+    },
+    "visual": "♨️",
+    "answers": [
+      {
+        "id": "water-as-a-gas",
+        "icon": "💨",
+        "label": {
+          "de": "Wasser als Gas",
+          "en": "Water as a gas",
+          "it": "Acqua sotto forma di gas"
+        },
+        "correct": true
+      },
+      {
+        "id": "frozen-water",
+        "icon": "🧊",
+        "label": {
+          "de": "Gefrorenes Wasser",
+          "en": "Frozen water",
+          "it": "Acqua ghiacciata"
+        },
+        "correct": false
+      },
+      {
+        "id": "milk",
+        "icon": "🥛",
+        "label": {
+          "de": "Milch",
+          "en": "Milk",
+          "it": "Latte"
+        },
+        "correct": false
+      },
+      {
+        "id": "salt",
+        "icon": "🧂",
+        "label": {
+          "de": "Salz",
+          "en": "Salt",
+          "it": "Sale"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wasserdampf ist Wasser, das zu Gas geworden ist.",
+      "en": "Steam is water that has turned into a gas.",
+      "it": "Il vapore è acqua diventata gas."
+    },
+    "funFact": {
+      "de": "Wasser gibt es fest als Eis, flüssig und als Gas.",
+      "en": "Water can be solid ice, a liquid or a gas.",
+      "it": "L'acqua può essere solida (ghiaccio), liquida o gas."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "nature-photosynthesis",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was machen Pflanzen mit dem Sonnenlicht?",
+      "en": "What do plants do with sunlight?",
+      "it": "Che cosa fanno le piante con la luce del sole?"
+    },
+    "answers": [
+      {
+        "id": "they-make-food-with-it",
+        "icon": "🍃",
+        "label": {
+          "de": "Sie machen daraus Nahrung",
+          "en": "They make food with it",
+          "it": "Ci producono il loro cibo"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-save-it-for-the-night",
+        "icon": "🔦",
+        "label": {
+          "de": "Sie sparen es für die Nacht",
+          "en": "They save it for the night",
+          "it": "La conservano per la notte"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-paint-with-it",
+        "icon": "🎨",
+        "label": {
+          "de": "Sie malen damit",
+          "en": "They paint with it",
+          "it": "Ci dipingono"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-make-music",
+        "icon": "🔊",
+        "label": {
+          "de": "Sie machen Musik",
+          "en": "They make music",
+          "it": "Fanno musica"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit Licht, Wasser und Luft machen Pflanzen Zucker als Nahrung.",
+      "en": "With light, water and air, plants make sugar as food.",
+      "it": "Con luce, acqua e aria le piante producono zucchero come cibo."
+    },
+    "funFact": {
+      "de": "Dabei geben Pflanzen Sauerstoff ab, den wir atmen.",
+      "en": "While doing this, plants give off the oxygen we breathe.",
+      "it": "Intanto le piante liberano l'ossigeno che respiriamo."
+    },
+    "tags": [
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-tree-rings",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woran erkennt man das Alter eines gefällten Baumes?",
+      "en": "How can you tell the age of a tree that has been cut down?",
+      "it": "Come si capisce l'età di un albero tagliato?"
+    },
+    "answers": [
+      {
+        "id": "by-its-growth-rings",
+        "icon": "⭕",
+        "label": {
+          "de": "An den Jahresringen",
+          "en": "By its growth rings",
+          "it": "Dagli anelli di crescita"
+        },
+        "correct": true
+      },
+      {
+        "id": "by-its-leaves",
+        "icon": "🍃",
+        "label": {
+          "de": "An den Blättern",
+          "en": "By its leaves",
+          "it": "Dalle foglie"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-its-apples",
+        "icon": "🍎",
+        "label": {
+          "de": "An den Äpfeln",
+          "en": "By its apples",
+          "it": "Dalle mele"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-the-colour-of-the-bark",
+        "icon": "🌈",
+        "label": {
+          "de": "An der Farbe der Rinde",
+          "en": "By the colour of the bark",
+          "it": "Dal colore della corteccia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jedes Jahr wächst ein neuer Ring. Man kann sie zählen.",
+      "en": "A new ring grows every year, and you can count them.",
+      "it": "Ogni anno cresce un nuovo anello: si possono contare."
+    },
+    "funFact": {
+      "de": "Breite Ringe zeigen gute Jahre mit viel Regen, schmale Ringe trockene Jahre.",
+      "en": "Wide rings show good years with lots of rain; narrow rings show dry years.",
+      "it": "Anelli larghi indicano anni buoni con tanta pioggia, anelli stretti anni secchi."
+    },
+    "tags": [
+      "trees"
+    ]
+  },
+  {
+    "id": "nature-storm-distance",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie kannst du schätzen, wie weit ein Gewitter weg ist?",
+      "en": "How can you guess how far away a thunderstorm is?",
+      "it": "Come puoi capire quanto è lontano un temporale?"
+    },
+    "visual": "⚡",
+    "answers": [
+      {
+        "id": "count-the-seconds-between-lightning-and-thunder",
+        "icon": "⏱️",
+        "label": {
+          "de": "Sekunden zwischen Blitz und Donner zählen",
+          "en": "Count the seconds between lightning and thunder",
+          "it": "Contare i secondi tra lampo e tuono"
+        },
+        "correct": true
+      },
+      {
+        "id": "by-the-smell",
+        "icon": "👃",
+        "label": {
+          "de": "Am Geruch",
+          "en": "By the smell",
+          "it": "Dall'odore"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-the-rainbow",
+        "icon": "🌈",
+        "label": {
+          "de": "Am Regenbogen",
+          "en": "By the rainbow",
+          "it": "Dall'arcobaleno"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-the-colour-of-the-clouds",
+        "icon": "🎨",
+        "label": {
+          "de": "An der Farbe der Wolken",
+          "en": "By the colour of the clouds",
+          "it": "Dal colore delle nuvole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Zähle die Sekunden zwischen Blitz und Donner.",
+      "en": "Count the seconds between the lightning and the thunder.",
+      "it": "Conta i secondi tra il lampo e il tuono."
+    },
+    "funFact": {
+      "de": "Etwa drei Sekunden bedeuten ungefähr einen Kilometer.",
+      "en": "About three seconds means roughly one kilometre.",
+      "it": "Circa tre secondi corrispondono a un chilometro."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-rainbow-sun",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo muss die Sonne sein, damit du einen Regenbogen siehst?",
+      "en": "Where must the sun be for you to see a rainbow?",
+      "it": "Dove deve essere il sole perché tu veda l'arcobaleno?"
+    },
+    "visual": "🌈",
+    "answers": [
+      {
+        "id": "behind-me",
+        "icon": "🔙",
+        "label": {
+          "de": "Hinter mir",
+          "en": "Behind me",
+          "it": "Dietro di me"
+        },
+        "correct": true
+      },
+      {
+        "id": "right-above-me",
+        "icon": "⬆️",
+        "label": {
+          "de": "Genau über mir",
+          "en": "Right above me",
+          "it": "Proprio sopra di me"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-front-of-me",
+        "icon": "👀",
+        "label": {
+          "de": "Vor mir",
+          "en": "In front of me",
+          "it": "Davanti a me"
+        },
+        "correct": false
+      },
+      {
+        "id": "not-in-the-sky-at-all",
+        "icon": "🌙",
+        "label": {
+          "de": "Gar nicht am Himmel",
+          "en": "Not in the sky at all",
+          "it": "Per niente in cielo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne muss hinter dir sein und der Regen vor dir.",
+      "en": "The sun must be behind you and the rain in front of you.",
+      "it": "Il sole deve essere dietro di te e la pioggia davanti."
+    },
+    "funFact": {
+      "de": "Ein Regenbogen ist eigentlich ein Kreis. Vom Flugzeug aus sieht man manchmal den ganzen Kreis.",
+      "en": "A rainbow is really a circle. From a plane you can sometimes see the whole circle.",
+      "it": "L'arcobaleno in realtà è un cerchio: dall'aereo a volte si vede intero."
+    },
+    "tags": [
+      "weather",
+      "light"
+    ]
+  },
+  {
+    "id": "nature-rainbow-outside",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe ist beim Regenbogen ganz aussen?",
+      "en": "Which colour is on the outside of a rainbow?",
+      "it": "Quale colore è all'esterno dell'arcobaleno?"
+    },
+    "visual": "🌈",
+    "answers": [
+      {
+        "id": "red",
+        "icon": "🔴",
+        "label": {
+          "de": "Rot",
+          "en": "Red",
+          "it": "Rosso"
+        },
+        "correct": true
+      },
+      {
+        "id": "violet",
+        "icon": "🟣",
+        "label": {
+          "de": "Violett",
+          "en": "Violet",
+          "it": "Viola"
+        },
+        "correct": false
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Blu"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aussen ist der Regenbogen rot, innen violett.",
+      "en": "A rainbow is red on the outside and violet on the inside.",
+      "it": "L'arcobaleno è rosso all'esterno e viola all'interno."
+    },
+    "funFact": {
+      "de": "Manchmal sieht man einen zweiten Regenbogen. Bei ihm sind die Farben umgekehrt.",
+      "en": "Sometimes there's a second rainbow, with its colours the other way round.",
+      "it": "A volte si vede un secondo arcobaleno, con i colori al contrario."
+    },
+    "tags": [
+      "weather",
+      "light",
+      "colours"
+    ]
+  },
+  {
+    "id": "nature-earth-water-share",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viel der Erdoberfläche ist mit Wasser bedeckt?",
+      "en": "How much of the Earth's surface is covered by water?",
+      "it": "Quanta parte della superficie terrestre è coperta d'acqua?"
+    },
+    "visual": "🌍",
+    "answers": [
+      {
+        "id": "about-two-thirds",
+        "icon": "🌊",
+        "label": {
+          "de": "Etwa zwei Drittel",
+          "en": "About two thirds",
+          "it": "Circa due terzi"
+        },
+        "correct": true
+      },
+      {
+        "id": "almost-none",
+        "icon": "🤏",
+        "label": {
+          "de": "Fast nichts",
+          "en": "Almost none",
+          "it": "Quasi niente"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-tenth",
+        "icon": "🏝️",
+        "label": {
+          "de": "Ein Zehntel",
+          "en": "One tenth",
+          "it": "Un decimo"
+        },
+        "correct": false
+      },
+      {
+        "id": "all-of-it",
+        "icon": "💯",
+        "label": {
+          "de": "Alles",
+          "en": "All of it",
+          "it": "Tutta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Etwa zwei Drittel der Erde sind mit Wasser bedeckt.",
+      "en": "About two thirds of the Earth is covered by water.",
+      "it": "Circa due terzi della Terra sono coperti d'acqua."
+    },
+    "funFact": {
+      "de": "Fast alles Wasser auf der Erde ist salziges Meerwasser.",
+      "en": "Almost all the water on Earth is salty seawater.",
+      "it": "Quasi tutta l'acqua della Terra è acqua salata di mare."
+    },
+    "tags": [
+      "earth",
+      "water"
+    ]
+  },
+  {
+    "id": "nature-drinkable-water",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Das meiste Wasser auf der Erde kann man trinken. Stimmt das?",
+      "en": "Most of the water on Earth is drinkable. Is that true?",
+      "it": "La maggior parte dell'acqua sulla Terra si può bere. È vero?"
+    },
+    "visual": "🚰",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Fast alles Wasser ist salziges Meerwasser. Trinkwasser ist kostbar.",
+      "en": "Almost all of it is salty seawater. Drinking water is precious.",
+      "it": "Quasi tutta è acqua di mare salata: l'acqua potabile è preziosa."
+    },
+    "funFact": {
+      "de": "Viel Süsswasser ist als Eis in Gletschern und an den Polen gefroren.",
+      "en": "Lots of fresh water is frozen as ice in glaciers and at the poles.",
+      "it": "Molta acqua dolce è ghiacciata nei ghiacciai e ai poli."
+    },
+    "tags": [
+      "water",
+      "environment"
+    ]
+  },
+  {
+    "id": "nature-glacier",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Gletscher?",
+      "en": "What is a glacier?",
+      "it": "Che cos'è un ghiacciaio?"
+    },
+    "visual": "🏔️",
+    "answers": [
+      {
+        "id": "a-huge-river-of-ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Ein riesiger Strom aus Eis",
+          "en": "A huge river of ice",
+          "it": "Un enorme fiume di ghiaccio"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-lake",
+        "icon": "🏞️",
+        "label": {
+          "de": "Ein See",
+          "en": "A lake",
+          "it": "Un lago"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-volcano",
+        "icon": "🌋",
+        "label": {
+          "de": "Ein Vulkan",
+          "en": "A volcano",
+          "it": "Un vulcano"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-forest",
+        "icon": "🌳",
+        "label": {
+          "de": "Ein Wald",
+          "en": "A forest",
+          "it": "Un bosco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Gletscher ist ein riesiges Eisfeld, das ganz langsam den Berg hinunterfliesst.",
+      "en": "A glacier is a huge mass of ice that slowly flows downhill.",
+      "it": "Un ghiacciaio è un'enorme massa di ghiaccio che scende lentamente dalla montagna."
+    },
+    "funFact": {
+      "de": "Der grösste Gletscher der Alpen ist der Aletschgletscher in der Schweiz.",
+      "en": "The biggest glacier in the Alps is the Aletsch Glacier in Switzerland.",
+      "it": "Il ghiacciaio più grande delle Alpi è il ghiacciaio dell'Aletsch, in Svizzera."
+    },
+    "tags": [
+      "mountains",
+      "water",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "nature-volcano",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt aus einem Vulkan?",
+      "en": "What comes out of a volcano?",
+      "it": "Che cosa esce da un vulcano?"
+    },
+    "answers": [
+      {
+        "id": "hot-lava",
+        "icon": "🌋",
+        "label": {
+          "de": "Heisse Lava",
+          "en": "Hot lava",
+          "it": "Lava bollente"
+        },
+        "correct": true
+      },
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "snow",
+        "icon": "❄️",
+        "label": {
+          "de": "Schnee",
+          "en": "Snow",
+          "it": "Neve"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fische",
+          "en": "Fish",
+          "it": "Pesci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus einem Vulkan kommt heisse, flüssige Lava.",
+      "en": "Hot, liquid lava comes out of a volcano.",
+      "it": "Da un vulcano esce lava calda e liquida."
+    },
+    "funFact": {
+      "de": "Lava ist geschmolzenes Gestein aus dem Inneren der Erde.",
+      "en": "Lava is melted rock from deep inside the Earth.",
+      "it": "La lava è roccia fusa che viene dall'interno della Terra."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "nature-why-leaves-fall",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum verlieren viele Bäume im Herbst ihre Blätter?",
+      "en": "Why do many trees lose their leaves in autumn?",
+      "it": "Perché molti alberi perdono le foglie in autunno?"
+    },
+    "answers": [
+      {
+        "id": "to-save-water-and-energy-in-winter",
+        "icon": "🍂",
+        "label": {
+          "de": "Um im Winter Wasser und Kraft zu sparen",
+          "en": "To save water and energy in winter",
+          "it": "Per risparmiare acqua ed energia d'inverno"
+        },
+        "correct": true
+      },
+      {
+        "id": "someone-cuts-them-off",
+        "icon": "✂️",
+        "label": {
+          "de": "Jemand schneidet sie ab",
+          "en": "Someone cuts them off",
+          "it": "Qualcuno le taglia"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-want-new-colours",
+        "icon": "🎨",
+        "label": {
+          "de": "Sie wollen neue Farben",
+          "en": "They want new colours",
+          "it": "Vogliono colori nuovi"
+        },
+        "correct": false
+      },
+      {
+        "id": "squirrels-eat-them",
+        "icon": "🐿️",
+        "label": {
+          "de": "Eichhörnchen fressen sie",
+          "en": "Squirrels eat them",
+          "it": "Le mangiano gli scoiattoli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Winter ist der Boden oft gefroren. Ohne Blätter verliert der Baum weniger Wasser.",
+      "en": "In winter the ground is often frozen. Without leaves, the tree loses less water.",
+      "it": "D'inverno il terreno è spesso gelato: senza foglie l'albero perde meno acqua."
+    },
+    "funFact": {
+      "de": "Die meisten Nadelbäume bleiben grün. Die Lärche aber verliert im Herbst ihre Nadeln!",
+      "en": "Most conifers stay green – but the larch drops its needles in autumn!",
+      "it": "Quasi tutte le conifere restano verdi, ma il larice perde gli aghi in autunno!"
+    },
+    "tags": [
+      "trees",
+      "seasons"
+    ]
+  },
+  {
+    "id": "nature-compass",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wohin zeigt die Nadel eines Kompasses?",
+      "en": "Which way does a compass needle point?",
+      "it": "Dove punta l'ago della bussola?"
+    },
+    "answers": [
+      {
+        "id": "north",
+        "icon": "🧭",
+        "label": {
+          "de": "Nach Norden",
+          "en": "North",
+          "it": "A nord"
+        },
+        "correct": true
+      },
+      {
+        "id": "south",
+        "icon": "⬇️",
+        "label": {
+          "de": "Nach Süden",
+          "en": "South",
+          "it": "A sud"
+        },
+        "correct": false
+      },
+      {
+        "id": "up-to-the-sky",
+        "icon": "⬆️",
+        "label": {
+          "de": "Zum Himmel",
+          "en": "Up to the sky",
+          "it": "Verso il cielo"
+        },
+        "correct": false
+      },
+      {
+        "id": "to-the-nearest-house",
+        "icon": "🏠",
+        "label": {
+          "de": "Zum nächsten Haus",
+          "en": "To the nearest house",
+          "it": "Verso la casa più vicina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Kompassnadel zeigt nach Norden.",
+      "en": "A compass needle points north.",
+      "it": "L'ago della bussola punta a nord."
+    },
+    "funFact": {
+      "de": "Die Erde ist wie ein riesiger Magnet. Darum funktioniert der Kompass.",
+      "en": "The Earth is like a giant magnet. That's why a compass works.",
+      "it": "La Terra è come un'enorme calamita: per questo la bussola funziona."
+    },
+    "tags": [
+      "earth",
+      "directions"
+    ]
+  },
+  {
+    "id": "nature-sunrise",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo geht die Sonne auf?",
+      "en": "Where does the sun rise?",
+      "it": "Dove sorge il sole?"
+    },
+    "answers": [
+      {
+        "id": "in-the-east",
+        "icon": "🌅",
+        "label": {
+          "de": "Im Osten",
+          "en": "In the east",
+          "it": "A est"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-west",
+        "icon": "🌇",
+        "label": {
+          "de": "Im Westen",
+          "en": "In the west",
+          "it": "A ovest"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-north",
+        "icon": "⬆️",
+        "label": {
+          "de": "Im Norden",
+          "en": "In the north",
+          "it": "A nord"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-south",
+        "icon": "⬇️",
+        "label": {
+          "de": "Im Süden",
+          "en": "In the south",
+          "it": "A sud"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne geht im Osten auf und im Westen unter.",
+      "en": "The sun rises in the east and sets in the west.",
+      "it": "Il sole sorge a est e tramonta a ovest."
+    },
+    "funFact": {
+      "de": "Eigentlich bewegt sich nicht die Sonne: Die Erde dreht sich.",
+      "en": "Really, it's not the sun moving: the Earth is spinning.",
+      "it": "In realtà non è il sole a muoversi: è la Terra che gira."
+    },
+    "tags": [
+      "sky",
+      "directions"
+    ]
+  },
+  {
+    "id": "nature-longest-day",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann ist bei uns der längste Tag des Jahres?",
+      "en": "When is the longest day of the year here?",
+      "it": "Quando è da noi il giorno più lungo dell'anno?"
+    },
+    "answers": [
+      {
+        "id": "in-june",
+        "icon": "☀️",
+        "label": {
+          "de": "Im Juni",
+          "en": "In June",
+          "it": "A giugno"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-december",
+        "icon": "❄️",
+        "label": {
+          "de": "Im Dezember",
+          "en": "In December",
+          "it": "A dicembre"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-october",
+        "icon": "🍂",
+        "label": {
+          "de": "Im Oktober",
+          "en": "In October",
+          "it": "A ottobre"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-march",
+        "icon": "🌷",
+        "label": {
+          "de": "Im März",
+          "en": "In March",
+          "it": "A marzo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der längste Tag ist um den 21. Juni.",
+      "en": "The longest day is around 21 June.",
+      "it": "Il giorno più lungo è intorno al 21 giugno."
+    },
+    "funFact": {
+      "de": "Im Dezember ist der kürzeste Tag. Dann wird es schon am Nachmittag dunkel.",
+      "en": "The shortest day is in December, when it gets dark in the afternoon.",
+      "it": "A dicembre c'è il giorno più corto: fa buio già nel pomeriggio."
+    },
+    "tags": [
+      "seasons",
+      "sky"
+    ]
+  },
+  {
+    "id": "nature-fossil",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Fossil?",
+      "en": "What is a fossil?",
+      "it": "Che cos'è un fossile?"
+    },
+    "answers": [
+      {
+        "id": "remains-from-ancient-times-in-stone",
+        "icon": "🦴",
+        "label": {
+          "de": "Ein Überrest aus uralter Zeit im Stein",
+          "en": "Remains from ancient times in stone",
+          "it": "Un resto di tempi antichissimi nella pietra"
+        },
+        "correct": true
+      },
+      {
+        "id": "an-old-toy",
+        "icon": "🧸",
+        "label": {
+          "de": "Ein altes Spielzeug",
+          "en": "An old toy",
+          "it": "Un vecchio giocattolo"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-stale-loaf-of-bread",
+        "icon": "🍞",
+        "label": {
+          "de": "Ein hartes Brot",
+          "en": "A stale loaf of bread",
+          "it": "Un pane duro"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-coin",
+        "icon": "🪙",
+        "label": {
+          "de": "Eine Münze",
+          "en": "A coin",
+          "it": "Una moneta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Fossilien sind Abdrücke oder Reste von Tieren und Pflanzen, die vor sehr langer Zeit gelebt haben.",
+      "en": "Fossils are prints or remains of animals and plants that lived a very long time ago.",
+      "it": "I fossili sono impronte o resti di animali e piante vissuti tantissimo tempo fa."
+    },
+    "funFact": {
+      "de": "In den Schweizer Alpen findet man versteinerte Muscheln. Dort war früher ein Meer.",
+      "en": "In the Swiss Alps you can find fossil shells – there used to be a sea there.",
+      "it": "Sulle Alpi svizzere si trovano conchiglie fossili: lì una volta c'era il mare."
+    },
+    "tags": [
+      "earth",
+      "switzerland",
+      "surprise"
+    ]
+  },
+  {
+    "id": "nature-hail",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Hagel entsteht in Gewitterwolken. Stimmt das?",
+      "en": "Hail forms in thunderclouds. Is that true?",
+      "it": "La grandine si forma nelle nuvole temporalesche. È vero?"
+    },
+    "visual": "🌨️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! In hohen, kalten Gewitterwolken wachsen Eiskörner.",
+      "en": "That's true! Lumps of ice grow in tall, cold thunderclouds.",
+      "it": "È vero! Nelle nuvole temporalesche alte e fredde crescono chicchi di ghiaccio."
+    },
+    "funFact": {
+      "de": "Selten können Hagelkörner so gross wie Tennisbälle werden.",
+      "en": "Very rarely, hailstones can be as big as tennis balls.",
+      "it": "Raramente i chicchi di grandine possono diventare grandi come palline da tennis."
+    },
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "nature-fastest-plant",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Pflanze wächst am schnellsten?",
+      "en": "Which plant grows the fastest?",
+      "it": "Quale pianta cresce più in fretta?"
+    },
+    "answers": [
+      {
+        "id": "bamboo",
+        "icon": "🎋",
+        "label": {
+          "de": "Bambus",
+          "en": "Bamboo",
+          "it": "Bambù"
+        },
+        "correct": true
+      },
+      {
+        "id": "cactus",
+        "icon": "🌵",
+        "label": {
+          "de": "Kaktus",
+          "en": "Cactus",
+          "it": "Cactus"
+        },
+        "correct": false
+      },
+      {
+        "id": "oak",
+        "icon": "🌳",
+        "label": {
+          "de": "Eiche",
+          "en": "Oak",
+          "it": "Quercia"
+        },
+        "correct": false
+      },
+      {
+        "id": "rose",
+        "icon": "🌹",
+        "label": {
+          "de": "Rose",
+          "en": "Rose",
+          "it": "Rosa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bambus ist eine der am schnellsten wachsenden Pflanzen der Welt.",
+      "en": "Bamboo is one of the fastest-growing plants in the world.",
+      "it": "Il bambù è una delle piante che crescono più in fretta al mondo."
+    },
+    "funFact": {
+      "de": "Manche Bambusarten wachsen fast einen Meter an einem einzigen Tag.",
+      "en": "Some kinds of bamboo grow nearly a metre in a single day.",
+      "it": "Alcuni tipi di bambù crescono quasi un metro in un solo giorno."
+    },
+    "tags": [
+      "plants",
+      "surprise"
+    ]
+  },
+  {
+    "id": "nature-ancient-trees",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Manche Bäume sind mehrere tausend Jahre alt. Stimmt das?",
+      "en": "Some trees are several thousand years old. Is that true?",
+      "it": "Alcuni alberi hanno parecchie migliaia di anni. È vero?"
+    },
+    "visual": "🌲",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Manche Bäume leben viel länger als Menschen.",
+      "en": "That's true! Some trees live much longer than people.",
+      "it": "È vero! Alcuni alberi vivono molto più a lungo delle persone."
+    },
+    "funFact": {
+      "de": "Eine Kiefer in den USA ist fast fünftausend Jahre alt.",
+      "en": "A pine tree in the USA is almost five thousand years old.",
+      "it": "Un pino negli Stati Uniti ha quasi cinquemila anni."
+    },
+    "tags": [
+      "trees"
+    ]
+  },
+  {
+    "id": "nature-insect-eating-plant",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Pflanze fängt Insekten?",
+      "en": "Which plant catches insects?",
+      "it": "Quale pianta cattura gli insetti?"
+    },
+    "answers": [
+      {
+        "id": "venus-flytrap",
+        "icon": "🪴",
+        "label": {
+          "de": "Venusfliegenfalle",
+          "en": "Venus flytrap",
+          "it": "Venere acchiappamosche"
+        },
+        "correct": true
+      },
+      {
+        "id": "sunflower",
+        "icon": "🌻",
+        "label": {
+          "de": "Sonnenblume",
+          "en": "Sunflower",
+          "it": "Girasole"
+        },
+        "correct": false
+      },
+      {
+        "id": "tulip",
+        "icon": "🌷",
+        "label": {
+          "de": "Tulpe",
+          "en": "Tulip",
+          "it": "Tulipano"
+        },
+        "correct": false
+      },
+      {
+        "id": "rose",
+        "icon": "🌹",
+        "label": {
+          "de": "Rose",
+          "en": "Rose",
+          "it": "Rosa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Venusfliegenfalle schnappt zu, wenn ein Insekt in ihr Blatt krabbelt.",
+      "en": "The Venus flytrap snaps shut when an insect crawls onto its leaf.",
+      "it": "La Venere acchiappamosche si chiude di scatto quando un insetto entra nella foglia."
+    },
+    "funFact": {
+      "de": "Die Falle schnappt erst zu, wenn ein Insekt zwei feine Härchen berührt.",
+      "en": "The trap only shuts when an insect touches two tiny hairs.",
+      "it": "La trappola si chiude solo quando l'insetto tocca due peletti sottili."
+    },
+    "tags": [
+      "plants",
+      "surprise"
+    ],
+    "uncertain": "There is no Venus flytrap emoji; 🪴 is a potted plant."
+  },
+  {
+    "id": "nature-bigger-ocean",
+    "category": "nature",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist grösser?",
+      "en": "Which is bigger?",
+      "it": "Che cosa è più grande?"
+    },
+    "answers": [
+      {
+        "id": "pacific-ocean",
+        "icon": "🌊",
+        "label": {
+          "de": "Pazifik",
+          "en": "Pacific Ocean",
+          "it": "Oceano Pacifico"
+        },
+        "correct": true
+      },
+      {
+        "id": "mediterranean-sea",
+        "icon": "🏖️",
+        "label": {
+          "de": "Mittelmeer",
+          "en": "Mediterranean Sea",
+          "it": "Mar Mediterraneo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Pazifik ist der grösste Ozean der Welt.",
+      "en": "The Pacific is the biggest ocean in the world.",
+      "it": "Il Pacifico è l'oceano più grande del mondo."
+    },
+    "funFact": {
+      "de": "Der Pazifik ist grösser als alle Kontinente zusammen.",
+      "en": "The Pacific is bigger than all the continents put together.",
+      "it": "Il Pacifico è più grande di tutti i continenti messi insieme."
+    },
+    "tags": [
+      "earth",
+      "water"
+    ]
+  },
+  {
+    "id": "nature-longer-river",
+    "category": "nature",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher Fluss ist länger?",
+      "en": "Which river is longer?",
+      "it": "Quale fiume è più lungo?"
+    },
+    "answers": [
+      {
+        "id": "nile",
+        "icon": "🐊",
+        "label": {
+          "de": "Nil",
+          "en": "Nile",
+          "it": "Nilo"
+        },
+        "correct": true
+      },
+      {
+        "id": "rhine",
+        "icon": "🏞️",
+        "label": {
+          "de": "Rhein",
+          "en": "Rhine",
+          "it": "Reno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Nil in Afrika ist viel länger als der Rhein.",
+      "en": "The Nile in Africa is much longer than the Rhine.",
+      "it": "Il Nilo, in Africa, è molto più lungo del Reno."
+    },
+    "funFact": {
+      "de": "Der Rhein beginnt in den Schweizer Alpen und fliesst bis in die Nordsee.",
+      "en": "The Rhine starts in the Swiss Alps and flows to the North Sea.",
+      "it": "Il Reno nasce nelle Alpi svizzere e arriva fino al Mare del Nord."
+    },
+    "tags": [
+      "water",
+      "switzerland"
+    ],
+    "uncertain": "Whether the Nile or the Amazon is the longest river is debated; this question only compares Nile vs Rhine, which is clear."
+  },
+  {
+    "id": "nature-desert-day-night",
+    "category": "nature",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wann ist es in der Wüste heisser?",
+      "en": "When is it hotter in the desert?",
+      "it": "Quando fa più caldo nel deserto?"
+    },
+    "answers": [
+      {
+        "id": "during-the-day",
+        "icon": "🏜️",
+        "label": {
+          "de": "Am Tag",
+          "en": "During the day",
+          "it": "Di giorno"
+        },
+        "correct": true
+      },
+      {
+        "id": "at-night",
+        "icon": "🌙",
+        "label": {
+          "de": "In der Nacht",
+          "en": "At night",
+          "it": "Di notte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am Tag ist es in der Wüste sehr heiss.",
+      "en": "In the desert it's very hot during the day.",
+      "it": "Di giorno nel deserto fa caldissimo."
+    },
+    "funFact": {
+      "de": "In der Nacht kann es in der Wüste sehr kalt werden, weil keine Wolken die Wärme halten.",
+      "en": "At night the desert can get very cold, because there are no clouds to hold in the heat.",
+      "it": "Di notte nel deserto può fare molto freddo, perché non ci sono nuvole a trattenere il calore."
+    },
+    "tags": [
+      "desert",
+      "temperature"
+    ]
+  },
+  {
+    "id": "nature-antarctica-desert",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Antarktis ist eine Wüste. Stimmt das?",
+      "en": "Antarctica is a desert. Is that true?",
+      "it": "L'Antartide è un deserto. È vero?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Eine Wüste ist ein Ort, an dem kaum Regen oder Schnee fällt. So ist es in der Antarktis.",
+      "en": "That's true! A desert is a place where hardly any rain or snow falls – just like Antarctica.",
+      "it": "È vero! Un deserto è un luogo dove cade pochissima pioggia o neve, come in Antartide."
+    },
+    "funFact": {
+      "de": "Die Antarktis ist sogar die grösste Wüste der Welt.",
+      "en": "Antarctica is actually the biggest desert in the world.",
+      "it": "L'Antartide è addirittura il deserto più grande del mondo."
+    },
+    "tags": [
+      "desert",
+      "cold",
+      "surprise"
+    ]
+  },
+  {
+    "id": "nature-puddle-disappears",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wohin verschwindet eine Pfütze an einem sonnigen Tag?",
+      "en": "Where does a puddle go on a sunny day?",
+      "it": "Dove sparisce una pozzanghera in una giornata di sole?"
+    },
+    "answers": [
+      {
+        "id": "the-water-evaporates-into-the-air",
+        "icon": "💨",
+        "label": {
+          "de": "Das Wasser verdunstet in die Luft",
+          "en": "The water evaporates into the air",
+          "it": "L'acqua evapora nell'aria"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-falls-into-a-hole",
+        "icon": "🕳️",
+        "label": {
+          "de": "Sie fällt in ein Loch",
+          "en": "It falls into a hole",
+          "it": "Cade in un buco"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-dinosaur-drinks-it",
+        "icon": "🦖",
+        "label": {
+          "de": "Ein Dinosaurier trinkt sie",
+          "en": "A dinosaur drinks it",
+          "it": "La beve un dinosauro"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-moon-takes-it-away",
+        "icon": "🌙",
+        "label": {
+          "de": "Der Mond nimmt sie mit",
+          "en": "The moon takes it away",
+          "it": "Se la porta via la luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne wärmt das Wasser, und es verdunstet in die Luft.",
+      "en": "The sun warms the water and it evaporates into the air.",
+      "it": "Il sole scalda l'acqua, che evapora nell'aria."
+    },
+    "funFact": {
+      "de": "Später wird das verdunstete Wasser wieder zu Wolken.",
+      "en": "Later the evaporated water turns into clouds again.",
+      "it": "Più tardi l'acqua evaporata torna a formare le nuvole."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "nature-snow-warm",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Schnee kann warm halten. Stimmt das?",
+      "en": "Snow can keep things warm. Is that true?",
+      "it": "La neve può tenere al caldo. È vero?"
+    },
+    "visual": "❄️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Zwischen den Schneeflocken ist viel Luft. Darum wirkt Schnee wie eine Decke.",
+      "en": "That's true! There's lots of air between snowflakes, so snow works like a blanket.",
+      "it": "È vero! Tra i fiocchi c'è tanta aria, così la neve fa da coperta."
+    },
+    "funFact": {
+      "de": "Unter dem Schnee überstehen viele Pflanzen und kleine Tiere den Winter gut.",
+      "en": "Many plants and small animals survive the winter well under the snow.",
+      "it": "Sotto la neve molte piante e piccoli animali passano bene l'inverno."
+    },
+    "tags": [
+      "winter",
+      "surprise"
+    ]
+  },
+  {
+    "id": "nature-moss-north",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Moos wächst immer nur auf der Nordseite der Bäume. Stimmt das?",
+      "en": "Moss only ever grows on the north side of trees. Is that true?",
+      "it": "Il muschio cresce sempre e solo sul lato nord degli alberi. È vero?"
+    },
+    "visual": "🌲",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Moos wächst dort, wo es feucht und schattig ist. Das ist nicht immer im Norden.",
+      "en": "Moss grows where it's damp and shady, which isn't always the north side.",
+      "it": "Il muschio cresce dove è umido e ombroso, non sempre a nord."
+    },
+    "funFact": {
+      "de": "Um den Weg zu finden, nimmt man besser einen Kompass.",
+      "en": "To find your way, it's better to use a compass.",
+      "it": "Per orientarsi è meglio usare una bussola."
+    },
+    "tags": [
+      "forest",
+      "directions"
+    ]
+  },
+  {
+    "id": "nature-autumn-colours",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum werden Blätter im Herbst gelb und rot?",
+      "en": "Why do leaves turn yellow and red in autumn?",
+      "it": "Perché in autunno le foglie diventano gialle e rosse?"
+    },
+    "answers": [
+      {
+        "id": "the-green-fades-and-other-colours-show",
+        "icon": "🍁",
+        "label": {
+          "de": "Das Grün verschwindet, andere Farben kommen hervor",
+          "en": "The green fades and other colours show",
+          "it": "Il verde sparisce e appaiono altri colori"
+        },
+        "correct": true
+      },
+      {
+        "id": "birds-paint-them",
+        "icon": "🎨",
+        "label": {
+          "de": "Vögel malen sie an",
+          "en": "Birds paint them",
+          "it": "Gli uccelli le dipingono"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-sun-burns-them",
+        "icon": "🔥",
+        "label": {
+          "de": "Die Sonne verbrennt sie",
+          "en": "The sun burns them",
+          "it": "Il sole le brucia"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-rain-washes-the-green-away",
+        "icon": "🌧️",
+        "label": {
+          "de": "Der Regen wäscht das Grün weg",
+          "en": "The rain washes the green away",
+          "it": "La pioggia lava via il verde"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Herbst baut der Baum das Blattgrün ab. Dann sieht man die gelben und roten Farben.",
+      "en": "In autumn the tree breaks down the green, so the yellow and red colours show.",
+      "it": "In autunno l'albero smonta il verde delle foglie e si vedono i colori gialli e rossi."
+    },
+    "funFact": {
+      "de": "Die gelbe Farbe war schon den ganzen Sommer im Blatt, versteckt unter dem Grün.",
+      "en": "The yellow was in the leaf all summer, hidden under the green.",
+      "it": "Il giallo c'era già tutta l'estate, nascosto sotto il verde."
+    },
+    "tags": [
+      "trees",
+      "seasons",
+      "colours"
+    ]
+  },
+  {
+    "id": "nature-earth-age",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie alt ist die Erde ungefähr?",
+      "en": "About how old is the Earth?",
+      "it": "Quanti anni ha circa la Terra?"
+    },
+    "answers": [
+      {
+        "id": "about-four-and-a-half-billion-years",
+        "icon": "🌍",
+        "label": {
+          "de": "Etwa viereinhalb Milliarden Jahre",
+          "en": "About four and a half billion years",
+          "it": "Circa quattro miliardi e mezzo di anni"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hundred-years",
+        "icon": "🎂",
+        "label": {
+          "de": "Hundert Jahre",
+          "en": "A hundred years",
+          "it": "Cento anni"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand-years",
+        "icon": "🏰",
+        "label": {
+          "de": "Tausend Jahre",
+          "en": "A thousand years",
+          "it": "Mille anni"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-million-years",
+        "icon": "🦕",
+        "label": {
+          "de": "Eine Million Jahre",
+          "en": "A million years",
+          "it": "Un milione di anni"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde ist etwa viereinhalb Milliarden Jahre alt.",
+      "en": "The Earth is about four and a half billion years old.",
+      "it": "La Terra ha circa quattro miliardi e mezzo di anni."
+    },
+    "funFact": {
+      "de": "Die Dinosaurier sind vor etwa 66 Millionen Jahren ausgestorben.",
+      "en": "The dinosaurs died out about 66 million years ago.",
+      "it": "I dinosauri si sono estinti circa 66 milioni di anni fa."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "nature-solar-energy",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Energie kommt direkt von der Sonne?",
+      "en": "Which kind of energy comes straight from the sun?",
+      "it": "Quale energia arriva direttamente dal sole?"
+    },
+    "answers": [
+      {
+        "id": "solar-power",
+        "icon": "☀️",
+        "label": {
+          "de": "Solarstrom",
+          "en": "Solar power",
+          "it": "Energia solare"
+        },
+        "correct": true
+      },
+      {
+        "id": "oil",
+        "icon": "🛢️",
+        "label": {
+          "de": "Erdöl",
+          "en": "Oil",
+          "it": "Petrolio"
+        },
+        "correct": false
+      },
+      {
+        "id": "petrol",
+        "icon": "⛽",
+        "label": {
+          "de": "Benzin",
+          "en": "Petrol",
+          "it": "Benzina"
+        },
+        "correct": false
+      },
+      {
+        "id": "coal",
+        "icon": "🪨",
+        "label": {
+          "de": "Kohle",
+          "en": "Coal",
+          "it": "Carbone"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Solaranlagen machen aus Sonnenlicht Strom.",
+      "en": "Solar panels turn sunlight into electricity.",
+      "it": "I pannelli solari trasformano la luce del sole in elettricità."
+    },
+    "funFact": {
+      "de": "Sonne, Wind und Wasser gehen nie aus. Darum nennt man sie erneuerbare Energien.",
+      "en": "Sun, wind and water never run out, so they're called renewable energy.",
+      "it": "Sole, vento e acqua non finiscono mai: per questo si chiamano energie rinnovabili."
+    },
+    "tags": [
+      "environment",
+      "energy"
+    ]
+  },
+  {
+    "id": "nature-fog-cloud",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Nebel ist eine Wolke ganz unten am Boden. Stimmt das?",
+      "en": "Fog is a cloud right down at ground level. Is that true?",
+      "it": "La nebbia è una nuvola proprio vicino al suolo. È vero?"
+    },
+    "visual": "🌫️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Nebel besteht wie Wolken aus winzigen Wassertröpfchen.",
+      "en": "That's true! Like clouds, fog is made of tiny water droplets.",
+      "it": "È vero! Come le nuvole, la nebbia è fatta di minuscole goccioline."
+    },
+    "funFact": {
+      "de": "Im Herbst liegt im Schweizer Mittelland oft dichter Nebel, während in den Bergen die Sonne scheint.",
+      "en": "In autumn, the Swiss lowlands are often foggy while the sun shines in the mountains.",
+      "it": "In autunno l'Altopiano svizzero è spesso nella nebbia, mentre in montagna splende il sole."
+    },
+    "tags": [
+      "weather",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "nature-why-seasons",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum gibt es Jahreszeiten?",
+      "en": "Why are there seasons?",
+      "it": "Perché ci sono le stagioni?"
+    },
+    "answers": [
+      {
+        "id": "because-the-earth-is-tilted",
+        "icon": "🌍",
+        "label": {
+          "de": "Weil die Erdachse schief steht",
+          "en": "Because the Earth is tilted",
+          "it": "Perché l'asse terrestre è inclinato"
+        },
+        "correct": true
+      },
+      {
+        "id": "because-the-sun-switches-on-and-off",
+        "icon": "💡",
+        "label": {
+          "de": "Weil die Sonne an- und ausgeht",
+          "en": "Because the sun switches on and off",
+          "it": "Perché il sole si accende e si spegne"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-the-moon-hides-the-sun",
+        "icon": "🌙",
+        "label": {
+          "de": "Weil der Mond die Sonne versteckt",
+          "en": "Because the moon hides the sun",
+          "it": "Perché la luna nasconde il sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-the-earth-stops-moving",
+        "icon": "✋",
+        "label": {
+          "de": "Weil die Erde stehen bleibt",
+          "en": "Because the Earth stops moving",
+          "it": "Perché la Terra si ferma"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde ist schief. Darum bekommt mal der Norden, mal der Süden mehr Sonne.",
+      "en": "The Earth is tilted, so sometimes the north and sometimes the south gets more sun.",
+      "it": "La Terra è inclinata: così a volte il nord, a volte il sud riceve più sole."
+    },
+    "funFact": {
+      "de": "Wenn bei uns Sommer ist, ist in Australien Winter.",
+      "en": "When it's summer here, it's winter in Australia.",
+      "it": "Quando da noi è estate, in Australia è inverno."
+    },
+    "tags": [
+      "seasons",
+      "earth"
+    ]
+  },
+  {
+    "id": "nature-cones",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Baum hat Zapfen?",
+      "en": "Which tree has cones?",
+      "it": "Quale albero ha le pigne?"
+    },
+    "answers": [
+      {
+        "id": "fir-tree",
+        "icon": "🌲",
+        "label": {
+          "de": "Tanne",
+          "en": "Fir tree",
+          "it": "Abete"
+        },
+        "correct": true
+      },
+      {
+        "id": "palm-tree",
+        "icon": "🌴",
+        "label": {
+          "de": "Palme",
+          "en": "Palm tree",
+          "it": "Palma"
+        },
+        "correct": false
+      },
+      {
+        "id": "apple-tree",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfelbaum",
+          "en": "Apple tree",
+          "it": "Melo"
+        },
+        "correct": false
+      },
+      {
+        "id": "cherry-tree",
+        "icon": "🌸",
+        "label": {
+          "de": "Kirschbaum",
+          "en": "Cherry tree",
+          "it": "Ciliegio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Tannen und andere Nadelbäume haben Zapfen.",
+      "en": "Fir trees and other conifers have cones.",
+      "it": "Gli abeti e le altre conifere hanno le pigne."
+    },
+    "funFact": {
+      "de": "In den Zapfen sind die Samen der Bäume versteckt.",
+      "en": "The trees' seeds are hidden inside the cones.",
+      "it": "Dentro le pigne sono nascosti i semi degli alberi."
+    },
+    "tags": [
+      "trees"
+    ]
+  },
+  {
+    "id": "nature-protect-sea",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft dem Meer am meisten?",
+      "en": "What helps the sea most?",
+      "it": "Che cosa aiuta di più il mare?"
+    },
+    "answers": [
+      {
+        "id": "using-less-plastic",
+        "icon": "🛍️",
+        "label": {
+          "de": "Weniger Plastik benutzen",
+          "en": "Using less plastic",
+          "it": "Usare meno plastica"
+        },
+        "correct": true
+      },
+      {
+        "id": "throwing-rubbish-in-the-sea",
+        "icon": "🚮",
+        "label": {
+          "de": "Abfall ins Meer werfen",
+          "en": "Throwing rubbish in the sea",
+          "it": "Buttare rifiuti in mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "buying-more-plastic-bags",
+        "icon": "🛒",
+        "label": {
+          "de": "Mehr Plastiktüten kaufen",
+          "en": "Buying more plastic bags",
+          "it": "Comprare più sacchetti di plastica"
+        },
+        "correct": false
+      },
+      {
+        "id": "pouring-oil-into-the-water",
+        "icon": "🛢️",
+        "label": {
+          "de": "Öl ins Wasser giessen",
+          "en": "Pouring oil into the water",
+          "it": "Versare olio nell'acqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Weniger Plastik bedeutet weniger Abfall im Meer.",
+      "en": "Less plastic means less rubbish in the sea.",
+      "it": "Meno plastica vuol dire meno rifiuti in mare."
+    },
+    "funFact": {
+      "de": "Viele Meerestiere verwechseln Plastik mit Futter.",
+      "en": "Many sea animals mistake plastic for food.",
+      "it": "Molti animali marini scambiano la plastica per cibo."
+    },
+    "tags": [
+      "environment",
+      "water"
+    ]
+  },
+  {
+    "id": "nature-plants-breathe-night",
+    "category": "nature",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Pflanzen machen in der Nacht keinen Sauerstoff. Stimmt das?",
+      "en": "Plants don't make oxygen at night. Is that true?",
+      "it": "Di notte le piante non producono ossigeno. È vero?"
+    },
+    "visual": "🌙🌿",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Für Sauerstoff brauchen sie Licht.",
+      "en": "That's true! They need light to make oxygen.",
+      "it": "È vero! Per produrre ossigeno serve la luce."
+    },
+    "funFact": {
+      "de": "Pflanzen atmen Tag und Nacht, genau wie wir.",
+      "en": "Plants breathe day and night, just like us.",
+      "it": "Le piante respirano giorno e notte, proprio come noi."
+    },
+    "tags": [
+      "plants"
+    ]
+  },
+  {
+    "id": "nature-stalactites",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heissen die Steinzapfen, die in einer Höhle von der Decke hängen?",
+      "en": "What are the stone spikes hanging from a cave ceiling called?",
+      "it": "Come si chiamano le punte di pietra che pendono dal soffitto di una grotta?"
+    },
+    "answers": [
+      {
+        "id": "stalactites",
+        "icon": "⬇️",
+        "label": {
+          "de": "Stalaktiten",
+          "en": "Stalactites",
+          "it": "Stalattiti"
+        },
+        "correct": true
+      },
+      {
+        "id": "stalagmites",
+        "icon": "⬆️",
+        "label": {
+          "de": "Stalagmiten",
+          "en": "Stalagmites",
+          "it": "Stalagmiti"
+        },
+        "correct": false
+      },
+      {
+        "id": "icicles",
+        "icon": "🧊",
+        "label": {
+          "de": "Eiszapfen",
+          "en": "Icicles",
+          "it": "Ghiaccioli"
+        },
+        "correct": false
+      },
+      {
+        "id": "carrots",
+        "icon": "🥕",
+        "label": {
+          "de": "Rüebli",
+          "en": "Carrots",
+          "it": "Carote"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Stalaktiten hängen von der Decke, Stalagmiten wachsen vom Boden nach oben.",
+      "en": "Stalactites hang from the ceiling; stalagmites grow up from the floor.",
+      "it": "Le stalattiti pendono dal soffitto, le stalagmiti crescono dal pavimento."
+    },
+    "funFact": {
+      "de": "Tropfsteine wachsen sehr langsam, oft nur etwa einen Zentimeter in hundert Jahren.",
+      "en": "Cave formations grow very slowly, often only about a centimetre in a hundred years.",
+      "it": "Stalattiti e stalagmiti crescono lentissime, spesso circa un centimetro in cento anni."
+    },
+    "tags": [
+      "earth"
+    ],
+    "uncertain": "Uses the Swiss word «Rüebli» (carrots) as a joke answer; growth rates of cave formations vary widely."
+  },
+  {
+    "id": "nature-most-species",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo leben die meisten Tier- und Pflanzenarten?",
+      "en": "Where do the most kinds of animals and plants live?",
+      "it": "Dove vivono più specie di animali e piante?"
+    },
+    "answers": [
+      {
+        "id": "in-the-rainforest",
+        "icon": "🌴",
+        "label": {
+          "de": "Im Regenwald",
+          "en": "In the rainforest",
+          "it": "Nella foresta pluviale"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-desert",
+        "icon": "🏜️",
+        "label": {
+          "de": "In der Wüste",
+          "en": "In the desert",
+          "it": "Nel deserto"
+        },
+        "correct": false
+      },
+      {
+        "id": "at-the-south-pole",
+        "icon": "🧊",
+        "label": {
+          "de": "Am Südpol",
+          "en": "At the South Pole",
+          "it": "Al Polo Sud"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-city",
+        "icon": "🏙️",
+        "label": {
+          "de": "In der Stadt",
+          "en": "In the city",
+          "it": "In città"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im warmen, feuchten Regenwald leben besonders viele Arten.",
+      "en": "Especially many species live in the warm, wet rainforest.",
+      "it": "Nella foresta pluviale calda e umida vivono tantissime specie."
+    },
+    "funFact": {
+      "de": "Im Regenwald regnet es fast jeden Tag.",
+      "en": "In the rainforest it rains almost every day.",
+      "it": "Nella foresta pluviale piove quasi ogni giorno."
+    },
+    "tags": [
+      "forest",
+      "animals"
+    ]
+  },
+  {
+    "id": "nature-tides",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was verursacht Ebbe und Flut am Meer?",
+      "en": "What causes the tides at the seaside?",
+      "it": "Che cosa provoca le maree?"
+    },
+    "visual": "🌊",
+    "answers": [
+      {
+        "id": "the-moon",
+        "icon": "🌙",
+        "label": {
+          "de": "Der Mond",
+          "en": "The moon",
+          "it": "La luna"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-whales",
+        "icon": "🐳",
+        "label": {
+          "de": "Die Wale",
+          "en": "The whales",
+          "it": "Le balene"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-wind",
+        "icon": "💨",
+        "label": {
+          "de": "Der Wind",
+          "en": "The wind",
+          "it": "Il vento"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-ships",
+        "icon": "🚢",
+        "label": {
+          "de": "Die Schiffe",
+          "en": "The ships",
+          "it": "Le navi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mond zieht am Wasser der Meere. So entstehen Ebbe und Flut.",
+      "en": "The moon pulls on the water of the oceans, which makes the tides.",
+      "it": "La luna attira l'acqua degli oceani: così nascono le maree."
+    },
+    "funFact": {
+      "de": "An vielen Küsten steigt und sinkt das Meer zweimal am Tag.",
+      "en": "On many coasts the sea rises and falls twice a day.",
+      "it": "Su molte coste il mare sale e scende due volte al giorno."
+    },
+    "tags": [
+      "water",
+      "sky"
+    ]
+  },
+  {
+    "id": "nature-salty-sea",
+    "category": "nature",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum ist das Meer salzig?",
+      "en": "Why is the sea salty?",
+      "it": "Perché il mare è salato?"
+    },
+    "answers": [
+      {
+        "id": "rivers-bring-salt-from-rocks",
+        "icon": "🪨",
+        "label": {
+          "de": "Flüsse bringen Salz aus Steinen mit",
+          "en": "Rivers bring salt from rocks",
+          "it": "I fiumi portano il sale delle rocce"
+        },
+        "correct": true
+      },
+      {
+        "id": "someone-poured-salt-in",
+        "icon": "🧂",
+        "label": {
+          "de": "Jemand hat Salz hineingestreut",
+          "en": "Someone poured salt in",
+          "it": "Qualcuno ci ha versato il sale"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-fish-are-crying",
+        "icon": "🐟",
+        "label": {
+          "de": "Die Fische weinen",
+          "en": "The fish are crying",
+          "it": "I pesci piangono"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-of-popcorn",
+        "icon": "🍿",
+        "label": {
+          "de": "Wegen Popcorn",
+          "en": "Because of popcorn",
+          "it": "Per colpa dei popcorn"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Regen und Flüsse lösen Salz aus Steinen und tragen es ins Meer.",
+      "en": "Rain and rivers wash salt out of rocks and carry it to the sea.",
+      "it": "Pioggia e fiumi sciolgono il sale delle rocce e lo portano al mare."
+    },
+    "funFact": {
+      "de": "Im Toten Meer ist so viel Salz, dass man darauf liegen kann, ohne unterzugehen.",
+      "en": "The Dead Sea is so salty that you can lie on it without sinking.",
+      "it": "Nel Mar Morto c'è così tanto sale che ci si può sdraiare sopra senza affondare."
+    },
+    "tags": [
+      "water",
+      "surprise"
+    ]
+  }
+]

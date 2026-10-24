@@ -1,0 +1,4714 @@
+[
+  {
+    "id": "science-magnet-sticks",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was bleibt an einem Magneten hängen?",
+      "en": "What sticks to a magnet?",
+      "it": "Che cosa resta attaccato a una calamita?"
+    },
+    "visual": "🧲",
+    "answers": [
+      {
+        "id": "paper-clip",
+        "icon": "📎",
+        "label": {
+          "de": "Büroklammer",
+          "en": "Paper clip",
+          "it": "Graffetta"
+        },
+        "correct": true
+      },
+      {
+        "id": "wood",
+        "icon": "🪵",
+        "label": {
+          "de": "Holz",
+          "en": "Wood",
+          "it": "Legno"
+        },
+        "correct": false
+      },
+      {
+        "id": "paper",
+        "icon": "🧻",
+        "label": {
+          "de": "Papier",
+          "en": "Paper",
+          "it": "Carta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Büroklammer aus Metall bleibt am Magneten hängen.",
+      "en": "The metal paper clip sticks to the magnet.",
+      "it": "La graffetta di metallo resta attaccata alla calamita."
+    },
+    "funFact": {
+      "de": "Magnete ziehen Dinge aus Eisen an.",
+      "en": "Magnets attract things made of iron.",
+      "it": "Le calamite attirano le cose di ferro."
+    },
+    "tags": [
+      "magnets"
+    ]
+  },
+  {
+    "id": "science-floats",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was schwimmt auf dem Wasser?",
+      "en": "What floats on water?",
+      "it": "Che cosa galleggia sull'acqua?"
+    },
+    "answers": [
+      {
+        "id": "rubber-duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Gummiente",
+          "en": "Rubber duck",
+          "it": "Paperella di gomma"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "key",
+        "icon": "🔑",
+        "label": {
+          "de": "Schlüssel",
+          "en": "Key",
+          "it": "Chiave"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Gummiente schwimmt auf dem Wasser.",
+      "en": "The rubber duck floats on the water.",
+      "it": "La paperella di gomma galleggia."
+    },
+    "funFact": {
+      "de": "Sogar ein riesiges Schiff aus Stahl kann schwimmen, wegen seiner Form.",
+      "en": "Even a huge steel ship can float, because of its shape.",
+      "it": "Perfino un'enorme nave d'acciaio galleggia, grazie alla sua forma."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "science-sinks",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was sinkt im Wasser?",
+      "en": "What sinks in water?",
+      "it": "Che cosa affonda nell'acqua?"
+    },
+    "answers": [
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": true
+      },
+      {
+        "id": "leaf",
+        "icon": "🍂",
+        "label": {
+          "de": "Blatt",
+          "en": "Leaf",
+          "it": "Foglia"
+        },
+        "correct": false
+      },
+      {
+        "id": "rubber-duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Gummiente",
+          "en": "Rubber duck",
+          "it": "Paperella di gomma"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Stein sinkt nach unten.",
+      "en": "The stone sinks to the bottom.",
+      "it": "Il sasso va a fondo."
+    },
+    "funFact": {
+      "de": "Ein Stein ist schwer für seine Grösse. Darum geht er unter.",
+      "en": "A stone is heavy for its size, so it sinks.",
+      "it": "Un sasso è pesante per la sua grandezza: per questo affonda."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "science-yellow-blue",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe bekommst du, wenn du Gelb und Blau mischst?",
+      "en": "What colour do you get if you mix yellow and blue?",
+      "it": "Che colore ottieni mescolando giallo e blu?"
+    },
+    "visual": "🟡+🔵",
+    "answers": [
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": true
+      },
+      {
+        "id": "purple",
+        "icon": "🟣",
+        "label": {
+          "de": "Lila",
+          "en": "Purple",
+          "it": "Viola"
+        },
+        "correct": false
+      },
+      {
+        "id": "orange",
+        "icon": "🟠",
+        "label": {
+          "de": "Orange",
+          "en": "Orange",
+          "it": "Arancione"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gelb und Blau gibt Grün.",
+      "en": "Yellow and blue make green.",
+      "it": "Giallo e blu fanno verde."
+    },
+    "funFact": {
+      "de": "Mit Rot, Gelb und Blau kannst du sehr viele Farben mischen.",
+      "en": "With red, yellow and blue you can mix lots and lots of colours.",
+      "it": "Con rosso, giallo e blu puoi mescolare tantissimi colori."
+    },
+    "tags": [
+      "colours"
+    ]
+  },
+  {
+    "id": "science-red-yellow",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe bekommst du, wenn du Rot und Gelb mischst?",
+      "en": "What colour do you get if you mix red and yellow?",
+      "it": "Che colore ottieni mescolando rosso e giallo?"
+    },
+    "visual": "🔴+🟡",
+    "answers": [
+      {
+        "id": "orange",
+        "icon": "🟠",
+        "label": {
+          "de": "Orange",
+          "en": "Orange",
+          "it": "Arancione"
+        },
+        "correct": true
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Blu"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Rot und Gelb gibt Orange.",
+      "en": "Red and yellow make orange.",
+      "it": "Rosso e giallo fanno arancione."
+    },
+    "funFact": {
+      "de": "Die Farbe Orange heisst wie die Frucht.",
+      "en": "The colour orange is named after the fruit.",
+      "it": "Il colore arancione prende il nome dal frutto."
+    },
+    "tags": [
+      "colours"
+    ]
+  },
+  {
+    "id": "science-red-blue",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe bekommst du, wenn du Rot und Blau mischst?",
+      "en": "What colour do you get if you mix red and blue?",
+      "it": "Che colore ottieni mescolando rosso e blu?"
+    },
+    "visual": "🔴+🔵",
+    "answers": [
+      {
+        "id": "purple",
+        "icon": "🟣",
+        "label": {
+          "de": "Lila",
+          "en": "Purple",
+          "it": "Viola"
+        },
+        "correct": true
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "yellow",
+        "icon": "🟡",
+        "label": {
+          "de": "Gelb",
+          "en": "Yellow",
+          "it": "Giallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Rot und Blau gibt Lila.",
+      "en": "Red and blue make purple.",
+      "it": "Rosso e blu fanno viola."
+    },
+    "funFact": {
+      "de": "Früher war lila Stoff sehr teuer. Nur Könige konnten ihn sich leisten.",
+      "en": "Long ago, purple cloth was so expensive that only kings could afford it.",
+      "it": "Una volta la stoffa viola costava tantissimo: solo i re potevano permettersela."
+    },
+    "tags": [
+      "colours"
+    ]
+  },
+  {
+    "id": "science-make-shadow",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was brauchst du, um einen Schatten zu machen?",
+      "en": "What do you need to make a shadow?",
+      "it": "Che cosa serve per fare un'ombra?"
+    },
+    "answers": [
+      {
+        "id": "light",
+        "icon": "💡",
+        "label": {
+          "de": "Licht",
+          "en": "Light",
+          "it": "Luce"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "music",
+        "icon": "🎵",
+        "label": {
+          "de": "Musik",
+          "en": "Music",
+          "it": "Musica"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ohne Licht gibt es keinen Schatten.",
+      "en": "Without light there is no shadow.",
+      "it": "Senza luce non c'è ombra."
+    },
+    "funFact": {
+      "de": "Am Mittag ist dein Schatten am kürzesten.",
+      "en": "Your shadow is shortest at midday.",
+      "it": "A mezzogiorno la tua ombra è la più corta."
+    },
+    "tags": [
+      "light"
+    ]
+  },
+  {
+    "id": "science-ice-in-sun",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert mit einem Eiswürfel in der Sonne?",
+      "en": "What happens to an ice cube in the sun?",
+      "it": "Che cosa succede a un cubetto di ghiaccio al sole?"
+    },
+    "visual": "🧊☀️",
+    "answers": [
+      {
+        "id": "it-melts",
+        "icon": "💧",
+        "label": {
+          "de": "Er schmilzt",
+          "en": "It melts",
+          "it": "Si scioglie"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-grows",
+        "icon": "🌱",
+        "label": {
+          "de": "Er wächst",
+          "en": "It grows",
+          "it": "Cresce"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-flies-away",
+        "icon": "🎈",
+        "label": {
+          "de": "Er fliegt weg",
+          "en": "It flies away",
+          "it": "Vola via"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Wärme schmilzt das Eis zu Wasser.",
+      "en": "In the warmth, ice melts into water.",
+      "it": "Al caldo il ghiaccio si scioglie in acqua."
+    },
+    "funFact": {
+      "de": "Im Gefrierfach wird Wasser wieder zu Eis.",
+      "en": "In the freezer, water turns back into ice.",
+      "it": "Nel freezer l'acqua torna ghiaccio."
+    },
+    "tags": [
+      "water",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-hot-danger",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist heiss und gefährlich?",
+      "en": "What is hot and dangerous?",
+      "it": "Che cosa è caldo e pericoloso?"
+    },
+    "answers": [
+      {
+        "id": "a-hot-cooker",
+        "icon": "🍳",
+        "label": {
+          "de": "Die heisse Herdplatte",
+          "en": "A hot cooker",
+          "it": "Il fornello acceso"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-teddy-bear",
+        "icon": "🧸",
+        "label": {
+          "de": "Der Teddybär",
+          "en": "A teddy bear",
+          "it": "L'orsacchiotto"
+        },
+        "correct": false
+      },
+      {
+        "id": "an-ice-cube",
+        "icon": "🧊",
+        "label": {
+          "de": "Ein Eiswürfel",
+          "en": "An ice cube",
+          "it": "Un cubetto di ghiaccio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine heisse Herdplatte kann dich verbrennen.",
+      "en": "A hot cooker can burn you.",
+      "it": "Un fornello acceso può bruciarti."
+    },
+    "funFact": {
+      "de": "Frag immer einen Erwachsenen, bevor du etwas am Herd machst.",
+      "en": "Always ask a grown-up before you do anything at the cooker.",
+      "it": "Chiedi sempre a un adulto prima di usare i fornelli."
+    },
+    "tags": [
+      "safety",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-sockets-toys",
+    "category": "science",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Mit Steckdosen darf man spielen. Stimmt das?",
+      "en": "It's OK to play with plug sockets. Is that true?",
+      "it": "Si può giocare con le prese elettriche. È vero?"
+    },
+    "visual": "🔌",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Strom ist gefährlich. Steckdosen sind kein Spielzeug!",
+      "en": "Electricity is dangerous. Sockets are not toys!",
+      "it": "La corrente è pericolosa: le prese non sono giocattoli!"
+    },
+    "funFact": {
+      "de": "Strom fliesst durch Kabel, so wie Wasser durch einen Schlauch.",
+      "en": "Electricity flows through wires, like water through a hose.",
+      "it": "La corrente scorre nei fili, come l'acqua in un tubo."
+    },
+    "tags": [
+      "safety",
+      "electricity"
+    ]
+  },
+  {
+    "id": "science-very-loud",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist sehr laut?",
+      "en": "Which one is very loud?",
+      "it": "Che cosa fa molto rumore?"
+    },
+    "answers": [
+      {
+        "id": "drum",
+        "icon": "🥁",
+        "label": {
+          "de": "Trommel",
+          "en": "Drum",
+          "it": "Tamburo"
+        },
+        "correct": true
+      },
+      {
+        "id": "feather",
+        "icon": "🪶",
+        "label": {
+          "de": "Feder",
+          "en": "Feather",
+          "it": "Piuma"
+        },
+        "correct": false
+      },
+      {
+        "id": "snail",
+        "icon": "🐌",
+        "label": {
+          "de": "Schnecke",
+          "en": "Snail",
+          "it": "Lumaca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Trommel ist sehr laut.",
+      "en": "A drum is very loud.",
+      "it": "Il tamburo fa tanto rumore."
+    },
+    "funFact": {
+      "de": "Töne sind Schwingungen, die durch die Luft zu deinen Ohren reisen.",
+      "en": "Sounds are vibrations that travel through the air to your ears.",
+      "it": "I suoni sono vibrazioni che viaggiano nell'aria fino alle orecchie."
+    },
+    "tags": [
+      "sound"
+    ]
+  },
+  {
+    "id": "science-soft",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist weich?",
+      "en": "Which one is soft?",
+      "it": "Che cosa è morbido?"
+    },
+    "answers": [
+      {
+        "id": "teddy-bear",
+        "icon": "🧸",
+        "label": {
+          "de": "Teddybär",
+          "en": "Teddy bear",
+          "it": "Orsacchiotto"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "hammer",
+        "icon": "🔨",
+        "label": {
+          "de": "Hammer",
+          "en": "Hammer",
+          "it": "Martello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Teddybär ist weich.",
+      "en": "A teddy bear is soft.",
+      "it": "L'orsacchiotto è morbido."
+    },
+    "funFact": {
+      "de": "Kissen und Teddys sind weich, weil viel Luft in ihrer Füllung ist.",
+      "en": "Pillows and teddies are soft because their stuffing is full of air.",
+      "it": "Cuscini e orsacchiotti sono morbidi perché l'imbottitura è piena d'aria."
+    },
+    "tags": [
+      "materials"
+    ]
+  },
+  {
+    "id": "science-see-through",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Durch was kannst du hindurchsehen?",
+      "en": "What can you see through?",
+      "it": "Attraverso che cosa puoi vedere?"
+    },
+    "answers": [
+      {
+        "id": "window-glass",
+        "icon": "🪟",
+        "label": {
+          "de": "Fensterglas",
+          "en": "Window glass",
+          "it": "Vetro della finestra"
+        },
+        "correct": true
+      },
+      {
+        "id": "brick-wall",
+        "icon": "🧱",
+        "label": {
+          "de": "Mauer",
+          "en": "Brick wall",
+          "it": "Muro"
+        },
+        "correct": false
+      },
+      {
+        "id": "wooden-door",
+        "icon": "🚪",
+        "label": {
+          "de": "Holztür",
+          "en": "Wooden door",
+          "it": "Porta di legno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Durch Glas kannst du hindurchsehen.",
+      "en": "You can see through glass.",
+      "it": "Attraverso il vetro si vede."
+    },
+    "funFact": {
+      "de": "Glas macht man aus Sand, der sehr heiss geschmolzen wird.",
+      "en": "Glass is made from sand melted at very high temperatures.",
+      "it": "Il vetro si fa con la sabbia fusa a temperature altissime."
+    },
+    "tags": [
+      "materials",
+      "light"
+    ]
+  },
+  {
+    "id": "science-wooden-table",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus ist ein Holztisch gemacht?",
+      "en": "What is a wooden table made from?",
+      "it": "Di che cosa è fatto un tavolo di legno?"
+    },
+    "answers": [
+      {
+        "id": "wood-from-trees",
+        "icon": "🌳",
+        "label": {
+          "de": "Aus Holz von Bäumen",
+          "en": "Wood from trees",
+          "it": "Legno degli alberi"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Aus Käse",
+          "en": "Cheese",
+          "it": "Formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Aus Eis",
+          "en": "Ice",
+          "it": "Ghiaccio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Holz kommt von Bäumen.",
+      "en": "Wood comes from trees.",
+      "it": "Il legno viene dagli alberi."
+    },
+    "funFact": {
+      "de": "Auch Papier wird aus Holz gemacht.",
+      "en": "Paper is made from wood too.",
+      "it": "Anche la carta si fa con il legno."
+    },
+    "tags": [
+      "materials"
+    ]
+  },
+  {
+    "id": "science-wheels",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft, schwere Dinge leichter zu bewegen?",
+      "en": "What helps you move heavy things more easily?",
+      "it": "Che cosa aiuta a spostare più facilmente le cose pesanti?"
+    },
+    "answers": [
+      {
+        "id": "wheels",
+        "icon": "🛞",
+        "label": {
+          "de": "Räder",
+          "en": "Wheels",
+          "it": "Ruote"
+        },
+        "correct": true
+      },
+      {
+        "id": "socks",
+        "icon": "🧦",
+        "label": {
+          "de": "Socken",
+          "en": "Socks",
+          "it": "Calzini"
+        },
+        "correct": false
+      },
+      {
+        "id": "bananas",
+        "icon": "🍌",
+        "label": {
+          "de": "Bananen",
+          "en": "Bananas",
+          "it": "Banane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit Rädern rollen schwere Dinge viel leichter.",
+      "en": "With wheels, heavy things roll much more easily.",
+      "it": "Con le ruote le cose pesanti scorrono molto più facilmente."
+    },
+    "funFact": {
+      "de": "Das Rad wurde vor über fünftausend Jahren erfunden.",
+      "en": "The wheel was invented more than five thousand years ago.",
+      "it": "La ruota è stata inventata più di cinquemila anni fa."
+    },
+    "tags": [
+      "machines",
+      "history"
+    ]
+  },
+  {
+    "id": "science-balloon-inside",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist in einem aufgeblasenen Ballon?",
+      "en": "What is inside a blown-up balloon?",
+      "it": "Che cosa c'è dentro un palloncino gonfio?"
+    },
+    "visual": "🎈",
+    "answers": [
+      {
+        "id": "air",
+        "icon": "🌬️",
+        "label": {
+          "de": "Luft",
+          "en": "Air",
+          "it": "Aria"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "stones",
+        "icon": "🧱",
+        "label": {
+          "de": "Steine",
+          "en": "Stones",
+          "it": "Sassi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Ballon ist Luft.",
+      "en": "There's air inside the balloon.",
+      "it": "Nel palloncino c'è aria."
+    },
+    "funFact": {
+      "de": "Ein Ballon mit Helium schwebt nach oben, weil Helium leichter ist als Luft.",
+      "en": "A helium balloon floats up because helium is lighter than air.",
+      "it": "Un palloncino con l'elio vola in alto perché l'elio è più leggero dell'aria."
+    },
+    "tags": [
+      "air"
+    ]
+  },
+  {
+    "id": "science-boiling-pot",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was steigt aus einem Topf mit kochendem Wasser?",
+      "en": "What rises out of a pot of boiling water?",
+      "it": "Che cosa sale da una pentola d'acqua che bolle?"
+    },
+    "visual": "♨️",
+    "answers": [
+      {
+        "id": "steam",
+        "icon": "💨",
+        "label": {
+          "de": "Dampf",
+          "en": "Steam",
+          "it": "Vapore"
+        },
+        "correct": true
+      },
+      {
+        "id": "snow",
+        "icon": "❄️",
+        "label": {
+          "de": "Schnee",
+          "en": "Snow",
+          "it": "Neve"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fische",
+          "en": "Fish",
+          "it": "Pesci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus kochendem Wasser steigt Dampf.",
+      "en": "Steam rises from boiling water.",
+      "it": "Dall'acqua che bolle sale il vapore."
+    },
+    "funFact": {
+      "de": "Dampf ist Wasser, das zu Gas geworden ist. Vorsicht, er ist heiss!",
+      "en": "Steam is water that has turned into a gas. Careful, it's hot!",
+      "it": "Il vapore è acqua diventata gas. Attenzione, scotta!"
+    },
+    "tags": [
+      "water",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-torch-needs",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was braucht eine Taschenlampe zum Leuchten?",
+      "en": "What does a torch need to shine?",
+      "it": "Di che cosa ha bisogno una torcia per fare luce?"
+    },
+    "visual": "🔦",
+    "answers": [
+      {
+        "id": "battery",
+        "icon": "🔋",
+        "label": {
+          "de": "Batterie",
+          "en": "Battery",
+          "it": "Pila"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "apple",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfel",
+          "en": "Apple",
+          "it": "Mela"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Taschenlampe braucht eine Batterie.",
+      "en": "A torch needs a battery.",
+      "it": "Una torcia ha bisogno di una pila."
+    },
+    "funFact": {
+      "de": "In einer Batterie ist Strom gespeichert.",
+      "en": "A battery stores electricity.",
+      "it": "In una pila è immagazzinata l'elettricità."
+    },
+    "tags": [
+      "electricity"
+    ]
+  },
+  {
+    "id": "science-chocolate-melts",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo wird Schokolade schnell weich?",
+      "en": "Where does chocolate quickly go soft?",
+      "it": "Dove diventa molle in fretta il cioccolato?"
+    },
+    "visual": "🍫",
+    "answers": [
+      {
+        "id": "in-the-hot-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "In der heissen Sonne",
+          "en": "In the hot sun",
+          "it": "Al sole caldo"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-fridge",
+        "icon": "🧊",
+        "label": {
+          "de": "Im Kühlschrank",
+          "en": "In the fridge",
+          "it": "In frigorifero"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-snow",
+        "icon": "❄️",
+        "label": {
+          "de": "Im Schnee",
+          "en": "In the snow",
+          "it": "Nella neve"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Wärme schmilzt Schokolade.",
+      "en": "Chocolate melts in the warmth.",
+      "it": "Al caldo il cioccolato si scioglie."
+    },
+    "funFact": {
+      "de": "Schokolade schmilzt schon ungefähr bei der Wärme deiner Hand.",
+      "en": "Chocolate starts to melt at about the warmth of your hand.",
+      "it": "Il cioccolato si scioglie già più o meno al calore della mano."
+    },
+    "tags": [
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-mountain-echo",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hörst du, wenn du in den Bergen laut rufst?",
+      "en": "What do you hear when you shout loudly in the mountains?",
+      "it": "Che cosa senti quando gridi forte in montagna?"
+    },
+    "visual": "🏔️",
+    "answers": [
+      {
+        "id": "an-echo",
+        "icon": "🗣️",
+        "label": {
+          "de": "Ein Echo",
+          "en": "An echo",
+          "it": "L'eco"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-song",
+        "icon": "🎵",
+        "label": {
+          "de": "Ein Lied",
+          "en": "A song",
+          "it": "Una canzone"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Einen Vogel",
+          "en": "A bird",
+          "it": "Un uccellino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Deine Stimme kommt als Echo zurück.",
+      "en": "Your voice comes back as an echo.",
+      "it": "La tua voce torna indietro: è l'eco."
+    },
+    "funFact": {
+      "de": "Ein Echo ist dein Ruf, der von einer Felswand zurückkommt.",
+      "en": "An echo is your shout bouncing back off a rock face.",
+      "it": "L'eco è il tuo grido che rimbalza su una parete di roccia."
+    },
+    "tags": [
+      "sound",
+      "mountains"
+    ]
+  },
+  {
+    "id": "science-mirror",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo siehst du dich selbst?",
+      "en": "Where can you see yourself?",
+      "it": "Dove puoi vedere te stesso?"
+    },
+    "answers": [
+      {
+        "id": "in-a-mirror",
+        "icon": "🪞",
+        "label": {
+          "de": "Im Spiegel",
+          "en": "In a mirror",
+          "it": "Nello specchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-a-brick-wall",
+        "icon": "🧱",
+        "label": {
+          "de": "In der Mauer",
+          "en": "In a brick wall",
+          "it": "Nel muro"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-a-teddy",
+        "icon": "🧸",
+        "label": {
+          "de": "Im Teddy",
+          "en": "In a teddy",
+          "it": "Nell'orsacchiotto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Spiegel siehst du dein Spiegelbild.",
+      "en": "In a mirror you see your reflection.",
+      "it": "Nello specchio vedi il tuo riflesso."
+    },
+    "funFact": {
+      "de": "Im Spiegel sind links und rechts vertauscht.",
+      "en": "In a mirror, left and right are swapped.",
+      "it": "Nello specchio destra e sinistra sono scambiate."
+    },
+    "tags": [
+      "light"
+    ]
+  },
+  {
+    "id": "science-soap-bubbles",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit machst du Seifenblasen?",
+      "en": "What do you make soap bubbles with?",
+      "it": "Con che cosa si fanno le bolle di sapone?"
+    },
+    "answers": [
+      {
+        "id": "soapy-water",
+        "icon": "🫧",
+        "label": {
+          "de": "Mit Seifenwasser",
+          "en": "Soapy water",
+          "it": "Acqua e sapone"
+        },
+        "correct": true
+      },
+      {
+        "id": "milk",
+        "icon": "🥛",
+        "label": {
+          "de": "Mit Milch",
+          "en": "Milk",
+          "it": "Latte"
+        },
+        "correct": false
+      },
+      {
+        "id": "apple-juice",
+        "icon": "🧃",
+        "label": {
+          "de": "Mit Apfelsaft",
+          "en": "Apple juice",
+          "it": "Succo di mela"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Seifenblasen macht man mit Seifenwasser.",
+      "en": "You make bubbles with soapy water.",
+      "it": "Le bolle si fanno con acqua e sapone."
+    },
+    "funFact": {
+      "de": "Seifenblasen schillern in allen Regenbogenfarben.",
+      "en": "Soap bubbles shimmer in all the colours of the rainbow.",
+      "it": "Le bolle di sapone brillano di tutti i colori dell'arcobaleno."
+    },
+    "tags": [
+      "light",
+      "colours"
+    ]
+  },
+  {
+    "id": "science-heavier-melon-grape",
+    "category": "science",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schwerer?",
+      "en": "Which is heavier?",
+      "it": "Che cosa pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "watermelon",
+        "icon": "🍉",
+        "label": {
+          "de": "Wassermelone",
+          "en": "Watermelon",
+          "it": "Anguria"
+        },
+        "correct": true
+      },
+      {
+        "id": "grape",
+        "icon": "🍇",
+        "label": {
+          "de": "Traube",
+          "en": "Grape",
+          "it": "Acino d'uva"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Wassermelone ist viel schwerer.",
+      "en": "The watermelon is much heavier.",
+      "it": "L'anguria pesa molto di più."
+    },
+    "funFact": {
+      "de": "Eine Wassermelone besteht fast nur aus Wasser.",
+      "en": "A watermelon is almost all water.",
+      "it": "Un'anguria è fatta quasi solo d'acqua."
+    },
+    "tags": [
+      "weight"
+    ]
+  },
+  {
+    "id": "science-hotter-fire-water",
+    "category": "science",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist heisser?",
+      "en": "Which is hotter?",
+      "it": "Che cosa è più caldo?"
+    },
+    "answers": [
+      {
+        "id": "fire",
+        "icon": "🔥",
+        "label": {
+          "de": "Feuer",
+          "en": "Fire",
+          "it": "Fuoco"
+        },
+        "correct": true
+      },
+      {
+        "id": "cold-water",
+        "icon": "💧",
+        "label": {
+          "de": "Kaltes Wasser",
+          "en": "Cold water",
+          "it": "Acqua fredda"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Feuer ist sehr heiss.",
+      "en": "Fire is very hot.",
+      "it": "Il fuoco è caldissimo."
+    },
+    "funFact": {
+      "de": "Feuer braucht Luft zum Brennen.",
+      "en": "Fire needs air to burn.",
+      "it": "Il fuoco ha bisogno di aria per bruciare."
+    },
+    "tags": [
+      "temperature",
+      "safety"
+    ]
+  },
+  {
+    "id": "science-louder-siren",
+    "category": "science",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist lauter?",
+      "en": "Which is louder?",
+      "it": "Che cosa fa più rumore?"
+    },
+    "answers": [
+      {
+        "id": "fire-engine",
+        "icon": "🚒",
+        "label": {
+          "de": "Feuerwehrauto",
+          "en": "Fire engine",
+          "it": "Camion dei pompieri"
+        },
+        "correct": true
+      },
+      {
+        "id": "mouse",
+        "icon": "🐭",
+        "label": {
+          "de": "Maus",
+          "en": "Mouse",
+          "it": "Topo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sirene vom Feuerwehrauto ist sehr laut.",
+      "en": "A fire engine's siren is very loud.",
+      "it": "La sirena dei pompieri è fortissima."
+    },
+    "funFact": {
+      "de": "Die Sirene ist laut, damit alle schnell Platz machen.",
+      "en": "The siren is loud so that everyone quickly makes way.",
+      "it": "La sirena è forte perché tutti si spostino subito."
+    },
+    "tags": [
+      "sound"
+    ]
+  },
+  {
+    "id": "science-lighter-balloon-stone",
+    "category": "science",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist leichter?",
+      "en": "Which is lighter?",
+      "it": "Che cosa è più leggero?"
+    },
+    "answers": [
+      {
+        "id": "balloon",
+        "icon": "🎈",
+        "label": {
+          "de": "Ballon",
+          "en": "Balloon",
+          "it": "Palloncino"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Ballon ist viel leichter als ein Stein.",
+      "en": "A balloon is much lighter than a stone.",
+      "it": "Un palloncino è molto più leggero di un sasso."
+    },
+    "funFact": {
+      "de": "Ein Ballon voller Luft wiegt fast nichts.",
+      "en": "A balloon full of air weighs almost nothing.",
+      "it": "Un palloncino pieno d'aria non pesa quasi niente."
+    },
+    "tags": [
+      "weight",
+      "air"
+    ]
+  },
+  {
+    "id": "science-water-to-ice",
+    "category": "science",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Aus Wasser kann man Eis machen. Stimmt das?",
+      "en": "You can turn water into ice. Is that true?",
+      "it": "Con l'acqua si può fare il ghiaccio. È vero?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Im Gefrierfach wird Wasser zu Eis.",
+      "en": "That's true! In the freezer, water turns into ice.",
+      "it": "È vero! Nel freezer l'acqua diventa ghiaccio."
+    },
+    "funFact": {
+      "de": "Im Gefrierfach ist es kälter als null Grad.",
+      "en": "It's colder than zero degrees in the freezer.",
+      "it": "Nel freezer fa più freddo di zero gradi."
+    },
+    "tags": [
+      "water",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-magnet-wood",
+    "category": "science",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Magnet zieht Holz an. Stimmt das?",
+      "en": "A magnet attracts wood. Is that true?",
+      "it": "Una calamita attira il legno. È vero?"
+    },
+    "visual": "🧲🪵",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Magnete ziehen kein Holz an, sondern Dinge aus Eisen.",
+      "en": "Magnets don't attract wood – they attract things made of iron.",
+      "it": "Le calamite non attirano il legno, ma le cose di ferro."
+    },
+    "funFact": {
+      "de": "Jeder Magnet hat einen Nordpol und einen Südpol.",
+      "en": "Every magnet has a north pole and a south pole.",
+      "it": "Ogni calamita ha un polo nord e un polo sud."
+    },
+    "tags": [
+      "magnets"
+    ]
+  },
+  {
+    "id": "science-hear-underwater",
+    "category": "science",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Unter Wasser kann man Geräusche hören. Stimmt das?",
+      "en": "You can hear sounds under water. Is that true?",
+      "it": "Sott'acqua si sentono i rumori. È vero?"
+    },
+    "visual": "🐳",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Schall reist auch durch Wasser.",
+      "en": "That's true! Sound travels through water too.",
+      "it": "È vero! Il suono viaggia anche nell'acqua."
+    },
+    "funFact": {
+      "de": "Wale singen Lieder, die man unter Wasser sehr weit hört.",
+      "en": "Whales sing songs that can be heard very far away under water.",
+      "it": "Le balene cantano canzoni che sott'acqua si sentono lontanissimo."
+    },
+    "tags": [
+      "sound",
+      "water"
+    ]
+  },
+  {
+    "id": "science-measure-warm",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit misst du, wie warm es ist?",
+      "en": "What do you use to measure how warm it is?",
+      "it": "Con che cosa misuri quanto fa caldo?"
+    },
+    "answers": [
+      {
+        "id": "thermometer",
+        "icon": "🌡️",
+        "label": {
+          "de": "Thermometer",
+          "en": "Thermometer",
+          "it": "Termometro"
+        },
+        "correct": true
+      },
+      {
+        "id": "ruler",
+        "icon": "📏",
+        "label": {
+          "de": "Lineal",
+          "en": "Ruler",
+          "it": "Righello"
+        },
+        "correct": false
+      },
+      {
+        "id": "alarm-clock",
+        "icon": "⏰",
+        "label": {
+          "de": "Wecker",
+          "en": "Alarm clock",
+          "it": "Sveglia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einem Thermometer misst man die Temperatur.",
+      "en": "A thermometer measures temperature.",
+      "it": "Il termometro misura la temperatura."
+    },
+    "funFact": {
+      "de": "Wenn du Fieber hast, misst man es mit einem Thermometer.",
+      "en": "When you have a fever, it is measured with a thermometer.",
+      "it": "Quando hai la febbre, la si misura con il termometro."
+    },
+    "tags": [
+      "measuring",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-measure-long",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit misst du, wie lang etwas ist?",
+      "en": "What do you use to measure how long something is?",
+      "it": "Con che cosa misuri quanto è lunga una cosa?"
+    },
+    "answers": [
+      {
+        "id": "ruler",
+        "icon": "📏",
+        "label": {
+          "de": "Lineal",
+          "en": "Ruler",
+          "it": "Righello"
+        },
+        "correct": true
+      },
+      {
+        "id": "thermometer",
+        "icon": "🌡️",
+        "label": {
+          "de": "Thermometer",
+          "en": "Thermometer",
+          "it": "Termometro"
+        },
+        "correct": false
+      },
+      {
+        "id": "scales",
+        "icon": "⚖️",
+        "label": {
+          "de": "Waage",
+          "en": "Scales",
+          "it": "Bilancia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einem Lineal misst man die Länge.",
+      "en": "A ruler measures length.",
+      "it": "Il righello misura la lunghezza."
+    },
+    "funFact": {
+      "de": "Ein Meter hat hundert Zentimeter.",
+      "en": "A metre has a hundred centimetres.",
+      "it": "Un metro ha cento centimetri."
+    },
+    "tags": [
+      "measuring"
+    ]
+  },
+  {
+    "id": "science-measure-heavy",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit misst du, wie schwer etwas ist?",
+      "en": "What do you use to measure how heavy something is?",
+      "it": "Con che cosa misuri quanto pesa una cosa?"
+    },
+    "answers": [
+      {
+        "id": "scales",
+        "icon": "⚖️",
+        "label": {
+          "de": "Waage",
+          "en": "Scales",
+          "it": "Bilancia"
+        },
+        "correct": true
+      },
+      {
+        "id": "ruler",
+        "icon": "📏",
+        "label": {
+          "de": "Lineal",
+          "en": "Ruler",
+          "it": "Righello"
+        },
+        "correct": false
+      },
+      {
+        "id": "alarm-clock",
+        "icon": "⏰",
+        "label": {
+          "de": "Wecker",
+          "en": "Alarm clock",
+          "it": "Sveglia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einer Waage misst man das Gewicht.",
+      "en": "Scales measure weight.",
+      "it": "La bilancia misura il peso."
+    },
+    "funFact": {
+      "de": "Ein Liter Wasser wiegt ungefähr ein Kilogramm.",
+      "en": "A litre of water weighs about one kilogram.",
+      "it": "Un litro d'acqua pesa circa un chilo."
+    },
+    "tags": [
+      "measuring",
+      "weight"
+    ]
+  },
+  {
+    "id": "science-measure-time",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit misst du die Zeit?",
+      "en": "What do you use to measure time?",
+      "it": "Con che cosa misuri il tempo?"
+    },
+    "answers": [
+      {
+        "id": "clock",
+        "icon": "⏰",
+        "label": {
+          "de": "Uhr",
+          "en": "Clock",
+          "it": "Orologio"
+        },
+        "correct": true
+      },
+      {
+        "id": "ruler",
+        "icon": "📏",
+        "label": {
+          "de": "Lineal",
+          "en": "Ruler",
+          "it": "Righello"
+        },
+        "correct": false
+      },
+      {
+        "id": "scales",
+        "icon": "⚖️",
+        "label": {
+          "de": "Waage",
+          "en": "Scales",
+          "it": "Bilancia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einer Uhr misst man die Zeit.",
+      "en": "A clock measures time.",
+      "it": "L'orologio misura il tempo."
+    },
+    "funFact": {
+      "de": "Eine Minute hat sechzig Sekunden.",
+      "en": "A minute has sixty seconds.",
+      "it": "Un minuto ha sessanta secondi."
+    },
+    "tags": [
+      "measuring",
+      "time"
+    ]
+  },
+  {
+    "id": "science-magnifier",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hilft dir, kleine Dinge gross zu sehen?",
+      "en": "What helps you see small things bigger?",
+      "it": "Che cosa ti aiuta a vedere grandi le cose piccole?"
+    },
+    "answers": [
+      {
+        "id": "magnifying-glass",
+        "icon": "🔍",
+        "label": {
+          "de": "Lupe",
+          "en": "Magnifying glass",
+          "it": "Lente d'ingrandimento"
+        },
+        "correct": true
+      },
+      {
+        "id": "sock",
+        "icon": "🧦",
+        "label": {
+          "de": "Socke",
+          "en": "Sock",
+          "it": "Calzino"
+        },
+        "correct": false
+      },
+      {
+        "id": "pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Pizza",
+          "en": "Pizza",
+          "it": "Pizza"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einer Lupe sehen kleine Dinge grösser aus.",
+      "en": "A magnifying glass makes small things look bigger.",
+      "it": "Con la lente le cose piccole sembrano più grandi."
+    },
+    "funFact": {
+      "de": "Mit einem Mikroskop sieht man sogar winzige Zellen.",
+      "en": "With a microscope you can even see tiny cells.",
+      "it": "Con il microscopio si vedono perfino le cellule minuscole."
+    },
+    "tags": [
+      "light",
+      "tools"
+    ]
+  },
+  {
+    "id": "science-kite",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was fliegt im Wind?",
+      "en": "What flies in the wind?",
+      "it": "Che cosa vola nel vento?"
+    },
+    "answers": [
+      {
+        "id": "kite",
+        "icon": "🪁",
+        "label": {
+          "de": "Drachen",
+          "en": "Kite",
+          "it": "Aquilone"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "car",
+        "icon": "🚗",
+        "label": {
+          "de": "Auto",
+          "en": "Car",
+          "it": "Automobile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Drachen fliegt im Wind.",
+      "en": "A kite flies in the wind.",
+      "it": "L'aquilone vola nel vento."
+    },
+    "funFact": {
+      "de": "Der Wind drückt den Drachen nach oben.",
+      "en": "The wind pushes the kite upwards.",
+      "it": "Il vento spinge l'aquilone verso l'alto."
+    },
+    "tags": [
+      "air"
+    ]
+  },
+  {
+    "id": "science-switch-light",
+    "category": "science",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was leuchtet, wenn man auf den Schalter drückt?",
+      "en": "What lights up when you press the switch?",
+      "it": "Che cosa si accende quando premi l'interruttore?"
+    },
+    "answers": [
+      {
+        "id": "lamp",
+        "icon": "💡",
+        "label": {
+          "de": "Lampe",
+          "en": "Lamp",
+          "it": "Lampada"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone",
+        "icon": "🪨",
+        "label": {
+          "de": "Stein",
+          "en": "Stone",
+          "it": "Sasso"
+        },
+        "correct": false
+      },
+      {
+        "id": "bread",
+        "icon": "🍞",
+        "label": {
+          "de": "Brot",
+          "en": "Bread",
+          "it": "Pane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Drücken des Schalters fliesst Strom zur Lampe.",
+      "en": "When you press the switch, electricity flows to the lamp.",
+      "it": "Premendo l'interruttore la corrente arriva alla lampada."
+    },
+    "funFact": {
+      "de": "Heute sparen LED-Lampen viel Strom.",
+      "en": "Today, LED lamps save lots of electricity.",
+      "it": "Oggi le lampade LED fanno risparmiare tanta elettricità."
+    },
+    "tags": [
+      "electricity",
+      "light"
+    ]
+  },
+  {
+    "id": "science-snowman-melts",
+    "category": "science",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Schneemann schmilzt in der Sonne. Stimmt das?",
+      "en": "A snowman melts in the sun. Is that true?",
+      "it": "Al sole il pupazzo di neve si scioglie. È vero?"
+    },
+    "visual": "⛄☀️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Wärme lässt den Schnee schmelzen.",
+      "en": "That's true! The warmth melts the snow.",
+      "it": "È vero! Il calore scioglie la neve."
+    },
+    "funFact": {
+      "de": "Im Schatten hält ein Schneemann länger.",
+      "en": "A snowman lasts longer in the shade.",
+      "it": "All'ombra il pupazzo di neve dura di più."
+    },
+    "tags": [
+      "temperature",
+      "winter"
+    ]
+  },
+  {
+    "id": "science-air-weight",
+    "category": "science",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Luft hat ein Gewicht. Stimmt das?",
+      "en": "Air has weight. Is that true?",
+      "it": "L'aria ha un peso. È vero?"
+    },
+    "visual": "🌬️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Luft ist leicht, aber nicht gewichtslos.",
+      "en": "That's true! Air is light, but it isn't weightless.",
+      "it": "È vero! L'aria è leggera, ma non pesa zero."
+    },
+    "funFact": {
+      "de": "Die Luft in einem Kinderzimmer wiegt etwa so viel wie ein Kind.",
+      "en": "The air in a bedroom weighs about as much as a child.",
+      "it": "L'aria di una cameretta pesa più o meno quanto un bambino."
+    },
+    "tags": [
+      "air",
+      "weight",
+      "surprise"
+    ],
+    "uncertain": "Rough estimate: a 4 × 4 × 2.5 m room holds about 48 kg of air."
+  },
+  {
+    "id": "science-conducts-electricity",
+    "category": "science",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Was leitet Strom?",
+      "en": "Which one carries electricity?",
+      "it": "Che cosa conduce la corrente?"
+    },
+    "answers": [
+      {
+        "id": "metal",
+        "icon": "🔩",
+        "label": {
+          "de": "Metall",
+          "en": "Metal",
+          "it": "Metallo"
+        },
+        "correct": true
+      },
+      {
+        "id": "wood",
+        "icon": "🪵",
+        "label": {
+          "de": "Holz",
+          "en": "Wood",
+          "it": "Legno"
+        },
+        "correct": false
+      },
+      {
+        "id": "rubber",
+        "icon": "🎈",
+        "label": {
+          "de": "Gummi",
+          "en": "Rubber",
+          "it": "Gomma"
+        },
+        "correct": false
+      },
+      {
+        "id": "wool",
+        "icon": "🧶",
+        "label": {
+          "de": "Wolle",
+          "en": "Wool",
+          "it": "Lana"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Metall leitet Strom gut.",
+      "en": "Metal carries electricity well.",
+      "it": "Il metallo conduce bene la corrente."
+    },
+    "funFact": {
+      "de": "Kabel sind innen aus Metall und aussen aus Gummi oder Plastik.",
+      "en": "Wires are metal inside and rubber or plastic outside.",
+      "it": "I cavi sono di metallo dentro e di gomma o plastica fuori."
+    },
+    "tags": [
+      "electricity",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-light-or-sound",
+    "category": "science",
+    "level": "both",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schneller?",
+      "en": "Which is faster?",
+      "it": "Che cosa è più veloce?"
+    },
+    "answers": [
+      {
+        "id": "light",
+        "icon": "⚡",
+        "label": {
+          "de": "Licht",
+          "en": "Light",
+          "it": "Luce"
+        },
+        "correct": true
+      },
+      {
+        "id": "sound",
+        "icon": "🔊",
+        "label": {
+          "de": "Schall",
+          "en": "Sound",
+          "it": "Suono"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Licht ist viel schneller als Schall. Darum siehst du den Blitz vor dem Donner.",
+      "en": "Light is much faster than sound. That's why you see lightning before you hear thunder.",
+      "it": "La luce è molto più veloce del suono: per questo vedi il lampo prima del tuono."
+    },
+    "funFact": {
+      "de": "Licht ist fast eine Million Mal schneller als Schall.",
+      "en": "Light is almost a million times faster than sound.",
+      "it": "La luce è quasi un milione di volte più veloce del suono."
+    },
+    "tags": [
+      "light",
+      "sound"
+    ]
+  },
+  {
+    "id": "science-fire-needs",
+    "category": "science",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Was braucht Feuer zum Brennen?",
+      "en": "What does fire need to burn?",
+      "it": "Di che cosa ha bisogno il fuoco per bruciare?"
+    },
+    "visual": "🔥",
+    "answers": [
+      {
+        "id": "air",
+        "icon": "🌬️",
+        "label": {
+          "de": "Luft",
+          "en": "Air",
+          "it": "Aria"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Eis",
+          "en": "Ice",
+          "it": "Ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "moonlight",
+        "icon": "🌙",
+        "label": {
+          "de": "Mondlicht",
+          "en": "Moonlight",
+          "it": "Luce della luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Feuer braucht Luft, genauer den Sauerstoff darin.",
+      "en": "Fire needs air – more exactly, the oxygen in it.",
+      "it": "Il fuoco ha bisogno di aria, anzi dell'ossigeno che contiene."
+    },
+    "funFact": {
+      "de": "Darum löscht man ein kleines Feuer mit einer Löschdecke: Sie nimmt ihm die Luft.",
+      "en": "That's why a small fire can be put out with a fire blanket: it takes away the air.",
+      "it": "Per questo un piccolo fuoco si spegne con una coperta antifiamma: gli toglie l'aria."
+    },
+    "tags": [
+      "safety",
+      "air"
+    ]
+  },
+  {
+    "id": "science-sunlight-colour",
+    "category": "science",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe hat Sonnenlicht eigentlich?",
+      "en": "What colour is sunlight really?",
+      "it": "Di che colore è davvero la luce del sole?"
+    },
+    "visual": "☀️",
+    "answers": [
+      {
+        "id": "white-with-all-colours-inside",
+        "icon": "⚪",
+        "label": {
+          "de": "Weiss, mit allen Farben drin",
+          "en": "White, with all colours inside",
+          "it": "Bianca, con dentro tutti i colori"
+        },
+        "correct": true
+      },
+      {
+        "id": "only-yellow",
+        "icon": "🟡",
+        "label": {
+          "de": "Nur gelb",
+          "en": "Only yellow",
+          "it": "Solo gialla"
+        },
+        "correct": false
+      },
+      {
+        "id": "only-red",
+        "icon": "🔴",
+        "label": {
+          "de": "Nur rot",
+          "en": "Only red",
+          "it": "Solo rossa"
+        },
+        "correct": false
+      },
+      {
+        "id": "black",
+        "icon": "⚫",
+        "label": {
+          "de": "Schwarz",
+          "en": "Black",
+          "it": "Nera"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Sonnenlicht ist weiss. Darin stecken alle Farben des Regenbogens.",
+      "en": "Sunlight is white. All the colours of the rainbow are hidden in it.",
+      "it": "La luce del sole è bianca: dentro ci sono tutti i colori dell'arcobaleno."
+    },
+    "funFact": {
+      "de": "Regentropfen teilen das weisse Licht in Regenbogenfarben auf.",
+      "en": "Raindrops split white light into rainbow colours.",
+      "it": "Le gocce di pioggia dividono la luce bianca nei colori dell'arcobaleno."
+    },
+    "tags": [
+      "light",
+      "colours",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-melting",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie nennt man es, wenn Eis zu Wasser wird?",
+      "en": "What is it called when ice turns into water?",
+      "it": "Come si chiama quando il ghiaccio diventa acqua?"
+    },
+    "answers": [
+      {
+        "id": "melting",
+        "icon": "💧",
+        "label": {
+          "de": "Schmelzen",
+          "en": "Melting",
+          "it": "Fusione"
+        },
+        "correct": true
+      },
+      {
+        "id": "freezing",
+        "icon": "❄️",
+        "label": {
+          "de": "Gefrieren",
+          "en": "Freezing",
+          "it": "Congelamento"
+        },
+        "correct": false
+      },
+      {
+        "id": "evaporating",
+        "icon": "💨",
+        "label": {
+          "de": "Verdunsten",
+          "en": "Evaporating",
+          "it": "Evaporazione"
+        },
+        "correct": false
+      },
+      {
+        "id": "raining",
+        "icon": "🌧️",
+        "label": {
+          "de": "Regnen",
+          "en": "Raining",
+          "it": "Pioggia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wenn Eis zu Wasser wird, schmilzt es.",
+      "en": "When ice turns into water, it melts.",
+      "it": "Quando il ghiaccio diventa acqua, fonde."
+    },
+    "funFact": {
+      "de": "Wenn Wasserdampf wieder zu Wasser wird, nennt man das Kondensieren.",
+      "en": "When steam turns back into water, it's called condensing.",
+      "it": "Quando il vapore torna acqua si parla di condensazione."
+    },
+    "tags": [
+      "water",
+      "states"
+    ]
+  },
+  {
+    "id": "science-metal-feels-cold",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Metall fühlt sich kälter an als Holz, auch wenn beide gleich warm sind. Stimmt das?",
+      "en": "Metal feels colder than wood, even when both are the same temperature. Is that true?",
+      "it": "Il metallo sembra più freddo del legno, anche se hanno la stessa temperatura. È vero?"
+    },
+    "visual": "🥄🪵",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Metall leitet die Wärme schnell aus deiner Hand weg.",
+      "en": "That's true! Metal draws heat away from your hand quickly.",
+      "it": "È vero! Il metallo porta via in fretta il calore dalla mano."
+    },
+    "funFact": {
+      "de": "Darum wird ein Metalllöffel im heissen Tee schnell heiss, ein Holzlöffel nicht.",
+      "en": "That's why a metal spoon in hot tea gets hot quickly but a wooden one doesn't.",
+      "it": "Per questo un cucchiaio di metallo nel tè caldo si scalda subito, uno di legno no."
+    },
+    "tags": [
+      "temperature",
+      "materials",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-magnet-poles",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert, wenn du die Nordpole von zwei Magneten zusammenhältst?",
+      "en": "What happens when you hold the north poles of two magnets together?",
+      "it": "Che cosa succede se avvicini i poli nord di due calamite?"
+    },
+    "visual": "🧲🧲",
+    "answers": [
+      {
+        "id": "they-push-each-other-away",
+        "icon": "↔️",
+        "label": {
+          "de": "Sie stossen sich ab",
+          "en": "They push each other away",
+          "it": "Si respingono"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-pull-together",
+        "icon": "🧲",
+        "label": {
+          "de": "Sie ziehen sich an",
+          "en": "They pull together",
+          "it": "Si attraggono"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-explode",
+        "icon": "💥",
+        "label": {
+          "de": "Sie explodieren",
+          "en": "They explode",
+          "it": "Esplodono"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-sing",
+        "icon": "🎵",
+        "label": {
+          "de": "Sie singen",
+          "en": "They sing",
+          "it": "Cantano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gleiche Pole stossen sich ab.",
+      "en": "Like poles push each other away.",
+      "it": "Poli uguali si respingono."
+    },
+    "funFact": {
+      "de": "Ein Nordpol und ein Südpol ziehen sich an.",
+      "en": "A north pole and a south pole pull together.",
+      "it": "Un polo nord e un polo sud si attraggono."
+    },
+    "tags": [
+      "magnets"
+    ]
+  },
+  {
+    "id": "science-sound-fastest",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wodurch reist Schall am schnellsten?",
+      "en": "What does sound travel through fastest?",
+      "it": "Attraverso che cosa viaggia più veloce il suono?"
+    },
+    "answers": [
+      {
+        "id": "rock-and-metal",
+        "icon": "🪨",
+        "label": {
+          "de": "Durch Stein und Metall",
+          "en": "Rock and metal",
+          "it": "Roccia e metallo"
+        },
+        "correct": true
+      },
+      {
+        "id": "air",
+        "icon": "💨",
+        "label": {
+          "de": "Durch Luft",
+          "en": "Air",
+          "it": "Aria"
+        },
+        "correct": false
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Durch Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "space",
+        "icon": "🌌",
+        "label": {
+          "de": "Durch das Weltall",
+          "en": "Space",
+          "it": "Lo spazio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In festen Stoffen wie Stein und Metall ist Schall am schnellsten.",
+      "en": "Sound is fastest in solids like rock and metal.",
+      "it": "Il suono è più veloce nei solidi come roccia e metallo."
+    },
+    "funFact": {
+      "de": "Im Weltall gibt es gar keinen Schall, weil dort keine Luft ist.",
+      "en": "In space there's no sound at all, because there is no air.",
+      "it": "Nello spazio non c'è alcun suono, perché non c'è aria."
+    },
+    "tags": [
+      "sound"
+    ]
+  },
+  {
+    "id": "science-light-speed",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie schnell ist Licht ungefähr?",
+      "en": "About how fast is light?",
+      "it": "Quanto è veloce la luce, più o meno?"
+    },
+    "answers": [
+      {
+        "id": "three-hundred-thousand-kilometres-a-second",
+        "icon": "⚡",
+        "label": {
+          "de": "Dreihunderttausend Kilometer pro Sekunde",
+          "en": "Three hundred thousand kilometres a second",
+          "it": "Trecentomila chilometri al secondo"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hundred-kilometres-an-hour",
+        "icon": "🚗",
+        "label": {
+          "de": "Hundert Kilometer pro Stunde",
+          "en": "A hundred kilometres an hour",
+          "it": "Cento chilometri all'ora"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty-kilometres-an-hour",
+        "icon": "🚲",
+        "label": {
+          "de": "Zwanzig Kilometer pro Stunde",
+          "en": "Twenty kilometres an hour",
+          "it": "Venti chilometri all'ora"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-metre-an-hour",
+        "icon": "🐌",
+        "label": {
+          "de": "Ein Meter pro Stunde",
+          "en": "One metre an hour",
+          "it": "Un metro all'ora"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Licht legt etwa dreihunderttausend Kilometer in einer Sekunde zurück.",
+      "en": "Light travels about three hundred thousand kilometres in one second.",
+      "it": "La luce percorre circa trecentomila chilometri in un secondo."
+    },
+    "funFact": {
+      "de": "In einer Sekunde könnte Licht etwa siebenmal um die Erde reisen.",
+      "en": "In one second, light could go round the Earth about seven times.",
+      "it": "In un secondo la luce potrebbe fare circa sette volte il giro della Terra."
+    },
+    "tags": [
+      "light",
+      "speed"
+    ]
+  },
+  {
+    "id": "science-falling-apple",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Forscher dachte laut einer Geschichte über einen fallenden Apfel nach?",
+      "en": "Which scientist, the story goes, thought about a falling apple?",
+      "it": "Secondo una storia, quale scienziato rifletté su una mela che cadeva?"
+    },
+    "answers": [
+      {
+        "id": "isaac-newton",
+        "icon": "🍎",
+        "label": {
+          "de": "Isaac Newton",
+          "en": "Isaac Newton",
+          "it": "Isaac Newton"
+        },
+        "correct": true
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      },
+      {
+        "id": "thomas-edison",
+        "icon": "💡",
+        "label": {
+          "de": "Thomas Edison",
+          "en": "Thomas Edison",
+          "it": "Thomas Edison"
+        },
+        "correct": false
+      },
+      {
+        "id": "marie-curie",
+        "icon": "🧪",
+        "label": {
+          "de": "Marie Curie",
+          "en": "Marie Curie",
+          "it": "Marie Curie"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Isaac Newton erforschte die Schwerkraft.",
+      "en": "Isaac Newton studied gravity.",
+      "it": "Isaac Newton studiò la gravità."
+    },
+    "funFact": {
+      "de": "Newton erkannte: Dieselbe Kraft zieht den Apfel zur Erde und hält den Mond auf seiner Bahn.",
+      "en": "Newton realised the same force pulls an apple to the ground and keeps the moon in its orbit.",
+      "it": "Newton capì che la stessa forza fa cadere la mela e tiene la luna nella sua orbita."
+    },
+    "tags": [
+      "history",
+      "gravity"
+    ]
+  },
+  {
+    "id": "science-two-nobel",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer gewann als erste Person zwei Nobelpreise?",
+      "en": "Who was the first person to win two Nobel Prizes?",
+      "it": "Chi è stata la prima persona a vincere due premi Nobel?"
+    },
+    "answers": [
+      {
+        "id": "marie-curie",
+        "icon": "🧪",
+        "label": {
+          "de": "Marie Curie",
+          "en": "Marie Curie",
+          "it": "Marie Curie"
+        },
+        "correct": true
+      },
+      {
+        "id": "isaac-newton",
+        "icon": "🍎",
+        "label": {
+          "de": "Isaac Newton",
+          "en": "Isaac Newton",
+          "it": "Isaac Newton"
+        },
+        "correct": false
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      },
+      {
+        "id": "thomas-edison",
+        "icon": "💡",
+        "label": {
+          "de": "Thomas Edison",
+          "en": "Thomas Edison",
+          "it": "Thomas Edison"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Marie Curie gewann Nobelpreise in Physik und in Chemie.",
+      "en": "Marie Curie won Nobel Prizes in physics and in chemistry.",
+      "it": "Marie Curie vinse il Nobel per la fisica e per la chimica."
+    },
+    "funFact": {
+      "de": "Sie entdeckte die Stoffe Polonium und Radium.",
+      "en": "She discovered the elements polonium and radium.",
+      "it": "Scoprì gli elementi polonio e radio."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "science-lever",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit hebst du einen schweren Stein leichter an?",
+      "en": "What helps you lift a heavy stone more easily?",
+      "it": "Con che cosa sollevi più facilmente un sasso pesante?"
+    },
+    "answers": [
+      {
+        "id": "a-long-pole-used-as-a-lever",
+        "icon": "🪵",
+        "label": {
+          "de": "Mit einer langen Stange als Hebel",
+          "en": "A long pole used as a lever",
+          "it": "Un lungo bastone come leva"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-feather",
+        "icon": "🪶",
+        "label": {
+          "de": "Mit einer Feder",
+          "en": "A feather",
+          "it": "Una piuma"
+        },
+        "correct": false
+      },
+      {
+        "id": "some-paper",
+        "icon": "🧻",
+        "label": {
+          "de": "Mit Papier",
+          "en": "Some paper",
+          "it": "Della carta"
+        },
+        "correct": false
+      },
+      {
+        "id": "spaghetti",
+        "icon": "🍝",
+        "label": {
+          "de": "Mit Spaghetti",
+          "en": "Spaghetti",
+          "it": "Degli spaghetti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einem Hebel braucht man viel weniger Kraft.",
+      "en": "With a lever, you need much less strength.",
+      "it": "Con una leva serve molta meno forza."
+    },
+    "funFact": {
+      "de": "Eine Wippe auf dem Spielplatz ist auch ein Hebel.",
+      "en": "A seesaw in the playground is a lever too.",
+      "it": "Anche l'altalena a bilico del parco giochi è una leva."
+    },
+    "tags": [
+      "machines"
+    ]
+  },
+  {
+    "id": "science-sky-blue",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum ist der Himmel blau?",
+      "en": "Why is the sky blue?",
+      "it": "Perché il cielo è azzurro?"
+    },
+    "answers": [
+      {
+        "id": "air-scatters-blue-light-the-most",
+        "icon": "🌬️",
+        "label": {
+          "de": "Die Luft streut blaues Licht am stärksten",
+          "en": "Air scatters blue light the most",
+          "it": "L'aria diffonde soprattutto la luce blu"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-reflects-the-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "Er spiegelt das Meer",
+          "en": "It reflects the sea",
+          "it": "Riflette il mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "someone-painted-it",
+        "icon": "🎨",
+        "label": {
+          "de": "Jemand hat ihn angemalt",
+          "en": "Someone painted it",
+          "it": "Qualcuno l'ha dipinto"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-of-blueberries",
+        "icon": "🫐",
+        "label": {
+          "de": "Wegen der Heidelbeeren",
+          "en": "Because of blueberries",
+          "it": "Per colpa dei mirtilli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Luft verteilt das blaue Licht der Sonne überall am Himmel.",
+      "en": "The air scatters the sun's blue light all over the sky.",
+      "it": "L'aria sparge la luce blu del sole in tutto il cielo."
+    },
+    "funFact": {
+      "de": "Darum ist der Himmel auch über der Wüste blau, weit weg vom Meer.",
+      "en": "That's why the sky is blue over the desert too, far from any sea.",
+      "it": "Per questo il cielo è azzurro anche sopra il deserto, lontano dal mare."
+    },
+    "tags": [
+      "light",
+      "colours",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-prism",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was zerlegt weisses Licht in Regenbogenfarben?",
+      "en": "What splits white light into rainbow colours?",
+      "it": "Che cosa divide la luce bianca nei colori dell'arcobaleno?"
+    },
+    "answers": [
+      {
+        "id": "a-glass-prism",
+        "icon": "🔺",
+        "label": {
+          "de": "Ein Glasprisma",
+          "en": "A glass prism",
+          "it": "Un prisma di vetro"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-flat-mirror",
+        "icon": "🪞",
+        "label": {
+          "de": "Ein flacher Spiegel",
+          "en": "A flat mirror",
+          "it": "Uno specchio piatto"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-brick",
+        "icon": "🧱",
+        "label": {
+          "de": "Ein Ziegelstein",
+          "en": "A brick",
+          "it": "Un mattone"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-sponge",
+        "icon": "🧽",
+        "label": {
+          "de": "Ein Schwamm",
+          "en": "A sponge",
+          "it": "Una spugna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Glasprisma knickt die Farben verschieden stark. So entsteht ein kleiner Regenbogen.",
+      "en": "A glass prism bends each colour differently, making a little rainbow.",
+      "it": "Un prisma di vetro piega ogni colore in modo diverso e crea un piccolo arcobaleno."
+    },
+    "funFact": {
+      "de": "Isaac Newton zeigte mit einem Prisma, dass weisses Licht aus allen Farben besteht.",
+      "en": "Isaac Newton used a prism to show that white light is made of all colours.",
+      "it": "Isaac Newton dimostrò con un prisma che la luce bianca contiene tutti i colori."
+    },
+    "tags": [
+      "light",
+      "colours"
+    ]
+  },
+  {
+    "id": "science-ice-expands",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wasser braucht mehr Platz, wenn es gefriert. Stimmt das?",
+      "en": "Water takes up more space when it freezes. Is that true?",
+      "it": "L'acqua occupa più spazio quando gela. È vero?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Eis braucht mehr Platz als Wasser. Darum schwimmt es oben.",
+      "en": "That's true! Ice takes up more room than water, which is why it floats.",
+      "it": "È vero! Il ghiaccio occupa più spazio dell'acqua: per questo galleggia."
+    },
+    "funFact": {
+      "de": "Darum kann eine volle Glasflasche im Gefrierfach platzen.",
+      "en": "That's why a full glass bottle can burst in the freezer.",
+      "it": "Per questo una bottiglia di vetro piena può scoppiare nel freezer."
+    },
+    "tags": [
+      "water",
+      "states",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-float-salt-water",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In Salzwasser schwimmt man leichter als in Süsswasser. Stimmt das?",
+      "en": "It's easier to float in salt water than in fresh water. Is that true?",
+      "it": "Nell'acqua salata si galleggia più facilmente che in quella dolce. È vero?"
+    },
+    "visual": "🥚🧂",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Salzwasser ist schwerer und trägt dich besser.",
+      "en": "That's true! Salt water is denser and holds you up better.",
+      "it": "È vero! L'acqua salata è più densa e ti sostiene meglio."
+    },
+    "funFact": {
+      "de": "Ein Ei, das im Leitungswasser sinkt, kann in sehr salzigem Wasser schwimmen.",
+      "en": "An egg that sinks in tap water can float in very salty water.",
+      "it": "Un uovo che affonda nell'acqua del rubinetto può galleggiare in acqua molto salata."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "science-atoms",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus besteht alles um uns herum?",
+      "en": "What is everything around us made of?",
+      "it": "Di che cosa è fatto tutto ciò che ci circonda?"
+    },
+    "answers": [
+      {
+        "id": "tiny-atoms",
+        "icon": "⚛️",
+        "label": {
+          "de": "Aus winzigen Atomen",
+          "en": "Tiny atoms",
+          "it": "Minuscoli atomi"
+        },
+        "correct": true
+      },
+      {
+        "id": "toy-bricks",
+        "icon": "🧱",
+        "label": {
+          "de": "Aus Legosteinen",
+          "en": "Toy bricks",
+          "it": "Mattoncini giocattolo"
+        },
+        "correct": false
+      },
+      {
+        "id": "sugar",
+        "icon": "🍬",
+        "label": {
+          "de": "Aus Zucker",
+          "en": "Sugar",
+          "it": "Zucchero"
+        },
+        "correct": false
+      },
+      {
+        "id": "glitter",
+        "icon": "✨",
+        "label": {
+          "de": "Aus Glitzer",
+          "en": "Glitter",
+          "it": "Brillantini"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Alles besteht aus winzigen Bausteinen: Atomen.",
+      "en": "Everything is made of tiny building blocks called atoms.",
+      "it": "Tutto è fatto di minuscoli mattoncini: gli atomi."
+    },
+    "funFact": {
+      "de": "Atome sind so klein, dass Millionen davon auf einen Punkt passen.",
+      "en": "Atoms are so small that millions of them fit on a full stop.",
+      "it": "Gli atomi sono così piccoli che milioni ci stanno in un puntino."
+    },
+    "tags": [
+      "materials"
+    ]
+  },
+  {
+    "id": "science-plastic-from",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus wird das meiste Plastik gemacht?",
+      "en": "What is most plastic made from?",
+      "it": "Con che cosa si fa la maggior parte della plastica?"
+    },
+    "answers": [
+      {
+        "id": "oil",
+        "icon": "🛢️",
+        "label": {
+          "de": "Aus Erdöl",
+          "en": "Oil",
+          "it": "Petrolio"
+        },
+        "correct": true
+      },
+      {
+        "id": "leaves",
+        "icon": "🌳",
+        "label": {
+          "de": "Aus Blättern",
+          "en": "Leaves",
+          "it": "Foglie"
+        },
+        "correct": false
+      },
+      {
+        "id": "milk",
+        "icon": "🥛",
+        "label": {
+          "de": "Aus Milch",
+          "en": "Milk",
+          "it": "Latte"
+        },
+        "correct": false
+      },
+      {
+        "id": "salt",
+        "icon": "🧂",
+        "label": {
+          "de": "Aus Salz",
+          "en": "Salt",
+          "it": "Sale"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das meiste Plastik wird aus Erdöl hergestellt.",
+      "en": "Most plastic is made from oil.",
+      "it": "La maggior parte della plastica si fa con il petrolio."
+    },
+    "funFact": {
+      "de": "Plastik zerfällt in der Natur nur sehr, sehr langsam.",
+      "en": "Plastic breaks down in nature very, very slowly.",
+      "it": "In natura la plastica si decompone lentissimamente."
+    },
+    "tags": [
+      "materials",
+      "environment"
+    ]
+  },
+  {
+    "id": "science-glass-from",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus macht man Glas?",
+      "en": "What is glass made from?",
+      "it": "Con che cosa si fa il vetro?"
+    },
+    "answers": [
+      {
+        "id": "melted-sand",
+        "icon": "🏖️",
+        "label": {
+          "de": "Aus geschmolzenem Sand",
+          "en": "Melted sand",
+          "it": "Sabbia fusa"
+        },
+        "correct": true
+      },
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Aus Eis",
+          "en": "Ice",
+          "it": "Ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "sugar",
+        "icon": "🍬",
+        "label": {
+          "de": "Aus Zucker",
+          "en": "Sugar",
+          "it": "Zucchero"
+        },
+        "correct": false
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Aus Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Glas macht man vor allem aus Sand.",
+      "en": "Glass is made mainly from sand.",
+      "it": "Il vetro si fa soprattutto con la sabbia."
+    },
+    "funFact": {
+      "de": "Dafür braucht es Temperaturen von weit über tausend Grad.",
+      "en": "That takes temperatures of well over a thousand degrees.",
+      "it": "Servono temperature ben oltre i mille gradi."
+    },
+    "tags": [
+      "materials"
+    ]
+  },
+  {
+    "id": "science-thermometer-rises",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was steigt in einem alten Thermometer, wenn es wärmer wird?",
+      "en": "What rises in an old-style thermometer when it gets warmer?",
+      "it": "Che cosa sale in un vecchio termometro quando fa più caldo?"
+    },
+    "answers": [
+      {
+        "id": "a-liquid-that-expands",
+        "icon": "🌡️",
+        "label": {
+          "de": "Eine Flüssigkeit, die sich ausdehnt",
+          "en": "A liquid that expands",
+          "it": "Un liquido che si dilata"
+        },
+        "correct": true
+      },
+      {
+        "id": "an-ant",
+        "icon": "🐜",
+        "label": {
+          "de": "Eine Ameise",
+          "en": "An ant",
+          "it": "Una formica"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-balloon",
+        "icon": "🎈",
+        "label": {
+          "de": "Ein Ballon",
+          "en": "A balloon",
+          "it": "Un palloncino"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-magnet",
+        "icon": "🧲",
+        "label": {
+          "de": "Ein Magnet",
+          "en": "A magnet",
+          "it": "Una calamita"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei Wärme braucht die Flüssigkeit mehr Platz und steigt im Röhrchen.",
+      "en": "When it's warm, the liquid takes up more space and climbs the tube.",
+      "it": "Al caldo il liquido occupa più spazio e sale nel tubicino."
+    },
+    "funFact": {
+      "de": "Heute gibt es auch digitale Thermometer ohne Flüssigkeit.",
+      "en": "Today there are also digital thermometers with no liquid.",
+      "it": "Oggi ci sono anche termometri digitali senza liquido."
+    },
+    "tags": [
+      "temperature",
+      "measuring"
+    ]
+  },
+  {
+    "id": "science-swiss-power",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woher kommt in der Schweiz viel Strom?",
+      "en": "Where does a lot of Switzerland's electricity come from?",
+      "it": "Da dove viene molta dell'elettricità in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "hydroelectric-power-stations",
+        "icon": "💧",
+        "label": {
+          "de": "Aus Wasserkraftwerken",
+          "en": "Hydroelectric power stations",
+          "it": "Dalle centrali idroelettriche"
+        },
+        "correct": true
+      },
+      {
+        "id": "oil-wells",
+        "icon": "🛢️",
+        "label": {
+          "de": "Aus Ölquellen",
+          "en": "Oil wells",
+          "it": "Dai pozzi di petrolio"
+        },
+        "correct": false
+      },
+      {
+        "id": "hamster-wheels",
+        "icon": "🐹",
+        "label": {
+          "de": "Aus Hamsterrädern",
+          "en": "Hamster wheels",
+          "it": "Dalle ruote dei criceti"
+        },
+        "correct": false
+      },
+      {
+        "id": "volcanoes",
+        "icon": "🌋",
+        "label": {
+          "de": "Aus Vulkanen",
+          "en": "Volcanoes",
+          "it": "Dai vulcani"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz macht über die Hälfte ihres Stroms mit Wasserkraft.",
+      "en": "Switzerland makes more than half its electricity with water power.",
+      "it": "La Svizzera produce più di metà della sua elettricità con l'acqua."
+    },
+    "funFact": {
+      "de": "In den Bergen gibt es viele Stauseen mit grossen Staumauern.",
+      "en": "There are many reservoirs with huge dams in the mountains.",
+      "it": "In montagna ci sono molti laghi artificiali con grandi dighe."
+    },
+    "tags": [
+      "electricity",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "science-insulator",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Material leitet Strom nicht und schützt dich darum?",
+      "en": "Which material doesn't carry electricity and so protects you?",
+      "it": "Quale materiale non conduce la corrente e quindi ti protegge?"
+    },
+    "answers": [
+      {
+        "id": "rubber",
+        "icon": "🧤",
+        "label": {
+          "de": "Gummi",
+          "en": "Rubber",
+          "it": "Gomma"
+        },
+        "correct": true
+      },
+      {
+        "id": "metal",
+        "icon": "🔩",
+        "label": {
+          "de": "Metall",
+          "en": "Metal",
+          "it": "Metallo"
+        },
+        "correct": false
+      },
+      {
+        "id": "salt-water",
+        "icon": "🧂",
+        "label": {
+          "de": "Salzwasser",
+          "en": "Salt water",
+          "it": "Acqua salata"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-metal-spoon",
+        "icon": "🥄",
+        "label": {
+          "de": "Ein Metalllöffel",
+          "en": "A metal spoon",
+          "it": "Un cucchiaio di metallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Gummi leitet keinen Strom.",
+      "en": "Rubber doesn't carry electricity.",
+      "it": "La gomma non conduce la corrente."
+    },
+    "funFact": {
+      "de": "Elektrikerinnen und Elektriker tragen darum oft Handschuhe aus Gummi.",
+      "en": "That's why electricians often wear rubber gloves.",
+      "it": "Per questo gli elettricisti portano spesso guanti di gomma."
+    },
+    "tags": [
+      "electricity",
+      "safety"
+    ]
+  },
+  {
+    "id": "science-slippery-ice",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum rutscht man auf Eis so leicht aus?",
+      "en": "Why is it so easy to slip on ice?",
+      "it": "Perché sul ghiaccio si scivola così facilmente?"
+    },
+    "answers": [
+      {
+        "id": "ice-is-smooth-and-grips-very-little",
+        "icon": "🧊",
+        "label": {
+          "de": "Eis ist glatt und bremst kaum",
+          "en": "Ice is smooth and grips very little",
+          "it": "Il ghiaccio è liscio e frena poco"
+        },
+        "correct": true
+      },
+      {
+        "id": "there-are-bananas-on-it",
+        "icon": "🍌",
+        "label": {
+          "de": "Es liegen Bananen darauf",
+          "en": "There are bananas on it",
+          "it": "Ci sono banane sopra"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice-is-magnetic",
+        "icon": "🧲",
+        "label": {
+          "de": "Eis ist magnetisch",
+          "en": "Ice is magnetic",
+          "it": "Il ghiaccio è magnetico"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-wind-pushes-you",
+        "icon": "💨",
+        "label": {
+          "de": "Der Wind schiebt dich",
+          "en": "The wind pushes you",
+          "it": "Il vento ti spinge"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf glattem Eis gibt es kaum Reibung.",
+      "en": "There's hardly any friction on smooth ice.",
+      "it": "Sul ghiaccio liscio non c'è quasi attrito."
+    },
+    "funFact": {
+      "de": "Darum streut man im Winter Sand oder Splitt auf Wege.",
+      "en": "That's why grit or sand is spread on paths in winter.",
+      "it": "Per questo d'inverno si sparge sabbia o ghiaino sui sentieri."
+    },
+    "tags": [
+      "forces",
+      "winter"
+    ]
+  },
+  {
+    "id": "science-string-sound",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht eine Gitarrensaite, wenn sie einen Ton macht?",
+      "en": "What does a guitar string do when it makes a sound?",
+      "it": "Che cosa fa una corda di chitarra quando suona?"
+    },
+    "visual": "🎸",
+    "answers": [
+      {
+        "id": "it-vibrates-back-and-forth",
+        "icon": "〰️",
+        "label": {
+          "de": "Sie schwingt hin und her",
+          "en": "It vibrates back and forth",
+          "it": "Vibra avanti e indietro"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-gets-hot",
+        "icon": "🔥",
+        "label": {
+          "de": "Sie wird heiss",
+          "en": "It gets hot",
+          "it": "Si scalda"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-freezes",
+        "icon": "🧊",
+        "label": {
+          "de": "Sie gefriert",
+          "en": "It freezes",
+          "it": "Gela"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-glows",
+        "icon": "💡",
+        "label": {
+          "de": "Sie leuchtet",
+          "en": "It glows",
+          "it": "Si illumina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Saite schwingt und bringt die Luft zum Schwingen. Das hörst du als Ton.",
+      "en": "The string vibrates and makes the air vibrate, which you hear as sound.",
+      "it": "La corda vibra e fa vibrare l'aria: è il suono che senti."
+    },
+    "funFact": {
+      "de": "Kurze, straffe Saiten klingen hoch, lange, lockere Saiten tief.",
+      "en": "Short, tight strings sound high; long, loose strings sound low.",
+      "it": "Le corde corte e tese suonano acute, quelle lunghe e lente gravi."
+    },
+    "tags": [
+      "sound",
+      "music"
+    ]
+  },
+  {
+    "id": "science-microscope",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kann man mit einem Mikroskop sehen?",
+      "en": "What can you see with a microscope?",
+      "it": "Che cosa si può vedere con un microscopio?"
+    },
+    "answers": [
+      {
+        "id": "tiny-cells-and-bacteria",
+        "icon": "🦠",
+        "label": {
+          "de": "Winzige Zellen und Bakterien",
+          "en": "Tiny cells and bacteria",
+          "it": "Cellule e batteri minuscoli"
+        },
+        "correct": true
+      },
+      {
+        "id": "faraway-planets",
+        "icon": "🪐",
+        "label": {
+          "de": "Ferne Planeten",
+          "en": "Faraway planets",
+          "it": "Pianeti lontani"
+        },
+        "correct": false
+      },
+      {
+        "id": "whole-mountains",
+        "icon": "🏔️",
+        "label": {
+          "de": "Ganze Berge",
+          "en": "Whole mountains",
+          "it": "Montagne intere"
+        },
+        "correct": false
+      },
+      {
+        "id": "elephants-far-away",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefanten von weit weg",
+          "en": "Elephants far away",
+          "it": "Elefanti lontani"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Mikroskop macht winzige Dinge sichtbar.",
+      "en": "A microscope makes tiny things visible.",
+      "it": "Il microscopio rende visibili le cose minuscole."
+    },
+    "funFact": {
+      "de": "Dein Körper besteht aus vielen Billionen winziger Zellen.",
+      "en": "Your body is made of many trillions of tiny cells.",
+      "it": "Il tuo corpo è fatto di moltissimi miliardi di cellule minuscole."
+    },
+    "tags": [
+      "tools",
+      "body"
+    ]
+  },
+  {
+    "id": "science-galileo-telescope",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Forscher aus Italien schaute als einer der Ersten mit einem Fernrohr zum Himmel?",
+      "en": "Which Italian scientist was one of the first to look at the sky through a telescope?",
+      "it": "Quale scienziato italiano fu tra i primi a guardare il cielo con un cannocchiale?"
+    },
+    "answers": [
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": true
+      },
+      {
+        "id": "isaac-newton",
+        "icon": "🍎",
+        "label": {
+          "de": "Isaac Newton",
+          "en": "Isaac Newton",
+          "it": "Isaac Newton"
+        },
+        "correct": false
+      },
+      {
+        "id": "marie-curie",
+        "icon": "🧪",
+        "label": {
+          "de": "Marie Curie",
+          "en": "Marie Curie",
+          "it": "Marie Curie"
+        },
+        "correct": false
+      },
+      {
+        "id": "thomas-edison",
+        "icon": "💡",
+        "label": {
+          "de": "Thomas Edison",
+          "en": "Thomas Edison",
+          "it": "Thomas Edison"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Galileo Galilei beobachtete den Himmel mit einem Fernrohr.",
+      "en": "Galileo Galilei observed the sky with a telescope.",
+      "it": "Galileo Galilei osservò il cielo con il cannocchiale."
+    },
+    "funFact": {
+      "de": "Er entdeckte vier Monde des Jupiter.",
+      "en": "He discovered four of Jupiter's moons.",
+      "it": "Scoprì quattro lune di Giove."
+    },
+    "tags": [
+      "history",
+      "space",
+      "italy"
+    ]
+  },
+  {
+    "id": "science-steel-ship",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum kann ein Schiff aus Stahl schwimmen?",
+      "en": "Why can a ship made of steel float?",
+      "it": "Perché una nave d'acciaio galleggia?"
+    },
+    "answers": [
+      {
+        "id": "its-shape-pushes-away-lots-of-water",
+        "icon": "🚢",
+        "label": {
+          "de": "Seine Form drückt viel Wasser weg",
+          "en": "Its shape pushes away lots of water",
+          "it": "La sua forma sposta tanta acqua"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-s-full-of-balloons",
+        "icon": "🎈",
+        "label": {
+          "de": "Es ist voller Ballone",
+          "en": "It's full of balloons",
+          "it": "È piena di palloncini"
+        },
+        "correct": false
+      },
+      {
+        "id": "magnets-hold-it-up",
+        "icon": "🧲",
+        "label": {
+          "de": "Magnete halten es",
+          "en": "Magnets hold it up",
+          "it": "Delle calamite la tengono su"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-has-wings",
+        "icon": "🪽",
+        "label": {
+          "de": "Es hat Flügel",
+          "en": "It has wings",
+          "it": "Ha le ali"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Schiff ist innen hohl. Es drückt so viel Wasser weg, dass das Wasser es trägt.",
+      "en": "A ship is hollow, so it pushes away enough water to be held up by it.",
+      "it": "Una nave è vuota dentro: sposta abbastanza acqua da esserne sostenuta."
+    },
+    "funFact": {
+      "de": "Eine Kugel aus Knete sinkt, aber als Schiffchen geformt schwimmt sie.",
+      "en": "A ball of modelling clay sinks, but shaped into a little boat it floats.",
+      "it": "Una pallina di plastilina affonda, ma a forma di barchetta galleggia."
+    },
+    "tags": [
+      "water",
+      "forces"
+    ]
+  },
+  {
+    "id": "science-rust",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert mit Eisen, wenn es lange nass ist?",
+      "en": "What happens to iron when it stays wet for a long time?",
+      "it": "Che cosa succede al ferro se resta bagnato a lungo?"
+    },
+    "answers": [
+      {
+        "id": "it-rusts",
+        "icon": "🟤",
+        "label": {
+          "de": "Es rostet",
+          "en": "It rusts",
+          "it": "Arrugginisce"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-turns-to-gold",
+        "icon": "✨",
+        "label": {
+          "de": "Es wird zu Gold",
+          "en": "It turns to gold",
+          "it": "Diventa oro"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-grows",
+        "icon": "🌱",
+        "label": {
+          "de": "Es wächst",
+          "en": "It grows",
+          "it": "Cresce"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-disappears",
+        "icon": "💨",
+        "label": {
+          "de": "Es verschwindet",
+          "en": "It disappears",
+          "it": "Sparisce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eisen rostet, wenn es mit Wasser und Luft in Kontakt kommt.",
+      "en": "Iron rusts when it meets water and air.",
+      "it": "Il ferro arrugginisce a contatto con acqua e aria."
+    },
+    "funFact": {
+      "de": "Rost ist der Grund, warum der Mars rot aussieht.",
+      "en": "Rust is the reason Mars looks red.",
+      "it": "La ruggine è il motivo per cui Marte sembra rosso."
+    },
+    "tags": [
+      "materials",
+      "chemistry"
+    ]
+  },
+  {
+    "id": "science-fizzing",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert, wenn man Natron und Essig mischt?",
+      "en": "What happens when you mix baking soda and vinegar?",
+      "it": "Che cosa succede se mescoli bicarbonato e aceto?"
+    },
+    "visual": "🧪",
+    "answers": [
+      {
+        "id": "it-fizzes-and-foams",
+        "icon": "🫧",
+        "label": {
+          "de": "Es sprudelt und schäumt",
+          "en": "It fizzes and foams",
+          "it": "Fa le bolle e schiuma"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-freezes",
+        "icon": "🧊",
+        "label": {
+          "de": "Es gefriert",
+          "en": "It freezes",
+          "it": "Gela"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-glows",
+        "icon": "💡",
+        "label": {
+          "de": "Es leuchtet",
+          "en": "It glows",
+          "it": "Si illumina"
+        },
+        "correct": false
+      },
+      {
+        "id": "nothing-at-all",
+        "icon": "🔇",
+        "label": {
+          "de": "Gar nichts",
+          "en": "Nothing at all",
+          "it": "Proprio niente"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Es sprudelt, weil dabei ein Gas entsteht.",
+      "en": "It fizzes because a gas is made.",
+      "it": "Fa le bolle perché si forma un gas."
+    },
+    "funFact": {
+      "de": "Das Gas heisst Kohlendioxid. Es steckt auch in Mineralwasser mit Kohlensäure.",
+      "en": "The gas is carbon dioxide – the same gas that's in fizzy water.",
+      "it": "Il gas si chiama anidride carbonica: è lo stesso dell'acqua frizzante."
+    },
+    "tags": [
+      "chemistry"
+    ],
+    "uncertain": "Experiment idea – only with a grown-up; use baking soda (Natron) rather than baking powder."
+  },
+  {
+    "id": "science-conducts-heat",
+    "category": "science",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was leitet Wärme besser?",
+      "en": "Which conducts heat better?",
+      "it": "Che cosa conduce meglio il calore?"
+    },
+    "answers": [
+      {
+        "id": "metal-spoon",
+        "icon": "🥄",
+        "label": {
+          "de": "Metalllöffel",
+          "en": "Metal spoon",
+          "it": "Cucchiaio di metallo"
+        },
+        "correct": true
+      },
+      {
+        "id": "wooden-spoon",
+        "icon": "🪵",
+        "label": {
+          "de": "Holzlöffel",
+          "en": "Wooden spoon",
+          "it": "Cucchiaio di legno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Metall leitet Wärme viel besser als Holz.",
+      "en": "Metal conducts heat much better than wood.",
+      "it": "Il metallo conduce il calore molto meglio del legno."
+    },
+    "funFact": {
+      "de": "Pfannen sind aus Metall, ihre Griffe oft aus Holz oder Plastik.",
+      "en": "Pans are made of metal, but their handles are often wood or plastic.",
+      "it": "Le padelle sono di metallo, ma i manici spesso di legno o plastica."
+    },
+    "tags": [
+      "temperature",
+      "materials"
+    ]
+  },
+  {
+    "id": "science-feather-hammer",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ohne Luft fallen eine Feder und ein Hammer gleich schnell. Stimmt das?",
+      "en": "Without air, a feather and a hammer fall equally fast. Is that true?",
+      "it": "Senza aria, una piuma e un martello cadono alla stessa velocità. È vero?"
+    },
+    "visual": "🪶🔨",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Nur die Luft bremst die Feder.",
+      "en": "That's true! It's only the air that slows the feather down.",
+      "it": "È vero! È solo l'aria a frenare la piuma."
+    },
+    "funFact": {
+      "de": "Ein Astronaut hat das auf dem Mond ausprobiert – es hat geklappt!",
+      "en": "An astronaut tried it on the moon – and it worked!",
+      "it": "Un astronauta l'ha provato sulla luna, e ha funzionato!"
+    },
+    "tags": [
+      "gravity",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-white-clothes-cool",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Weisse Kleidung hält im Sommer kühler als schwarze. Stimmt das?",
+      "en": "White clothes keep you cooler in summer than black ones. Is that true?",
+      "it": "D'estate i vestiti bianchi tengono più freschi di quelli neri. È vero?"
+    },
+    "visual": "👕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Weiss wirft viel Sonnenlicht zurück.",
+      "en": "That's true! White reflects lots of sunlight.",
+      "it": "È vero! Il bianco riflette molta luce del sole."
+    },
+    "funFact": {
+      "de": "Schwarz nimmt viel Sonnenlicht auf und wird dabei warm.",
+      "en": "Black soaks up lots of sunlight and warms up.",
+      "it": "Il nero assorbe molta luce e si scalda."
+    },
+    "tags": [
+      "light",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-friction",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die Kraft, die einen rollenden Ball langsam stoppt?",
+      "en": "What is the force that slowly stops a rolling ball?",
+      "it": "Come si chiama la forza che ferma piano piano una palla che rotola?"
+    },
+    "visual": "⚽",
+    "answers": [
+      {
+        "id": "friction",
+        "icon": "🛑",
+        "label": {
+          "de": "Reibung",
+          "en": "Friction",
+          "it": "Attrito"
+        },
+        "correct": true
+      },
+      {
+        "id": "magnetism",
+        "icon": "🧲",
+        "label": {
+          "de": "Magnetismus",
+          "en": "Magnetism",
+          "it": "Magnetismo"
+        },
+        "correct": false
+      },
+      {
+        "id": "electricity",
+        "icon": "⚡",
+        "label": {
+          "de": "Strom",
+          "en": "Electricity",
+          "it": "Elettricità"
+        },
+        "correct": false
+      },
+      {
+        "id": "fire",
+        "icon": "🔥",
+        "label": {
+          "de": "Feuer",
+          "en": "Fire",
+          "it": "Fuoco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Reibung zwischen Ball und Boden bremst den Ball.",
+      "en": "Friction between the ball and the ground slows the ball.",
+      "it": "L'attrito tra palla e terreno frena la palla."
+    },
+    "funFact": {
+      "de": "Ohne Reibung könnten wir nicht einmal gehen – wir würden ständig ausrutschen.",
+      "en": "Without friction we couldn't even walk – we'd slip all the time.",
+      "it": "Senza attrito non potremmo neanche camminare: scivoleremmo sempre."
+    },
+    "tags": [
+      "forces"
+    ]
+  },
+  {
+    "id": "science-bridge-gaps",
+    "category": "science",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Brücken haben kleine Lücken, weil sich Metall bei Hitze ausdehnt. Stimmt das?",
+      "en": "Bridges have small gaps because metal expands in the heat. Is that true?",
+      "it": "I ponti hanno piccoli spazi perché il metallo si dilata col caldo. È vero?"
+    },
+    "visual": "🌉",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! So hat die Brücke im Sommer Platz zum Wachsen.",
+      "en": "That's true! It gives the bridge room to grow in summer.",
+      "it": "È vero! Così d'estate il ponte ha spazio per allungarsi."
+    },
+    "funFact": {
+      "de": "Im Sommer ist der Eiffelturm ein paar Zentimeter höher als im Winter.",
+      "en": "In summer the Eiffel Tower is a few centimetres taller than in winter.",
+      "it": "D'estate la Torre Eiffel è qualche centimetro più alta che d'inverno."
+    },
+    "tags": [
+      "temperature",
+      "materials",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-experiment",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Experiment?",
+      "en": "What is an experiment?",
+      "it": "Che cos'è un esperimento?"
+    },
+    "answers": [
+      {
+        "id": "a-test-to-find-something-out",
+        "icon": "🧪",
+        "label": {
+          "de": "Ein Versuch, um etwas herauszufinden",
+          "en": "A test to find something out",
+          "it": "Una prova per scoprire qualcosa"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-picture",
+        "icon": "🎨",
+        "label": {
+          "de": "Ein Bild",
+          "en": "A picture",
+          "it": "Un disegno"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cake",
+        "icon": "🍰",
+        "label": {
+          "de": "Ein Kuchen",
+          "en": "A cake",
+          "it": "Una torta"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-tv-show",
+        "icon": "📺",
+        "label": {
+          "de": "Eine Fernsehsendung",
+          "en": "A TV show",
+          "it": "Un programma TV"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei einem Experiment probiert man etwas aus und schaut genau, was passiert.",
+      "en": "In an experiment you try something and watch carefully what happens.",
+      "it": "In un esperimento si prova qualcosa e si osserva bene che cosa succede."
+    },
+    "funFact": {
+      "de": "Gute Forschende schreiben genau auf, was sie beobachten.",
+      "en": "Good scientists write down exactly what they observe.",
+      "it": "I bravi scienziati annotano con cura quello che osservano."
+    },
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "id": "science-balloon-hair",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum stehen dir die Haare zu Berge, wenn du einen Ballon an ihnen reibst?",
+      "en": "Why does your hair stand up when you rub a balloon on it?",
+      "it": "Perché i capelli si drizzano se ci strofini un palloncino?"
+    },
+    "visual": "🎈",
+    "answers": [
+      {
+        "id": "because-of-static-electricity",
+        "icon": "⚡",
+        "label": {
+          "de": "Wegen elektrischer Ladung",
+          "en": "Because of static electricity",
+          "it": "Per l'elettricità statica"
+        },
+        "correct": true
+      },
+      {
+        "id": "because-of-a-magnet",
+        "icon": "🧲",
+        "label": {
+          "de": "Wegen eines Magneten",
+          "en": "Because of a magnet",
+          "it": "Per una calamita"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-of-the-wind",
+        "icon": "💨",
+        "label": {
+          "de": "Wegen des Windes",
+          "en": "Because of the wind",
+          "it": "Per il vento"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-you-re-cold",
+        "icon": "🥶",
+        "label": {
+          "de": "Weil dir kalt ist",
+          "en": "Because you're cold",
+          "it": "Perché hai freddo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Reiben entsteht elektrische Ladung. Sie zieht die Haare an.",
+      "en": "Rubbing makes static electricity, which pulls on your hair.",
+      "it": "Strofinando si crea elettricità statica, che attira i capelli."
+    },
+    "funFact": {
+      "de": "Ein geriebener Ballon kann sogar an der Wand kleben bleiben.",
+      "en": "A rubbed balloon can even stick to a wall.",
+      "it": "Un palloncino strofinato può perfino restare attaccato al muro."
+    },
+    "tags": [
+      "electricity",
+      "surprise"
+    ]
+  },
+  {
+    "id": "science-celsius",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Einheit messen wir bei uns die Temperatur?",
+      "en": "What unit do we use to measure temperature here?",
+      "it": "In che unità misuriamo la temperatura da noi?"
+    },
+    "answers": [
+      {
+        "id": "degrees-celsius",
+        "icon": "🌡️",
+        "label": {
+          "de": "Grad Celsius",
+          "en": "Degrees Celsius",
+          "it": "Gradi Celsius"
+        },
+        "correct": true
+      },
+      {
+        "id": "kilograms",
+        "icon": "⚖️",
+        "label": {
+          "de": "Kilogramm",
+          "en": "Kilograms",
+          "it": "Chilogrammi"
+        },
+        "correct": false
+      },
+      {
+        "id": "metres",
+        "icon": "📏",
+        "label": {
+          "de": "Meter",
+          "en": "Metres",
+          "it": "Metri"
+        },
+        "correct": false
+      },
+      {
+        "id": "litres",
+        "icon": "🥛",
+        "label": {
+          "de": "Liter",
+          "en": "Litres",
+          "it": "Litri"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wir messen die Temperatur in Grad Celsius.",
+      "en": "We measure temperature in degrees Celsius.",
+      "it": "Misuriamo la temperatura in gradi Celsius."
+    },
+    "funFact": {
+      "de": "Die Skala ist nach Anders Celsius aus Schweden benannt.",
+      "en": "The scale is named after Anders Celsius from Sweden.",
+      "it": "La scala prende il nome dallo svedese Anders Celsius."
+    },
+    "tags": [
+      "measuring",
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-grams-in-kilo",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Gramm hat ein Kilogramm?",
+      "en": "How many grams are in a kilogram?",
+      "it": "Quanti grammi ci sono in un chilogrammo?"
+    },
+    "visual": "⚖️",
+    "answers": [
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      },
+      {
+        "id": "sixty",
+        "icon": "60",
+        "label": {
+          "de": "Sechzig",
+          "en": "Sixty",
+          "it": "Sessanta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Kilogramm hat tausend Gramm.",
+      "en": "A kilogram has a thousand grams.",
+      "it": "Un chilogrammo ha mille grammi."
+    },
+    "funFact": {
+      "de": "Eine Tafel Schokolade wiegt oft hundert Gramm.",
+      "en": "A bar of chocolate often weighs a hundred grams.",
+      "it": "Una tavoletta di cioccolato pesa spesso cento grammi."
+    },
+    "tags": [
+      "measuring",
+      "weight",
+      "numbers"
+    ]
+  },
+  {
+    "id": "science-salt-dissolves",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert, wenn man Salz in Wasser rührt?",
+      "en": "What happens when you stir salt into water?",
+      "it": "Che cosa succede se mescoli il sale nell'acqua?"
+    },
+    "visual": "🧂💧",
+    "answers": [
+      {
+        "id": "it-dissolves",
+        "icon": "🫥",
+        "label": {
+          "de": "Es löst sich auf",
+          "en": "It dissolves",
+          "it": "Si scioglie"
+        },
+        "correct": true
+      },
+      {
+        "id": "it-explodes",
+        "icon": "💥",
+        "label": {
+          "de": "Es explodiert",
+          "en": "It explodes",
+          "it": "Esplode"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-turns-to-ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Es wird zu Eis",
+          "en": "It turns to ice",
+          "it": "Diventa ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "it-turns-colourful",
+        "icon": "🌈",
+        "label": {
+          "de": "Es wird bunt",
+          "en": "It turns colourful",
+          "it": "Diventa colorato"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Salz löst sich im Wasser auf. Man sieht es nicht mehr, aber man schmeckt es.",
+      "en": "The salt dissolves. You can't see it any more, but you can taste it.",
+      "it": "Il sale si scioglie: non si vede più, ma si sente il sapore."
+    },
+    "funFact": {
+      "de": "Wenn das Wasser verdunstet, bleibt das Salz wieder übrig.",
+      "en": "When the water evaporates, the salt is left behind.",
+      "it": "Quando l'acqua evapora, il sale resta."
+    },
+    "tags": [
+      "chemistry",
+      "water"
+    ]
+  },
+  {
+    "id": "science-melts-first",
+    "category": "science",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was schmilzt zuerst in der Sonne?",
+      "en": "Which melts first in the sun?",
+      "it": "Che cosa si scioglie prima al sole?"
+    },
+    "answers": [
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": true
+      },
+      {
+        "id": "candle",
+        "icon": "🕯️",
+        "label": {
+          "de": "Kerze",
+          "en": "Candle",
+          "it": "Candela"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schokolade schmilzt schon bei Körperwärme, Kerzenwachs erst bei mehr Hitze.",
+      "en": "Chocolate melts at body temperature; candle wax needs more heat.",
+      "it": "Il cioccolato si scioglie già al calore del corpo, la cera ha bisogno di più calore."
+    },
+    "funFact": {
+      "de": "Darum schmilzt Schokolade auch in deinem Mund.",
+      "en": "That's why chocolate melts in your mouth.",
+      "it": "Per questo il cioccolato si scioglie in bocca."
+    },
+    "tags": [
+      "temperature"
+    ]
+  },
+  {
+    "id": "science-paper-from",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus wird Papier vor allem gemacht?",
+      "en": "What is paper mostly made from?",
+      "it": "Con che cosa si fa soprattutto la carta?"
+    },
+    "answers": [
+      {
+        "id": "wood-fibres",
+        "icon": "🌳",
+        "label": {
+          "de": "Aus Holzfasern",
+          "en": "Wood fibres",
+          "it": "Fibre di legno"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Aus Käse",
+          "en": "Cheese",
+          "it": "Formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "stones",
+        "icon": "🪨",
+        "label": {
+          "de": "Aus Steinen",
+          "en": "Stones",
+          "it": "Sassi"
+        },
+        "correct": false
+      },
+      {
+        "id": "sheep-s-wool",
+        "icon": "🐑",
+        "label": {
+          "de": "Aus Schafwolle",
+          "en": "Sheep's wool",
+          "it": "Lana di pecora"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Papier wird aus feinen Holzfasern gemacht.",
+      "en": "Paper is made from fine wood fibres.",
+      "it": "La carta si fa con sottili fibre di legno."
+    },
+    "funFact": {
+      "de": "Altpapier kann man wieder zu neuem Papier machen.",
+      "en": "Old paper can be made into new paper.",
+      "it": "La carta vecchia si può trasformare in carta nuova."
+    },
+    "tags": [
+      "materials",
+      "environment"
+    ]
+  },
+  {
+    "id": "science-loudspeaker",
+    "category": "science",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was macht ein Lautsprecher?",
+      "en": "What does a loudspeaker do?",
+      "it": "Che cosa fa un altoparlante?"
+    },
+    "answers": [
+      {
+        "id": "turns-electricity-into-sound",
+        "icon": "🔊",
+        "label": {
+          "de": "Er macht aus Strom Töne",
+          "en": "Turns electricity into sound",
+          "it": "Trasforma la corrente in suono"
+        },
+        "correct": true
+      },
+      {
+        "id": "makes-light",
+        "icon": "💡",
+        "label": {
+          "de": "Er macht Licht",
+          "en": "Makes light",
+          "it": "Fa luce"
+        },
+        "correct": false
+      },
+      {
+        "id": "makes-cold",
+        "icon": "🧊",
+        "label": {
+          "de": "Er macht Kälte",
+          "en": "Makes cold",
+          "it": "Fa freddo"
+        },
+        "correct": false
+      },
+      {
+        "id": "bakes-biscuits",
+        "icon": "🍪",
+        "label": {
+          "de": "Er backt Kekse",
+          "en": "Bakes biscuits",
+          "it": "Cuoce biscotti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Lautsprecher verwandelt elektrische Signale in Töne.",
+      "en": "A loudspeaker turns electrical signals into sound.",
+      "it": "Un altoparlante trasforma i segnali elettrici in suoni."
+    },
+    "funFact": {
+      "de": "Im Lautsprecher bewegt ein Magnet eine dünne Membran hin und her.",
+      "en": "Inside, a magnet moves a thin skin back and forth.",
+      "it": "Dentro, una calamita muove avanti e indietro una sottile membrana."
+    },
+    "tags": [
+      "sound",
+      "electricity",
+      "magnets"
+    ]
+  }
+]

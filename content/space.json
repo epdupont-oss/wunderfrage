@@ -1,0 +1,4581 @@
+[
+  {
+    "id": "space-sun-is-star",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Sonne ist ein Stern. Stimmt das?",
+      "en": "The sun is a star. Is that true?",
+      "it": "Il sole è una stella. È vero?"
+    },
+    "visual": "☀️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Sonne ist ein Stern, ganz nah bei uns.",
+      "en": "That's true! The sun is a star that is very close to us.",
+      "it": "È vero! Il sole è una stella molto vicina a noi."
+    },
+    "funFact": {
+      "de": "Die Sonne ist der Stern, der uns am nächsten ist.",
+      "en": "The sun is the star closest to us.",
+      "it": "Il sole è la stella più vicina a noi."
+    },
+    "tags": [
+      "sun",
+      "stars"
+    ]
+  },
+  {
+    "id": "space-our-planet",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Auf welchem Planeten leben wir?",
+      "en": "Which planet do we live on?",
+      "it": "Su quale pianeta viviamo?"
+    },
+    "answers": [
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": true
+      },
+      {
+        "id": "saturn",
+        "icon": "🪐",
+        "label": {
+          "de": "Saturn",
+          "en": "Saturn",
+          "it": "Saturno"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wir leben auf der Erde.",
+      "en": "We live on Earth.",
+      "it": "Viviamo sulla Terra."
+    },
+    "funFact": {
+      "de": "Die Erde ist der einzige Planet, von dem wir wissen, dass es dort Leben gibt.",
+      "en": "Earth is the only planet where we know there is life.",
+      "it": "La Terra è l'unico pianeta dove sappiamo che c'è vita."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-round-at-night",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was leuchtet nachts oft hell und rund am Himmel?",
+      "en": "What often shines bright and round in the night sky?",
+      "it": "Che cosa brilla spesso tonda e luminosa nel cielo di notte?"
+    },
+    "answers": [
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": true
+      },
+      {
+        "id": "sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "Sun",
+          "it": "Sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "rainbow",
+        "icon": "🌈",
+        "label": {
+          "de": "Regenbogen",
+          "en": "Rainbow",
+          "it": "Arcobaleno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Nachts siehst du oft den Mond.",
+      "en": "At night you can often see the moon.",
+      "it": "Di notte vedi spesso la luna."
+    },
+    "funFact": {
+      "de": "Der Mond leuchtet nicht selbst. Die Sonne strahlt ihn an.",
+      "en": "The moon doesn't make its own light. The sun shines on it.",
+      "it": "La luna non fa luce da sola: è illuminata dal sole."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-fly-to-space",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit fliegt man ins Weltall?",
+      "en": "What do people fly into space in?",
+      "it": "Con che cosa si vola nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "rocket",
+        "icon": "🚀",
+        "label": {
+          "de": "Rakete",
+          "en": "Rocket",
+          "it": "Razzo"
+        },
+        "correct": true
+      },
+      {
+        "id": "bike",
+        "icon": "🚲",
+        "label": {
+          "de": "Fahrrad",
+          "en": "Bike",
+          "it": "Bicicletta"
+        },
+        "correct": false
+      },
+      {
+        "id": "sailing-boat",
+        "icon": "⛵",
+        "label": {
+          "de": "Segelboot",
+          "en": "Sailing boat",
+          "it": "Barca a vela"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einer Rakete fliegt man ins Weltall.",
+      "en": "People fly into space in a rocket.",
+      "it": "Si va nello spazio con un razzo."
+    },
+    "funFact": {
+      "de": "Eine Rakete muss sehr, sehr schnell sein, um ins All zu kommen.",
+      "en": "A rocket has to go very, very fast to reach space.",
+      "it": "Un razzo deve andare velocissimo per arrivare nello spazio."
+    },
+    "tags": [
+      "rockets"
+    ]
+  },
+  {
+    "id": "space-astronauts",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heissen Menschen, die ins Weltall fliegen?",
+      "en": "What do we call people who fly into space?",
+      "it": "Come si chiamano le persone che vanno nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "astronauts",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Astronauten",
+          "en": "Astronauts",
+          "it": "Astronauti"
+        },
+        "correct": true
+      },
+      {
+        "id": "cooks",
+        "icon": "🧑‍🍳",
+        "label": {
+          "de": "Köche",
+          "en": "Cooks",
+          "it": "Cuochi"
+        },
+        "correct": false
+      },
+      {
+        "id": "firefighters",
+        "icon": "🧑‍🚒",
+        "label": {
+          "de": "Feuerwehrleute",
+          "en": "Firefighters",
+          "it": "Pompieri"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wer ins Weltall fliegt, ist Astronautin oder Astronaut.",
+      "en": "People who fly into space are astronauts.",
+      "it": "Chi va nello spazio è un'astronauta o un astronauta."
+    },
+    "funFact": {
+      "de": "Im Weltall schweben Astronauten, weil sie schwerelos sind.",
+      "en": "In space, astronauts float because they are weightless.",
+      "it": "Nello spazio gli astronauti fluttuano perché non hanno peso."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-people-on-moon",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Menschen waren schon auf dem Mond. Stimmt das?",
+      "en": "People have been to the moon. Is that true?",
+      "it": "Delle persone sono già state sulla luna. È vero?"
+    },
+    "visual": "🌕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Astronauten sind auf dem Mond herumgelaufen.",
+      "en": "That's true! Astronauts have walked on the moon.",
+      "it": "È vero! Alcuni astronauti hanno camminato sulla luna."
+    },
+    "funFact": {
+      "de": "Ihre Fussspuren sind immer noch dort, weil es auf dem Mond keinen Wind gibt.",
+      "en": "Their footprints are still there, because there's no wind on the moon.",
+      "it": "Le loro impronte sono ancora lì, perché sulla luna non c'è vento."
+    },
+    "tags": [
+      "moon",
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-stars-gone-day",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Am Tag sind die Sterne weg. Stimmt das?",
+      "en": "The stars go away during the day. Is that true?",
+      "it": "Di giorno le stelle se ne vanno. È vero?"
+    },
+    "visual": "⭐",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Die Sterne sind noch da. Die Sonne ist nur so hell, dass wir sie nicht sehen.",
+      "en": "The stars are still there – the sun is just so bright that we can't see them.",
+      "it": "Le stelle ci sono ancora: il sole è così luminoso che non le vediamo."
+    },
+    "funFact": {
+      "de": "Die Sterne, die du nachts siehst, sind sehr, sehr weit weg.",
+      "en": "The stars you see at night are very, very far away.",
+      "it": "Le stelle che vedi di notte sono lontanissime."
+    },
+    "tags": [
+      "stars",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-earth-shape",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Form hat die Erde?",
+      "en": "What shape is the Earth?",
+      "it": "Che forma ha la Terra?"
+    },
+    "visual": "🌍",
+    "answers": [
+      {
+        "id": "round-like-a-ball",
+        "icon": "⚽",
+        "label": {
+          "de": "Rund wie eine Kugel",
+          "en": "Round like a ball",
+          "it": "Rotonda come una palla"
+        },
+        "correct": true
+      },
+      {
+        "id": "square-like-a-box",
+        "icon": "📦",
+        "label": {
+          "de": "Eckig wie eine Kiste",
+          "en": "Square like a box",
+          "it": "Quadrata come una scatola"
+        },
+        "correct": false
+      },
+      {
+        "id": "flat-like-a-pancake",
+        "icon": "🥞",
+        "label": {
+          "de": "Flach wie ein Pfannkuchen",
+          "en": "Flat like a pancake",
+          "it": "Piatta come una frittella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde ist rund wie eine Kugel.",
+      "en": "The Earth is round like a ball.",
+      "it": "La Terra è rotonda come una palla."
+    },
+    "funFact": {
+      "de": "Astronauten haben die runde Erde aus dem All fotografiert.",
+      "en": "Astronauts have taken photos of the round Earth from space.",
+      "it": "Gli astronauti hanno fotografato la Terra rotonda dallo spazio."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "space-hotter-sun-moon",
+    "category": "space",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist heisser?",
+      "en": "Which is hotter?",
+      "it": "Che cosa è più caldo?"
+    },
+    "answers": [
+      {
+        "id": "sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "Sun",
+          "it": "Sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne ist unglaublich heiss.",
+      "en": "The sun is incredibly hot.",
+      "it": "Il sole è caldissimo."
+    },
+    "funFact": {
+      "de": "Schau nie direkt in die Sonne. Das schadet deinen Augen!",
+      "en": "Never look straight at the sun – it hurts your eyes!",
+      "it": "Non guardare mai direttamente il sole: fa male agli occhi!"
+    },
+    "tags": [
+      "sun",
+      "safety"
+    ]
+  },
+  {
+    "id": "space-bigger-sun-earth",
+    "category": "space",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist grösser?",
+      "en": "Which is bigger?",
+      "it": "Che cosa è più grande?"
+    },
+    "answers": [
+      {
+        "id": "sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "Sun",
+          "it": "Sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne ist viel, viel grösser als die Erde.",
+      "en": "The sun is much, much bigger than the Earth.",
+      "it": "Il sole è molto, molto più grande della Terra."
+    },
+    "funFact": {
+      "de": "In die Sonne würden über eine Million Erden passen.",
+      "en": "More than a million Earths would fit inside the sun.",
+      "it": "Nel sole entrerebbero più di un milione di Terre."
+    },
+    "tags": [
+      "sun",
+      "size"
+    ]
+  },
+  {
+    "id": "space-space-suit",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was trägt ein Astronaut draussen im Weltall?",
+      "en": "What does an astronaut wear outside in space?",
+      "it": "Che cosa indossa un astronauta fuori, nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "a-spacesuit",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Einen Raumanzug",
+          "en": "A spacesuit",
+          "it": "Una tuta spaziale"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-swimsuit",
+        "icon": "👙",
+        "label": {
+          "de": "Einen Badeanzug",
+          "en": "A swimsuit",
+          "it": "Un costume da bagno"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-raincoat",
+        "icon": "🧥",
+        "label": {
+          "de": "Einen Regenmantel",
+          "en": "A raincoat",
+          "it": "Un impermeabile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Weltall braucht man einen Raumanzug.",
+      "en": "In space you need a spacesuit.",
+      "it": "Nello spazio serve una tuta spaziale."
+    },
+    "funFact": {
+      "de": "Im Raumanzug ist Luft zum Atmen.",
+      "en": "A spacesuit holds air to breathe.",
+      "it": "Nella tuta c'è aria da respirare."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-air-in-space",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Im Weltall gibt es Luft zum Atmen. Stimmt das?",
+      "en": "There is air to breathe in space. Is that true?",
+      "it": "Nello spazio c'è aria da respirare. È vero?"
+    },
+    "visual": "🌌",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Im Weltall gibt es keine Luft.",
+      "en": "There is no air in space.",
+      "it": "Nello spazio non c'è aria."
+    },
+    "funFact": {
+      "de": "Darum brauchen Astronauten Raumanzüge mit Luft.",
+      "en": "That's why astronauts need spacesuits with air inside.",
+      "it": "Per questo gli astronauti hanno bisogno di tute con l'aria."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-moon-cheese",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Der Mond ist aus Käse. Stimmt das?",
+      "en": "The moon is made of cheese. Is that true?",
+      "it": "La luna è fatta di formaggio. È vero?"
+    },
+    "visual": "🧀🌕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Der Mond ist aus Stein und grauem Staub.",
+      "en": "The moon is made of rock and grey dust.",
+      "it": "La luna è fatta di roccia e polvere grigia."
+    },
+    "funFact": {
+      "de": "Astronauten haben Mondsteine mit zur Erde gebracht.",
+      "en": "Astronauts brought moon rocks back to Earth.",
+      "it": "Gli astronauti hanno portato sulla Terra alcune rocce lunari."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-shooting-star",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist eine Sternschnuppe?",
+      "en": "What is a shooting star?",
+      "it": "Che cos'è una stella cadente?"
+    },
+    "answers": [
+      {
+        "id": "a-tiny-space-rock-burning-up",
+        "icon": "✨",
+        "label": {
+          "de": "Ein Steinchen aus dem All, das verglüht",
+          "en": "A tiny space rock burning up",
+          "it": "Un sassolino spaziale che brucia"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-star-falling-down",
+        "icon": "🌟",
+        "label": {
+          "de": "Ein Stern, der herunterfällt",
+          "en": "A star falling down",
+          "it": "Una stella che cade"
+        },
+        "correct": false
+      },
+      {
+        "id": "fireworks",
+        "icon": "🎆",
+        "label": {
+          "de": "Ein Feuerwerk",
+          "en": "Fireworks",
+          "it": "Un fuoco d'artificio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Sternschnuppe ist ein winziges Steinchen aus dem All. Es glüht in der Luft auf.",
+      "en": "A shooting star is a tiny bit of space rock glowing as it burns up in the air.",
+      "it": "Una stella cadente è un minuscolo sassolino spaziale che si incendia nell'aria."
+    },
+    "funFact": {
+      "de": "Im August sieht man oft besonders viele Sternschnuppen.",
+      "en": "In August you can often see lots of shooting stars.",
+      "it": "Ad agosto si vedono spesso tantissime stelle cadenti."
+    },
+    "tags": [
+      "stars",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-red-planet",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet ist rot?",
+      "en": "Which planet is red?",
+      "it": "Quale pianeta è rosso?"
+    },
+    "answers": [
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "saturn",
+        "icon": "🪐",
+        "label": {
+          "de": "Saturn",
+          "en": "Saturn",
+          "it": "Saturno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mars ist der rote Planet.",
+      "en": "Mars is the red planet.",
+      "it": "Marte è il pianeta rosso."
+    },
+    "funFact": {
+      "de": "Der Mars ist rot, weil sein Boden rostig ist.",
+      "en": "Mars is red because its ground is rusty.",
+      "it": "Marte è rosso perché il suo suolo è arrugginito."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-ring-planet",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet hat grosse, schöne Ringe?",
+      "en": "Which planet has big, beautiful rings?",
+      "it": "Quale pianeta ha grandi anelli bellissimi?"
+    },
+    "answers": [
+      {
+        "id": "saturn",
+        "icon": "🪐",
+        "label": {
+          "de": "Saturn",
+          "en": "Saturn",
+          "it": "Saturno"
+        },
+        "correct": true
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Saturn hat wunderschöne Ringe.",
+      "en": "Saturn has beautiful rings.",
+      "it": "Saturno ha anelli bellissimi."
+    },
+    "funFact": {
+      "de": "Die Ringe des Saturn bestehen aus Eis und Gestein.",
+      "en": "Saturn's rings are made of ice and rock.",
+      "it": "Gli anelli di Saturno sono fatti di ghiaccio e roccia."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-after-sunset",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt, wenn die Sonne untergeht?",
+      "en": "What comes when the sun sets?",
+      "it": "Che cosa arriva quando il sole tramonta?"
+    },
+    "answers": [
+      {
+        "id": "night",
+        "icon": "🌙",
+        "label": {
+          "de": "Die Nacht",
+          "en": "Night",
+          "it": "La notte"
+        },
+        "correct": true
+      },
+      {
+        "id": "midday",
+        "icon": "☀️",
+        "label": {
+          "de": "Der Mittag",
+          "en": "Midday",
+          "it": "Il mezzogiorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "morning",
+        "icon": "🌅",
+        "label": {
+          "de": "Der Morgen",
+          "en": "Morning",
+          "it": "Il mattino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wenn die Sonne untergeht, wird es Nacht.",
+      "en": "When the sun sets, night comes.",
+      "it": "Quando il sole tramonta, arriva la notte."
+    },
+    "funFact": {
+      "de": "Wenn bei uns Nacht ist, ist auf der anderen Seite der Erde Tag.",
+      "en": "When it's night here, it's daytime on the other side of the Earth.",
+      "it": "Quando da noi è notte, dall'altra parte della Terra è giorno."
+    },
+    "tags": [
+      "earth",
+      "time"
+    ]
+  },
+  {
+    "id": "space-telescope",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit kann man weit entfernte Sterne besser sehen?",
+      "en": "What helps you see faraway stars better?",
+      "it": "Con che cosa si vedono meglio le stelle lontane?"
+    },
+    "answers": [
+      {
+        "id": "telescope",
+        "icon": "🔭",
+        "label": {
+          "de": "Teleskop",
+          "en": "Telescope",
+          "it": "Telescopio"
+        },
+        "correct": true
+      },
+      {
+        "id": "frying-pan",
+        "icon": "🍳",
+        "label": {
+          "de": "Pfanne",
+          "en": "Frying pan",
+          "it": "Padella"
+        },
+        "correct": false
+      },
+      {
+        "id": "sock",
+        "icon": "🧦",
+        "label": {
+          "de": "Socke",
+          "en": "Sock",
+          "it": "Calzino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit einem Teleskop sieht man weit entfernte Sterne.",
+      "en": "A telescope helps you see faraway stars.",
+      "it": "Con un telescopio si vedono le stelle lontane."
+    },
+    "funFact": {
+      "de": "Mit einem Teleskop sieht man sogar die Krater auf dem Mond.",
+      "en": "With a telescope you can even see the craters on the moon.",
+      "it": "Con un telescopio si vedono perfino i crateri della luna."
+    },
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-countless-stars",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Es gibt mehr Sterne, als wir zählen können. Stimmt das?",
+      "en": "There are more stars than we could ever count. Is that true?",
+      "it": "Ci sono più stelle di quante ne possiamo contare. È vero?"
+    },
+    "visual": "✨",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Es gibt unvorstellbar viele Sterne.",
+      "en": "That's true! There are unimaginably many stars.",
+      "it": "È vero! Ci sono tantissime stelle, più di quanto si possa immaginare."
+    },
+    "funFact": {
+      "de": "Forschende schätzen: Es gibt mehr Sterne im Weltall als Sandkörner an allen Stränden der Erde.",
+      "en": "Scientists estimate there are more stars in space than grains of sand on all of Earth's beaches.",
+      "it": "Gli scienziati stimano che nello spazio ci siano più stelle che granelli di sabbia su tutte le spiagge della Terra."
+    },
+    "tags": [
+      "stars"
+    ],
+    "uncertain": "The stars-vs-sand comparison is a widely quoted rough estimate."
+  },
+  {
+    "id": "space-moon-holes",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was sind die runden Löcher auf dem Mond?",
+      "en": "What are the round holes on the moon?",
+      "it": "Che cosa sono i buchi rotondi sulla luna?"
+    },
+    "answers": [
+      {
+        "id": "craters",
+        "icon": "🌑",
+        "label": {
+          "de": "Krater",
+          "en": "Craters",
+          "it": "Crateri"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheese-holes",
+        "icon": "🧀",
+        "label": {
+          "de": "Käselöcher",
+          "en": "Cheese holes",
+          "it": "Buchi del formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "mouse-holes",
+        "icon": "🐭",
+        "label": {
+          "de": "Mauselöcher",
+          "en": "Mouse holes",
+          "it": "Tane di topi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Löcher heissen Krater.",
+      "en": "The holes are called craters.",
+      "it": "I buchi si chiamano crateri."
+    },
+    "funFact": {
+      "de": "Krater entstehen, wenn Steine aus dem All auf den Mond fallen.",
+      "en": "Craters form when rocks from space crash into the moon.",
+      "it": "I crateri si formano quando sassi dallo spazio cadono sulla luna."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-astronauts-float",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In der Raumstation schweben die Astronauten. Stimmt das?",
+      "en": "Astronauts float in the space station. Is that true?",
+      "it": "Nella stazione spaziale gli astronauti fluttuano. È vero?"
+    },
+    "visual": "🧑‍🚀",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Sie sind schwerelos.",
+      "en": "That's true! They are weightless.",
+      "it": "È vero! Non hanno peso."
+    },
+    "funFact": {
+      "de": "Astronauten schlafen in Schlafsäcken, die an der Wand festgemacht sind.",
+      "en": "Astronauts sleep in sleeping bags fixed to the wall.",
+      "it": "Gli astronauti dormono in sacchi a pelo attaccati alla parete."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-never-do",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was darfst du nie tun?",
+      "en": "What must you never do?",
+      "it": "Che cosa non devi fare mai?"
+    },
+    "answers": [
+      {
+        "id": "look-straight-at-the-sun",
+        "icon": "🙈",
+        "label": {
+          "de": "Direkt in die Sonne schauen",
+          "en": "Look straight at the sun",
+          "it": "Guardare direttamente il sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "look-at-the-moon",
+        "icon": "🌙",
+        "label": {
+          "de": "Den Mond anschauen",
+          "en": "Look at the moon",
+          "it": "Guardare la luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "count-the-stars",
+        "icon": "⭐",
+        "label": {
+          "de": "Sterne zählen",
+          "en": "Count the stars",
+          "it": "Contare le stelle"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schau nie direkt in die Sonne. Sie ist so hell, dass sie deinen Augen schadet.",
+      "en": "Never look straight at the sun. It's so bright it can hurt your eyes.",
+      "it": "Non guardare mai il sole: è così luminoso che fa male agli occhi."
+    },
+    "funFact": {
+      "de": "Auch mit einer Sonnenbrille darf man nicht direkt in die Sonne schauen.",
+      "en": "Even with sunglasses, you mustn't look straight at the sun.",
+      "it": "Neanche con gli occhiali da sole si deve guardare il sole."
+    },
+    "tags": [
+      "sun",
+      "safety"
+    ]
+  },
+  {
+    "id": "space-planets-circle",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Worum kreisen die Planeten?",
+      "en": "What do the planets go around?",
+      "it": "Intorno a che cosa girano i pianeti?"
+    },
+    "answers": [
+      {
+        "id": "the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Um die Sonne",
+          "en": "The sun",
+          "it": "Intorno al sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-moon",
+        "icon": "🌙",
+        "label": {
+          "de": "Um den Mond",
+          "en": "The moon",
+          "it": "Intorno alla luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-tree",
+        "icon": "🌳",
+        "label": {
+          "de": "Um einen Baum",
+          "en": "A tree",
+          "it": "Intorno a un albero"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Alle Planeten kreisen um die Sonne.",
+      "en": "All the planets travel around the sun.",
+      "it": "Tutti i pianeti girano intorno al sole."
+    },
+    "funFact": {
+      "de": "Die Erde braucht ein ganzes Jahr für eine Runde um die Sonne.",
+      "en": "The Earth takes a whole year to go once around the sun.",
+      "it": "La Terra impiega un anno intero a fare un giro intorno al sole."
+    },
+    "tags": [
+      "planets",
+      "sun"
+    ]
+  },
+  {
+    "id": "space-closer-moon-sun",
+    "category": "space",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist näher bei uns?",
+      "en": "Which is closer to us?",
+      "it": "Che cosa è più vicino a noi?"
+    },
+    "answers": [
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": true
+      },
+      {
+        "id": "sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "Sun",
+          "it": "Sole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mond ist viel näher als die Sonne.",
+      "en": "The moon is much closer than the sun.",
+      "it": "La luna è molto più vicina del sole."
+    },
+    "funFact": {
+      "de": "Der Mond ist unser nächster Nachbar im Weltall.",
+      "en": "The moon is our closest neighbour in space.",
+      "it": "La luna è la nostra vicina più prossima nello spazio."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-bigger-earth-moon",
+    "category": "space",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist grösser?",
+      "en": "Which is bigger?",
+      "it": "Che cosa è più grande?"
+    },
+    "answers": [
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": true
+      },
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde ist grösser als der Mond.",
+      "en": "The Earth is bigger than the moon.",
+      "it": "La Terra è più grande della luna."
+    },
+    "funFact": {
+      "de": "Die Erde ist ungefähr viermal so breit wie der Mond.",
+      "en": "The Earth is about four times as wide as the moon.",
+      "it": "La Terra è larga circa quattro volte la luna."
+    },
+    "tags": [
+      "moon",
+      "earth",
+      "size"
+    ]
+  },
+  {
+    "id": "space-comet",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hat einen langen, leuchtenden Schweif?",
+      "en": "What has a long, glowing tail?",
+      "it": "Che cosa ha una lunga coda luminosa?"
+    },
+    "answers": [
+      {
+        "id": "comet",
+        "icon": "☄️",
+        "label": {
+          "de": "Komet",
+          "en": "Comet",
+          "it": "Cometa"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Komet hat einen langen Schweif.",
+      "en": "A comet has a long tail.",
+      "it": "La cometa ha una lunga coda."
+    },
+    "funFact": {
+      "de": "Kometen sind wie riesige schmutzige Schneebälle.",
+      "en": "Comets are like giant dirty snowballs.",
+      "it": "Le comete sono come enormi palle di neve sporche."
+    },
+    "tags": [
+      "comets"
+    ]
+  },
+  {
+    "id": "space-drink-in-space",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie trinken Astronauten im Weltall?",
+      "en": "How do astronauts drink in space?",
+      "it": "Come bevono gli astronauti nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "through-a-straw-from-a-pouch",
+        "icon": "🥤",
+        "label": {
+          "de": "Mit einem Strohhalm aus einem Beutel",
+          "en": "Through a straw from a pouch",
+          "it": "Con una cannuccia da un sacchetto"
+        },
+        "correct": true
+      },
+      {
+        "id": "from-an-open-glass",
+        "icon": "🥛",
+        "label": {
+          "de": "Aus einem offenen Glas",
+          "en": "From an open glass",
+          "it": "Da un bicchiere aperto"
+        },
+        "correct": false
+      },
+      {
+        "id": "under-the-shower",
+        "icon": "🚿",
+        "label": {
+          "de": "Unter der Dusche",
+          "en": "Under the shower",
+          "it": "Sotto la doccia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aus einem offenen Glas würde das Wasser einfach davonschweben.",
+      "en": "Water would just float out of an open glass.",
+      "it": "Da un bicchiere aperto l'acqua volerebbe via."
+    },
+    "funFact": {
+      "de": "Im Weltall werden Wassertropfen zu schwebenden Kugeln.",
+      "en": "In space, drops of water turn into floating balls.",
+      "it": "Nello spazio le gocce d'acqua diventano palline che fluttuano."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-day-sky",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe hat der Himmel an einem schönen Tag?",
+      "en": "What colour is the sky on a nice day?",
+      "it": "Di che colore è il cielo in una bella giornata?"
+    },
+    "answers": [
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Azzurro"
+        },
+        "correct": true
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "purple",
+        "icon": "🟣",
+        "label": {
+          "de": "Lila",
+          "en": "Purple",
+          "it": "Viola"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "An einem schönen Tag ist der Himmel blau.",
+      "en": "On a nice day the sky is blue.",
+      "it": "In una bella giornata il cielo è azzurro."
+    },
+    "funFact": {
+      "de": "Auf dem Mars ist der Himmel am Tag eher gelblich-braun.",
+      "en": "On Mars, the daytime sky is more of a yellowish-brown.",
+      "it": "Su Marte, di giorno, il cielo è piuttosto giallo-marrone."
+    },
+    "tags": [
+      "sky",
+      "colours"
+    ]
+  },
+  {
+    "id": "space-sunset-colour",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farben hat der Himmel oft beim Sonnenuntergang?",
+      "en": "What colours is the sky often at sunset?",
+      "it": "Di che colori è spesso il cielo al tramonto?"
+    },
+    "answers": [
+      {
+        "id": "orange-and-red",
+        "icon": "🟠",
+        "label": {
+          "de": "Orange und rot",
+          "en": "Orange and red",
+          "it": "Arancione e rosso"
+        },
+        "correct": true
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      },
+      {
+        "id": "black-and-white-stripes",
+        "icon": "🦓",
+        "label": {
+          "de": "Schwarz-weiss gestreift",
+          "en": "Black-and-white stripes",
+          "it": "A righe bianche e nere"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Sonnenuntergang leuchtet der Himmel oft orange und rot.",
+      "en": "At sunset the sky often glows orange and red.",
+      "it": "Al tramonto il cielo è spesso arancione e rosso."
+    },
+    "funFact": {
+      "de": "Auf dem Mars ist der Sonnenuntergang blau!",
+      "en": "On Mars, sunsets are blue!",
+      "it": "Su Marte il tramonto è blu!"
+    },
+    "tags": [
+      "sky",
+      "colours",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-full-moon",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst der Mond, wenn er ganz rund ist?",
+      "en": "What do we call the moon when it's completely round?",
+      "it": "Come si chiama la luna quando è tutta tonda?"
+    },
+    "answers": [
+      {
+        "id": "full-moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Vollmond",
+          "en": "Full moon",
+          "it": "Luna piena"
+        },
+        "correct": true
+      },
+      {
+        "id": "new-moon",
+        "icon": "🌑",
+        "label": {
+          "de": "Neumond",
+          "en": "New moon",
+          "it": "Luna nuova"
+        },
+        "correct": false
+      },
+      {
+        "id": "half-moon",
+        "icon": "🌗",
+        "label": {
+          "de": "Halbmond",
+          "en": "Half moon",
+          "it": "Mezza luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wenn der Mond ganz rund ist, heisst er Vollmond.",
+      "en": "When the moon is completely round, it's a full moon.",
+      "it": "Quando la luna è tutta tonda si chiama luna piena."
+    },
+    "funFact": {
+      "de": "Bei Neumond sieht man den Mond fast gar nicht.",
+      "en": "At new moon you can hardly see the moon at all.",
+      "it": "Con la luna nuova la luna quasi non si vede."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-dark-and-starry",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo ist es dunkel und voller Sterne?",
+      "en": "Where is it dark and full of stars?",
+      "it": "Dove è buio e pieno di stelle?"
+    },
+    "answers": [
+      {
+        "id": "in-space",
+        "icon": "🌌",
+        "label": {
+          "de": "Im Weltall",
+          "en": "In space",
+          "it": "Nello spazio"
+        },
+        "correct": true
+      },
+      {
+        "id": "at-the-beach-at-midday",
+        "icon": "🏖️",
+        "label": {
+          "de": "Am Strand am Mittag",
+          "en": "At the beach at midday",
+          "it": "In spiaggia a mezzogiorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-kitchen",
+        "icon": "🍳",
+        "label": {
+          "de": "In der Küche",
+          "en": "In the kitchen",
+          "it": "In cucina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Weltall ist es dunkel und voller Sterne.",
+      "en": "Space is dark and full of stars.",
+      "it": "Lo spazio è buio e pieno di stelle."
+    },
+    "funFact": {
+      "de": "Im Weltall ist der Himmel sogar am Tag schwarz.",
+      "en": "In space, the sky is black even in the daytime.",
+      "it": "Nello spazio il cielo è nero anche di giorno."
+    },
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-space-station",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo wohnen Astronauten im Weltall?",
+      "en": "Where do astronauts live in space?",
+      "it": "Dove abitano gli astronauti nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "in-a-space-station",
+        "icon": "🛰️",
+        "label": {
+          "de": "In einer Raumstation",
+          "en": "In a space station",
+          "it": "In una stazione spaziale"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-a-tent",
+        "icon": "⛺",
+        "label": {
+          "de": "In einem Zelt",
+          "en": "In a tent",
+          "it": "In una tenda"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-a-wooden-house",
+        "icon": "🏡",
+        "label": {
+          "de": "In einem Holzhaus",
+          "en": "In a wooden house",
+          "it": "In una casetta di legno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Astronauten wohnen in einer Raumstation.",
+      "en": "Astronauts live in a space station.",
+      "it": "Gli astronauti abitano in una stazione spaziale."
+    },
+    "funFact": {
+      "de": "Die Raumstation fliegt in etwa eineinhalb Stunden einmal um die Erde.",
+      "en": "The space station flies round the Earth in about an hour and a half.",
+      "it": "La stazione spaziale fa il giro della Terra in circa un'ora e mezza."
+    },
+    "tags": [
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-faster-rocket-car",
+    "category": "space",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schneller?",
+      "en": "Which is faster?",
+      "it": "Che cosa è più veloce?"
+    },
+    "answers": [
+      {
+        "id": "rocket",
+        "icon": "🚀",
+        "label": {
+          "de": "Rakete",
+          "en": "Rocket",
+          "it": "Razzo"
+        },
+        "correct": true
+      },
+      {
+        "id": "car",
+        "icon": "🚗",
+        "label": {
+          "de": "Auto",
+          "en": "Car",
+          "it": "Automobile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Rakete ist viel schneller als ein Auto.",
+      "en": "A rocket is much faster than a car.",
+      "it": "Un razzo è molto più veloce di un'auto."
+    },
+    "funFact": {
+      "de": "Eine Rakete ist sogar viel schneller als ein Flugzeug.",
+      "en": "A rocket is even much faster than a plane.",
+      "it": "Un razzo è molto più veloce anche di un aereo."
+    },
+    "tags": [
+      "rockets",
+      "speed"
+    ]
+  },
+  {
+    "id": "space-earth-spins",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Erde dreht sich. Stimmt das?",
+      "en": "The Earth spins. Is that true?",
+      "it": "La Terra gira su se stessa. È vero?"
+    },
+    "visual": "🌍",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Darum gibt es Tag und Nacht.",
+      "en": "That's true! That's why we have day and night.",
+      "it": "È vero! Per questo ci sono il giorno e la notte."
+    },
+    "funFact": {
+      "de": "Eine ganze Drehung dauert einen Tag.",
+      "en": "One whole turn takes one day.",
+      "it": "Un giro completo dura un giorno."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "space-animals-in-space",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auch Tiere sind schon ins Weltall geflogen. Stimmt das?",
+      "en": "Animals have flown into space too. Is that true?",
+      "it": "Anche degli animali sono già andati nello spazio. È vero?"
+    },
+    "visual": "🐕🚀",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Noch vor den Menschen flogen Tiere ins All.",
+      "en": "That's true! Animals went to space even before people did.",
+      "it": "È vero! Gli animali ci sono andati perfino prima delle persone."
+    },
+    "funFact": {
+      "de": "Zum Beispiel Hunde, Affen und sogar Schildkröten.",
+      "en": "For example dogs, monkeys and even tortoises.",
+      "it": "Per esempio cani, scimmie e perfino tartarughe."
+    },
+    "tags": [
+      "astronauts",
+      "animals"
+    ]
+  },
+  {
+    "id": "space-rocket-needs",
+    "category": "space",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was braucht eine Rakete zum Fliegen?",
+      "en": "What does a rocket need to fly?",
+      "it": "Di che cosa ha bisogno un razzo per volare?"
+    },
+    "answers": [
+      {
+        "id": "lots-of-fuel",
+        "icon": "🔥",
+        "label": {
+          "de": "Viel Treibstoff",
+          "en": "Lots of fuel",
+          "it": "Tanto carburante"
+        },
+        "correct": true
+      },
+      {
+        "id": "feathers",
+        "icon": "🪶",
+        "label": {
+          "de": "Federn",
+          "en": "Feathers",
+          "it": "Piume"
+        },
+        "correct": false
+      },
+      {
+        "id": "balloons",
+        "icon": "🎈",
+        "label": {
+          "de": "Luftballons",
+          "en": "Balloons",
+          "it": "Palloncini"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Rakete verbrennt ganz viel Treibstoff.",
+      "en": "A rocket burns lots and lots of fuel.",
+      "it": "Un razzo brucia tantissimo carburante."
+    },
+    "funFact": {
+      "de": "Der grösste Teil einer Rakete sind Tanks für Treibstoff.",
+      "en": "Most of a rocket is fuel tanks.",
+      "it": "La maggior parte di un razzo sono serbatoi di carburante."
+    },
+    "tags": [
+      "rockets"
+    ]
+  },
+  {
+    "id": "space-moon-jump",
+    "category": "space",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auf dem Mond kann man viel höher springen. Stimmt das?",
+      "en": "You can jump much higher on the moon. Is that true?",
+      "it": "Sulla luna si salta molto più in alto. È vero?"
+    },
+    "visual": "🌕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Der Mond zieht viel weniger stark an dir als die Erde.",
+      "en": "That's true! The moon pulls on you much less than the Earth does.",
+      "it": "È vero! La luna ti attira molto meno della Terra."
+    },
+    "funFact": {
+      "de": "Auf dem Mond wiegst du nur etwa ein Sechstel so viel wie auf der Erde.",
+      "en": "On the moon you weigh only about a sixth of what you weigh on Earth.",
+      "it": "Sulla luna pesi circa un sesto di quanto pesi sulla Terra."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-planet-count",
+    "category": "space",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Planeten kreisen um unsere Sonne?",
+      "en": "How many planets go around our sun?",
+      "it": "Quanti pianeti girano intorno al nostro sole?"
+    },
+    "visual": "🪐",
+    "answers": [
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Acht Planeten kreisen um die Sonne.",
+      "en": "Eight planets go around the sun.",
+      "it": "Otto pianeti girano intorno al sole."
+    },
+    "funFact": {
+      "de": "Pluto galt früher als Planet. Heute nennt man ihn Zwergplanet.",
+      "en": "Pluto used to be called a planet. Now it's called a dwarf planet.",
+      "it": "Plutone una volta era considerato un pianeta; oggi si chiama pianeta nano."
+    },
+    "tags": [
+      "planets",
+      "numbers"
+    ]
+  },
+  {
+    "id": "space-biggest-planet",
+    "category": "space",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet ist der grösste?",
+      "en": "Which planet is the biggest?",
+      "it": "Qual è il pianeta più grande?"
+    },
+    "answers": [
+      {
+        "id": "jupiter",
+        "icon": "🟠",
+        "label": {
+          "de": "Jupiter",
+          "en": "Jupiter",
+          "it": "Giove"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      },
+      {
+        "id": "mercury",
+        "icon": "⚪",
+        "label": {
+          "de": "Merkur",
+          "en": "Mercury",
+          "it": "Mercurio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jupiter ist der grösste Planet.",
+      "en": "Jupiter is the biggest planet.",
+      "it": "Giove è il pianeta più grande."
+    },
+    "funFact": {
+      "de": "Auf dem Jupiter tobt ein riesiger Sturm: der Grosse Rote Fleck.",
+      "en": "A giant storm rages on Jupiter: the Great Red Spot.",
+      "it": "Su Giove infuria una tempesta enorme: la Grande Macchia Rossa."
+    },
+    "tags": [
+      "planets",
+      "size"
+    ]
+  },
+  {
+    "id": "space-sun-biggest-star",
+    "category": "space",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Sonne ist der grösste Stern im Weltall. Stimmt das?",
+      "en": "The sun is the biggest star in space. Is that true?",
+      "it": "Il sole è la stella più grande dell'universo. È vero?"
+    },
+    "visual": "☀️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne ist nur ein mittelgrosser Stern. Es gibt viel grössere!",
+      "en": "The sun is just a medium-sized star. There are much bigger ones!",
+      "it": "Il sole è solo una stella di media grandezza: ce ne sono di molto più grandi!"
+    },
+    "funFact": {
+      "de": "Manche Riesensterne sind über tausend Mal so breit wie die Sonne.",
+      "en": "Some giant stars are more than a thousand times as wide as the sun.",
+      "it": "Alcune stelle giganti sono più di mille volte più larghe del sole."
+    },
+    "tags": [
+      "stars",
+      "sun",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-milky-way",
+    "category": "space",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist die Milchstrasse?",
+      "en": "What is the Milky Way?",
+      "it": "Che cos'è la Via Lattea?"
+    },
+    "answers": [
+      {
+        "id": "our-galaxy-of-many-stars",
+        "icon": "🌌",
+        "label": {
+          "de": "Unsere Galaxie aus vielen Sternen",
+          "en": "Our galaxy of many stars",
+          "it": "La nostra galassia di tante stelle"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-road-made-of-milk",
+        "icon": "🥛",
+        "label": {
+          "de": "Eine Strasse aus Milch",
+          "en": "A road made of milk",
+          "it": "Una strada di latte"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-chocolate-bar",
+        "icon": "🍫",
+        "label": {
+          "de": "Ein Schokoriegel",
+          "en": "A chocolate bar",
+          "it": "Una barretta di cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-motorway",
+        "icon": "🛣️",
+        "label": {
+          "de": "Eine Autobahn",
+          "en": "A motorway",
+          "it": "Un'autostrada"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Milchstrasse ist unsere Galaxie. Darin ist auch unsere Sonne.",
+      "en": "The Milky Way is our galaxy. Our sun is in it too.",
+      "it": "La Via Lattea è la nostra galassia: dentro c'è anche il sole."
+    },
+    "funFact": {
+      "de": "Unsere Sonne ist nur einer von über hundert Milliarden Sternen in der Milchstrasse.",
+      "en": "Our sun is just one of more than a hundred billion stars in the Milky Way.",
+      "it": "Il sole è solo una delle oltre cento miliardi di stelle della Via Lattea."
+    },
+    "tags": [
+      "stars",
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-space-silent",
+    "category": "space",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Im Weltall ist es ganz still. Stimmt das?",
+      "en": "Space is completely silent. Is that true?",
+      "it": "Nello spazio c'è silenzio assoluto. È vero?"
+    },
+    "visual": "🔇",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ohne Luft kann sich Schall nicht ausbreiten.",
+      "en": "That's true! Without air, sound can't travel.",
+      "it": "È vero! Senza aria il suono non può viaggiare."
+    },
+    "funFact": {
+      "de": "Astronauten sprechen über Funk miteinander.",
+      "en": "Astronauts talk to each other by radio.",
+      "it": "Gli astronauti parlano tra loro via radio."
+    },
+    "tags": [
+      "astronauts",
+      "sound",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-closest-to-sun",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet ist der Sonne am nächsten?",
+      "en": "Which planet is closest to the sun?",
+      "it": "Quale pianeta è il più vicino al sole?"
+    },
+    "answers": [
+      {
+        "id": "mercury",
+        "icon": "⚪",
+        "label": {
+          "de": "Merkur",
+          "en": "Mercury",
+          "it": "Mercurio"
+        },
+        "correct": true
+      },
+      {
+        "id": "venus",
+        "icon": "🟡",
+        "label": {
+          "de": "Venus",
+          "en": "Venus",
+          "it": "Venere"
+        },
+        "correct": false
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Merkur ist der Sonne am nächsten.",
+      "en": "Mercury is closest to the sun.",
+      "it": "Mercurio è il più vicino al sole."
+    },
+    "funFact": {
+      "de": "Ein Jahr auf dem Merkur dauert nur 88 Tage.",
+      "en": "A year on Mercury lasts only 88 days.",
+      "it": "Un anno su Mercurio dura solo 88 giorni."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-hottest-planet",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet ist am heissesten?",
+      "en": "Which planet is the hottest?",
+      "it": "Qual è il pianeta più caldo?"
+    },
+    "answers": [
+      {
+        "id": "venus",
+        "icon": "🟡",
+        "label": {
+          "de": "Venus",
+          "en": "Venus",
+          "it": "Venere"
+        },
+        "correct": true
+      },
+      {
+        "id": "mercury",
+        "icon": "⚪",
+        "label": {
+          "de": "Merkur",
+          "en": "Mercury",
+          "it": "Mercurio"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Venus ist am heissesten, obwohl der Merkur näher an der Sonne ist. Ihre dicke Luft hält die Wärme fest.",
+      "en": "Venus is the hottest, even though Mercury is closer to the sun. Its thick air traps the heat.",
+      "it": "Venere è il più caldo, anche se Mercurio è più vicino al sole: la sua atmosfera densa trattiene il calore."
+    },
+    "funFact": {
+      "de": "Auf der Venus ist es heiss genug, um Blei zu schmelzen.",
+      "en": "Venus is hot enough to melt lead.",
+      "it": "Su Venere fa abbastanza caldo da fondere il piombo."
+    },
+    "tags": [
+      "planets",
+      "temperature",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-sunlight-travel",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie lange braucht das Sonnenlicht bis zur Erde?",
+      "en": "How long does sunlight take to reach the Earth?",
+      "it": "Quanto impiega la luce del sole ad arrivare sulla Terra?"
+    },
+    "answers": [
+      {
+        "id": "about-eight-minutes",
+        "icon": "⏱️",
+        "label": {
+          "de": "Etwa acht Minuten",
+          "en": "About eight minutes",
+          "it": "Circa otto minuti"
+        },
+        "correct": true
+      },
+      {
+        "id": "no-time-at-all",
+        "icon": "⚡",
+        "label": {
+          "de": "Keine Zeit, es ist sofort da",
+          "en": "No time at all",
+          "it": "Arriva subito"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-day",
+        "icon": "📅",
+        "label": {
+          "de": "Einen Tag",
+          "en": "One day",
+          "it": "Un giorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-year",
+        "icon": "🗓️",
+        "label": {
+          "de": "Ein Jahr",
+          "en": "One year",
+          "it": "Un anno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Sonnenlicht ist etwa acht Minuten unterwegs.",
+      "en": "Sunlight travels for about eight minutes.",
+      "it": "La luce del sole viaggia per circa otto minuti."
+    },
+    "funFact": {
+      "de": "Wenn du die Sonne siehst, siehst du sie so, wie sie vor acht Minuten war.",
+      "en": "When you see the sun, you see it as it was eight minutes ago.",
+      "it": "Quando vedi il sole, lo vedi com'era otto minuti fa."
+    },
+    "tags": [
+      "sun",
+      "light"
+    ]
+  },
+  {
+    "id": "space-moon-orbit",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie lange braucht der Mond für eine Runde um die Erde?",
+      "en": "How long does the moon take to go once around the Earth?",
+      "it": "Quanto impiega la luna a fare un giro intorno alla Terra?"
+    },
+    "answers": [
+      {
+        "id": "about-a-month",
+        "icon": "🌙",
+        "label": {
+          "de": "Etwa einen Monat",
+          "en": "About a month",
+          "it": "Circa un mese"
+        },
+        "correct": true
+      },
+      {
+        "id": "one-day",
+        "icon": "☀️",
+        "label": {
+          "de": "Einen Tag",
+          "en": "One day",
+          "it": "Un giorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-year",
+        "icon": "📅",
+        "label": {
+          "de": "Ein Jahr",
+          "en": "One year",
+          "it": "Un anno"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-hour",
+        "icon": "⏰",
+        "label": {
+          "de": "Eine Stunde",
+          "en": "One hour",
+          "it": "Un'ora"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mond braucht etwa einen Monat für eine Runde.",
+      "en": "The moon takes about a month to go round once.",
+      "it": "La luna impiega circa un mese per un giro."
+    },
+    "funFact": {
+      "de": "Das Wort «Monat» kommt vom Wort «Mond».",
+      "en": "The word “month” comes from the word “moon”.",
+      "it": "I mesi sono nati proprio misurando le fasi della luna."
+    },
+    "tags": [
+      "moon",
+      "time"
+    ]
+  },
+  {
+    "id": "space-earth-orbit",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie lange braucht die Erde für eine Runde um die Sonne?",
+      "en": "How long does the Earth take to go once around the sun?",
+      "it": "Quanto impiega la Terra a fare un giro intorno al sole?"
+    },
+    "answers": [
+      {
+        "id": "one-year",
+        "icon": "📅",
+        "label": {
+          "de": "Ein Jahr",
+          "en": "One year",
+          "it": "Un anno"
+        },
+        "correct": true
+      },
+      {
+        "id": "one-day",
+        "icon": "☀️",
+        "label": {
+          "de": "Einen Tag",
+          "en": "One day",
+          "it": "Un giorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-month",
+        "icon": "🌙",
+        "label": {
+          "de": "Einen Monat",
+          "en": "One month",
+          "it": "Un mese"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred-years",
+        "icon": "💯",
+        "label": {
+          "de": "Hundert Jahre",
+          "en": "A hundred years",
+          "it": "Cento anni"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Für eine Runde um die Sonne braucht die Erde ein Jahr.",
+      "en": "The Earth takes one year to go around the sun.",
+      "it": "Per un giro intorno al sole la Terra impiega un anno."
+    },
+    "funFact": {
+      "de": "Dabei rast die Erde mit fast 30 Kilometern pro Sekunde durchs All.",
+      "en": "On the way, the Earth races through space at almost 30 kilometres per second.",
+      "it": "Intanto la Terra corre nello spazio a quasi 30 chilometri al secondo."
+    },
+    "tags": [
+      "earth",
+      "time"
+    ]
+  },
+  {
+    "id": "space-first-on-moon",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer war der erste Mensch auf dem Mond?",
+      "en": "Who was the first person on the moon?",
+      "it": "Chi è stato il primo uomo sulla luna?"
+    },
+    "answers": [
+      {
+        "id": "neil-armstrong",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Neil Armstrong",
+          "en": "Neil Armstrong",
+          "it": "Neil Armstrong"
+        },
+        "correct": true
+      },
+      {
+        "id": "christopher-columbus",
+        "icon": "⛵",
+        "label": {
+          "de": "Christoph Kolumbus",
+          "en": "Christopher Columbus",
+          "it": "Cristoforo Colombo"
+        },
+        "correct": false
+      },
+      {
+        "id": "marco-polo",
+        "icon": "🐫",
+        "label": {
+          "de": "Marco Polo",
+          "en": "Marco Polo",
+          "it": "Marco Polo"
+        },
+        "correct": false
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Neil Armstrong betrat als erster Mensch den Mond.",
+      "en": "Neil Armstrong was the first person to walk on the moon.",
+      "it": "Neil Armstrong è stato il primo uomo a camminare sulla luna."
+    },
+    "funFact": {
+      "de": "Das war im Jahr 1969.",
+      "en": "That was in 1969.",
+      "it": "Era il 1969."
+    },
+    "tags": [
+      "astronauts",
+      "moon",
+      "history"
+    ]
+  },
+  {
+    "id": "space-first-in-space",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer war der erste Mensch im Weltall?",
+      "en": "Who was the first person in space?",
+      "it": "Chi è stato il primo uomo nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "yuri-gagarin",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Juri Gagarin",
+          "en": "Yuri Gagarin",
+          "it": "Jurij Gagarin"
+        },
+        "correct": true
+      },
+      {
+        "id": "neil-armstrong",
+        "icon": "🌕",
+        "label": {
+          "de": "Neil Armstrong",
+          "en": "Neil Armstrong",
+          "it": "Neil Armstrong"
+        },
+        "correct": false
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Juri Gagarin flog als erster Mensch ins Weltall.",
+      "en": "Yuri Gagarin was the first person to fly into space.",
+      "it": "Jurij Gagarin è stato il primo uomo a volare nello spazio."
+    },
+    "funFact": {
+      "de": "Er flog 1961 einmal um die Erde.",
+      "en": "In 1961 he flew once around the Earth.",
+      "it": "Nel 1961 ha fatto un giro intorno alla Terra."
+    },
+    "tags": [
+      "astronauts",
+      "history"
+    ]
+  },
+  {
+    "id": "space-first-woman-space",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie hiess die erste Frau im Weltall?",
+      "en": "What was the name of the first woman in space?",
+      "it": "Come si chiamava la prima donna nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "valentina-tereshkova",
+        "icon": "👩‍🚀",
+        "label": {
+          "de": "Valentina Tereschkowa",
+          "en": "Valentina Tereshkova",
+          "it": "Valentina Tereškova"
+        },
+        "correct": true
+      },
+      {
+        "id": "marie-curie",
+        "icon": "🧪",
+        "label": {
+          "de": "Marie Curie",
+          "en": "Marie Curie",
+          "it": "Marie Curie"
+        },
+        "correct": false
+      },
+      {
+        "id": "amelia-earhart",
+        "icon": "✈️",
+        "label": {
+          "de": "Amelia Earhart",
+          "en": "Amelia Earhart",
+          "it": "Amelia Earhart"
+        },
+        "correct": false
+      },
+      {
+        "id": "ada-lovelace",
+        "icon": "💻",
+        "label": {
+          "de": "Ada Lovelace",
+          "en": "Ada Lovelace",
+          "it": "Ada Lovelace"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Valentina Tereschkowa war die erste Frau im Weltall.",
+      "en": "Valentina Tereshkova was the first woman in space.",
+      "it": "Valentina Tereškova è stata la prima donna nello spazio."
+    },
+    "funFact": {
+      "de": "Sie flog 1963 fast drei Tage lang um die Erde.",
+      "en": "In 1963 she circled the Earth for almost three days.",
+      "it": "Nel 1963 ha girato intorno alla Terra per quasi tre giorni."
+    },
+    "tags": [
+      "astronauts",
+      "history"
+    ]
+  },
+  {
+    "id": "space-swiss-astronaut",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst der erste Schweizer Astronaut?",
+      "en": "Who was the first Swiss astronaut?",
+      "it": "Chi è stato il primo astronauta svizzero?"
+    },
+    "answers": [
+      {
+        "id": "claude-nicollier",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Claude Nicollier",
+          "en": "Claude Nicollier",
+          "it": "Claude Nicollier"
+        },
+        "correct": true
+      },
+      {
+        "id": "roger-federer",
+        "icon": "🎾",
+        "label": {
+          "de": "Roger Federer",
+          "en": "Roger Federer",
+          "it": "Roger Federer"
+        },
+        "correct": false
+      },
+      {
+        "id": "william-tell",
+        "icon": "🏹",
+        "label": {
+          "de": "Wilhelm Tell",
+          "en": "William Tell",
+          "it": "Guglielmo Tell"
+        },
+        "correct": false
+      },
+      {
+        "id": "heidi",
+        "icon": "🐐",
+        "label": {
+          "de": "Heidi",
+          "en": "Heidi",
+          "it": "Heidi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Claude Nicollier aus der Waadt flog als erster Schweizer ins Weltall.",
+      "en": "Claude Nicollier from Vaud was the first Swiss person in space.",
+      "it": "Claude Nicollier, vodese, è stato il primo svizzero nello spazio."
+    },
+    "funFact": {
+      "de": "Er hat geholfen, das Weltraumteleskop Hubble zu reparieren.",
+      "en": "He helped repair the Hubble Space Telescope.",
+      "it": "Ha aiutato a riparare il telescopio spaziale Hubble."
+    },
+    "tags": [
+      "astronauts",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "space-most-moons",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet hat die meisten bekannten Monde?",
+      "en": "Which planet has the most known moons?",
+      "it": "Quale pianeta ha più lune conosciute?"
+    },
+    "answers": [
+      {
+        "id": "saturn",
+        "icon": "🪐",
+        "label": {
+          "de": "Saturn",
+          "en": "Saturn",
+          "it": "Saturno"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      },
+      {
+        "id": "venus",
+        "icon": "🟡",
+        "label": {
+          "de": "Venus",
+          "en": "Venus",
+          "it": "Venere"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Saturn hat weit über hundert bekannte Monde.",
+      "en": "Saturn has well over a hundred known moons.",
+      "it": "Saturno ha ben più di cento lune conosciute."
+    },
+    "funFact": {
+      "de": "Die Erde hat nur einen Mond, die Venus gar keinen.",
+      "en": "Earth has just one moon, and Venus has none.",
+      "it": "La Terra ha una sola luna, Venere nessuna."
+    },
+    "tags": [
+      "planets",
+      "moon"
+    ],
+    "uncertain": "Moon counts change as new moons are discovered; Saturn has led since 2023."
+  },
+  {
+    "id": "space-jupiter-gas",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auf dem Jupiter kann man nicht stehen, weil er vor allem aus Gas besteht. Stimmt das?",
+      "en": "You couldn't stand on Jupiter because it's mostly gas. Is that true?",
+      "it": "Su Giove non si può stare in piedi perché è fatto soprattutto di gas. È vero?"
+    },
+    "visual": "🟠",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Jupiter ist ein Gasriese ohne festen Boden zum Landen.",
+      "en": "That's true! Jupiter is a gas giant with no solid ground to land on.",
+      "it": "È vero! Giove è un gigante gassoso senza un suolo solido su cui atterrare."
+    },
+    "funFact": {
+      "de": "Jupiter ist so gross, dass alle anderen Planeten zusammen in ihn hineinpassen würden.",
+      "en": "Jupiter is so big that all the other planets together would fit inside it.",
+      "it": "Giove è così grande che tutti gli altri pianeti insieme ci starebbero dentro."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-light-year",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Lichtjahr?",
+      "en": "What is a light-year?",
+      "it": "Che cos'è un anno luce?"
+    },
+    "answers": [
+      {
+        "id": "how-far-light-travels-in-a-year",
+        "icon": "📏",
+        "label": {
+          "de": "Wie weit Licht in einem Jahr kommt",
+          "en": "How far light travels in a year",
+          "it": "La distanza che la luce percorre in un anno"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-very-sunny-year",
+        "icon": "📅",
+        "label": {
+          "de": "Ein Jahr mit viel Sonne",
+          "en": "A very sunny year",
+          "it": "Un anno con tanto sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-light-bulb",
+        "icon": "💡",
+        "label": {
+          "de": "Eine Glühbirne",
+          "en": "A light bulb",
+          "it": "Una lampadina"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-birthday-in-space",
+        "icon": "🎂",
+        "label": {
+          "de": "Ein Geburtstag im All",
+          "en": "A birthday in space",
+          "it": "Un compleanno nello spazio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Lichtjahr ist eine Strecke: so weit kommt Licht in einem Jahr.",
+      "en": "A light-year is a distance: how far light travels in one year.",
+      "it": "Un anno luce è una distanza: quanto percorre la luce in un anno."
+    },
+    "funFact": {
+      "de": "Der nächste Stern nach der Sonne ist über vier Lichtjahre entfernt.",
+      "en": "The next-nearest star after the sun is more than four light-years away.",
+      "it": "La stella più vicina dopo il sole è a più di quattro anni luce."
+    },
+    "tags": [
+      "stars",
+      "light"
+    ]
+  },
+  {
+    "id": "space-solar-eclipse",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert bei einer Sonnenfinsternis?",
+      "en": "What happens during a solar eclipse?",
+      "it": "Che cosa succede durante un'eclissi di sole?"
+    },
+    "answers": [
+      {
+        "id": "the-moon-moves-in-front-of-the-sun",
+        "icon": "🌑",
+        "label": {
+          "de": "Der Mond schiebt sich vor die Sonne",
+          "en": "The moon moves in front of the sun",
+          "it": "La luna passa davanti al sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-cloud-covers-the-sun",
+        "icon": "☁️",
+        "label": {
+          "de": "Eine Wolke verdeckt die Sonne",
+          "en": "A cloud covers the sun",
+          "it": "Una nuvola copre il sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-sun-switches-off",
+        "icon": "💡",
+        "label": {
+          "de": "Die Sonne geht aus",
+          "en": "The sun switches off",
+          "it": "Il sole si spegne"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-earth-spins-backwards",
+        "icon": "🔄",
+        "label": {
+          "de": "Die Erde dreht sich rückwärts",
+          "en": "The Earth spins backwards",
+          "it": "La Terra gira al contrario"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bei einer Sonnenfinsternis steht der Mond genau zwischen Sonne und Erde.",
+      "en": "In a solar eclipse, the moon is exactly between the sun and the Earth.",
+      "it": "Durante un'eclissi di sole la luna è esattamente tra il sole e la Terra."
+    },
+    "funFact": {
+      "de": "Auch bei einer Sonnenfinsternis darf man nur mit einer speziellen Brille hinschauen.",
+      "en": "Even during an eclipse, you may only look with special eclipse glasses.",
+      "it": "Anche durante un'eclissi si può guardare solo con occhiali speciali."
+    },
+    "tags": [
+      "sun",
+      "moon",
+      "safety"
+    ]
+  },
+  {
+    "id": "space-lunar-eclipse",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was passiert bei einer Mondfinsternis?",
+      "en": "What happens during a lunar eclipse?",
+      "it": "Che cosa succede durante un'eclissi di luna?"
+    },
+    "answers": [
+      {
+        "id": "the-moon-is-in-the-earth-s-shadow",
+        "icon": "🌍",
+        "label": {
+          "de": "Der Mond liegt im Schatten der Erde",
+          "en": "The moon is in the Earth's shadow",
+          "it": "La luna è nell'ombra della Terra"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-sun-switches-off-the-moon",
+        "icon": "🌞",
+        "label": {
+          "de": "Die Sonne schaltet den Mond aus",
+          "en": "The sun switches off the moon",
+          "it": "Il sole spegne la luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cloud-eats-the-moon",
+        "icon": "☁️",
+        "label": {
+          "de": "Eine Wolke frisst den Mond",
+          "en": "A cloud eats the moon",
+          "it": "Una nuvola si mangia la luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-dragon-hides-it",
+        "icon": "🐉",
+        "label": {
+          "de": "Ein Drache versteckt ihn",
+          "en": "A dragon hides it",
+          "it": "Un drago la nasconde"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde steht zwischen Sonne und Mond, und ihr Schatten fällt auf den Mond.",
+      "en": "The Earth is between the sun and the moon, and its shadow falls on the moon.",
+      "it": "La Terra si trova tra sole e luna, e la sua ombra cade sulla luna."
+    },
+    "funFact": {
+      "de": "Bei einer Mondfinsternis wird der Mond oft kupferrot.",
+      "en": "During a lunar eclipse, the moon often turns coppery red.",
+      "it": "Durante un'eclissi di luna la luna diventa spesso rosso rame."
+    },
+    "tags": [
+      "moon"
+    ]
+  },
+  {
+    "id": "space-moon-same-side",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wir sehen vom Mond immer dieselbe Seite. Stimmt das?",
+      "en": "We always see the same side of the moon. Is that true?",
+      "it": "Della luna vediamo sempre la stessa faccia. È vero?"
+    },
+    "visual": "🌕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Der Mond dreht sich genau so schnell, dass immer dieselbe Seite zu uns zeigt.",
+      "en": "That's true! The moon turns at just the right speed to keep the same side facing us.",
+      "it": "È vero! La luna gira proprio alla velocità giusta per mostrarci sempre la stessa faccia."
+    },
+    "funFact": {
+      "de": "Die Rückseite des Mondes hat man erst mit Raumsonden fotografiert.",
+      "en": "The far side of the moon was first photographed by space probes.",
+      "it": "La faccia nascosta della luna è stata fotografata solo dalle sonde spaziali."
+    },
+    "tags": [
+      "moon",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-day-and-night",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum gibt es Tag und Nacht?",
+      "en": "Why do we have day and night?",
+      "it": "Perché ci sono il giorno e la notte?"
+    },
+    "answers": [
+      {
+        "id": "because-the-earth-spins",
+        "icon": "🌍",
+        "label": {
+          "de": "Weil sich die Erde dreht",
+          "en": "Because the Earth spins",
+          "it": "Perché la Terra gira su se stessa"
+        },
+        "correct": true
+      },
+      {
+        "id": "because-the-sun-switches-off",
+        "icon": "💡",
+        "label": {
+          "de": "Weil die Sonne ausgeht",
+          "en": "Because the sun switches off",
+          "it": "Perché il sole si spegne"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-the-moon-pushes-the-sun-away",
+        "icon": "🌙",
+        "label": {
+          "de": "Weil der Mond die Sonne wegschiebt",
+          "en": "Because the moon pushes the sun away",
+          "it": "Perché la luna spinge via il sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-clouds-cover-everything",
+        "icon": "☁️",
+        "label": {
+          "de": "Weil Wolken alles zudecken",
+          "en": "Because clouds cover everything",
+          "it": "Perché le nuvole coprono tutto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Erde dreht sich. Die Seite zur Sonne hat Tag, die andere Nacht.",
+      "en": "The Earth spins. The side facing the sun has day; the other side has night.",
+      "it": "La Terra gira: il lato verso il sole ha il giorno, l'altro la notte."
+    },
+    "funFact": {
+      "de": "Am Nordpol ist es im Sommer monatelang hell.",
+      "en": "At the North Pole, it stays light for months in summer.",
+      "it": "Al Polo Nord d'estate c'è luce per mesi."
+    },
+    "tags": [
+      "earth"
+    ]
+  },
+  {
+    "id": "space-many-galaxies",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Es gibt im Weltall viele Milliarden Galaxien. Stimmt das?",
+      "en": "There are many billions of galaxies in space. Is that true?",
+      "it": "Nell'universo ci sono molti miliardi di galassie. È vero?"
+    },
+    "visual": "🌌",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Und jede Galaxie hat selbst unzählige Sterne.",
+      "en": "That's true! And each galaxy has countless stars of its own.",
+      "it": "È vero! E ogni galassia ha a sua volta innumerevoli stelle."
+    },
+    "funFact": {
+      "de": "Mit blossem Auge kann man von der Schweiz aus sogar eine andere Galaxie sehen: Andromeda.",
+      "en": "From Switzerland you can even see another galaxy with your bare eyes: Andromeda.",
+      "it": "Dalla Svizzera, a occhio nudo, si può vedere perfino un'altra galassia: Andromeda."
+    },
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-black-hole",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Schwarzes Loch?",
+      "en": "What is a black hole?",
+      "it": "Che cos'è un buco nero?"
+    },
+    "answers": [
+      {
+        "id": "a-place-even-light-can-t-escape-from",
+        "icon": "🕳️",
+        "label": {
+          "de": "Ein Ort, aus dem nicht einmal Licht entkommt",
+          "en": "A place even light can't escape from",
+          "it": "Un luogo da cui nemmeno la luce può uscire"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hole-in-a-sock",
+        "icon": "🧦",
+        "label": {
+          "de": "Ein Loch in der Socke",
+          "en": "A hole in a sock",
+          "it": "Un buco nel calzino"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-black-planet",
+        "icon": "🌑",
+        "label": {
+          "de": "Ein schwarzer Planet",
+          "en": "A black planet",
+          "it": "Un pianeta nero"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-doughnut-in-space",
+        "icon": "🍩",
+        "label": {
+          "de": "Ein Donut im All",
+          "en": "A doughnut in space",
+          "it": "Una ciambella nello spazio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Schwarzes Loch zieht so stark an, dass nicht einmal Licht herauskommt.",
+      "en": "A black hole pulls so strongly that not even light can get out.",
+      "it": "Un buco nero attira così forte che neanche la luce riesce a uscire."
+    },
+    "funFact": {
+      "de": "Das erste Foto eines Schwarzen Lochs wurde 2019 gezeigt.",
+      "en": "The first picture of a black hole was shown in 2019.",
+      "it": "La prima immagine di un buco nero è stata mostrata nel 2019."
+    },
+    "tags": [
+      "galaxies"
+    ]
+  },
+  {
+    "id": "space-tallest-volcano",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo steht der höchste bekannte Vulkan?",
+      "en": "Where is the tallest known volcano?",
+      "it": "Dove si trova il vulcano più alto conosciuto?"
+    },
+    "answers": [
+      {
+        "id": "on-mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Auf dem Mars",
+          "en": "On Mars",
+          "it": "Su Marte"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Auf der Erde",
+          "en": "On Earth",
+          "it": "Sulla Terra"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-the-moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Auf dem Mond",
+          "en": "On the moon",
+          "it": "Sulla luna"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Auf der Sonne",
+          "en": "On the sun",
+          "it": "Sul sole"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Olympus Mons auf dem Mars ist der höchste bekannte Vulkan.",
+      "en": "Olympus Mons on Mars is the tallest known volcano.",
+      "it": "L'Olympus Mons su Marte è il vulcano più alto conosciuto."
+    },
+    "funFact": {
+      "de": "Er ist mehr als doppelt so hoch wie der Mount Everest.",
+      "en": "It is more than twice as tall as Mount Everest.",
+      "it": "È alto più del doppio dell'Everest."
+    },
+    "tags": [
+      "planets",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-satellites",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wozu braucht man Satelliten?",
+      "en": "What are satellites used for?",
+      "it": "A che cosa servono i satelliti?"
+    },
+    "answers": [
+      {
+        "id": "weather-pictures-satnav-and-tv",
+        "icon": "🛰️",
+        "label": {
+          "de": "Für Wetterbilder, Navi und Fernsehen",
+          "en": "Weather pictures, satnav and TV",
+          "it": "Immagini meteo, navigatore e TV"
+        },
+        "correct": true
+      },
+      {
+        "id": "delivering-pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Zum Pizza liefern",
+          "en": "Delivering pizza",
+          "it": "Consegnare pizze"
+        },
+        "correct": false
+      },
+      {
+        "id": "as-birdhouses",
+        "icon": "🐦",
+        "label": {
+          "de": "Als Vogelhäuschen",
+          "en": "As birdhouses",
+          "it": "Come casette per uccelli"
+        },
+        "correct": false
+      },
+      {
+        "id": "as-balloons",
+        "icon": "🎈",
+        "label": {
+          "de": "Als Luftballons",
+          "en": "As balloons",
+          "it": "Come palloncini"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Satelliten helfen beim Wetterbericht, beim Navigieren und beim Fernsehen.",
+      "en": "Satellites help with weather forecasts, navigation and TV.",
+      "it": "I satelliti aiutano con le previsioni del tempo, la navigazione e la TV."
+    },
+    "funFact": {
+      "de": "Tausende Satelliten kreisen um die Erde.",
+      "en": "Thousands of satellites circle the Earth.",
+      "it": "Migliaia di satelliti girano intorno alla Terra."
+    },
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "space-many-sunrises",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Astronauten auf der Raumstation sehen jeden Tag viele Sonnenaufgänge. Stimmt das?",
+      "en": "Astronauts on the space station see lots of sunrises every day. Is that true?",
+      "it": "Sulla stazione spaziale gli astronauti vedono molte albe ogni giorno. È vero?"
+    },
+    "visual": "🌅",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Sie fliegen etwa alle eineinhalb Stunden um die Erde. So sehen sie ungefähr 16 Sonnenaufgänge am Tag.",
+      "en": "That's true! They circle the Earth about every hour and a half, so they see around 16 sunrises a day.",
+      "it": "È vero! Fanno il giro della Terra circa ogni ora e mezza: vedono circa 16 albe al giorno."
+    },
+    "funFact": {
+      "de": "Die Raumstation ist ungefähr so gross wie ein Fussballfeld.",
+      "en": "The space station is about as big as a football pitch.",
+      "it": "La stazione spaziale è grande più o meno come un campo da calcio."
+    },
+    "tags": [
+      "astronauts",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-farthest-planet",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Planet ist am weitesten von der Sonne entfernt?",
+      "en": "Which planet is farthest from the sun?",
+      "it": "Quale pianeta è il più lontano dal sole?"
+    },
+    "answers": [
+      {
+        "id": "neptune",
+        "icon": "🔵",
+        "label": {
+          "de": "Neptun",
+          "en": "Neptune",
+          "it": "Nettuno"
+        },
+        "correct": true
+      },
+      {
+        "id": "saturn",
+        "icon": "🪐",
+        "label": {
+          "de": "Saturn",
+          "en": "Saturn",
+          "it": "Saturno"
+        },
+        "correct": false
+      },
+      {
+        "id": "mars",
+        "icon": "🔴",
+        "label": {
+          "de": "Mars",
+          "en": "Mars",
+          "it": "Marte"
+        },
+        "correct": false
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Neptun ist der äusserste Planet.",
+      "en": "Neptune is the outermost planet.",
+      "it": "Nettuno è il pianeta più esterno."
+    },
+    "funFact": {
+      "de": "Ein Jahr auf dem Neptun dauert etwa 165 Erdjahre.",
+      "en": "A year on Neptune lasts about 165 Earth years.",
+      "it": "Un anno su Nettuno dura circa 165 anni terrestri."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-sun-made-of",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus besteht die Sonne vor allem?",
+      "en": "What is the sun mostly made of?",
+      "it": "Di che cosa è fatto soprattutto il sole?"
+    },
+    "answers": [
+      {
+        "id": "glowing-hot-gas",
+        "icon": "🔥",
+        "label": {
+          "de": "Aus glühend heissem Gas",
+          "en": "Glowing hot gas",
+          "it": "Gas caldissimo"
+        },
+        "correct": true
+      },
+      {
+        "id": "rock",
+        "icon": "🪨",
+        "label": {
+          "de": "Aus Stein",
+          "en": "Rock",
+          "it": "Roccia"
+        },
+        "correct": false
+      },
+      {
+        "id": "ice",
+        "icon": "🧊",
+        "label": {
+          "de": "Aus Eis",
+          "en": "Ice",
+          "it": "Ghiaccio"
+        },
+        "correct": false
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Aus Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne ist eine riesige Kugel aus glühend heissem Gas.",
+      "en": "The sun is a giant ball of glowing hot gas.",
+      "it": "Il sole è un'enorme palla di gas caldissimo."
+    },
+    "funFact": {
+      "de": "Im Inneren der Sonne verschmelzen winzige Teilchen. Dabei entstehen Licht und Wärme.",
+      "en": "Deep inside the sun, tiny particles fuse together, making light and heat.",
+      "it": "Dentro il sole minuscole particelle si fondono, producendo luce e calore."
+    },
+    "tags": [
+      "sun"
+    ]
+  },
+  {
+    "id": "space-pole-star",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Stern zeigt nachts ungefähr nach Norden?",
+      "en": "Which star shows roughly where north is at night?",
+      "it": "Quale stella indica più o meno il nord di notte?"
+    },
+    "answers": [
+      {
+        "id": "the-pole-star",
+        "icon": "⭐",
+        "label": {
+          "de": "Der Polarstern",
+          "en": "The Pole Star",
+          "it": "La Stella Polare"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Die Sonne",
+          "en": "The sun",
+          "it": "Il sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-shooting-star",
+        "icon": "🌠",
+        "label": {
+          "de": "Eine Sternschnuppe",
+          "en": "A shooting star",
+          "it": "Una stella cadente"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Der Mond",
+          "en": "The moon",
+          "it": "La luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Polarstern steht fast genau über dem Nordpol.",
+      "en": "The Pole Star sits almost exactly above the North Pole.",
+      "it": "La Stella Polare si trova quasi esattamente sopra il Polo Nord."
+    },
+    "funFact": {
+      "de": "Der Polarstern ist nicht der hellste Stern, aber er bleibt fast immer an derselben Stelle.",
+      "en": "The Pole Star isn't the brightest, but it almost never moves in the sky.",
+      "it": "La Stella Polare non è la più luminosa, ma resta quasi sempre nello stesso punto."
+    },
+    "tags": [
+      "stars",
+      "directions"
+    ]
+  },
+  {
+    "id": "space-constellation",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Sternbild?",
+      "en": "What is a constellation?",
+      "it": "Che cos'è una costellazione?"
+    },
+    "answers": [
+      {
+        "id": "stars-that-together-look-like-a-picture",
+        "icon": "✨",
+        "label": {
+          "de": "Sterne, die zusammen wie ein Bild aussehen",
+          "en": "Stars that together look like a picture",
+          "it": "Stelle che insieme sembrano un disegno"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-painting-in-a-museum",
+        "icon": "🖼️",
+        "label": {
+          "de": "Ein Bild im Museum",
+          "en": "A painting in a museum",
+          "it": "Un quadro in un museo"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-photo-of-the-sky",
+        "icon": "📸",
+        "label": {
+          "de": "Ein Foto vom Himmel",
+          "en": "A photo of the sky",
+          "it": "Una foto del cielo"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-glittery-drawing",
+        "icon": "🎨",
+        "label": {
+          "de": "Eine Zeichnung mit Glitzer",
+          "en": "A glittery drawing",
+          "it": "Un disegno con i brillantini"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Sternbild ist eine Gruppe von Sternen, in der Menschen eine Figur sehen.",
+      "en": "A constellation is a group of stars in which people see a shape.",
+      "it": "Una costellazione è un gruppo di stelle in cui le persone vedono una figura."
+    },
+    "funFact": {
+      "de": "Der Grosse Wagen ist eine bekannte Sterngruppe am Nordhimmel.",
+      "en": "The Big Dipper is a well-known group of stars in the northern sky.",
+      "it": "Il Grande Carro è un gruppo di stelle famoso nel cielo del nord."
+    },
+    "tags": [
+      "stars"
+    ]
+  },
+  {
+    "id": "space-space-warm",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Im Weltall ist es überall warm. Stimmt das?",
+      "en": "Space is warm everywhere. Is that true?",
+      "it": "Nello spazio fa caldo dappertutto. È vero?"
+    },
+    "visual": "🥶",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Weit weg von den Sternen ist es im Weltall eiskalt.",
+      "en": "Far away from stars, space is freezing cold.",
+      "it": "Lontano dalle stelle, nello spazio fa un freddo glaciale."
+    },
+    "funFact": {
+      "de": "Die kälteste Temperatur, die es überhaupt geben kann, ist minus 273 Grad: der absolute Nullpunkt.",
+      "en": "The coldest temperature possible is minus 273 degrees: absolute zero.",
+      "it": "La temperatura più fredda possibile è meno 273 gradi: lo zero assoluto."
+    },
+    "tags": [
+      "temperature",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-trip-to-moon",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie lange dauerte die Reise der Astronauten zum Mond ungefähr?",
+      "en": "About how long did the astronauts' trip to the moon take?",
+      "it": "Quanto è durato circa il viaggio degli astronauti verso la luna?"
+    },
+    "answers": [
+      {
+        "id": "about-three-days",
+        "icon": "🚀",
+        "label": {
+          "de": "Etwa drei Tage",
+          "en": "About three days",
+          "it": "Circa tre giorni"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten-minutes",
+        "icon": "⏱️",
+        "label": {
+          "de": "Zehn Minuten",
+          "en": "Ten minutes",
+          "it": "Dieci minuti"
+        },
+        "correct": false
+      },
+      {
+        "id": "two-years",
+        "icon": "🗓️",
+        "label": {
+          "de": "Zwei Jahre",
+          "en": "Two years",
+          "it": "Due anni"
+        },
+        "correct": false
+      },
+      {
+        "id": "one-hour",
+        "icon": "⏰",
+        "label": {
+          "de": "Eine Stunde",
+          "en": "One hour",
+          "it": "Un'ora"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Raketen zum Mond waren etwa drei Tage unterwegs.",
+      "en": "The rockets to the moon took about three days.",
+      "it": "I razzi verso la luna hanno viaggiato circa tre giorni."
+    },
+    "funFact": {
+      "de": "Mit dem Auto würde man ohne Pause etwa ein halbes Jahr zum Mond brauchen.",
+      "en": "By car, without stopping, it would take about half a year to reach the moon.",
+      "it": "In auto, senza mai fermarsi, ci vorrebbe circa mezzo anno per arrivare sulla luna."
+    },
+    "tags": [
+      "moon",
+      "astronauts"
+    ]
+  },
+  {
+    "id": "space-mars-moons",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Monde hat der Mars?",
+      "en": "How many moons does Mars have?",
+      "it": "Quante lune ha Marte?"
+    },
+    "visual": "🔴",
+    "answers": [
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": true
+      },
+      {
+        "id": "none",
+        "icon": "0",
+        "label": {
+          "de": "Keinen",
+          "en": "None",
+          "it": "Nessuna"
+        },
+        "correct": false
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Einen",
+          "en": "One",
+          "it": "Una"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mars hat zwei kleine Monde.",
+      "en": "Mars has two small moons.",
+      "it": "Marte ha due piccole lune."
+    },
+    "funFact": {
+      "de": "Sie heissen Phobos und Deimos.",
+      "en": "They're called Phobos and Deimos.",
+      "it": "Si chiamano Phobos e Deimos."
+    },
+    "tags": [
+      "planets",
+      "moon",
+      "numbers"
+    ]
+  },
+  {
+    "id": "space-mars-explorers",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer erforscht heute den Boden des Mars?",
+      "en": "What is exploring the ground on Mars today?",
+      "it": "Chi esplora oggi il suolo di Marte?"
+    },
+    "visual": "🔴",
+    "answers": [
+      {
+        "id": "robot-rovers",
+        "icon": "🤖",
+        "label": {
+          "de": "Roboter-Fahrzeuge",
+          "en": "Robot rovers",
+          "it": "Robot su ruote"
+        },
+        "correct": true
+      },
+      {
+        "id": "buses-full-of-tourists",
+        "icon": "🚌",
+        "label": {
+          "de": "Busse mit Touristen",
+          "en": "Buses full of tourists",
+          "it": "Autobus di turisti"
+        },
+        "correct": false
+      },
+      {
+        "id": "farmers-on-tractors",
+        "icon": "🚜",
+        "label": {
+          "de": "Bauern mit Traktoren",
+          "en": "Farmers on tractors",
+          "it": "Contadini con i trattori"
+        },
+        "correct": false
+      },
+      {
+        "id": "children-on-bikes",
+        "icon": "🚲",
+        "label": {
+          "de": "Kinder auf Fahrrädern",
+          "en": "Children on bikes",
+          "it": "Bambini in bicicletta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Roboter-Fahrzeuge, sogenannte Rover, fahren auf dem Mars herum.",
+      "en": "Robot vehicles called rovers drive around on Mars.",
+      "it": "Dei robot su ruote, chiamati rover, esplorano Marte."
+    },
+    "funFact": {
+      "de": "Ein Rover hat sogar einen kleinen Hubschrauber auf dem Mars fliegen lassen.",
+      "en": "One rover even flew a little helicopter on Mars.",
+      "it": "Un rover ha fatto volare perfino un piccolo elicottero su Marte."
+    },
+    "tags": [
+      "planets",
+      "technology"
+    ]
+  },
+  {
+    "id": "space-gravity",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hält dich auf der Erde fest?",
+      "en": "What keeps you on the ground on Earth?",
+      "it": "Che cosa ti tiene attaccato alla Terra?"
+    },
+    "answers": [
+      {
+        "id": "gravity",
+        "icon": "🧲",
+        "label": {
+          "de": "Die Schwerkraft",
+          "en": "Gravity",
+          "it": "La gravità"
+        },
+        "correct": true
+      },
+      {
+        "id": "invisible-ropes",
+        "icon": "🪢",
+        "label": {
+          "de": "Unsichtbare Seile",
+          "en": "Invisible ropes",
+          "it": "Corde invisibili"
+        },
+        "correct": false
+      },
+      {
+        "id": "sticky-honey",
+        "icon": "🍯",
+        "label": {
+          "de": "Klebriger Honig",
+          "en": "Sticky honey",
+          "it": "Miele appiccicoso"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-wind",
+        "icon": "💨",
+        "label": {
+          "de": "Der Wind",
+          "en": "The wind",
+          "it": "Il vento"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schwerkraft zieht alles zur Erde hin.",
+      "en": "Gravity pulls everything towards the Earth.",
+      "it": "La gravità attira tutto verso la Terra."
+    },
+    "funFact": {
+      "de": "Die Schwerkraft hält auch den Mond auf seiner Bahn um die Erde.",
+      "en": "Gravity also keeps the moon going round the Earth.",
+      "it": "La gravità tiene anche la luna in orbita intorno alla Terra."
+    },
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "id": "space-venus-sunrise-west",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auf der Venus geht die Sonne im Westen auf. Stimmt das?",
+      "en": "On Venus the sun rises in the west. Is that true?",
+      "it": "Su Venere il sole sorge a ovest. È vero?"
+    },
+    "visual": "🟡",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Venus dreht sich andersherum als die Erde.",
+      "en": "That's true! Venus spins the other way round from Earth.",
+      "it": "È vero! Venere gira al contrario rispetto alla Terra."
+    },
+    "funFact": {
+      "de": "Ein Tag auf der Venus dauert länger als ein ganzes Venus-Jahr.",
+      "en": "A day on Venus lasts longer than a whole Venus year.",
+      "it": "Un giorno su Venere dura più di un intero anno di Venere."
+    },
+    "tags": [
+      "planets",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-evening-star",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher helle «Stern» am Abendhimmel ist in Wirklichkeit ein Planet?",
+      "en": "Which bright “star” in the evening sky is really a planet?",
+      "it": "Quale «stella» luminosa nel cielo della sera è in realtà un pianeta?"
+    },
+    "answers": [
+      {
+        "id": "venus",
+        "icon": "🟡",
+        "label": {
+          "de": "Venus",
+          "en": "Venus",
+          "it": "Venere"
+        },
+        "correct": true
+      },
+      {
+        "id": "pole-star",
+        "icon": "⭐",
+        "label": {
+          "de": "Polarstern",
+          "en": "Pole Star",
+          "it": "Stella Polare"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "The sun",
+          "it": "Sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-comet",
+        "icon": "☄️",
+        "label": {
+          "de": "Komet",
+          "en": "A comet",
+          "it": "Cometa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Venus leuchtet oft hell am Abend- oder Morgenhimmel.",
+      "en": "Venus often shines brightly in the evening or morning sky.",
+      "it": "Venere brilla spesso nel cielo della sera o del mattino."
+    },
+    "funFact": {
+      "de": "Nach dem Mond ist die Venus das hellste Ding am Nachthimmel.",
+      "en": "After the moon, Venus is the brightest thing in the night sky.",
+      "it": "Dopo la luna, Venere è la cosa più luminosa del cielo notturno."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-meteorite",
+    "category": "space",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst ein Stein aus dem All, der auf die Erde gefallen ist?",
+      "en": "What is a space rock that has landed on Earth called?",
+      "it": "Come si chiama un sasso spaziale caduto sulla Terra?"
+    },
+    "answers": [
+      {
+        "id": "meteorite",
+        "icon": "🪨",
+        "label": {
+          "de": "Meteorit",
+          "en": "Meteorite",
+          "it": "Meteorite"
+        },
+        "correct": true
+      },
+      {
+        "id": "planet",
+        "icon": "🪐",
+        "label": {
+          "de": "Planet",
+          "en": "Planet",
+          "it": "Pianeta"
+        },
+        "correct": false
+      },
+      {
+        "id": "comet",
+        "icon": "☄️",
+        "label": {
+          "de": "Komet",
+          "en": "Comet",
+          "it": "Cometa"
+        },
+        "correct": false
+      },
+      {
+        "id": "star",
+        "icon": "⭐",
+        "label": {
+          "de": "Stern",
+          "en": "Star",
+          "it": "Stella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Stein aus dem All, der den Boden erreicht, heisst Meteorit.",
+      "en": "A space rock that reaches the ground is called a meteorite.",
+      "it": "Un sasso spaziale che arriva al suolo si chiama meteorite."
+    },
+    "funFact": {
+      "de": "Die meisten Steine aus dem All verglühen, bevor sie den Boden erreichen.",
+      "en": "Most space rocks burn up before they reach the ground.",
+      "it": "La maggior parte dei sassi spaziali brucia prima di toccare terra."
+    },
+    "tags": [
+      "comets"
+    ]
+  },
+  {
+    "id": "space-farther-sun-moon",
+    "category": "space",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist weiter weg von uns?",
+      "en": "Which is farther from us?",
+      "it": "Che cosa è più lontano da noi?"
+    },
+    "answers": [
+      {
+        "id": "sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Sonne",
+          "en": "Sun",
+          "it": "Sole"
+        },
+        "correct": true
+      },
+      {
+        "id": "moon",
+        "icon": "🌕",
+        "label": {
+          "de": "Mond",
+          "en": "Moon",
+          "it": "Luna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Sonne ist etwa 400 Mal weiter weg als der Mond.",
+      "en": "The sun is about 400 times farther away than the moon.",
+      "it": "Il sole è circa 400 volte più lontano della luna."
+    },
+    "funFact": {
+      "de": "Die Sonne ist auch etwa 400 Mal breiter. Darum sehen beide am Himmel gleich gross aus.",
+      "en": "The sun is also about 400 times wider, so they look the same size in the sky.",
+      "it": "Il sole è anche circa 400 volte più largo: per questo in cielo sembrano grandi uguali."
+    },
+    "tags": [
+      "sun",
+      "moon",
+      "surprise"
+    ]
+  },
+  {
+    "id": "space-bigger-jupiter-earth",
+    "category": "space",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher Planet ist grösser?",
+      "en": "Which planet is bigger?",
+      "it": "Quale pianeta è più grande?"
+    },
+    "answers": [
+      {
+        "id": "jupiter",
+        "icon": "🟠",
+        "label": {
+          "de": "Jupiter",
+          "en": "Jupiter",
+          "it": "Giove"
+        },
+        "correct": true
+      },
+      {
+        "id": "earth",
+        "icon": "🌍",
+        "label": {
+          "de": "Erde",
+          "en": "Earth",
+          "it": "Terra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jupiter ist viel grösser als die Erde.",
+      "en": "Jupiter is much bigger than the Earth.",
+      "it": "Giove è molto più grande della Terra."
+    },
+    "funFact": {
+      "de": "Über tausend Erden würden in den Jupiter passen.",
+      "en": "More than a thousand Earths would fit inside Jupiter.",
+      "it": "Dentro Giove entrerebbero più di mille Terre."
+    },
+    "tags": [
+      "planets",
+      "size"
+    ]
+  },
+  {
+    "id": "space-first-to-orbit",
+    "category": "space",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer war zuerst im Weltall?",
+      "en": "Who was in space first?",
+      "it": "Chi è andato per primo nello spazio?"
+    },
+    "answers": [
+      {
+        "id": "laika-the-dog",
+        "icon": "🐕",
+        "label": {
+          "de": "Die Hündin Laika",
+          "en": "Laika the dog",
+          "it": "La cagnolina Laika"
+        },
+        "correct": true
+      },
+      {
+        "id": "yuri-gagarin",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Juri Gagarin",
+          "en": "Yuri Gagarin",
+          "it": "Jurij Gagarin"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Laika flog 1957, Juri Gagarin erst 1961.",
+      "en": "Laika flew in 1957; Yuri Gagarin in 1961.",
+      "it": "Laika ha volato nel 1957, Gagarin solo nel 1961."
+    },
+    "funFact": {
+      "de": "Laika war das erste Tier, das die Erde umkreiste.",
+      "en": "Laika was the first animal to orbit the Earth.",
+      "it": "Laika è stata il primo animale a girare intorno alla Terra."
+    },
+    "tags": [
+      "astronauts",
+      "animals",
+      "history"
+    ]
+  },
+  {
+    "id": "space-mars-rivers",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auf dem Mars gab es früher wahrscheinlich Flüsse und Seen. Stimmt das?",
+      "en": "Mars probably once had rivers and lakes. Is that true?",
+      "it": "Su Marte probabilmente un tempo c'erano fiumi e laghi. È vero?"
+    },
+    "visual": "🔴",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Forscher haben ausgetrocknete Flussbetten gefunden.",
+      "en": "That's true! Scientists have found dried-up riverbeds.",
+      "it": "È vero! Gli scienziati hanno trovato letti di fiumi prosciugati."
+    },
+    "funFact": {
+      "de": "Heute ist der Mars kalt und trocken. An seinen Polen gibt es Eis.",
+      "en": "Today Mars is cold and dry, but there's ice at its poles.",
+      "it": "Oggi Marte è freddo e secco, ma ai poli c'è ghiaccio."
+    },
+    "tags": [
+      "planets"
+    ]
+  },
+  {
+    "id": "space-stars-twinkle",
+    "category": "space",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Sterne funkeln, weil sich die Luft der Erde bewegt. Stimmt das?",
+      "en": "Stars twinkle because the Earth's air is moving. Is that true?",
+      "it": "Le stelle scintillano perché l'aria della Terra si muove. È vero?"
+    },
+    "visual": "✨",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die bewegte Luft lenkt das Sternenlicht ein wenig hin und her.",
+      "en": "That's true! Moving air bends the starlight back and forth a little.",
+      "it": "È vero! L'aria in movimento sposta un po' la luce delle stelle."
+    },
+    "funFact": {
+      "de": "Im Weltall funkeln Sterne nicht. Sie leuchten ganz ruhig.",
+      "en": "In space, stars don't twinkle – they shine steadily.",
+      "it": "Nello spazio le stelle non scintillano: brillano in modo fermo."
+    },
+    "tags": [
+      "stars",
+      "light"
+    ]
+  }
+]

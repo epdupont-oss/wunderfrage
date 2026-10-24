@@ -1,0 +1,28 @@
+{
+  "name": "wunderfrage",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:lan": "vite --host",
+    "build": "npm run check-content && tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "check-content": "tsx scripts/check-content.ts",
+    "icons": "pwa-assets-generator --preset minimal-2023 public/logo.svg"
+  },
+  "dependencies": {
+    "idb-keyval": "^6.3.0",
+    "preact": "^11.0.2"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "@types/node": "^26.6.5",
+    "@vite-pwa/assets-generator": "^2.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vite-plugin-pwa": "^2.0.0",
+    "zod": "^4.6.7"
+  }
+}

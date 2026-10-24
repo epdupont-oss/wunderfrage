@@ -1,0 +1,3228 @@
+[
+  {
+    "id": "maths-biggest-number",
+    "category": "maths",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Es gibt eine grösste Zahl. Stimmt das?",
+      "en": "There is a biggest number. Is that true?",
+      "it": "Esiste un numero più grande di tutti. È vero?"
+    },
+    "visual": "♾️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Es gibt keine grösste Zahl. Egal wie gross eine Zahl ist, du kannst immer eins dazuzählen.",
+      "en": "There is no biggest number. However big a number is, you can always add one more.",
+      "it": "Non esiste un numero più grande di tutti. Per quanto grande sia un numero, puoi sempre aggiungere uno."
+    },
+    "funFact": {
+      "de": "Eine Eins mit hundert Nullen dahinter heisst «Googol».",
+      "en": "A one with a hundred zeros after it is called a “googol”.",
+      "it": "Un uno seguito da cento zeri si chiama «googol»."
+    },
+    "tags": [
+      "numbers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-three-corners",
+    "category": "maths",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Form hat drei Ecken?",
+      "en": "Which shape has three corners?",
+      "it": "Quale forma ha tre angoli?"
+    },
+    "answers": [
+      {
+        "id": "triangle",
+        "icon": "🔺",
+        "label": {
+          "de": "Dreieck",
+          "en": "Triangle",
+          "it": "Triangolo"
+        },
+        "correct": true
+      },
+      {
+        "id": "square",
+        "icon": "🟦",
+        "label": {
+          "de": "Quadrat",
+          "en": "Square",
+          "it": "Quadrato"
+        },
+        "correct": false
+      },
+      {
+        "id": "circle",
+        "icon": "⚪",
+        "label": {
+          "de": "Kreis",
+          "en": "Circle",
+          "it": "Cerchio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Dreieck hat drei Ecken und drei Seiten.",
+      "en": "A triangle has three corners and three sides.",
+      "it": "Il triangolo ha tre angoli e tre lati."
+    },
+    "funFact": {
+      "de": "Ein Kreis hat gar keine Ecken!",
+      "en": "A circle has no corners at all!",
+      "it": "Il cerchio non ha nessun angolo!"
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-after-nine",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Zahl kommt nach der 9?",
+      "en": "Which number comes after 9?",
+      "it": "Quale numero viene dopo il 9?"
+    },
+    "answers": [
+      {
+        "id": "n10",
+        "icon": "10",
+        "label": {
+          "de": "10",
+          "en": "10",
+          "it": "10"
+        },
+        "correct": true
+      },
+      {
+        "id": "n8",
+        "icon": "8",
+        "label": {
+          "de": "8",
+          "en": "8",
+          "it": "8"
+        },
+        "correct": false
+      },
+      {
+        "id": "n11",
+        "icon": "11",
+        "label": {
+          "de": "11",
+          "en": "11",
+          "it": "11"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Nach der 9 kommt die 10.",
+      "en": "After 9 comes 10.",
+      "it": "Dopo il 9 viene il 10."
+    },
+    "funFact": {
+      "de": "Die 10 ist die erste Zahl mit zwei Ziffern.",
+      "en": "10 is the first number with two digits.",
+      "it": "Il 10 è il primo numero con due cifre."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-times-zero",
+    "category": "maths",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Jede Zahl mal null gibt null. Stimmt das?",
+      "en": "Any number times zero is zero. Is that true?",
+      "it": "Ogni numero per zero fa zero. È vero?"
+    },
+    "visual": "0",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! 5 mal 0 heisst: fünfmal nichts. Und das ist nichts.",
+      "en": "That's true! 5 times 0 means five lots of nothing. And that is nothing.",
+      "it": "È vero! 5 per 0 vuol dire cinque volte niente. E fa niente."
+    },
+    "funFact": {
+      "de": "Die alten Römer hatten gar kein Zeichen für die Null.",
+      "en": "The ancient Romans had no sign for zero at all.",
+      "it": "Gli antichi Romani non avevano nessun simbolo per lo zero."
+    },
+    "tags": [
+      "times-tables",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-ten-or-hundred",
+    "category": "maths",
+    "level": "both",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist mehr?",
+      "en": "Which is more?",
+      "it": "Che cosa è di più?"
+    },
+    "answers": [
+      {
+        "id": "n100",
+        "icon": "100",
+        "label": {
+          "de": "100",
+          "en": "100",
+          "it": "100"
+        },
+        "correct": true
+      },
+      {
+        "id": "n10",
+        "icon": "10",
+        "label": {
+          "de": "10",
+          "en": "10",
+          "it": "10"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "100 ist zehnmal so viel wie 10.",
+      "en": "100 is ten times as much as 10.",
+      "it": "100 è dieci volte 10."
+    },
+    "funFact": {
+      "de": "Zehn Zehner ergeben hundert.",
+      "en": "Ten tens make a hundred.",
+      "it": "Dieci decine fanno cento."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-even-number",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Zahl ist gerade?",
+      "en": "Which number is even?",
+      "it": "Quale numero è pari?"
+    },
+    "answers": [
+      {
+        "id": "n8",
+        "icon": "8",
+        "label": {
+          "de": "8",
+          "en": "8",
+          "it": "8"
+        },
+        "correct": true
+      },
+      {
+        "id": "n7",
+        "icon": "7",
+        "label": {
+          "de": "7",
+          "en": "7",
+          "it": "7"
+        },
+        "correct": false
+      },
+      {
+        "id": "n5",
+        "icon": "5",
+        "label": {
+          "de": "5",
+          "en": "5",
+          "it": "5"
+        },
+        "correct": false
+      },
+      {
+        "id": "n3",
+        "icon": "3",
+        "label": {
+          "de": "3",
+          "en": "3",
+          "it": "3"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "8 ist gerade: Man kann sie in zwei gleiche Teile teilen, 4 und 4.",
+      "en": "8 is even: you can split it into two equal parts, 4 and 4.",
+      "it": "8 è pari: si divide in due parti uguali, 4 e 4."
+    },
+    "funFact": {
+      "de": "Alle geraden Zahlen enden mit 0, 2, 4, 6 oder 8.",
+      "en": "All even numbers end in 0, 2, 4, 6 or 8.",
+      "it": "Tutti i numeri pari finiscono con 0, 2, 4, 6 o 8."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-hours-in-day",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Stunden hat ein Tag?",
+      "en": "How many hours are there in a day?",
+      "it": "Quante ore ha un giorno?"
+    },
+    "visual": "🕰️",
+    "answers": [
+      {
+        "id": "n24",
+        "icon": "24",
+        "label": {
+          "de": "24",
+          "en": "24",
+          "it": "24"
+        },
+        "correct": true
+      },
+      {
+        "id": "n12",
+        "icon": "12",
+        "label": {
+          "de": "12",
+          "en": "12",
+          "it": "12"
+        },
+        "correct": false
+      },
+      {
+        "id": "n60",
+        "icon": "60",
+        "label": {
+          "de": "60",
+          "en": "60",
+          "it": "60"
+        },
+        "correct": false
+      },
+      {
+        "id": "n100",
+        "icon": "100",
+        "label": {
+          "de": "100",
+          "en": "100",
+          "it": "100"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Tag hat 24 Stunden.",
+      "en": "A day has 24 hours.",
+      "it": "Un giorno ha 24 ore."
+    },
+    "funFact": {
+      "de": "Eine Stunde hat 60 Minuten, und eine Minute hat 60 Sekunden.",
+      "en": "An hour has 60 minutes, and a minute has 60 seconds.",
+      "it": "Un'ora ha 60 minuti e un minuto ha 60 secondi."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-round-shape",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Form ist rund?",
+      "en": "Which shape is round?",
+      "it": "Quale forma è rotonda?"
+    },
+    "answers": [
+      {
+        "id": "circle",
+        "icon": "⚪",
+        "label": {
+          "de": "Kreis",
+          "en": "Circle",
+          "it": "Cerchio"
+        },
+        "correct": true
+      },
+      {
+        "id": "square",
+        "icon": "🟥",
+        "label": {
+          "de": "Quadrat",
+          "en": "Square",
+          "it": "Quadrato"
+        },
+        "correct": false
+      },
+      {
+        "id": "triangle",
+        "icon": "🔺",
+        "label": {
+          "de": "Dreieck",
+          "en": "Triangle",
+          "it": "Triangolo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Kreis ist rund.",
+      "en": "The circle is round.",
+      "it": "Il cerchio è rotondo."
+    },
+    "funFact": {
+      "de": "Ein Rad ist rund wie ein Kreis. Darum rollt es so gut.",
+      "en": "A wheel is round like a circle – that's why it rolls so well.",
+      "it": "Una ruota è rotonda come un cerchio: per questo rotola così bene."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-square-corners",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Ecken hat ein Quadrat?",
+      "en": "How many corners does a square have?",
+      "it": "Quanti angoli ha un quadrato?"
+    },
+    "visual": "🟦",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "none",
+        "icon": "0",
+        "label": {
+          "de": "Keine",
+          "en": "None",
+          "it": "Nessuno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Quadrat hat vier Ecken.",
+      "en": "A square has four corners.",
+      "it": "Un quadrato ha quattro angoli."
+    },
+    "funFact": {
+      "de": "Alle vier Seiten eines Quadrats sind gleich lang.",
+      "en": "All four sides of a square are the same length.",
+      "it": "I quattro lati di un quadrato sono lunghi uguali."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-before-five",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Zahl kommt direkt vor der 5?",
+      "en": "Which number comes just before 5?",
+      "it": "Quale numero viene subito prima del 5?"
+    },
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Vor der 5 kommt die 4.",
+      "en": "4 comes just before 5.",
+      "it": "Prima del 5 viene il 4."
+    },
+    "funFact": {
+      "de": "Rückwärts zählen geht so: 5, 4, 3, 2, 1 – los!",
+      "en": "Counting backwards goes: 5, 4, 3, 2, 1 – go!",
+      "it": "Contare all'indietro: 5, 4, 3, 2, 1… via!"
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-dice-six",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Punkte hat die grösste Seite eines Würfels?",
+      "en": "How many dots are on the biggest side of a dice?",
+      "it": "Quanti puntini ha la faccia più alta di un dado?"
+    },
+    "visual": "🎲",
+    "answers": [
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die grösste Zahl auf einem Würfel ist die 6.",
+      "en": "The biggest number on a dice is 6.",
+      "it": "Il numero più alto su un dado è il 6."
+    },
+    "funFact": {
+      "de": "Gegenüberliegende Seiten eines Würfels ergeben zusammen immer 7.",
+      "en": "Opposite sides of a dice always add up to 7.",
+      "it": "Le facce opposte di un dado fanno sempre 7."
+    },
+    "tags": [
+      "numbers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-fingers-total",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Finger hast du an beiden Händen zusammen?",
+      "en": "How many fingers do you have on both hands together?",
+      "it": "Quante dita hai in tutto sulle due mani?"
+    },
+    "visual": "🖐️🖐️",
+    "answers": [
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Fünf und fünf sind zehn.",
+      "en": "Five and five make ten.",
+      "it": "Cinque più cinque fa dieci."
+    },
+    "funFact": {
+      "de": "Mit den Fingern rechnen ist ein super Anfang!",
+      "en": "Counting on your fingers is a great way to start!",
+      "it": "Contare con le dita è un ottimo inizio!"
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-more-five-two",
+    "category": "maths",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist mehr?",
+      "en": "Which is more?",
+      "it": "Che cosa è di più?"
+    },
+    "answers": [
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "5 ist mehr als 2.",
+      "en": "5 is more than 2.",
+      "it": "5 è più di 2."
+    },
+    "funFact": {
+      "de": "Beim Zählen wird jede Zahl um eins grösser.",
+      "en": "Each time you count on, the number gets one bigger.",
+      "it": "Contando, ogni numero è uno in più del precedente."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-empty-basket",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Äpfel sind in einem leeren Korb?",
+      "en": "How many apples are in an empty basket?",
+      "it": "Quante mele ci sono in un cestino vuoto?"
+    },
+    "visual": "🧺",
+    "answers": [
+      {
+        "id": "zero",
+        "icon": "0",
+        "label": {
+          "de": "Null",
+          "en": "Zero",
+          "it": "Zero"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In einem leeren Korb sind null Äpfel.",
+      "en": "An empty basket has zero apples.",
+      "it": "In un cestino vuoto ci sono zero mele."
+    },
+    "funFact": {
+      "de": "Null bedeutet: gar nichts.",
+      "en": "Zero means nothing at all.",
+      "it": "Zero vuol dire niente di niente."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-share-pizza",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Du teilst 2 Pizzastücke mit einem Freund. Wie viele bekommt jeder?",
+      "en": "You share 2 slices of pizza with a friend. How many does each of you get?",
+      "it": "Dividi 2 fette di pizza con un amico. Quante ne avete a testa?"
+    },
+    "visual": "🍕",
+    "answers": [
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "none",
+        "icon": "0",
+        "label": {
+          "de": "Keins",
+          "en": "None",
+          "it": "Nessuno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jeder bekommt ein Stück, also eine Hälfte.",
+      "en": "You each get one piece – one half.",
+      "it": "Un pezzo a testa: una metà ciascuno."
+    },
+    "funFact": {
+      "de": "Zwei gleiche Teile nennt man Hälften.",
+      "en": "Two equal parts are called halves.",
+      "it": "Due parti uguali si chiamano metà."
+    },
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "id": "maths-week-days",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Tage hat eine Woche?",
+      "en": "How many days are in a week?",
+      "it": "Quanti giorni ha una settimana?"
+    },
+    "visual": "📅",
+    "answers": [
+      {
+        "id": "seven",
+        "icon": "7",
+        "label": {
+          "de": "Sieben",
+          "en": "Seven",
+          "it": "Sette"
+        },
+        "correct": true
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Woche hat sieben Tage.",
+      "en": "A week has seven days.",
+      "it": "Una settimana ha sette giorni."
+    },
+    "funFact": {
+      "de": "Am Samstag und Sonntag ist meistens keine Schule.",
+      "en": "There's usually no school on Saturday and Sunday.",
+      "it": "Il sabato e la domenica di solito non c'è scuola."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-triangle-sides",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Seiten hat ein Dreieck?",
+      "en": "How many sides does a triangle have?",
+      "it": "Quanti lati ha un triangolo?"
+    },
+    "visual": "🔺",
+    "answers": [
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": true
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Dreieck hat drei Seiten.",
+      "en": "A triangle has three sides.",
+      "it": "Un triangolo ha tre lati."
+    },
+    "funFact": {
+      "de": "Ein Stück Pizza sieht oft aus wie ein Dreieck.",
+      "en": "A slice of pizza often looks like a triangle.",
+      "it": "Una fetta di pizza spesso sembra un triangolo."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-bigger-nine-six",
+    "category": "maths",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Zahl ist grösser?",
+      "en": "Which number is bigger?",
+      "it": "Quale numero è più grande?"
+    },
+    "answers": [
+      {
+        "id": "nine",
+        "icon": "9",
+        "label": {
+          "de": "Neun",
+          "en": "Nine",
+          "it": "Nove"
+        },
+        "correct": true
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "9 ist grösser als 6.",
+      "en": "9 is bigger than 6.",
+      "it": "9 è più grande di 6."
+    },
+    "funFact": {
+      "de": "Eine 6 auf dem Kopf sieht aus wie eine 9!",
+      "en": "A 6 upside down looks like a 9!",
+      "it": "Un 6 capovolto sembra un 9!"
+    },
+    "tags": [
+      "numbers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-pattern-colours",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt als Nächstes?",
+      "en": "What comes next?",
+      "it": "Che cosa viene dopo?"
+    },
+    "visual": "🔴🔵🔴🔵🔴",
+    "answers": [
+      {
+        "id": "blue",
+        "icon": "🔵",
+        "label": {
+          "de": "Blau",
+          "en": "Blue",
+          "it": "Blu"
+        },
+        "correct": true
+      },
+      {
+        "id": "red",
+        "icon": "🔴",
+        "label": {
+          "de": "Rot",
+          "en": "Red",
+          "it": "Rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "green",
+        "icon": "🟢",
+        "label": {
+          "de": "Grün",
+          "en": "Green",
+          "it": "Verde"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Rot, Blau, Rot, Blau, Rot … dann kommt Blau.",
+      "en": "Red, blue, red, blue, red … then comes blue.",
+      "it": "Rosso, blu, rosso, blu, rosso… poi viene blu."
+    },
+    "funFact": {
+      "de": "Muster findest du überall, zum Beispiel auf einem Zebra.",
+      "en": "You can find patterns everywhere – like on a zebra.",
+      "it": "Le sequenze sono dappertutto, per esempio sulla zebra."
+    },
+    "tags": [
+      "patterns"
+    ]
+  },
+  {
+    "id": "maths-pattern-fruit",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt als Nächstes?",
+      "en": "What comes next?",
+      "it": "Che cosa viene dopo?"
+    },
+    "visual": "🍎🍌🍎🍌🍎",
+    "answers": [
+      {
+        "id": "banana",
+        "icon": "🍌",
+        "label": {
+          "de": "Banane",
+          "en": "Banana",
+          "it": "Banana"
+        },
+        "correct": true
+      },
+      {
+        "id": "apple",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfel",
+          "en": "Apple",
+          "it": "Mela"
+        },
+        "correct": false
+      },
+      {
+        "id": "grapes",
+        "icon": "🍇",
+        "label": {
+          "de": "Trauben",
+          "en": "Grapes",
+          "it": "Uva"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Apfel, Banane, Apfel, Banane, Apfel … dann Banane.",
+      "en": "Apple, banana, apple, banana, apple … then banana.",
+      "it": "Mela, banana, mela, banana, mela… poi banana."
+    },
+    "funFact": {
+      "de": "Wer Muster erkennt, kann vorhersagen, was als Nächstes kommt.",
+      "en": "If you spot a pattern, you can predict what comes next.",
+      "it": "Chi riconosce una sequenza sa prevedere che cosa viene dopo."
+    },
+    "tags": [
+      "patterns"
+    ]
+  },
+  {
+    "id": "maths-pair",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Socken sind ein Paar?",
+      "en": "How many socks make a pair?",
+      "it": "Quanti calzini fanno un paio?"
+    },
+    "visual": "🧦🧦",
+    "answers": [
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eine",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Paar sind zwei.",
+      "en": "A pair is two.",
+      "it": "Un paio sono due."
+    },
+    "funFact": {
+      "de": "Auch Schuhe und Handschuhe kommen als Paar.",
+      "en": "Shoes and gloves come in pairs too.",
+      "it": "Anche scarpe e guanti vanno in paio."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-missing-number",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Zahl fehlt: 1, 2, …, 4?",
+      "en": "Which number is missing: 1, 2, …, 4?",
+      "it": "Quale numero manca: 1, 2, …, 4?"
+    },
+    "visual": "1 2 _ 4",
+    "answers": [
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": true
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "zero",
+        "icon": "0",
+        "label": {
+          "de": "Null",
+          "en": "Zero",
+          "it": "Zero"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "1, 2, 3, 4: Es fehlt die 3.",
+      "en": "1, 2, 3, 4: the missing number is 3.",
+      "it": "1, 2, 3, 4: manca il 3."
+    },
+    "funFact": {
+      "de": "Zählen kannst du vorwärts und rückwärts.",
+      "en": "You can count forwards and backwards.",
+      "it": "Si può contare in avanti e all'indietro."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-zero-more-than-one",
+    "category": "maths",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Null ist mehr als eins. Stimmt das?",
+      "en": "Zero is more than one. Is that true?",
+      "it": "Zero è più di uno. È vero?"
+    },
+    "visual": "0",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Null ist weniger als eins. Null heisst: gar nichts.",
+      "en": "Zero is less than one. Zero means nothing.",
+      "it": "Zero è meno di uno: vuol dire niente."
+    },
+    "funFact": {
+      "de": "Beim Zählen kommt die Null noch vor der Eins.",
+      "en": "When you count, zero comes before one.",
+      "it": "Contando, lo zero viene prima dell'uno."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-circle-no-corners",
+    "category": "maths",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Kreis hat keine Ecken. Stimmt das?",
+      "en": "A circle has no corners. Is that true?",
+      "it": "Un cerchio non ha angoli. È vero?"
+    },
+    "visual": "⚪",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ein Kreis ist ganz rund.",
+      "en": "That's true! A circle is completely round.",
+      "it": "È vero! Il cerchio è tutto rotondo."
+    },
+    "funFact": {
+      "de": "Darum rollen Bälle so gut.",
+      "en": "That's why balls roll so well.",
+      "it": "Per questo le palle rotolano così bene."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-two-plus-two",
+    "category": "maths",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Zwei plus zwei gibt vier. Stimmt das?",
+      "en": "Two plus two makes four. Is that true?",
+      "it": "Due più due fa quattro. È vero?"
+    },
+    "visual": "2 + 2",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! 2 und 2 sind 4.",
+      "en": "That's true! 2 and 2 make 4.",
+      "it": "È vero! 2 più 2 fa 4."
+    },
+    "funFact": {
+      "de": "Und zwei mal zwei gibt auch vier!",
+      "en": "And two times two is four as well!",
+      "it": "E anche due per due fa quattro!"
+    },
+    "tags": [
+      "adding"
+    ]
+  },
+  {
+    "id": "maths-bike-wheels",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Räder hat ein Fahrrad?",
+      "en": "How many wheels does a bike have?",
+      "it": "Quante ruote ha una bicicletta?"
+    },
+    "visual": "🚲",
+    "answers": [
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Fahrrad hat zwei Räder.",
+      "en": "A bike has two wheels.",
+      "it": "La bicicletta ha due ruote."
+    },
+    "funFact": {
+      "de": "Ein Dreirad hat drei Räder, darum heisst es so.",
+      "en": "A tricycle has three wheels – that's where the name comes from.",
+      "it": "Il triciclo ha tre ruote: per questo si chiama così."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-car-wheels",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Räder hat ein Auto?",
+      "en": "How many wheels does a car have?",
+      "it": "Quante ruote ha un'automobile?"
+    },
+    "visual": "🚗",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Auto hat vier Räder.",
+      "en": "A car has four wheels.",
+      "it": "Un'auto ha quattro ruote."
+    },
+    "funFact": {
+      "de": "Dazu gibt es oft noch ein Reserverad im Kofferraum.",
+      "en": "There's often a spare wheel in the boot too.",
+      "it": "Spesso c'è anche una ruota di scorta nel bagagliaio."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-coin-shape",
+    "category": "maths",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Form haben Münzen meistens?",
+      "en": "What shape are coins usually?",
+      "it": "Che forma hanno di solito le monete?"
+    },
+    "visual": "🪙",
+    "answers": [
+      {
+        "id": "round",
+        "icon": "⚪",
+        "label": {
+          "de": "Rund",
+          "en": "Round",
+          "it": "Rotonda"
+        },
+        "correct": true
+      },
+      {
+        "id": "triangular",
+        "icon": "🔺",
+        "label": {
+          "de": "Dreieckig",
+          "en": "Triangular",
+          "it": "Triangolare"
+        },
+        "correct": false
+      },
+      {
+        "id": "square",
+        "icon": "🟦",
+        "label": {
+          "de": "Quadratisch",
+          "en": "Square",
+          "it": "Quadrata"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die meisten Münzen sind rund.",
+      "en": "Most coins are round.",
+      "it": "La maggior parte delle monete è rotonda."
+    },
+    "funFact": {
+      "de": "In manchen Ländern gibt es aber auch eckige Münzen.",
+      "en": "Some countries have coins with corners, though.",
+      "it": "In alcuni paesi però ci sono anche monete con gli angoli."
+    },
+    "tags": [
+      "shapes",
+      "money"
+    ]
+  },
+  {
+    "id": "maths-half-of-ten",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist die Hälfte von 10?",
+      "en": "What is half of 10?",
+      "it": "Qual è la metà di 10?"
+    },
+    "answers": [
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Hälfte von 10 ist 5.",
+      "en": "Half of 10 is 5.",
+      "it": "La metà di 10 è 5."
+    },
+    "funFact": {
+      "de": "Die Hälfte findest du, wenn du durch 2 teilst.",
+      "en": "You find half by dividing by 2.",
+      "it": "La metà si trova dividendo per 2."
+    },
+    "tags": [
+      "fractions"
+    ]
+  },
+  {
+    "id": "maths-quarter-hour",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Minuten hat eine Viertelstunde?",
+      "en": "How many minutes are in a quarter of an hour?",
+      "it": "Quanti minuti ha un quarto d'ora?"
+    },
+    "visual": "🕒",
+    "answers": [
+      {
+        "id": "fifteen",
+        "icon": "15",
+        "label": {
+          "de": "Fünfzehn",
+          "en": "Fifteen",
+          "it": "Quindici"
+        },
+        "correct": true
+      },
+      {
+        "id": "twenty-five",
+        "icon": "25",
+        "label": {
+          "de": "Fünfundzwanzig",
+          "en": "Twenty-five",
+          "it": "Venticinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      },
+      {
+        "id": "thirty",
+        "icon": "30",
+        "label": {
+          "de": "Dreissig",
+          "en": "Thirty",
+          "it": "Trenta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Viertelstunde hat 15 Minuten.",
+      "en": "A quarter of an hour is 15 minutes.",
+      "it": "Un quarto d'ora ha 15 minuti."
+    },
+    "funFact": {
+      "de": "Eine halbe Stunde hat 30 Minuten.",
+      "en": "Half an hour is 30 minutes.",
+      "it": "Mezz'ora ha 30 minuti."
+    },
+    "tags": [
+      "time",
+      "fractions"
+    ]
+  },
+  {
+    "id": "maths-months",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Monate hat ein Jahr?",
+      "en": "How many months are in a year?",
+      "it": "Quanti mesi ha un anno?"
+    },
+    "visual": "📅",
+    "answers": [
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "seven",
+        "icon": "7",
+        "label": {
+          "de": "Sieben",
+          "en": "Seven",
+          "it": "Sette"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifty-two",
+        "icon": "52",
+        "label": {
+          "de": "Zweiundfünfzig",
+          "en": "Fifty-two",
+          "it": "Cinquantadue"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Jahr hat zwölf Monate.",
+      "en": "A year has twelve months.",
+      "it": "Un anno ha dodici mesi."
+    },
+    "funFact": {
+      "de": "Ein Jahr hat ungefähr 52 Wochen.",
+      "en": "A year has about 52 weeks.",
+      "it": "Un anno ha circa 52 settimane."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-leap-day",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Monat hat manchmal 29 Tage?",
+      "en": "Which month sometimes has 29 days?",
+      "it": "Quale mese a volte ha 29 giorni?"
+    },
+    "answers": [
+      {
+        "id": "february",
+        "icon": "❄️",
+        "label": {
+          "de": "Februar",
+          "en": "February",
+          "it": "Febbraio"
+        },
+        "correct": true
+      },
+      {
+        "id": "january",
+        "icon": "⛄",
+        "label": {
+          "de": "Januar",
+          "en": "January",
+          "it": "Gennaio"
+        },
+        "correct": false
+      },
+      {
+        "id": "march",
+        "icon": "🌷",
+        "label": {
+          "de": "März",
+          "en": "March",
+          "it": "Marzo"
+        },
+        "correct": false
+      },
+      {
+        "id": "december",
+        "icon": "🎄",
+        "label": {
+          "de": "Dezember",
+          "en": "December",
+          "it": "Dicembre"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Februar hat normalerweise 28 Tage, manchmal 29.",
+      "en": "February usually has 28 days, sometimes 29.",
+      "it": "Febbraio di solito ha 28 giorni, a volte 29."
+    },
+    "funFact": {
+      "de": "Ein Jahr mit einem 29. Februar heisst Schaltjahr. Das kommt etwa alle vier Jahre.",
+      "en": "A year with 29 February is called a leap year. It comes about every four years.",
+      "it": "Un anno con il 29 febbraio si chiama bisestile: capita circa ogni quattro anni."
+    },
+    "tags": [
+      "time",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-hexagon",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Ecken hat ein Sechseck?",
+      "en": "How many corners does a hexagon have?",
+      "it": "Quanti angoli ha un esagono?"
+    },
+    "visual": "🐝",
+    "answers": [
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": true
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Sechseck hat sechs Ecken und sechs Seiten.",
+      "en": "A hexagon has six corners and six sides.",
+      "it": "Un esagono ha sei angoli e sei lati."
+    },
+    "funFact": {
+      "de": "Bienenwaben bestehen aus lauter Sechsecken.",
+      "en": "Honeycombs are made of lots of hexagons.",
+      "it": "I favi delle api sono fatti di tanti esagoni."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-kilo-feathers",
+    "category": "maths",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Kilo Federn ist leichter als ein Kilo Steine. Stimmt das?",
+      "en": "A kilo of feathers is lighter than a kilo of stones. Is that true?",
+      "it": "Un chilo di piume pesa meno di un chilo di sassi. È vero?"
+    },
+    "visual": "🪶🪨",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Beide wiegen genau ein Kilo! Ein Kilo ist ein Kilo.",
+      "en": "They both weigh exactly a kilo! A kilo is a kilo.",
+      "it": "Pesano entrambi un chilo! Un chilo è un chilo."
+    },
+    "funFact": {
+      "de": "Aber ein Kilo Federn braucht viel mehr Platz.",
+      "en": "But a kilo of feathers takes up much more space.",
+      "it": "Però un chilo di piume occupa molto più spazio."
+    },
+    "tags": [
+      "measuring",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-hundreds-in-thousand",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Hunderter stecken in tausend?",
+      "en": "How many hundreds are there in a thousand?",
+      "it": "Quante centinaia ci sono in mille?"
+    },
+    "answers": [
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": false
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Zehn Hunderter ergeben tausend.",
+      "en": "Ten hundreds make a thousand.",
+      "it": "Dieci centinaia fanno mille."
+    },
+    "funFact": {
+      "de": "Tausend schreibt man mit drei Nullen: 1000.",
+      "en": "A thousand is written with three zeros: 1000.",
+      "it": "Mille si scrive con tre zeri: 1000."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-roman-ten",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Für welche Zahl steht das römische Zeichen X?",
+      "en": "Which number does the Roman numeral X stand for?",
+      "it": "Quale numero indica il simbolo romano X?"
+    },
+    "visual": "X",
+    "answers": [
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das römische X bedeutet 10.",
+      "en": "The Roman X means 10.",
+      "it": "La X romana vale 10."
+    },
+    "funFact": {
+      "de": "Das römische Zeichen für 5 ist V, für 1 ist es I.",
+      "en": "The Roman numeral for 5 is V, and for 1 it's I.",
+      "it": "In numeri romani il 5 è V e l'1 è I."
+    },
+    "tags": [
+      "numbers",
+      "history"
+    ]
+  },
+  {
+    "id": "maths-odd-number",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Zahl ist ungerade?",
+      "en": "Which number is odd?",
+      "it": "Quale numero è dispari?"
+    },
+    "answers": [
+      {
+        "id": "seven",
+        "icon": "7",
+        "label": {
+          "de": "Sieben",
+          "en": "Seven",
+          "it": "Sette"
+        },
+        "correct": true
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "7 ist ungerade: Man kann sie nicht in zwei gleiche ganze Teile teilen.",
+      "en": "7 is odd: you can't split it into two equal whole numbers.",
+      "it": "7 è dispari: non si divide in due parti intere uguali."
+    },
+    "funFact": {
+      "de": "Ungerade Zahlen enden mit 1, 3, 5, 7 oder 9.",
+      "en": "Odd numbers end in 1, 3, 5, 7 or 9.",
+      "it": "I numeri dispari finiscono con 1, 3, 5, 7 o 9."
+    },
+    "tags": [
+      "numbers"
+    ]
+  },
+  {
+    "id": "maths-change",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Du bezahlst mit 5 Franken. Es kostet 3 Franken. Wie viel bekommst du zurück?",
+      "en": "You pay with 5 francs. It costs 3 francs. How much change do you get?",
+      "it": "Paghi con 5 franchi. Costa 3 franchi. Quanto ricevi di resto?"
+    },
+    "visual": "🪙",
+    "answers": [
+      {
+        "id": "2-francs",
+        "icon": "2",
+        "label": {
+          "de": "2 Franken",
+          "en": "2 francs",
+          "it": "2 franchi"
+        },
+        "correct": true
+      },
+      {
+        "id": "8-francs",
+        "icon": "8",
+        "label": {
+          "de": "8 Franken",
+          "en": "8 francs",
+          "it": "8 franchi"
+        },
+        "correct": false
+      },
+      {
+        "id": "3-francs",
+        "icon": "3",
+        "label": {
+          "de": "3 Franken",
+          "en": "3 francs",
+          "it": "3 franchi"
+        },
+        "correct": false
+      },
+      {
+        "id": "5-francs",
+        "icon": "5",
+        "label": {
+          "de": "5 Franken",
+          "en": "5 francs",
+          "it": "5 franchi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "5 minus 3 ist 2. Du bekommst 2 Franken zurück.",
+      "en": "5 minus 3 is 2, so you get 2 francs back.",
+      "it": "5 meno 3 fa 2: ricevi 2 franchi di resto."
+    },
+    "funFact": {
+      "de": "Beim Einkaufen hilft Kopfrechnen sehr.",
+      "en": "Mental maths is really handy when shopping.",
+      "it": "Fare i conti a mente aiuta tanto quando si fa la spesa."
+    },
+    "tags": [
+      "money",
+      "subtracting"
+    ]
+  },
+  {
+    "id": "maths-chicken-legs",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Zwei Hühner haben zusammen wie viele Beine?",
+      "en": "How many legs do two hens have altogether?",
+      "it": "Quante zampe hanno in tutto due galline?"
+    },
+    "visual": "🐔🐔",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "two",
+        "icon": "2",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jedes Huhn hat 2 Beine. 2 plus 2 ist 4.",
+      "en": "Each hen has 2 legs. 2 plus 2 is 4.",
+      "it": "Ogni gallina ha 2 zampe: 2 più 2 fa 4."
+    },
+    "funFact": {
+      "de": "Drei Hühner hätten sechs Beine.",
+      "en": "Three hens would have six legs.",
+      "it": "Tre galline avrebbero sei zampe."
+    },
+    "tags": [
+      "times-tables",
+      "animals"
+    ]
+  },
+  {
+    "id": "maths-dog-legs",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Drei Hunde haben zusammen wie viele Beine?",
+      "en": "How many legs do three dogs have altogether?",
+      "it": "Quante zampe hanno in tutto tre cani?"
+    },
+    "visual": "🐕🐕🐕",
+    "answers": [
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": true
+      },
+      {
+        "id": "nine",
+        "icon": "9",
+        "label": {
+          "de": "Neun",
+          "en": "Nine",
+          "it": "Nove"
+        },
+        "correct": false
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifteen",
+        "icon": "15",
+        "label": {
+          "de": "Fünfzehn",
+          "en": "Fifteen",
+          "it": "Quindici"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jeder Hund hat 4 Beine. 3 mal 4 ist 12.",
+      "en": "Each dog has 4 legs. 3 times 4 is 12.",
+      "it": "Ogni cane ha 4 zampe: 3 per 4 fa 12."
+    },
+    "funFact": {
+      "de": "Mal-Rechnen ist schnelles Plus-Rechnen: 4 + 4 + 4 = 12.",
+      "en": "Times tables are quick adding: 4 + 4 + 4 = 12.",
+      "it": "La moltiplicazione è un'addizione veloce: 4 + 4 + 4 = 12."
+    },
+    "tags": [
+      "times-tables",
+      "animals"
+    ]
+  },
+  {
+    "id": "maths-minutes-hour",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Minuten hat eine Stunde?",
+      "en": "How many minutes are in an hour?",
+      "it": "Quanti minuti ha un'ora?"
+    },
+    "visual": "⏰",
+    "answers": [
+      {
+        "id": "sixty",
+        "icon": "60",
+        "label": {
+          "de": "Sechzig",
+          "en": "Sixty",
+          "it": "Sessanta"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      },
+      {
+        "id": "thirty",
+        "icon": "30",
+        "label": {
+          "de": "Dreissig",
+          "en": "Thirty",
+          "it": "Trenta"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty-four",
+        "icon": "24",
+        "label": {
+          "de": "Vierundzwanzig",
+          "en": "Twenty-four",
+          "it": "Ventiquattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Stunde hat 60 Minuten.",
+      "en": "An hour has 60 minutes.",
+      "it": "Un'ora ha 60 minuti."
+    },
+    "funFact": {
+      "de": "Und jede Minute hat 60 Sekunden.",
+      "en": "And each minute has 60 seconds.",
+      "it": "E ogni minuto ha 60 secondi."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-cm-in-metre",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Zentimeter hat ein Meter?",
+      "en": "How many centimetres are in a metre?",
+      "it": "Quanti centimetri ha un metro?"
+    },
+    "visual": "📏",
+    "answers": [
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": false
+      },
+      {
+        "id": "sixty",
+        "icon": "60",
+        "label": {
+          "de": "Sechzig",
+          "en": "Sixty",
+          "it": "Sessanta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Meter hat 100 Zentimeter.",
+      "en": "A metre has 100 centimetres.",
+      "it": "Un metro ha 100 centimetri."
+    },
+    "funFact": {
+      "de": "Ein Kilometer hat 1000 Meter.",
+      "en": "A kilometre has 1000 metres.",
+      "it": "Un chilometro ha 1000 metri."
+    },
+    "tags": [
+      "measuring"
+    ]
+  },
+  {
+    "id": "maths-dl-in-litre",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Deziliter hat ein Liter?",
+      "en": "How many decilitres are in a litre?",
+      "it": "Quanti decilitri ha un litro?"
+    },
+    "visual": "🥛",
+    "answers": [
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      },
+      {
+        "id": "five",
+        "icon": "5",
+        "label": {
+          "de": "Fünf",
+          "en": "Five",
+          "it": "Cinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Liter hat 10 Deziliter.",
+      "en": "A litre has 10 decilitres.",
+      "it": "Un litro ha 10 decilitri."
+    },
+    "funFact": {
+      "de": "In der Schweiz steht auf Bechern oft «dl», zum Beispiel 3 dl.",
+      "en": "In Switzerland, cups and glasses are often marked in “dl”, like 3 dl.",
+      "it": "In Svizzera su bicchieri e tazze c'è spesso scritto «dl», per esempio 3 dl."
+    },
+    "tags": [
+      "measuring",
+      "switzerland"
+    ]
+  },
+  {
+    "id": "maths-square-is-rectangle",
+    "category": "maths",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Jedes Quadrat ist auch ein Rechteck. Stimmt das?",
+      "en": "Every square is also a rectangle. Is that true?",
+      "it": "Ogni quadrato è anche un rettangolo. È vero?"
+    },
+    "visual": "🟦",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ein Quadrat ist ein besonderes Rechteck mit vier gleich langen Seiten.",
+      "en": "That's true! A square is a special rectangle with four equal sides.",
+      "it": "È vero! Il quadrato è un rettangolo speciale con quattro lati uguali."
+    },
+    "funFact": {
+      "de": "Aber nicht jedes Rechteck ist ein Quadrat.",
+      "en": "But not every rectangle is a square.",
+      "it": "Ma non ogni rettangolo è un quadrato."
+    },
+    "tags": [
+      "shapes",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-sequence-twos",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt als Nächstes: 2, 4, 6, 8, …?",
+      "en": "What comes next: 2, 4, 6, 8, …?",
+      "it": "Che cosa viene dopo: 2, 4, 6, 8, …?"
+    },
+    "visual": "2 4 6 8 …",
+    "answers": [
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": true
+      },
+      {
+        "id": "nine",
+        "icon": "9",
+        "label": {
+          "de": "Neun",
+          "en": "Nine",
+          "it": "Nove"
+        },
+        "correct": false
+      },
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": false
+      },
+      {
+        "id": "sixteen",
+        "icon": "16",
+        "label": {
+          "de": "Sechzehn",
+          "en": "Sixteen",
+          "it": "Sedici"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Man zählt immer 2 dazu: Nach 8 kommt 10.",
+      "en": "You add 2 each time, so after 8 comes 10.",
+      "it": "Si aggiunge sempre 2: dopo 8 viene 10."
+    },
+    "funFact": {
+      "de": "Das sind die geraden Zahlen.",
+      "en": "These are the even numbers.",
+      "it": "Sono i numeri pari."
+    },
+    "tags": [
+      "patterns"
+    ]
+  },
+  {
+    "id": "maths-sequence-fives",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt als Nächstes: 5, 10, 15, 20, …?",
+      "en": "What comes next: 5, 10, 15, 20, …?",
+      "it": "Che cosa viene dopo: 5, 10, 15, 20, …?"
+    },
+    "visual": "5 10 15 20 …",
+    "answers": [
+      {
+        "id": "twenty-five",
+        "icon": "25",
+        "label": {
+          "de": "Fünfundzwanzig",
+          "en": "Twenty-five",
+          "it": "Venticinque"
+        },
+        "correct": true
+      },
+      {
+        "id": "twenty-one",
+        "icon": "21",
+        "label": {
+          "de": "Einundzwanzig",
+          "en": "Twenty-one",
+          "it": "Ventuno"
+        },
+        "correct": false
+      },
+      {
+        "id": "thirty",
+        "icon": "30",
+        "label": {
+          "de": "Dreissig",
+          "en": "Thirty",
+          "it": "Trenta"
+        },
+        "correct": false
+      },
+      {
+        "id": "forty",
+        "icon": "40",
+        "label": {
+          "de": "Vierzig",
+          "en": "Forty",
+          "it": "Quaranta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Man zählt immer 5 dazu: Nach 20 kommt 25.",
+      "en": "You add 5 each time, so after 20 comes 25.",
+      "it": "Si aggiunge sempre 5: dopo 20 viene 25."
+    },
+    "funFact": {
+      "de": "In Fünferschritten kann man schnell Münzen zählen.",
+      "en": "Counting in fives is a quick way to count coins.",
+      "it": "Contare di cinque in cinque è comodo per le monete."
+    },
+    "tags": [
+      "patterns"
+    ]
+  },
+  {
+    "id": "maths-sequence-double",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was kommt als Nächstes: 1, 2, 4, 8, …?",
+      "en": "What comes next: 1, 2, 4, 8, …?",
+      "it": "Che cosa viene dopo: 1, 2, 4, 8, …?"
+    },
+    "visual": "1 2 4 8 …",
+    "answers": [
+      {
+        "id": "sixteen",
+        "icon": "16",
+        "label": {
+          "de": "Sechzehn",
+          "en": "Sixteen",
+          "it": "Sedici"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": false
+      },
+      {
+        "id": "nine",
+        "icon": "9",
+        "label": {
+          "de": "Neun",
+          "en": "Nine",
+          "it": "Nove"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Jedes Mal verdoppelt sich die Zahl: 8 mal 2 ist 16.",
+      "en": "The number doubles each time: 8 times 2 is 16.",
+      "it": "Ogni volta il numero raddoppia: 8 per 2 fa 16."
+    },
+    "funFact": {
+      "de": "Wenn man immer weiter verdoppelt, werden Zahlen unglaublich schnell riesig.",
+      "en": "If you keep doubling, numbers get huge incredibly fast.",
+      "it": "Continuando a raddoppiare, i numeri diventano enormi in un attimo."
+    },
+    "tags": [
+      "patterns",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-symmetric-letter",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Buchstabe sieht im Spiegel gleich aus?",
+      "en": "Which letter looks the same in a mirror?",
+      "it": "Quale lettera sembra uguale allo specchio?"
+    },
+    "visual": "🪞",
+    "answers": [
+      {
+        "id": "a",
+        "icon": "A",
+        "label": {
+          "de": "A",
+          "en": "A",
+          "it": "A"
+        },
+        "correct": true
+      },
+      {
+        "id": "f",
+        "icon": "F",
+        "label": {
+          "de": "F",
+          "en": "F",
+          "it": "F"
+        },
+        "correct": false
+      },
+      {
+        "id": "r",
+        "icon": "R",
+        "label": {
+          "de": "R",
+          "en": "R",
+          "it": "R"
+        },
+        "correct": false
+      },
+      {
+        "id": "g",
+        "icon": "G",
+        "label": {
+          "de": "G",
+          "en": "G",
+          "it": "G"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das A ist links und rechts gleich. Es ist spiegelsymmetrisch.",
+      "en": "The A is the same on the left and right: it's symmetrical.",
+      "it": "La A è uguale a destra e a sinistra: è simmetrica."
+    },
+    "funFact": {
+      "de": "Auch Schmetterlinge sind fast genau symmetrisch.",
+      "en": "Butterflies are almost perfectly symmetrical too.",
+      "it": "Anche le farfalle sono quasi perfettamente simmetriche."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-negative-numbers",
+    "category": "maths",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Es gibt Zahlen, die kleiner als null sind. Stimmt das?",
+      "en": "There are numbers smaller than zero. Is that true?",
+      "it": "Esistono numeri più piccoli di zero. È vero?"
+    },
+    "visual": "🌡️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Man nennt sie negative Zahlen, zum Beispiel minus 5.",
+      "en": "That's true! They're called negative numbers, like minus 5.",
+      "it": "È vero! Si chiamano numeri negativi, come meno 5."
+    },
+    "funFact": {
+      "de": "Im Winter zeigt das Thermometer oft minus ein paar Grad.",
+      "en": "In winter the thermometer often shows a few degrees below zero.",
+      "it": "D'inverno il termometro segna spesso qualche grado sotto zero."
+    },
+    "tags": [
+      "numbers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "maths-double-25",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist das Doppelte von 25?",
+      "en": "What is double 25?",
+      "it": "Qual è il doppio di 25?"
+    },
+    "answers": [
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": true
+      },
+      {
+        "id": "twenty-five",
+        "icon": "25",
+        "label": {
+          "de": "Fünfundzwanzig",
+          "en": "Twenty-five",
+          "it": "Venticinque"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifty-two",
+        "icon": "52",
+        "label": {
+          "de": "Zweiundfünfzig",
+          "en": "Fifty-two",
+          "it": "Cinquantadue"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Doppelte von 25 ist 50.",
+      "en": "Double 25 is 50.",
+      "it": "Il doppio di 25 è 50."
+    },
+    "funFact": {
+      "de": "Vier mal 25 gibt genau 100.",
+      "en": "Four times 25 is exactly 100.",
+      "it": "Quattro per 25 fa esattamente 100."
+    },
+    "tags": [
+      "times-tables"
+    ]
+  },
+  {
+    "id": "maths-hour-or-50min",
+    "category": "maths",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was dauert länger?",
+      "en": "Which is longer?",
+      "it": "Che cosa dura di più?"
+    },
+    "answers": [
+      {
+        "id": "1-hour",
+        "icon": "⏰",
+        "label": {
+          "de": "1 Stunde",
+          "en": "1 hour",
+          "it": "1 ora"
+        },
+        "correct": true
+      },
+      {
+        "id": "50-minutes",
+        "icon": "⏱️",
+        "label": {
+          "de": "50 Minuten",
+          "en": "50 minutes",
+          "it": "50 minuti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eine Stunde hat 60 Minuten, also mehr als 50.",
+      "en": "An hour is 60 minutes, so more than 50.",
+      "it": "Un'ora ha 60 minuti, quindi più di 50."
+    },
+    "funFact": {
+      "de": "Eine Schullektion dauert in der Schweiz meistens 45 Minuten.",
+      "en": "A school lesson in Switzerland usually lasts 45 minutes.",
+      "it": "In Svizzera una lezione a scuola dura di solito 45 minuti."
+    },
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "maths-kilo-or-500g",
+    "category": "maths",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist schwerer?",
+      "en": "Which is heavier?",
+      "it": "Che cosa pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "1-kilogram",
+        "icon": "⚖️",
+        "label": {
+          "de": "1 Kilogramm",
+          "en": "1 kilogram",
+          "it": "1 chilogrammo"
+        },
+        "correct": true
+      },
+      {
+        "id": "500-grams",
+        "icon": "🧈",
+        "label": {
+          "de": "500 Gramm",
+          "en": "500 grams",
+          "it": "500 grammi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "1 Kilogramm sind 1000 Gramm, also mehr als 500 Gramm.",
+      "en": "1 kilogram is 1000 grams, so more than 500 grams.",
+      "it": "1 chilo sono 1000 grammi, quindi più di 500."
+    },
+    "funFact": {
+      "de": "500 Gramm sind ein halbes Kilo.",
+      "en": "500 grams is half a kilo.",
+      "it": "500 grammi sono mezzo chilo."
+    },
+    "tags": [
+      "measuring"
+    ]
+  },
+  {
+    "id": "maths-metre-or-90cm",
+    "category": "maths",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist länger?",
+      "en": "Which is longer?",
+      "it": "Che cosa è più lungo?"
+    },
+    "answers": [
+      {
+        "id": "1-metre",
+        "icon": "📏",
+        "label": {
+          "de": "1 Meter",
+          "en": "1 metre",
+          "it": "1 metro"
+        },
+        "correct": true
+      },
+      {
+        "id": "90-centimetres",
+        "icon": "📐",
+        "label": {
+          "de": "90 Zentimeter",
+          "en": "90 centimetres",
+          "it": "90 centimetri"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "1 Meter sind 100 Zentimeter, also mehr als 90.",
+      "en": "1 metre is 100 centimetres, so more than 90.",
+      "it": "1 metro sono 100 centimetri, quindi più di 90."
+    },
+    "funFact": {
+      "de": "Ein grosser Schritt eines Erwachsenen ist ungefähr einen Meter lang.",
+      "en": "A big step by a grown-up is about a metre long.",
+      "it": "Un passo lungo di un adulto misura circa un metro."
+    },
+    "tags": [
+      "measuring"
+    ]
+  },
+  {
+    "id": "maths-cube-faces",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Seitenflächen hat ein Würfel?",
+      "en": "How many faces does a cube have?",
+      "it": "Quante facce ha un cubo?"
+    },
+    "visual": "🎲",
+    "answers": [
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": true
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      },
+      {
+        "id": "twelve",
+        "icon": "12",
+        "label": {
+          "de": "Zwölf",
+          "en": "Twelve",
+          "it": "Dodici"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Würfel hat sechs Flächen.",
+      "en": "A cube has six faces.",
+      "it": "Un cubo ha sei facce."
+    },
+    "funFact": {
+      "de": "Ein Würfel hat ausserdem 8 Ecken und 12 Kanten.",
+      "en": "A cube also has 8 corners and 12 edges.",
+      "it": "Un cubo ha anche 8 vertici e 12 spigoli."
+    },
+    "tags": [
+      "shapes"
+    ]
+  },
+  {
+    "id": "maths-third-of-nine",
+    "category": "maths",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Drittel von 9?",
+      "en": "What is a third of 9?",
+      "it": "Quanto fa un terzo di 9?"
+    },
+    "visual": "🍬🍬🍬+🍬🍬🍬+🍬🍬🍬",
+    "answers": [
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": true
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "nine",
+        "icon": "9",
+        "label": {
+          "de": "Neun",
+          "en": "Nine",
+          "it": "Nove"
+        },
+        "correct": false
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "9 geteilt durch 3 ist 3.",
+      "en": "9 divided by 3 is 3.",
+      "it": "9 diviso 3 fa 3."
+    },
+    "funFact": {
+      "de": "Wenn drei Freunde 9 Bonbons teilen, bekommt jeder 3.",
+      "en": "If three friends share 9 sweets, each gets 3.",
+      "it": "Se tre amici si dividono 9 caramelle, ognuno ne prende 3."
+    },
+    "tags": [
+      "fractions",
+      "dividing"
+    ]
+  }
+]

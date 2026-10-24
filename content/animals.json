@@ -1,0 +1,4437 @@
+[
+  {
+    "id": "animals-cow-moo",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier macht «Muuh»?",
+      "en": "Which animal says “moo”?",
+      "it": "Quale animale fa «muu»?"
+    },
+    "answers": [
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": true
+      },
+      {
+        "id": "sheep",
+        "icon": "🐑",
+        "label": {
+          "de": "Schaf",
+          "en": "Sheep",
+          "it": "Pecora"
+        },
+        "correct": false
+      },
+      {
+        "id": "pig",
+        "icon": "🐷",
+        "label": {
+          "de": "Schwein",
+          "en": "Pig",
+          "it": "Maiale"
+        },
+        "correct": false
+      },
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Kühe machen «Muuh».",
+      "en": "Cows say “moo”.",
+      "it": "Le mucche fanno «muu»."
+    },
+    "funFact": {
+      "de": "Kühe haben beste Freundinnen. Wenn sie zusammen sind, sind sie ruhiger.",
+      "en": "Cows have best friends. They feel calmer when they are together.",
+      "it": "Le mucche hanno delle migliori amiche. Quando stanno insieme sono più tranquille."
+    },
+    "tags": [
+      "farm",
+      "sounds"
+    ]
+  },
+  {
+    "id": "animals-fastest-runner",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier rennt am schnellsten?",
+      "en": "Which animal is the fastest runner?",
+      "it": "Quale animale corre più veloce?"
+    },
+    "answers": [
+      {
+        "id": "cheetah",
+        "icon": "🐆",
+        "label": {
+          "de": "Gepard",
+          "en": "Cheetah",
+          "it": "Ghepardo"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "turtle",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Turtle",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      },
+      {
+        "id": "pig",
+        "icon": "🐖",
+        "label": {
+          "de": "Schwein",
+          "en": "Pig",
+          "it": "Maiale"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Gepard ist das schnellste Tier an Land.",
+      "en": "The cheetah is the fastest animal on land.",
+      "it": "Il ghepardo è l'animale più veloce sulla terra."
+    },
+    "funFact": {
+      "de": "Ein Gepard rennt fast so schnell wie ein Auto auf der Autobahn – etwa 100 Kilometer pro Stunde!",
+      "en": "A cheetah can run almost as fast as a car on the motorway – nearly 100 kilometres per hour!",
+      "it": "Un ghepardo può correre veloce quasi come un'auto in autostrada: quasi 100 chilometri all'ora!"
+    },
+    "tags": [
+      "speed",
+      "africa"
+    ],
+    "uncertain": "There is no cheetah emoji; 🐆 is officially a leopard. Fine for kids, but consider a custom picture later."
+  },
+  {
+    "id": "animals-penguins-fly",
+    "category": "animals",
+    "level": "both",
+    "type": "truefalse",
+    "visual": "🐧",
+    "prompt": {
+      "de": "Pinguine können fliegen. Stimmt das?",
+      "en": "Penguins can fly. Is that true?",
+      "it": "I pinguini sanno volare. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Pinguine können nicht durch die Luft fliegen. Aber unter Wasser «fliegen» sie mit ihren Flügeln.",
+      "en": "Penguins can't fly in the air. But under water they “fly” with their wings.",
+      "it": "I pinguini non volano nel cielo. Ma sott'acqua «volano» con le ali."
+    },
+    "funFact": {
+      "de": "Beim Kaiserpinguin wärmt der Papa das Ei auf seinen Füssen, den ganzen Winter lang.",
+      "en": "Emperor penguin dads keep the egg warm on their feet all winter long.",
+      "it": "Nei pinguini imperatori è il papà che tiene caldo l'uovo sulle zampe per tutto l'inverno."
+    },
+    "tags": [
+      "birds",
+      "cold"
+    ]
+  },
+  {
+    "id": "animals-biggest-animal",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist das grösste Tier der Welt?",
+      "en": "What is the biggest animal in the world?",
+      "it": "Qual è l'animale più grande del mondo?"
+    },
+    "answers": [
+      {
+        "id": "blue-whale",
+        "icon": "🐋",
+        "label": {
+          "de": "Blauwal",
+          "en": "Blue whale",
+          "it": "Balenottera azzurra"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      },
+      {
+        "id": "bear",
+        "icon": "🐻",
+        "label": {
+          "de": "Bär",
+          "en": "Bear",
+          "it": "Orso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Blauwal ist das grösste Tier, das es je gab – sogar grösser als die Dinosaurier.",
+      "en": "The blue whale is the biggest animal that ever lived – even bigger than the dinosaurs.",
+      "it": "La balenottera azzurra è l'animale più grande mai esistito, più grande perfino dei dinosauri."
+    },
+    "funFact": {
+      "de": "Ein Blauwal ist länger als zwei Busse hintereinander.",
+      "en": "A blue whale is longer than two buses parked end to end.",
+      "it": "Una balenottera azzurra è più lunga di due autobus messi in fila."
+    },
+    "tags": [
+      "ocean",
+      "size"
+    ]
+  },
+  {
+    "id": "animals-hippo-giraffe-heavier",
+    "category": "animals",
+    "level": "both",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist schwerer?",
+      "en": "Which one is heavier?",
+      "it": "Chi pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "hippo",
+        "icon": "🦛",
+        "label": {
+          "de": "Nilpferd",
+          "en": "Hippo",
+          "it": "Ippopotamo"
+        },
+        "correct": true
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Giraffe ist grösser, aber das Nilpferd ist schwerer.",
+      "en": "The giraffe is taller, but the hippo is heavier.",
+      "it": "La giraffa è più alta, ma l'ippopotamo pesa di più."
+    },
+    "funFact": {
+      "de": "Nilpferde können nicht richtig schwimmen. Sie laufen und hüpfen über den Grund vom Fluss.",
+      "en": "Hippos can't really swim. They walk and bounce along the bottom of the river.",
+      "it": "Gli ippopotami non sanno nuotare bene. Camminano e saltellano sul fondo del fiume."
+    },
+    "tags": [
+      "africa",
+      "size"
+    ]
+  },
+  {
+    "id": "animals-caterpillar-becomes",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "visual": "🐛",
+    "prompt": {
+      "de": "Was wird aus einer Raupe?",
+      "en": "What does a caterpillar turn into?",
+      "it": "Che cosa diventa un bruco?"
+    },
+    "answers": [
+      {
+        "id": "butterfly",
+        "icon": "🦋",
+        "label": {
+          "de": "Schmetterling",
+          "en": "Butterfly",
+          "it": "Farfalla"
+        },
+        "correct": true
+      },
+      {
+        "id": "bee",
+        "icon": "🐝",
+        "label": {
+          "de": "Biene",
+          "en": "Bee",
+          "it": "Ape"
+        },
+        "correct": false
+      },
+      {
+        "id": "snail",
+        "icon": "🐌",
+        "label": {
+          "de": "Schnecke",
+          "en": "Snail",
+          "it": "Lumaca"
+        },
+        "correct": false
+      },
+      {
+        "id": "ladybird",
+        "icon": "🐞",
+        "label": {
+          "de": "Marienkäfer",
+          "en": "Ladybird",
+          "it": "Coccinella"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Raupe macht sich eine Puppe und wird darin zum Schmetterling.",
+      "en": "The caterpillar wraps itself in a chrysalis and turns into a butterfly inside.",
+      "it": "Il bruco si chiude in una crisalide e lì dentro diventa una farfalla."
+    },
+    "funFact": {
+      "de": "Schmetterlinge schmecken mit ihren Füssen!",
+      "en": "Butterflies taste with their feet!",
+      "it": "Le farfalle sentono i sapori con le zampe!"
+    },
+    "tags": [
+      "insects",
+      "change"
+    ]
+  },
+  {
+    "id": "animals-octopus-hearts",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "visual": "🐙",
+    "prompt": {
+      "de": "Wie viele Herzen hat ein Oktopus?",
+      "en": "How many hearts does an octopus have?",
+      "it": "Quanti cuori ha un polpo?"
+    },
+    "answers": [
+      {
+        "id": "three",
+        "icon": "❤️❤️❤️",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "❤️",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "two",
+        "icon": "❤️❤️",
+        "label": {
+          "de": "Zwei",
+          "en": "Two",
+          "it": "Due"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Oktopus hat drei Herzen.",
+      "en": "An octopus has three hearts.",
+      "it": "Un polpo ha tre cuori."
+    },
+    "funFact": {
+      "de": "Das Blut vom Oktopus ist blau!",
+      "en": "Octopus blood is blue!",
+      "it": "Il sangue del polpo è blu!"
+    },
+    "tags": [
+      "ocean",
+      "body"
+    ]
+  },
+  {
+    "id": "animals-bat-bird",
+    "category": "animals",
+    "level": "both",
+    "type": "truefalse",
+    "visual": "🦇",
+    "prompt": {
+      "de": "Eine Fledermaus ist ein Vogel. Stimmt das?",
+      "en": "A bat is a bird. Is that true?",
+      "it": "Il pipistrello è un uccello. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Fledermäuse sind Säugetiere, so wie wir. Ihre Babys trinken Milch.",
+      "en": "Bats are mammals, just like us. Their babies drink milk.",
+      "it": "I pipistrelli sono mammiferi, come noi. I loro piccoli bevono il latte."
+    },
+    "funFact": {
+      "de": "Fledermäuse schlafen kopfüber.",
+      "en": "Bats sleep upside down.",
+      "it": "I pipistrelli dormono a testa in giù."
+    },
+    "tags": [
+      "mammals",
+      "night"
+    ]
+  },
+  {
+    "id": "animals-bees-honey",
+    "category": "animals",
+    "level": "both",
+    "type": "truefalse",
+    "visual": "🐝🍯",
+    "prompt": {
+      "de": "Bienen machen Honig. Stimmt das?",
+      "en": "Bees make honey. Is that true?",
+      "it": "Le api fanno il miele. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bienen machen Honig aus dem süssen Saft von Blumen.",
+      "en": "Bees make honey from the sweet juice of flowers.",
+      "it": "Le api fanno il miele con il succo dolce dei fiori."
+    },
+    "funFact": {
+      "de": "Eine Biene macht in ihrem ganzen Leben nur ein winziges Tröpfchen Honig. Darum arbeiten so viele zusammen.",
+      "en": "One bee makes only a tiny drop of honey in its whole life. That's why so many bees work together.",
+      "it": "Un'ape in tutta la sua vita fa solo una goccina di miele. Per questo tante api lavorano insieme."
+    },
+    "tags": [
+      "insects",
+      "food"
+    ]
+  },
+  {
+    "id": "animals-stripes",
+    "category": "animals",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat schwarze und weisse Streifen?",
+      "en": "Which animal has black and white stripes?",
+      "it": "Quale animale ha le strisce bianche e nere?"
+    },
+    "answers": [
+      {
+        "id": "zebra",
+        "icon": "🦓",
+        "label": {
+          "de": "Zebra",
+          "en": "Zebra",
+          "it": "Zebra"
+        },
+        "correct": true
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      },
+      {
+        "id": "leopard",
+        "icon": "🐆",
+        "label": {
+          "de": "Leopard",
+          "en": "Leopard",
+          "it": "Leopardo"
+        },
+        "correct": false
+      },
+      {
+        "id": "horse",
+        "icon": "🐎",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Zebra hat schwarze und weisse Streifen.",
+      "en": "The zebra has black and white stripes.",
+      "it": "La zebra ha le strisce bianche e nere."
+    },
+    "funFact": {
+      "de": "Jedes Zebra hat ein eigenes Streifenmuster. Keins sieht genau gleich aus wie ein anderes.",
+      "en": "Every zebra has its own stripe pattern. No two zebras look exactly the same.",
+      "it": "Ogni zebra ha le sue strisce. Non ci sono due zebre esattamente uguali."
+    },
+    "tags": [
+      "africa",
+      "patterns"
+    ]
+  },
+  {
+    "id": "animals-dog-barks",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier bellt?",
+      "en": "Which animal barks?",
+      "it": "Quale animale abbaia?"
+    },
+    "answers": [
+      {
+        "id": "dog",
+        "icon": "🐶",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": true
+      },
+      {
+        "id": "cat",
+        "icon": "🐱",
+        "label": {
+          "de": "Katze",
+          "en": "Cat",
+          "it": "Gatto"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Hund bellt: Wau wau!",
+      "en": "The dog barks: woof woof!",
+      "it": "Il cane abbaia: bau bau!"
+    },
+    "funFact": {
+      "de": "Hunde können viel besser riechen als wir Menschen.",
+      "en": "Dogs can smell much better than people can.",
+      "it": "I cani sentono gli odori molto meglio di noi."
+    },
+    "tags": [
+      "sounds",
+      "pets"
+    ]
+  },
+  {
+    "id": "animals-cat-meows",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer sagt «Miau»?",
+      "en": "Who says “meow”?",
+      "it": "Chi fa «miao»?"
+    },
+    "answers": [
+      {
+        "id": "cat",
+        "icon": "🐱",
+        "label": {
+          "de": "Katze",
+          "en": "Cat",
+          "it": "Gatto"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐶",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      },
+      {
+        "id": "cow",
+        "icon": "🐮",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Katze sagt «Miau».",
+      "en": "The cat says “meow”.",
+      "it": "Il gatto fa «miao»."
+    },
+    "funFact": {
+      "de": "Katzen schlafen sehr viel, oft mehr als zwölf Stunden am Tag.",
+      "en": "Cats sleep a lot, often more than twelve hours a day.",
+      "it": "I gatti dormono tantissimo, spesso più di dodici ore al giorno."
+    },
+    "tags": [
+      "sounds",
+      "pets"
+    ]
+  },
+  {
+    "id": "animals-duck-quacks",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer macht «Quak, quak» und schwimmt auf dem Teich?",
+      "en": "Who says “quack” and swims on the pond?",
+      "it": "Chi fa «qua qua» e nuota nello stagno?"
+    },
+    "answers": [
+      {
+        "id": "duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Ente",
+          "en": "Duck",
+          "it": "Anatra"
+        },
+        "correct": true
+      },
+      {
+        "id": "pig",
+        "icon": "🐷",
+        "label": {
+          "de": "Schwein",
+          "en": "Pig",
+          "it": "Maiale"
+        },
+        "correct": false
+      },
+      {
+        "id": "horse",
+        "icon": "🐴",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Ente macht «Quak» und schwimmt.",
+      "en": "The duck quacks and swims.",
+      "it": "L'anatra fa «qua qua» e nuota."
+    },
+    "funFact": {
+      "de": "Enten haben Füsse wie Paddel. Damit schwimmen sie gut.",
+      "en": "Ducks have feet like paddles, so they swim well.",
+      "it": "Le anatre hanno le zampe come remi: per questo nuotano bene."
+    },
+    "tags": [
+      "sounds",
+      "birds"
+    ]
+  },
+  {
+    "id": "animals-can-fly",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier kann fliegen?",
+      "en": "Which animal can fly?",
+      "it": "Quale animale sa volare?"
+    },
+    "answers": [
+      {
+        "id": "bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Vogel",
+          "en": "Bird",
+          "it": "Uccellino"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐶",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      },
+      {
+        "id": "turtle",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Turtle",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Vögel fliegen mit ihren Flügeln.",
+      "en": "Birds fly with their wings.",
+      "it": "Gli uccelli volano con le ali."
+    },
+    "funFact": {
+      "de": "Der kleinste Vogel der Welt ist nur so gross wie ein Daumen.",
+      "en": "The smallest bird in the world is only as big as your thumb.",
+      "it": "L'uccello più piccolo del mondo è grande come un pollice."
+    },
+    "tags": [
+      "birds"
+    ]
+  },
+  {
+    "id": "animals-lives-in-water",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier lebt im Wasser?",
+      "en": "Which animal lives in the water?",
+      "it": "Quale animale vive nell'acqua?"
+    },
+    "answers": [
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": true
+      },
+      {
+        "id": "sheep",
+        "icon": "🐑",
+        "label": {
+          "de": "Schaf",
+          "en": "Sheep",
+          "it": "Pecora"
+        },
+        "correct": false
+      },
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Fische leben im Wasser.",
+      "en": "Fish live in the water.",
+      "it": "I pesci vivono nell'acqua."
+    },
+    "funFact": {
+      "de": "Fische atmen unter Wasser mit Kiemen.",
+      "en": "Fish breathe under water with gills.",
+      "it": "I pesci respirano sott'acqua con le branchie."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "animals-snail-house",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier trägt sein Haus auf dem Rücken?",
+      "en": "Which animal carries its house on its back?",
+      "it": "Quale animale porta la casa sulla schiena?"
+    },
+    "answers": [
+      {
+        "id": "snail",
+        "icon": "🐌",
+        "label": {
+          "de": "Schnecke",
+          "en": "Snail",
+          "it": "Lumaca"
+        },
+        "correct": true
+      },
+      {
+        "id": "rabbit",
+        "icon": "🐇",
+        "label": {
+          "de": "Hase",
+          "en": "Rabbit",
+          "it": "Coniglio"
+        },
+        "correct": false
+      },
+      {
+        "id": "bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Vogel",
+          "en": "Bird",
+          "it": "Uccellino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schnecke trägt ihr Schneckenhaus immer mit.",
+      "en": "The snail always carries its shell with it.",
+      "it": "La lumaca porta sempre con sé il suo guscio."
+    },
+    "funFact": {
+      "de": "Schnecken lassen eine glänzende Schleimspur hinter sich.",
+      "en": "Snails leave a shiny trail of slime behind them.",
+      "it": "Le lumache lasciano dietro di sé una scia lucida di bava."
+    },
+    "tags": [
+      "garden"
+    ]
+  },
+  {
+    "id": "animals-long-neck",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat einen sehr langen Hals?",
+      "en": "Which animal has a very long neck?",
+      "it": "Quale animale ha il collo lunghissimo?"
+    },
+    "answers": [
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": true
+      },
+      {
+        "id": "pig",
+        "icon": "🐷",
+        "label": {
+          "de": "Schwein",
+          "en": "Pig",
+          "it": "Maiale"
+        },
+        "correct": false
+      },
+      {
+        "id": "frog",
+        "icon": "🐸",
+        "label": {
+          "de": "Frosch",
+          "en": "Frog",
+          "it": "Rana"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Giraffe hat einen langen Hals. So kommt sie an die Blätter oben im Baum.",
+      "en": "The giraffe has a long neck, so it can reach leaves high up in the trees.",
+      "it": "La giraffa ha il collo lungo: così arriva alle foglie in cima agli alberi."
+    },
+    "funFact": {
+      "de": "Die Zunge der Giraffe ist dunkelblau und sehr lang.",
+      "en": "A giraffe's tongue is dark blue and very long.",
+      "it": "La lingua della giraffa è blu scuro e lunghissima."
+    },
+    "tags": [
+      "africa"
+    ]
+  },
+  {
+    "id": "animals-trunk",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat einen Rüssel?",
+      "en": "Which animal has a trunk?",
+      "it": "Quale animale ha la proboscide?"
+    },
+    "answers": [
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": true
+      },
+      {
+        "id": "lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Löwe",
+          "en": "Lion",
+          "it": "Leone"
+        },
+        "correct": false
+      },
+      {
+        "id": "rabbit",
+        "icon": "🐰",
+        "label": {
+          "de": "Hase",
+          "en": "Rabbit",
+          "it": "Coniglio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Elefant hat einen langen Rüssel.",
+      "en": "The elephant has a long trunk.",
+      "it": "L'elefante ha una lunga proboscide."
+    },
+    "funFact": {
+      "de": "Mit dem Rüssel kann der Elefant riechen, trinken und Dinge greifen.",
+      "en": "With its trunk, an elephant can smell, drink and pick things up.",
+      "it": "Con la proboscide l'elefante annusa, beve e afferra le cose."
+    },
+    "tags": [
+      "africa"
+    ]
+  },
+  {
+    "id": "animals-lays-eggs",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier legt Eier?",
+      "en": "Which animal lays eggs?",
+      "it": "Quale animale fa le uova?"
+    },
+    "answers": [
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": true
+      },
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      },
+      {
+        "id": "dog",
+        "icon": "🐶",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Huhn legt Eier.",
+      "en": "The hen lays eggs.",
+      "it": "La gallina fa le uova."
+    },
+    "funFact": {
+      "de": "Ein Huhn kann fast jeden Tag ein Ei legen.",
+      "en": "A hen can lay an egg almost every day.",
+      "it": "Una gallina può fare un uovo quasi ogni giorno."
+    },
+    "tags": [
+      "farm"
+    ]
+  },
+  {
+    "id": "animals-gives-milk",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier gibt uns Milch?",
+      "en": "Which animal gives us milk?",
+      "it": "Quale animale ci dà il latte?"
+    },
+    "answers": [
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": true
+      },
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Kuh gibt Milch.",
+      "en": "The cow gives milk.",
+      "it": "La mucca dà il latte."
+    },
+    "funFact": {
+      "de": "Aus Milch macht man Käse, Butter und Joghurt.",
+      "en": "Milk is used to make cheese, butter and yoghurt.",
+      "it": "Con il latte si fanno formaggio, burro e yogurt."
+    },
+    "tags": [
+      "farm",
+      "food"
+    ]
+  },
+  {
+    "id": "animals-wool",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Von welchem Tier kommt Wolle?",
+      "en": "Which animal gives us wool?",
+      "it": "Da quale animale viene la lana?"
+    },
+    "answers": [
+      {
+        "id": "sheep",
+        "icon": "🐑",
+        "label": {
+          "de": "Schaf",
+          "en": "Sheep",
+          "it": "Pecora"
+        },
+        "correct": true
+      },
+      {
+        "id": "pig",
+        "icon": "🐷",
+        "label": {
+          "de": "Schwein",
+          "en": "Pig",
+          "it": "Maiale"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wolle kommt vom Fell der Schafe.",
+      "en": "Wool comes from a sheep's coat.",
+      "it": "La lana viene dal vello delle pecore."
+    },
+    "funFact": {
+      "de": "Schafe werden meistens einmal im Jahr geschoren. Das ist wie ein Haarschnitt.",
+      "en": "Sheep are usually sheared once a year. It's like a haircut.",
+      "it": "Le pecore vengono tosate di solito una volta all'anno: è come un taglio di capelli."
+    },
+    "tags": [
+      "farm"
+    ]
+  },
+  {
+    "id": "animals-roars",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer brüllt ganz laut?",
+      "en": "Who roars really loudly?",
+      "it": "Chi ruggisce fortissimo?"
+    },
+    "answers": [
+      {
+        "id": "lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Löwe",
+          "en": "Lion",
+          "it": "Leone"
+        },
+        "correct": true
+      },
+      {
+        "id": "mouse",
+        "icon": "🐭",
+        "label": {
+          "de": "Maus",
+          "en": "Mouse",
+          "it": "Topo"
+        },
+        "correct": false
+      },
+      {
+        "id": "snail",
+        "icon": "🐌",
+        "label": {
+          "de": "Schnecke",
+          "en": "Snail",
+          "it": "Lumaca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Löwe brüllt sehr laut.",
+      "en": "The lion roars very loudly.",
+      "it": "Il leone ruggisce fortissimo."
+    },
+    "funFact": {
+      "de": "Das Brüllen eines Löwen hört man noch mehrere Kilometer weit.",
+      "en": "You can hear a lion's roar several kilometres away.",
+      "it": "Il ruggito del leone si sente a parecchi chilometri di distanza."
+    },
+    "tags": [
+      "sounds",
+      "africa"
+    ]
+  },
+  {
+    "id": "animals-pouch",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hüpft und hat einen Beutel für sein Baby?",
+      "en": "Which animal hops and has a pouch for its baby?",
+      "it": "Quale animale salta e ha una tasca per il suo cucciolo?"
+    },
+    "answers": [
+      {
+        "id": "kangaroo",
+        "icon": "🦘",
+        "label": {
+          "de": "Känguru",
+          "en": "Kangaroo",
+          "it": "Canguro"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "turtle",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Turtle",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Känguru trägt sein Baby im Beutel.",
+      "en": "The kangaroo carries its baby in its pouch.",
+      "it": "Il canguro porta il cucciolo nel marsupio."
+    },
+    "funFact": {
+      "de": "Ein Känguru-Baby ist bei der Geburt nur so klein wie eine Bohne.",
+      "en": "A baby kangaroo is only as small as a bean when it is born.",
+      "it": "Quando nasce, il cucciolo di canguro è piccolo come un fagiolo."
+    },
+    "tags": [
+      "australia"
+    ]
+  },
+  {
+    "id": "animals-owls-night",
+    "category": "animals",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Eulen sind in der Nacht wach. Stimmt das?",
+      "en": "Owls are awake at night. Is that true?",
+      "it": "I gufi stanno svegli di notte. È vero?"
+    },
+    "visual": "🦉",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die meisten Eulen jagen in der Nacht.",
+      "en": "That's true! Most owls hunt at night.",
+      "it": "È vero! Quasi tutti i gufi cacciano di notte."
+    },
+    "funFact": {
+      "de": "Eulen können ihren Kopf fast ganz nach hinten drehen.",
+      "en": "Owls can turn their heads almost all the way round to the back.",
+      "it": "I gufi possono girare la testa quasi del tutto all'indietro."
+    },
+    "tags": [
+      "birds",
+      "night"
+    ]
+  },
+  {
+    "id": "animals-fish-legs",
+    "category": "animals",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Fische haben Beine. Stimmt das?",
+      "en": "Fish have legs. Is that true?",
+      "it": "I pesci hanno le zampe. È vero?"
+    },
+    "visual": "🐟",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Fische haben keine Beine. Sie schwimmen mit Flossen.",
+      "en": "Fish have no legs. They swim with fins.",
+      "it": "I pesci non hanno zampe: nuotano con le pinne."
+    },
+    "funFact": {
+      "de": "Der Schlammspringer ist ein Fisch, der mit seinen Flossen über den Schlamm hüpfen kann.",
+      "en": "The mudskipper is a fish that can hop across mud on its fins.",
+      "it": "Il perioftalmo è un pesce che saltella sul fango con le pinne."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "animals-ice-and-snow",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier lebt im Eis und Schnee?",
+      "en": "Which animal lives in ice and snow?",
+      "it": "Quale animale vive tra ghiaccio e neve?"
+    },
+    "answers": [
+      {
+        "id": "polar-bear",
+        "icon": "🐻‍❄️",
+        "label": {
+          "de": "Eisbär",
+          "en": "Polar bear",
+          "it": "Orso polare"
+        },
+        "correct": true
+      },
+      {
+        "id": "monkey",
+        "icon": "🐒",
+        "label": {
+          "de": "Affe",
+          "en": "Monkey",
+          "it": "Scimmia"
+        },
+        "correct": false
+      },
+      {
+        "id": "camel",
+        "icon": "🐫",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Eisbär lebt im eisigen Norden.",
+      "en": "The polar bear lives in the icy north.",
+      "it": "L'orso polare vive nel nord ghiacciato."
+    },
+    "funFact": {
+      "de": "Unter dem weissen Fell hat der Eisbär schwarze Haut. Die hält ihn warm.",
+      "en": "Under its white fur, a polar bear has black skin, which helps keep it warm.",
+      "it": "Sotto il pelo bianco l'orso polare ha la pelle nera, che lo aiuta a stare al caldo."
+    },
+    "tags": [
+      "cold"
+    ]
+  },
+  {
+    "id": "animals-climbs-trees",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier klettert gern auf Bäume und isst Bananen?",
+      "en": "Which animal likes climbing trees and eating bananas?",
+      "it": "Quale animale si arrampica sugli alberi e mangia banane?"
+    },
+    "answers": [
+      {
+        "id": "monkey",
+        "icon": "🐒",
+        "label": {
+          "de": "Affe",
+          "en": "Monkey",
+          "it": "Scimmia"
+        },
+        "correct": true
+      },
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Affen klettern geschickt auf Bäume.",
+      "en": "Monkeys are great at climbing trees.",
+      "it": "Le scimmie si arrampicano benissimo sugli alberi."
+    },
+    "funFact": {
+      "de": "Manche Affen benutzen Stöcke als Werkzeug.",
+      "en": "Some apes and monkeys use sticks as tools.",
+      "it": "Alcune scimmie usano i bastoncini come attrezzi."
+    },
+    "tags": [
+      "jungle"
+    ]
+  },
+  {
+    "id": "animals-rabbit-food",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was frisst ein Hase am liebsten?",
+      "en": "What does a rabbit like to eat most?",
+      "it": "Che cosa mangia volentieri un coniglio?"
+    },
+    "answers": [
+      {
+        "id": "grass-and-herbs",
+        "icon": "🌿",
+        "label": {
+          "de": "Gras und Kräuter",
+          "en": "Grass and herbs",
+          "it": "Erba e foglie"
+        },
+        "correct": true
+      },
+      {
+        "id": "meat",
+        "icon": "🍖",
+        "label": {
+          "de": "Fleisch",
+          "en": "Meat",
+          "it": "Carne"
+        },
+        "correct": false
+      },
+      {
+        "id": "lollipops",
+        "icon": "🍭",
+        "label": {
+          "de": "Lutscher",
+          "en": "Lollipops",
+          "it": "Lecca-lecca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Hasen fressen Pflanzen, zum Beispiel Gras und Kräuter.",
+      "en": "Rabbits eat plants, like grass and herbs.",
+      "it": "I conigli mangiano piante, come erba e foglie."
+    },
+    "funFact": {
+      "de": "Die Zähne von Hasen wachsen immer weiter. Das viele Kauen hält sie kurz.",
+      "en": "Rabbits' teeth never stop growing. All that chewing keeps them short.",
+      "it": "I denti dei conigli crescono sempre. A forza di masticare restano corti."
+    },
+    "tags": [
+      "food",
+      "pets"
+    ]
+  },
+  {
+    "id": "animals-pond-jumper",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier springt weit und lebt am Teich?",
+      "en": "Which animal jumps far and lives by the pond?",
+      "it": "Quale animale salta lontano e vive vicino allo stagno?"
+    },
+    "answers": [
+      {
+        "id": "frog",
+        "icon": "🐸",
+        "label": {
+          "de": "Frosch",
+          "en": "Frog",
+          "it": "Rana"
+        },
+        "correct": true
+      },
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Frosch springt weit und lebt am Wasser.",
+      "en": "The frog jumps far and lives near water.",
+      "it": "La rana salta lontano e vive vicino all'acqua."
+    },
+    "funFact": {
+      "de": "Frösche trinken nicht mit dem Mund. Sie nehmen Wasser durch die Haut auf.",
+      "en": "Frogs don't drink with their mouths. They soak up water through their skin.",
+      "it": "Le rane non bevono con la bocca: assorbono l'acqua attraverso la pelle."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "animals-can-ride",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Auf welchem Tier kann man reiten?",
+      "en": "Which animal can you ride?",
+      "it": "Su quale animale si può andare a cavallo?"
+    },
+    "answers": [
+      {
+        "id": "horse",
+        "icon": "🐴",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "snail",
+        "icon": "🐌",
+        "label": {
+          "de": "Schnecke",
+          "en": "Snail",
+          "it": "Lumaca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf einem Pferd kann man reiten.",
+      "en": "You can ride a horse.",
+      "it": "Si può cavalcare un cavallo."
+    },
+    "funFact": {
+      "de": "Pferde können im Stehen schlafen.",
+      "en": "Horses can sleep standing up.",
+      "it": "I cavalli possono dormire in piedi."
+    },
+    "tags": [
+      "farm"
+    ]
+  },
+  {
+    "id": "animals-pigs-mud",
+    "category": "animals",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Schweine wälzen sich gern im Schlamm. Stimmt das?",
+      "en": "Pigs like rolling in mud. Is that true?",
+      "it": "Ai maiali piace rotolarsi nel fango. È vero?"
+    },
+    "visual": "🐷",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Der Schlamm kühlt sie und schützt ihre Haut vor der Sonne.",
+      "en": "That's true! The mud cools them down and protects their skin from the sun.",
+      "it": "È vero! Il fango li rinfresca e protegge la pelle dal sole."
+    },
+    "funFact": {
+      "de": "Schweine haben eine sehr gute Nase. Sie finden damit sogar Trüffel im Boden.",
+      "en": "Pigs have a great sense of smell. They can even sniff out truffles in the ground.",
+      "it": "I maiali hanno un ottimo fiuto: trovano perfino i tartufi sotto terra."
+    },
+    "tags": [
+      "farm"
+    ]
+  },
+  {
+    "id": "animals-crocodile-teeth",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat viele spitze Zähne und lebt im Fluss?",
+      "en": "Which animal has lots of pointy teeth and lives in the river?",
+      "it": "Quale animale ha tanti denti appuntiti e vive nel fiume?"
+    },
+    "answers": [
+      {
+        "id": "crocodile",
+        "icon": "🐊",
+        "label": {
+          "de": "Krokodil",
+          "en": "Crocodile",
+          "it": "Coccodrillo"
+        },
+        "correct": true
+      },
+      {
+        "id": "sheep",
+        "icon": "🐑",
+        "label": {
+          "de": "Schaf",
+          "en": "Sheep",
+          "it": "Pecora"
+        },
+        "correct": false
+      },
+      {
+        "id": "rabbit",
+        "icon": "🐰",
+        "label": {
+          "de": "Hase",
+          "en": "Rabbit",
+          "it": "Coniglio"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Krokodil hat viele spitze Zähne.",
+      "en": "The crocodile has lots of pointy teeth.",
+      "it": "Il coccodrillo ha tanti denti appuntiti."
+    },
+    "funFact": {
+      "de": "Krokodile bekommen ihr Leben lang immer wieder neue Zähne.",
+      "en": "Crocodiles keep growing new teeth all their lives.",
+      "it": "Ai coccodrilli crescono denti nuovi per tutta la vita."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "animals-collects-nuts",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer sammelt Nüsse für den Winter?",
+      "en": "Who collects nuts for the winter?",
+      "it": "Chi raccoglie le noci per l'inverno?"
+    },
+    "answers": [
+      {
+        "id": "squirrel",
+        "icon": "🐿️",
+        "label": {
+          "de": "Eichhörnchen",
+          "en": "Squirrel",
+          "it": "Scoiattolo"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Eichhörnchen versteckt Nüsse für den Winter.",
+      "en": "The squirrel hides nuts for the winter.",
+      "it": "Lo scoiattolo nasconde le noci per l'inverno."
+    },
+    "funFact": {
+      "de": "Eichhörnchen vergessen manche Verstecke. Daraus wachsen dann neue Bäume.",
+      "en": "Squirrels forget some of their hiding places, and new trees grow there.",
+      "it": "Gli scoiattoli dimenticano alcuni nascondigli, e lì crescono nuovi alberi."
+    },
+    "tags": [
+      "forest"
+    ]
+  },
+  {
+    "id": "animals-bears-winter",
+    "category": "animals",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Manche Bären schlafen im Winter sehr lange. Stimmt das?",
+      "en": "Some bears sleep for a very long time in winter. Is that true?",
+      "it": "Alcuni orsi dormono a lungo durante l'inverno. È vero?"
+    },
+    "visual": "🐻",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Sie verbringen den Winter in einer Höhle und ruhen sich aus.",
+      "en": "That's true! They spend the winter resting in a den.",
+      "it": "È vero! Passano l'inverno a riposare in una tana."
+    },
+    "funFact": {
+      "de": "Bärenbabys kommen im Winter in der Höhle zur Welt.",
+      "en": "Bear cubs are born in the den during winter.",
+      "it": "I cuccioli d'orso nascono nella tana durante l'inverno."
+    },
+    "tags": [
+      "forest",
+      "winter"
+    ]
+  },
+  {
+    "id": "animals-faster-hare-tortoise",
+    "category": "animals",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist schneller?",
+      "en": "Who is faster?",
+      "it": "Chi è più veloce?"
+    },
+    "answers": [
+      {
+        "id": "hare",
+        "icon": "🐇",
+        "label": {
+          "de": "Hase",
+          "en": "Hare",
+          "it": "Lepre"
+        },
+        "correct": true
+      },
+      {
+        "id": "tortoise",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Tortoise",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Hase ist viel schneller als die Schildkröte.",
+      "en": "The hare is much faster than the tortoise.",
+      "it": "La lepre è molto più veloce della tartaruga."
+    },
+    "funFact": {
+      "de": "Manche Schildkröten werden über hundert Jahre alt.",
+      "en": "Some tortoises live for more than a hundred years.",
+      "it": "Alcune tartarughe vivono più di cento anni."
+    },
+    "tags": [
+      "speed"
+    ]
+  },
+  {
+    "id": "animals-bigger-elephant-mouse",
+    "category": "animals",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist grösser?",
+      "en": "Who is bigger?",
+      "it": "Chi è più grande?"
+    },
+    "answers": [
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": true
+      },
+      {
+        "id": "mouse",
+        "icon": "🐭",
+        "label": {
+          "de": "Maus",
+          "en": "Mouse",
+          "it": "Topo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Elefant ist viel grösser als die Maus.",
+      "en": "The elephant is much bigger than the mouse.",
+      "it": "L'elefante è molto più grande del topo."
+    },
+    "funFact": {
+      "de": "Ein Elefant trinkt an einem Tag ungefähr eine volle Badewanne Wasser.",
+      "en": "An elephant drinks about a full bathtub of water every day.",
+      "it": "Un elefante beve circa una vasca da bagno piena d'acqua al giorno."
+    },
+    "tags": [
+      "size"
+    ],
+    "uncertain": "Adult elephants drink roughly 100–200 litres a day; a bathtub is ~150 litres."
+  },
+  {
+    "id": "animals-swims-better",
+    "category": "animals",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer kann besser schwimmen?",
+      "en": "Who is the better swimmer?",
+      "it": "Chi nuota meglio?"
+    },
+    "answers": [
+      {
+        "id": "dolphin",
+        "icon": "🐬",
+        "label": {
+          "de": "Delfin",
+          "en": "Dolphin",
+          "it": "Delfino"
+        },
+        "correct": true
+      },
+      {
+        "id": "cat",
+        "icon": "🐈",
+        "label": {
+          "de": "Katze",
+          "en": "Cat",
+          "it": "Gatto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Delfin schwimmt viel besser. Er lebt ja im Meer.",
+      "en": "The dolphin is a much better swimmer – it lives in the sea!",
+      "it": "Il delfino nuota molto meglio: vive nel mare!"
+    },
+    "funFact": {
+      "de": "Delfine schlafen mit einer Hälfte vom Gehirn. Die andere Hälfte passt auf.",
+      "en": "Dolphins sleep with half of their brain while the other half stays alert.",
+      "it": "I delfini dormono con metà cervello, mentre l'altra metà resta sveglia."
+    },
+    "tags": [
+      "water"
+    ]
+  },
+  {
+    "id": "animals-smaller-ant-dog",
+    "category": "animals",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist kleiner?",
+      "en": "Who is smaller?",
+      "it": "Chi è più piccolo?"
+    },
+    "answers": [
+      {
+        "id": "ant",
+        "icon": "🐜",
+        "label": {
+          "de": "Ameise",
+          "en": "Ant",
+          "it": "Formica"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐕",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Ameise ist winzig klein.",
+      "en": "The ant is tiny.",
+      "it": "La formica è piccolissima."
+    },
+    "funFact": {
+      "de": "Ameisen können Dinge tragen, die viel schwerer sind als sie selbst.",
+      "en": "Ants can carry things much heavier than themselves.",
+      "it": "Le formiche possono portare cose molto più pesanti di loro."
+    },
+    "tags": [
+      "insects",
+      "size"
+    ]
+  },
+  {
+    "id": "animals-spines",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat Stacheln?",
+      "en": "Which animal has spines?",
+      "it": "Quale animale ha gli aculei?"
+    },
+    "answers": [
+      {
+        "id": "hedgehog",
+        "icon": "🦔",
+        "label": {
+          "de": "Igel",
+          "en": "Hedgehog",
+          "it": "Riccio"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐶",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      },
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Igel hat viele Stacheln.",
+      "en": "The hedgehog has lots of spines.",
+      "it": "Il riccio ha tanti aculei."
+    },
+    "funFact": {
+      "de": "Ein Igel hat mehrere tausend Stacheln. Bei Gefahr rollt er sich zu einer Kugel.",
+      "en": "A hedgehog has thousands of spines. When it's scared, it rolls into a ball.",
+      "it": "Un riccio ha migliaia di aculei. Se ha paura si chiude a palla."
+    },
+    "tags": [
+      "garden"
+    ]
+  },
+  {
+    "id": "animals-beehive",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer wohnt in einem Bienenstock?",
+      "en": "Who lives in a beehive?",
+      "it": "Chi abita in un alveare?"
+    },
+    "answers": [
+      {
+        "id": "bee",
+        "icon": "🐝",
+        "label": {
+          "de": "Biene",
+          "en": "Bee",
+          "it": "Ape"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "horse",
+        "icon": "🐴",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Bienenstock wohnen viele Bienen zusammen.",
+      "en": "Lots of bees live together in a beehive.",
+      "it": "Nell'alveare vivono tante api insieme."
+    },
+    "funFact": {
+      "de": "Bienen tanzen, um den anderen den Weg zu den Blumen zu zeigen.",
+      "en": "Bees dance to show the others the way to the flowers.",
+      "it": "Le api danzano per indicare alle altre la strada verso i fiori."
+    },
+    "tags": [
+      "insects"
+    ]
+  },
+  {
+    "id": "animals-shell",
+    "category": "animals",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hat einen harten Panzer?",
+      "en": "Which animal has a hard shell?",
+      "it": "Quale animale ha un guscio duro?"
+    },
+    "answers": [
+      {
+        "id": "tortoise",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Tortoise",
+          "it": "Tartaruga"
+        },
+        "correct": true
+      },
+      {
+        "id": "rabbit",
+        "icon": "🐇",
+        "label": {
+          "de": "Hase",
+          "en": "Rabbit",
+          "it": "Coniglio"
+        },
+        "correct": false
+      },
+      {
+        "id": "bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Vogel",
+          "en": "Bird",
+          "it": "Uccellino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schildkröte hat einen harten Panzer.",
+      "en": "The tortoise has a hard shell.",
+      "it": "La tartaruga ha un guscio duro."
+    },
+    "funFact": {
+      "de": "Eine Schildkröte kann ihren Panzer nicht ausziehen. Er ist mit ihrem Körper verwachsen.",
+      "en": "A tortoise can't take its shell off – it is part of its body.",
+      "it": "La tartaruga non può togliersi il guscio: fa parte del suo corpo."
+    },
+    "tags": [
+      "reptiles"
+    ]
+  },
+  {
+    "id": "animals-chick-egg",
+    "category": "animals",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Küken schlüpft aus einem Ei. Stimmt das?",
+      "en": "A chick hatches from an egg. Is that true?",
+      "it": "Il pulcino nasce da un uovo. È vero?"
+    },
+    "visual": "🐣",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das Küken wächst im Ei und schlüpft dann.",
+      "en": "That's true! The chick grows inside the egg and then hatches.",
+      "it": "È vero! Il pulcino cresce nell'uovo e poi esce."
+    },
+    "funFact": {
+      "de": "Das Küken pickt mit einem kleinen Eizahn ein Loch in die Schale.",
+      "en": "The chick pecks a hole in the shell with a tiny egg tooth.",
+      "it": "Il pulcino fa un buco nel guscio con un piccolo dentino."
+    },
+    "tags": [
+      "farm",
+      "birds"
+    ]
+  },
+  {
+    "id": "animals-spider-legs",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Beine hat eine Spinne?",
+      "en": "How many legs does a spider have?",
+      "it": "Quante zampe ha un ragno?"
+    },
+    "visual": "🕷️",
+    "answers": [
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": true
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Spinnen haben acht Beine. Insekten haben sechs.",
+      "en": "Spiders have eight legs. Insects have six.",
+      "it": "I ragni hanno otto zampe. Gli insetti ne hanno sei."
+    },
+    "funFact": {
+      "de": "Die meisten Spinnen haben auch acht Augen.",
+      "en": "Most spiders have eight eyes, too.",
+      "it": "La maggior parte dei ragni ha anche otto occhi."
+    },
+    "tags": [
+      "insects",
+      "numbers"
+    ]
+  },
+  {
+    "id": "animals-insect-legs",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Beine hat ein Insekt?",
+      "en": "How many legs does an insect have?",
+      "it": "Quante zampe ha un insetto?"
+    },
+    "visual": "🐞",
+    "answers": [
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": true
+      },
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Alle Insekten haben sechs Beine.",
+      "en": "All insects have six legs.",
+      "it": "Tutti gli insetti hanno sei zampe."
+    },
+    "funFact": {
+      "de": "Käfer, Bienen, Ameisen und Schmetterlinge sind alle Insekten.",
+      "en": "Beetles, bees, ants and butterflies are all insects.",
+      "it": "Coleotteri, api, formiche e farfalle sono tutti insetti."
+    },
+    "tags": [
+      "insects",
+      "numbers"
+    ]
+  },
+  {
+    "id": "animals-spider-insect",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Eine Spinne ist ein Insekt. Stimmt das?",
+      "en": "A spider is an insect. Is that true?",
+      "it": "Il ragno è un insetto. È vero?"
+    },
+    "visual": "🕷️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Spinnen sind keine Insekten: Sie haben acht Beine statt sechs.",
+      "en": "Spiders aren't insects: they have eight legs instead of six.",
+      "it": "I ragni non sono insetti: hanno otto zampe invece di sei."
+    },
+    "funFact": {
+      "de": "Spinnen gehören zu den Spinnentieren, genau wie Skorpione.",
+      "en": "Spiders are arachnids, just like scorpions.",
+      "it": "I ragni sono aracnidi, proprio come gli scorpioni."
+    },
+    "tags": [
+      "insects"
+    ]
+  },
+  {
+    "id": "animals-whale-fish",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Wal ist ein Fisch. Stimmt das?",
+      "en": "A whale is a fish. Is that true?",
+      "it": "La balena è un pesce. È vero?"
+    },
+    "visual": "🐳",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Wale sind Säugetiere: Sie atmen Luft und ihre Babys trinken Milch.",
+      "en": "Whales are mammals: they breathe air and their babies drink milk.",
+      "it": "Le balene sono mammiferi: respirano aria e i piccoli bevono il latte."
+    },
+    "funFact": {
+      "de": "Wale atmen durch ein Blasloch oben auf dem Kopf.",
+      "en": "Whales breathe through a blowhole on top of their heads.",
+      "it": "Le balene respirano da uno sfiatatoio sulla testa."
+    },
+    "tags": [
+      "ocean",
+      "mammals"
+    ]
+  },
+  {
+    "id": "animals-which-mammal",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches dieser Tiere ist ein Säugetier?",
+      "en": "Which of these animals is a mammal?",
+      "it": "Quale di questi animali è un mammifero?"
+    },
+    "answers": [
+      {
+        "id": "dolphin",
+        "icon": "🐬",
+        "label": {
+          "de": "Delfin",
+          "en": "Dolphin",
+          "it": "Delfino"
+        },
+        "correct": true
+      },
+      {
+        "id": "shark",
+        "icon": "🦈",
+        "label": {
+          "de": "Hai",
+          "en": "Shark",
+          "it": "Squalo"
+        },
+        "correct": false
+      },
+      {
+        "id": "turtle",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Turtle",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      },
+      {
+        "id": "frog",
+        "icon": "🐸",
+        "label": {
+          "de": "Frosch",
+          "en": "Frog",
+          "it": "Rana"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Delfin ist ein Säugetier. Er atmet Luft und säugt seine Babys.",
+      "en": "The dolphin is a mammal. It breathes air and feeds its babies milk.",
+      "it": "Il delfino è un mammifero: respira aria e allatta i piccoli."
+    },
+    "funFact": {
+      "de": "Auch wir Menschen sind Säugetiere.",
+      "en": "We humans are mammals too.",
+      "it": "Anche noi esseri umani siamo mammiferi."
+    },
+    "tags": [
+      "mammals"
+    ]
+  },
+  {
+    "id": "animals-which-reptile",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches dieser Tiere ist ein Reptil?",
+      "en": "Which of these animals is a reptile?",
+      "it": "Quale di questi animali è un rettile?"
+    },
+    "answers": [
+      {
+        "id": "lizard",
+        "icon": "🦎",
+        "label": {
+          "de": "Eidechse",
+          "en": "Lizard",
+          "it": "Lucertola"
+        },
+        "correct": true
+      },
+      {
+        "id": "frog",
+        "icon": "🐸",
+        "label": {
+          "de": "Frosch",
+          "en": "Frog",
+          "it": "Rana"
+        },
+        "correct": false
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Vogel",
+          "en": "Bird",
+          "it": "Uccellino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Eidechse ist ein Reptil. Reptilien haben eine schuppige Haut.",
+      "en": "The lizard is a reptile. Reptiles have scaly skin.",
+      "it": "La lucertola è un rettile. I rettili hanno la pelle a squame."
+    },
+    "funFact": {
+      "de": "Der Frosch ist kein Reptil, sondern eine Amphibie: Er lebt im Wasser und an Land.",
+      "en": "A frog isn't a reptile but an amphibian: it lives both in water and on land.",
+      "it": "La rana non è un rettile ma un anfibio: vive sia in acqua sia sulla terra."
+    },
+    "tags": [
+      "reptiles"
+    ]
+  },
+  {
+    "id": "animals-flamingo-pink",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum sind Flamingos rosa?",
+      "en": "Why are flamingos pink?",
+      "it": "Perché i fenicotteri sono rosa?"
+    },
+    "visual": "🦩",
+    "answers": [
+      {
+        "id": "because-of-their-food",
+        "icon": "🦐",
+        "label": {
+          "de": "Wegen ihres Futters",
+          "en": "Because of their food",
+          "it": "Per quello che mangiano"
+        },
+        "correct": true
+      },
+      {
+        "id": "someone-paints-them",
+        "icon": "🎨",
+        "label": {
+          "de": "Sie werden angemalt",
+          "en": "Someone paints them",
+          "it": "Qualcuno li dipinge"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-of-the-sun",
+        "icon": "☀️",
+        "label": {
+          "de": "Wegen der Sonne",
+          "en": "Because of the sun",
+          "it": "Per colpa del sole"
+        },
+        "correct": false
+      },
+      {
+        "id": "because-it-is-cold",
+        "icon": "❄️",
+        "label": {
+          "de": "Weil es kalt ist",
+          "en": "Because it is cold",
+          "it": "Perché fa freddo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Flamingos fressen winzige Krebse und Algen. Davon werden ihre Federn rosa.",
+      "en": "Flamingos eat tiny shrimps and algae, which turn their feathers pink.",
+      "it": "I fenicotteri mangiano piccoli gamberetti e alghe, che colorano di rosa le piume."
+    },
+    "funFact": {
+      "de": "Flamingos stehen oft auf einem Bein, sogar beim Schlafen.",
+      "en": "Flamingos often stand on one leg, even when sleeping.",
+      "it": "I fenicotteri stanno spesso su una zampa sola, anche quando dormono."
+    },
+    "tags": [
+      "birds"
+    ]
+  },
+  {
+    "id": "animals-changes-colour",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier kann seine Farbe ändern?",
+      "en": "Which animal can change its colour?",
+      "it": "Quale animale può cambiare colore?"
+    },
+    "answers": [
+      {
+        "id": "chameleon",
+        "icon": "🦎",
+        "label": {
+          "de": "Chamäleon",
+          "en": "Chameleon",
+          "it": "Camaleonte"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "bear",
+        "icon": "🐻",
+        "label": {
+          "de": "Bär",
+          "en": "Bear",
+          "it": "Orso"
+        },
+        "correct": false
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Chamäleon kann seine Hautfarbe ändern.",
+      "en": "The chameleon can change the colour of its skin.",
+      "it": "Il camaleonte può cambiare il colore della pelle."
+    },
+    "funFact": {
+      "de": "Ein Chamäleon kann seine beiden Augen in verschiedene Richtungen drehen.",
+      "en": "A chameleon can move its two eyes in different directions at the same time.",
+      "it": "Il camaleonte può muovere i due occhi in direzioni diverse."
+    },
+    "tags": [
+      "reptiles"
+    ]
+  },
+  {
+    "id": "animals-slowest",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier ist eines der langsamsten der Welt?",
+      "en": "Which animal is one of the slowest in the world?",
+      "it": "Quale animale è tra i più lenti del mondo?"
+    },
+    "answers": [
+      {
+        "id": "sloth",
+        "icon": "🦥",
+        "label": {
+          "de": "Faultier",
+          "en": "Sloth",
+          "it": "Bradipo"
+        },
+        "correct": true
+      },
+      {
+        "id": "cheetah",
+        "icon": "🐆",
+        "label": {
+          "de": "Gepard",
+          "en": "Cheetah",
+          "it": "Ghepardo"
+        },
+        "correct": false
+      },
+      {
+        "id": "horse",
+        "icon": "🐎",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": false
+      },
+      {
+        "id": "hare",
+        "icon": "🐇",
+        "label": {
+          "de": "Hase",
+          "en": "Hare",
+          "it": "Lepre"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Faultier bewegt sich ganz langsam durch die Bäume.",
+      "en": "The sloth moves very slowly through the trees.",
+      "it": "Il bradipo si muove lentissimo tra gli alberi."
+    },
+    "funFact": {
+      "de": "Faultiere kommen nur etwa einmal pro Woche vom Baum herunter – um aufs Klo zu gehen!",
+      "en": "Sloths only climb down from their tree about once a week – to go to the toilet!",
+      "it": "I bradipi scendono dall'albero circa una volta alla settimana: per fare la cacca!"
+    },
+    "tags": [
+      "jungle",
+      "speed"
+    ]
+  },
+  {
+    "id": "animals-bat-dark",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie finden Fledermäuse im Dunkeln ihren Weg?",
+      "en": "How do bats find their way in the dark?",
+      "it": "Come trovano la strada al buio i pipistrelli?"
+    },
+    "visual": "🦇",
+    "answers": [
+      {
+        "id": "with-calls-and-echoes",
+        "icon": "👂",
+        "label": {
+          "de": "Mit Rufen und Echo",
+          "en": "With calls and echoes",
+          "it": "Con versi ed eco"
+        },
+        "correct": true
+      },
+      {
+        "id": "with-a-torch",
+        "icon": "🔦",
+        "label": {
+          "de": "Mit einer Taschenlampe",
+          "en": "With a torch",
+          "it": "Con una torcia"
+        },
+        "correct": false
+      },
+      {
+        "id": "with-a-map",
+        "icon": "🗺️",
+        "label": {
+          "de": "Mit einer Landkarte",
+          "en": "With a map",
+          "it": "Con una cartina"
+        },
+        "correct": false
+      },
+      {
+        "id": "with-stars-on-their-heads",
+        "icon": "🌟",
+        "label": {
+          "de": "Mit Sternen auf dem Kopf",
+          "en": "With stars on their heads",
+          "it": "Con stelle sulla testa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Fledermäuse rufen ganz hohe Töne und hören, wie das Echo zurückkommt.",
+      "en": "Bats make very high calls and listen to the echoes that come back.",
+      "it": "I pipistrelli emettono suoni acutissimi e ascoltano l'eco che ritorna."
+    },
+    "funFact": {
+      "de": "Diese Töne sind so hoch, dass wir Menschen sie nicht hören können.",
+      "en": "Those sounds are so high that people can't hear them.",
+      "it": "Quei suoni sono così acuti che noi non riusciamo a sentirli."
+    },
+    "tags": [
+      "night",
+      "senses"
+    ]
+  },
+  {
+    "id": "animals-camel-hump",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was speichert ein Kamel in seinem Höcker?",
+      "en": "What does a camel store in its hump?",
+      "it": "Che cosa conserva il cammello nella gobba?"
+    },
+    "visual": "🐫",
+    "answers": [
+      {
+        "id": "fat",
+        "icon": "🧈",
+        "label": {
+          "de": "Fett",
+          "en": "Fat",
+          "it": "Grasso"
+        },
+        "correct": true
+      },
+      {
+        "id": "water",
+        "icon": "💧",
+        "label": {
+          "de": "Wasser",
+          "en": "Water",
+          "it": "Acqua"
+        },
+        "correct": false
+      },
+      {
+        "id": "stones",
+        "icon": "🪨",
+        "label": {
+          "de": "Steine",
+          "en": "Stones",
+          "it": "Sassi"
+        },
+        "correct": false
+      },
+      {
+        "id": "air",
+        "icon": "🎈",
+        "label": {
+          "de": "Luft",
+          "en": "Air",
+          "it": "Aria"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Höcker ist Fett. Davon kann das Kamel leben, wenn es kein Futter findet.",
+      "en": "The hump is full of fat. The camel can live on it when there's no food.",
+      "it": "Nella gobba c'è grasso: il cammello lo usa quando non trova cibo."
+    },
+    "funFact": {
+      "de": "Ein durstiges Kamel kann in wenigen Minuten über hundert Liter Wasser trinken.",
+      "en": "A thirsty camel can drink more than a hundred litres of water in a few minutes.",
+      "it": "Un cammello assetato può bere più di cento litri d'acqua in pochi minuti."
+    },
+    "tags": [
+      "desert"
+    ]
+  },
+  {
+    "id": "animals-penguins-live",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo leben fast alle Pinguine?",
+      "en": "Where do almost all penguins live?",
+      "it": "Dove vivono quasi tutti i pinguini?"
+    },
+    "visual": "🐧",
+    "answers": [
+      {
+        "id": "in-the-southern-half-of-the-earth",
+        "icon": "🌏",
+        "label": {
+          "de": "Im Süden der Erde",
+          "en": "In the southern half of the Earth",
+          "it": "Nella metà sud della Terra"
+        },
+        "correct": true
+      },
+      {
+        "id": "at-the-north-pole",
+        "icon": "🐻‍❄️",
+        "label": {
+          "de": "Am Nordpol",
+          "en": "At the North Pole",
+          "it": "Al Polo Nord"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-desert",
+        "icon": "🏜️",
+        "label": {
+          "de": "In der Wüste",
+          "en": "In the desert",
+          "it": "Nel deserto"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-alps",
+        "icon": "🏔️",
+        "label": {
+          "de": "In den Alpen",
+          "en": "In the Alps",
+          "it": "Sulle Alpi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pinguine leben fast nur auf der Südhalbkugel, zum Beispiel in der Antarktis.",
+      "en": "Penguins live almost only in the southern half of the world, for example in Antarctica.",
+      "it": "I pinguini vivono quasi solo nell'emisfero sud, per esempio in Antartide."
+    },
+    "funFact": {
+      "de": "Am Nordpol gibt es keine Pinguine, dafür Eisbären.",
+      "en": "There are no penguins at the North Pole – but there are polar bears.",
+      "it": "Al Polo Nord non ci sono pinguini, però ci sono gli orsi polari."
+    },
+    "tags": [
+      "birds",
+      "cold"
+    ]
+  },
+  {
+    "id": "animals-bears-meet-penguins",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Eisbären und Pinguine begegnen sich in der Natur oft. Stimmt das?",
+      "en": "Polar bears and penguins often meet in the wild. Is that true?",
+      "it": "Orsi polari e pinguini si incontrano spesso in natura. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Eisbären leben ganz im Norden, Pinguine im Süden. In der Natur treffen sie sich nie.",
+      "en": "Polar bears live in the far north and penguins in the south. In the wild they never meet.",
+      "it": "Gli orsi polari vivono all'estremo nord, i pinguini al sud: in natura non si incontrano mai."
+    },
+    "funFact": {
+      "de": "Eisbären sind sehr gute Schwimmer.",
+      "en": "Polar bears are excellent swimmers.",
+      "it": "Gli orsi polari sono ottimi nuotatori."
+    },
+    "tags": [
+      "cold"
+    ]
+  },
+  {
+    "id": "animals-bees-collect",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was sammeln Bienen in den Blüten?",
+      "en": "What do bees collect from flowers?",
+      "it": "Che cosa raccolgono le api nei fiori?"
+    },
+    "visual": "🐝",
+    "answers": [
+      {
+        "id": "nectar-and-pollen",
+        "icon": "🌼",
+        "label": {
+          "de": "Nektar und Pollen",
+          "en": "Nectar and pollen",
+          "it": "Nettare e polline"
+        },
+        "correct": true
+      },
+      {
+        "id": "wood",
+        "icon": "🪵",
+        "label": {
+          "de": "Holz",
+          "en": "Wood",
+          "it": "Legno"
+        },
+        "correct": false
+      },
+      {
+        "id": "sand",
+        "icon": "🪨",
+        "label": {
+          "de": "Sand",
+          "en": "Sand",
+          "it": "Sabbia"
+        },
+        "correct": false
+      },
+      {
+        "id": "sweets",
+        "icon": "🍬",
+        "label": {
+          "de": "Bonbons",
+          "en": "Sweets",
+          "it": "Caramelle"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bienen sammeln süssen Nektar und Pollen. Aus dem Nektar machen sie Honig.",
+      "en": "Bees collect sweet nectar and pollen. They make honey from the nectar.",
+      "it": "Le api raccolgono nettare dolce e polline. Con il nettare fanno il miele."
+    },
+    "funFact": {
+      "de": "Beim Sammeln tragen Bienen Pollen von Blüte zu Blüte. So können Früchte wachsen.",
+      "en": "As they collect, bees carry pollen from flower to flower. That helps fruit to grow.",
+      "it": "Le api portano il polline da un fiore all'altro: così possono crescere i frutti."
+    },
+    "tags": [
+      "insects",
+      "plants"
+    ]
+  },
+  {
+    "id": "animals-biggest-cat",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist die grösste Katze der Welt?",
+      "en": "What is the biggest cat in the world?",
+      "it": "Qual è il felino più grande del mondo?"
+    },
+    "answers": [
+      {
+        "id": "tiger",
+        "icon": "🐅",
+        "label": {
+          "de": "Tiger",
+          "en": "Tiger",
+          "it": "Tigre"
+        },
+        "correct": true
+      },
+      {
+        "id": "lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Löwe",
+          "en": "Lion",
+          "it": "Leone"
+        },
+        "correct": false
+      },
+      {
+        "id": "leopard",
+        "icon": "🐆",
+        "label": {
+          "de": "Leopard",
+          "en": "Leopard",
+          "it": "Leopardo"
+        },
+        "correct": false
+      },
+      {
+        "id": "house-cat",
+        "icon": "🐈",
+        "label": {
+          "de": "Hauskatze",
+          "en": "House cat",
+          "it": "Gatto di casa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Tiger ist die grösste Katze, noch etwas grösser als der Löwe.",
+      "en": "The tiger is the biggest cat, a little bigger even than the lion.",
+      "it": "La tigre è il felino più grande, un po' più grande anche del leone."
+    },
+    "funFact": {
+      "de": "Anders als viele Katzen schwimmen Tiger sehr gern.",
+      "en": "Unlike many cats, tigers love swimming.",
+      "it": "A differenza di molti gatti, alle tigri piace tantissimo nuotare."
+    },
+    "tags": [
+      "cats",
+      "size"
+    ]
+  },
+  {
+    "id": "animals-fastest-dive",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Vogel ist im Sturzflug am schnellsten?",
+      "en": "Which bird is the fastest when it dives?",
+      "it": "Quale uccello è il più veloce in picchiata?"
+    },
+    "answers": [
+      {
+        "id": "peregrine-falcon",
+        "icon": "🦅",
+        "label": {
+          "de": "Wanderfalke",
+          "en": "Peregrine falcon",
+          "it": "Falco pellegrino"
+        },
+        "correct": true
+      },
+      {
+        "id": "duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Ente",
+          "en": "Duck",
+          "it": "Anatra"
+        },
+        "correct": false
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      },
+      {
+        "id": "owl",
+        "icon": "🦉",
+        "label": {
+          "de": "Eule",
+          "en": "Owl",
+          "it": "Gufo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Wanderfalke ist im Sturzflug das schnellste Tier der Welt.",
+      "en": "The peregrine falcon is the fastest animal in the world when it dives.",
+      "it": "In picchiata il falco pellegrino è l'animale più veloce del mondo."
+    },
+    "funFact": {
+      "de": "Im Sturzflug ist er über 300 Kilometer pro Stunde schnell.",
+      "en": "In a dive it goes faster than 300 kilometres per hour.",
+      "it": "In picchiata supera i 300 chilometri all'ora."
+    },
+    "tags": [
+      "birds",
+      "speed"
+    ],
+    "uncertain": "There is no falcon emoji; 🦅 is an eagle."
+  },
+  {
+    "id": "animals-octopus-arms",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Arme hat ein Oktopus?",
+      "en": "How many arms does an octopus have?",
+      "it": "Quanti tentacoli ha un polpo?"
+    },
+    "visual": "🐙",
+    "answers": [
+      {
+        "id": "eight",
+        "icon": "8",
+        "label": {
+          "de": "Acht",
+          "en": "Eight",
+          "it": "Otto"
+        },
+        "correct": true
+      },
+      {
+        "id": "six",
+        "icon": "6",
+        "label": {
+          "de": "Sechs",
+          "en": "Six",
+          "it": "Sei"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Oktopus hat acht Arme. «Okto» bedeutet acht.",
+      "en": "An octopus has eight arms. “Octo” means eight.",
+      "it": "Il polpo ha otto tentacoli: «octo» vuol dire otto."
+    },
+    "funFact": {
+      "de": "Oktopusse haben keine Knochen. Darum passen sie durch winzige Löcher.",
+      "en": "Octopuses have no bones, so they can squeeze through tiny gaps.",
+      "it": "I polpi non hanno ossa, per questo passano anche da buchi piccolissimi."
+    },
+    "tags": [
+      "ocean",
+      "numbers"
+    ]
+  },
+  {
+    "id": "animals-starfish-fish",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Ein Seestern ist ein Fisch. Stimmt das?",
+      "en": "A starfish is a fish. Is that true?",
+      "it": "La stella marina è un pesce. È vero?"
+    },
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Der Seestern ist kein Fisch. Er hat keine Flossen und keine Kiemen wie ein Fisch.",
+      "en": "A starfish isn't a fish. It has no fins and no gills like a fish.",
+      "it": "La stella marina non è un pesce: non ha pinne né branchie come i pesci."
+    },
+    "funFact": {
+      "de": "Wenn ein Seestern einen Arm verliert, kann ihm ein neuer nachwachsen.",
+      "en": "If a starfish loses an arm, it can grow a new one.",
+      "it": "Se una stella marina perde un braccio, può farne crescere uno nuovo."
+    },
+    "tags": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "animals-hibernates",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier hält einen langen Winterschlaf?",
+      "en": "Which animal hibernates through the winter?",
+      "it": "Quale animale va in letargo d'inverno?"
+    },
+    "answers": [
+      {
+        "id": "hedgehog",
+        "icon": "🦔",
+        "label": {
+          "de": "Igel",
+          "en": "Hedgehog",
+          "it": "Riccio"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐕",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      },
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      },
+      {
+        "id": "horse",
+        "icon": "🐎",
+        "label": {
+          "de": "Pferd",
+          "en": "Horse",
+          "it": "Cavallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Igel schläft den ganzen Winter in einem Laubhaufen.",
+      "en": "The hedgehog sleeps all winter in a pile of leaves.",
+      "it": "Il riccio dorme tutto l'inverno sotto un mucchio di foglie."
+    },
+    "funFact": {
+      "de": "Im Winterschlaf schlägt das Herz vom Igel ganz langsam.",
+      "en": "During hibernation, a hedgehog's heart beats very slowly.",
+      "it": "Durante il letargo il cuore del riccio batte lentissimo."
+    },
+    "tags": [
+      "winter",
+      "garden"
+    ]
+  },
+  {
+    "id": "animals-storks-south",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Warum fliegen viele Störche im Herbst nach Süden?",
+      "en": "Why do many storks fly south in autumn?",
+      "it": "Perché molte cicogne volano verso sud in autunno?"
+    },
+    "answers": [
+      {
+        "id": "they-can-find-food-there-in-winter",
+        "icon": "🌞",
+        "label": {
+          "de": "Dort finden sie im Winter Futter",
+          "en": "They can find food there in winter",
+          "it": "Lì trovano cibo in inverno"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-go-on-holiday",
+        "icon": "🏖️",
+        "label": {
+          "de": "Sie machen Ferien",
+          "en": "They go on holiday",
+          "it": "Vanno in vacanza"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-go-to-school",
+        "icon": "🎒",
+        "label": {
+          "de": "Sie gehen zur Schule",
+          "en": "They go to school",
+          "it": "Vanno a scuola"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-have-a-birthday-party",
+        "icon": "🎂",
+        "label": {
+          "de": "Sie feiern Geburtstag",
+          "en": "They have a birthday party",
+          "it": "Festeggiano il compleanno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Winter gibt es hier wenig Frösche und Insekten. Im Süden ist es warm und es gibt Futter.",
+      "en": "In winter there are few frogs and insects here. In the south it's warm and there's food.",
+      "it": "D'inverno qui ci sono pochi insetti e rane. Al sud fa caldo e c'è cibo."
+    },
+    "funFact": {
+      "de": "Viele Störche aus der Schweiz fliegen über Spanien bis nach Afrika.",
+      "en": "Many storks from Switzerland fly via Spain all the way to Africa.",
+      "it": "Molte cicogne svizzere volano passando dalla Spagna fino in Africa."
+    },
+    "tags": [
+      "birds",
+      "seasons"
+    ]
+  },
+  {
+    "id": "animals-heaviest-land",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist das schwerste Tier an Land?",
+      "en": "What is the heaviest animal on land?",
+      "it": "Qual è l'animale più pesante sulla terraferma?"
+    },
+    "answers": [
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": true
+      },
+      {
+        "id": "rhino",
+        "icon": "🦏",
+        "label": {
+          "de": "Nashorn",
+          "en": "Rhino",
+          "it": "Rinoceronte"
+        },
+        "correct": false
+      },
+      {
+        "id": "hippo",
+        "icon": "🦛",
+        "label": {
+          "de": "Nilpferd",
+          "en": "Hippo",
+          "it": "Ippopotamo"
+        },
+        "correct": false
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Afrikanische Elefant ist das schwerste Landtier.",
+      "en": "The African elephant is the heaviest land animal.",
+      "it": "L'elefante africano è l'animale terrestre più pesante."
+    },
+    "funFact": {
+      "de": "Ein grosser Elefant ist so schwer wie mehrere Autos zusammen.",
+      "en": "A big elephant weighs as much as several cars together.",
+      "it": "Un grande elefante pesa quanto parecchie automobili messe insieme."
+    },
+    "tags": [
+      "size",
+      "africa"
+    ]
+  },
+  {
+    "id": "animals-tallest",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier ist am höchsten?",
+      "en": "Which animal is the tallest?",
+      "it": "Quale animale è il più alto?"
+    },
+    "answers": [
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "camel",
+        "icon": "🐪",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      },
+      {
+        "id": "zebra",
+        "icon": "🦓",
+        "label": {
+          "de": "Zebra",
+          "en": "Zebra",
+          "it": "Zebra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Giraffe ist das höchste Tier der Welt.",
+      "en": "The giraffe is the tallest animal in the world.",
+      "it": "La giraffa è l'animale più alto del mondo."
+    },
+    "funFact": {
+      "de": "Eine grosse Giraffe ist fast so hoch wie ein Haus mit zwei Stockwerken.",
+      "en": "A tall giraffe is almost as high as a two-storey house.",
+      "it": "Una giraffa adulta è alta quasi come una casa a due piani."
+    },
+    "tags": [
+      "size",
+      "africa"
+    ]
+  },
+  {
+    "id": "animals-dolphin-names",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Jeder Delfin hat einen eigenen Pfiff, fast wie einen Namen. Stimmt das?",
+      "en": "Every dolphin has its own whistle, almost like a name. Is that true?",
+      "it": "Ogni delfino ha un suo fischio, quasi come un nome. È vero?"
+    },
+    "visual": "🐬",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Mit diesem Pfiff erkennen sich Delfine gegenseitig.",
+      "en": "That's true! Dolphins recognise each other by these whistles.",
+      "it": "È vero! Con questo fischio i delfini si riconoscono tra loro."
+    },
+    "funFact": {
+      "de": "Delfine leben in Gruppen und helfen einander.",
+      "en": "Dolphins live in groups and help each other.",
+      "it": "I delfini vivono in gruppo e si aiutano a vicenda."
+    },
+    "tags": [
+      "ocean",
+      "senses"
+    ]
+  },
+  {
+    "id": "animals-goldfish-memory",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Goldfische vergessen alles nach drei Sekunden. Stimmt das?",
+      "en": "Goldfish forget everything after three seconds. Is that true?",
+      "it": "I pesci rossi dimenticano tutto dopo tre secondi. È vero?"
+    },
+    "visual": "🐠",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Das ist ein Märchen. Goldfische können sich Dinge monatelang merken.",
+      "en": "That's a myth. Goldfish can remember things for months.",
+      "it": "È una leggenda: i pesci rossi ricordano le cose per mesi."
+    },
+    "funFact": {
+      "de": "Man kann Goldfischen sogar kleine Tricks beibringen.",
+      "en": "You can even teach goldfish little tricks.",
+      "it": "Si possono perfino insegnare piccoli trucchi ai pesci rossi."
+    },
+    "tags": [
+      "pets",
+      "surprise"
+    ]
+  },
+  {
+    "id": "animals-snakes-smell-tongue",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Schlangen riechen mit ihrer Zunge. Stimmt das?",
+      "en": "Snakes smell with their tongues. Is that true?",
+      "it": "I serpenti sentono gli odori con la lingua. È vero?"
+    },
+    "visual": "🐍",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Zunge sammelt Gerüche aus der Luft und bringt sie zu einem Riechorgan im Maul.",
+      "en": "That's true! The tongue picks up smells from the air and carries them to a smelling organ in the mouth.",
+      "it": "È vero! La lingua raccoglie gli odori nell'aria e li porta a un organo dell'olfatto in bocca."
+    },
+    "funFact": {
+      "de": "Schlangen haben keine Beine und keine Augenlider.",
+      "en": "Snakes have no legs and no eyelids.",
+      "it": "I serpenti non hanno zampe e nemmeno palpebre."
+    },
+    "tags": [
+      "reptiles",
+      "senses"
+    ]
+  },
+  {
+    "id": "animals-no-eggs",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches dieser Tiere legt KEINE Eier?",
+      "en": "Which of these animals does NOT lay eggs?",
+      "it": "Quale di questi animali NON fa le uova?"
+    },
+    "answers": [
+      {
+        "id": "cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": true
+      },
+      {
+        "id": "hen",
+        "icon": "🐔",
+        "label": {
+          "de": "Huhn",
+          "en": "Hen",
+          "it": "Gallina"
+        },
+        "correct": false
+      },
+      {
+        "id": "turtle",
+        "icon": "🐢",
+        "label": {
+          "de": "Schildkröte",
+          "en": "Turtle",
+          "it": "Tartaruga"
+        },
+        "correct": false
+      },
+      {
+        "id": "snake",
+        "icon": "🐍",
+        "label": {
+          "de": "Schlange",
+          "en": "Snake",
+          "it": "Serpente"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Kühe bekommen lebendige Kälbchen. Hühner, Schildkröten und viele Schlangen legen Eier.",
+      "en": "Cows give birth to live calves. Hens, turtles and many snakes lay eggs.",
+      "it": "Le mucche partoriscono vitellini. Galline, tartarughe e molti serpenti fanno le uova."
+    },
+    "funFact": {
+      "de": "Ein Kälbchen kann schon kurz nach der Geburt stehen.",
+      "en": "A calf can stand up soon after it is born.",
+      "it": "Un vitellino riesce a stare in piedi poco dopo la nascita."
+    },
+    "tags": [
+      "farm",
+      "mammals"
+    ]
+  },
+  {
+    "id": "animals-earthworms",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie helfen Regenwürmer dem Garten?",
+      "en": "How do earthworms help the garden?",
+      "it": "Come aiutano l'orto i lombrichi?"
+    },
+    "visual": "🪱",
+    "answers": [
+      {
+        "id": "they-make-the-soil-loose-and-rich",
+        "icon": "🌱",
+        "label": {
+          "de": "Sie machen die Erde locker und gut",
+          "en": "They make the soil loose and rich",
+          "it": "Rendono la terra morbida e fertile"
+        },
+        "correct": true
+      },
+      {
+        "id": "they-pick-flowers",
+        "icon": "🌸",
+        "label": {
+          "de": "Sie pflücken Blumen",
+          "en": "They pick flowers",
+          "it": "Raccolgono i fiori"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-water-the-plants",
+        "icon": "💧",
+        "label": {
+          "de": "Sie giessen die Pflanzen",
+          "en": "They water the plants",
+          "it": "Annaffiano le piante"
+        },
+        "correct": false
+      },
+      {
+        "id": "they-sing-to-the-plants",
+        "icon": "🎵",
+        "label": {
+          "de": "Sie singen den Pflanzen vor",
+          "en": "They sing to the plants",
+          "it": "Cantano alle piante"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Regenwürmer graben Gänge und fressen alte Blätter. So wird die Erde locker und gut für Pflanzen.",
+      "en": "Earthworms dig tunnels and eat old leaves, which makes the soil loose and good for plants.",
+      "it": "I lombrichi scavano gallerie e mangiano foglie vecchie: così la terra diventa morbida e buona per le piante."
+    },
+    "funFact": {
+      "de": "Regenwürmer haben keine Augen, aber sie spüren Licht mit der Haut.",
+      "en": "Earthworms have no eyes, but they can sense light with their skin.",
+      "it": "I lombrichi non hanno occhi, ma sentono la luce con la pelle."
+    },
+    "tags": [
+      "garden"
+    ]
+  },
+  {
+    "id": "animals-cricket-ears",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo hat eine Grille ihre Ohren?",
+      "en": "Where are a cricket's ears?",
+      "it": "Dove ha le orecchie il grillo?"
+    },
+    "visual": "🦗",
+    "answers": [
+      {
+        "id": "on-its-legs",
+        "icon": "🦵",
+        "label": {
+          "de": "An den Beinen",
+          "en": "On its legs",
+          "it": "Sulle zampe"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-its-head",
+        "icon": "👂",
+        "label": {
+          "de": "Am Kopf",
+          "en": "On its head",
+          "it": "Sulla testa"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-its-wings",
+        "icon": "🪽",
+        "label": {
+          "de": "An den Flügeln",
+          "en": "On its wings",
+          "it": "Sulle ali"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-its-nose",
+        "icon": "👃",
+        "label": {
+          "de": "An der Nase",
+          "en": "On its nose",
+          "it": "Sul naso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Grillen hören mit kleinen Ohren an den Vorderbeinen.",
+      "en": "Crickets hear with tiny ears on their front legs.",
+      "it": "I grilli sentono con piccole orecchie sulle zampe anteriori."
+    },
+    "funFact": {
+      "de": "Grillen zirpen, indem sie ihre Flügel aneinander reiben.",
+      "en": "Crickets chirp by rubbing their wings together.",
+      "it": "I grilli cantano strofinando le ali una contro l'altra."
+    },
+    "tags": [
+      "insects",
+      "senses",
+      "surprise"
+    ]
+  },
+  {
+    "id": "animals-flies-backwards",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Vogel kann sogar rückwärts fliegen?",
+      "en": "Which bird can even fly backwards?",
+      "it": "Quale uccello sa volare perfino all'indietro?"
+    },
+    "answers": [
+      {
+        "id": "hummingbird",
+        "icon": "🐦",
+        "label": {
+          "de": "Kolibri",
+          "en": "Hummingbird",
+          "it": "Colibrì"
+        },
+        "correct": true
+      },
+      {
+        "id": "eagle",
+        "icon": "🦅",
+        "label": {
+          "de": "Adler",
+          "en": "Eagle",
+          "it": "Aquila"
+        },
+        "correct": false
+      },
+      {
+        "id": "duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Ente",
+          "en": "Duck",
+          "it": "Anatra"
+        },
+        "correct": false
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Kolibri kann in der Luft stehen bleiben und sogar rückwärts fliegen.",
+      "en": "The hummingbird can hover in the air and even fly backwards.",
+      "it": "Il colibrì può restare fermo in aria e perfino volare all'indietro."
+    },
+    "funFact": {
+      "de": "Kolibris schlagen bis zu 80 Mal in der Sekunde mit den Flügeln.",
+      "en": "Hummingbirds can beat their wings up to 80 times a second.",
+      "it": "I colibrì possono battere le ali fino a 80 volte al secondo."
+    },
+    "tags": [
+      "birds"
+    ],
+    "uncertain": "There is no hummingbird emoji; 🐦 is a generic bird."
+  },
+  {
+    "id": "animals-sleepiest",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier schläft bis zu 20 Stunden am Tag?",
+      "en": "Which animal sleeps up to 20 hours a day?",
+      "it": "Quale animale dorme fino a 20 ore al giorno?"
+    },
+    "answers": [
+      {
+        "id": "koala",
+        "icon": "🐨",
+        "label": {
+          "de": "Koala",
+          "en": "Koala",
+          "it": "Koala"
+        },
+        "correct": true
+      },
+      {
+        "id": "monkey",
+        "icon": "🐒",
+        "label": {
+          "de": "Affe",
+          "en": "Monkey",
+          "it": "Scimmia"
+        },
+        "correct": false
+      },
+      {
+        "id": "squirrel",
+        "icon": "🐿️",
+        "label": {
+          "de": "Eichhörnchen",
+          "en": "Squirrel",
+          "it": "Scoiattolo"
+        },
+        "correct": false
+      },
+      {
+        "id": "dog",
+        "icon": "🐕",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Koalas schlafen fast den ganzen Tag.",
+      "en": "Koalas sleep almost all day.",
+      "it": "I koala dormono quasi tutto il giorno."
+    },
+    "funFact": {
+      "de": "Koalas fressen fast nur Eukalyptusblätter. Die geben wenig Kraft, darum schlafen sie so viel.",
+      "en": "Koalas eat almost only eucalyptus leaves. They give little energy, so koalas sleep a lot.",
+      "it": "I koala mangiano quasi solo foglie di eucalipto, che danno poca energia: per questo dormono tanto."
+    },
+    "tags": [
+      "australia"
+    ]
+  },
+  {
+    "id": "animals-shark-cartilage",
+    "category": "animals",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Haie haben ein Skelett aus Knorpel statt aus Knochen. Stimmt das?",
+      "en": "Sharks have a skeleton made of cartilage instead of bone. Is that true?",
+      "it": "Gli squali hanno uno scheletro di cartilagine invece che di ossa. È vero?"
+    },
+    "visual": "🦈",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Knorpel ist biegsam, so wie unsere Ohren und die Nasenspitze.",
+      "en": "That's true! Cartilage is bendy, like your ears and the tip of your nose.",
+      "it": "È vero! La cartilagine è flessibile, come le nostre orecchie e la punta del naso."
+    },
+    "funFact": {
+      "de": "Haie verlieren ständig Zähne und bekommen immer neue.",
+      "en": "Sharks keep losing teeth and growing new ones.",
+      "it": "Gli squali perdono continuamente denti e ne crescono sempre di nuovi."
+    },
+    "tags": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "animals-panda-food",
+    "category": "animals",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was fressen Pandas fast nur?",
+      "en": "What do pandas eat almost all the time?",
+      "it": "Che cosa mangiano quasi sempre i panda?"
+    },
+    "visual": "🐼",
+    "answers": [
+      {
+        "id": "bamboo",
+        "icon": "🎋",
+        "label": {
+          "de": "Bambus",
+          "en": "Bamboo",
+          "it": "Bambù"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "honey",
+        "icon": "🍯",
+        "label": {
+          "de": "Honig",
+          "en": "Honey",
+          "it": "Miele"
+        },
+        "correct": false
+      },
+      {
+        "id": "apples",
+        "icon": "🍎",
+        "label": {
+          "de": "Äpfel",
+          "en": "Apples",
+          "it": "Mele"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pandas fressen fast nur Bambus.",
+      "en": "Pandas eat almost nothing but bamboo.",
+      "it": "I panda mangiano quasi solo bambù."
+    },
+    "funFact": {
+      "de": "Ein Panda verbringt jeden Tag viele Stunden mit Bambusfressen.",
+      "en": "A panda spends many hours every day eating bamboo.",
+      "it": "Un panda passa molte ore al giorno a mangiare bambù."
+    },
+    "tags": [
+      "food",
+      "asia"
+    ]
+  },
+  {
+    "id": "animals-lives-longer",
+    "category": "animals",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer wird älter?",
+      "en": "Who lives longer?",
+      "it": "Chi vive più a lungo?"
+    },
+    "answers": [
+      {
+        "id": "giant-tortoise",
+        "icon": "🐢",
+        "label": {
+          "de": "Riesenschildkröte",
+          "en": "Giant tortoise",
+          "it": "Tartaruga gigante"
+        },
+        "correct": true
+      },
+      {
+        "id": "dog",
+        "icon": "🐕",
+        "label": {
+          "de": "Hund",
+          "en": "Dog",
+          "it": "Cane"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Riesenschildkröten können weit über hundert Jahre alt werden.",
+      "en": "Giant tortoises can live for well over a hundred years.",
+      "it": "Le tartarughe giganti possono vivere ben oltre cento anni."
+    },
+    "funFact": {
+      "de": "Die älteste bekannte Landschildkröte ist über 190 Jahre alt geworden.",
+      "en": "The oldest known tortoise has lived to more than 190 years.",
+      "it": "La tartaruga terrestre più vecchia conosciuta ha superato i 190 anni."
+    },
+    "tags": [
+      "age"
+    ]
+  },
+  {
+    "id": "animals-jumps-higher",
+    "category": "animals",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer kann höher springen?",
+      "en": "Who can jump higher?",
+      "it": "Chi salta più in alto?"
+    },
+    "answers": [
+      {
+        "id": "kangaroo",
+        "icon": "🦘",
+        "label": {
+          "de": "Känguru",
+          "en": "Kangaroo",
+          "it": "Canguro"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Känguru springt hoch und weit.",
+      "en": "The kangaroo jumps high and far.",
+      "it": "Il canguro salta in alto e lontano."
+    },
+    "funFact": {
+      "de": "Elefanten können gar nicht springen. Sie sind zu schwer dafür.",
+      "en": "Elephants can't jump at all – they're too heavy.",
+      "it": "Gli elefanti non riescono proprio a saltare: sono troppo pesanti."
+    },
+    "tags": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "animals-heavier-polar-bear",
+    "category": "animals",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Wer ist schwerer?",
+      "en": "Who is heavier?",
+      "it": "Chi pesa di più?"
+    },
+    "answers": [
+      {
+        "id": "polar-bear",
+        "icon": "🐻‍❄️",
+        "label": {
+          "de": "Eisbär",
+          "en": "Polar bear",
+          "it": "Orso polare"
+        },
+        "correct": true
+      },
+      {
+        "id": "lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Löwe",
+          "en": "Lion",
+          "it": "Leone"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Eisbär ist meistens viel schwerer als ein Löwe.",
+      "en": "A polar bear is usually much heavier than a lion.",
+      "it": "Un orso polare di solito pesa molto più di un leone."
+    },
+    "funFact": {
+      "de": "Eisbären gehören zu den grössten Raubtieren an Land.",
+      "en": "Polar bears are among the biggest meat-eaters on land.",
+      "it": "Gli orsi polari sono tra i più grandi carnivori di terra."
+    },
+    "tags": [
+      "size",
+      "cold"
+    ]
+  }
+]

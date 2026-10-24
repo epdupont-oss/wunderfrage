@@ -1,0 +1,4624 @@
+[
+  {
+    "id": "switzerland-flag",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Zu welchem Land gehört diese Fahne?",
+      "en": "Which country does this flag belong to?",
+      "it": "Di quale paese è questa bandiera?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "switzerland",
+        "icon": "🏔️",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": true
+      },
+      {
+        "id": "italy",
+        "icon": "🍕",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": false
+      },
+      {
+        "id": "germany",
+        "icon": "🏰",
+        "label": {
+          "de": "Deutschland",
+          "en": "Germany",
+          "it": "Germania"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das ist die Schweizer Fahne: rot mit einem weissen Kreuz.",
+      "en": "That's the Swiss flag: red with a white cross.",
+      "it": "È la bandiera svizzera: rossa con una croce bianca."
+    },
+    "funFact": {
+      "de": "Die Schweizer Fahne ist quadratisch. Das ist ganz selten!",
+      "en": "The Swiss flag is square. That's very rare!",
+      "it": "La bandiera svizzera è quadrata: è rarissimo!"
+    },
+    "tags": [
+      "flag"
+    ]
+  },
+  {
+    "id": "switzerland-flag-colours",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farben hat die Schweizer Fahne?",
+      "en": "What colours is the Swiss flag?",
+      "it": "Di che colori è la bandiera svizzera?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "red-and-white",
+        "icon": "🔴⚪",
+        "label": {
+          "de": "Rot und Weiss",
+          "en": "Red and white",
+          "it": "Rosso e bianco"
+        },
+        "correct": true
+      },
+      {
+        "id": "green-white-and-red",
+        "icon": "🟢⚪🔴",
+        "label": {
+          "de": "Grün, Weiss und Rot",
+          "en": "Green, white and red",
+          "it": "Verde, bianco e rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "blue-and-yellow",
+        "icon": "🔵🟡",
+        "label": {
+          "de": "Blau und Gelb",
+          "en": "Blue and yellow",
+          "it": "Blu e giallo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweizer Fahne ist rot und weiss.",
+      "en": "The Swiss flag is red and white.",
+      "it": "La bandiera svizzera è rossa e bianca."
+    },
+    "funFact": {
+      "de": "Das weisse Kreuz steht in der Mitte auf rotem Grund.",
+      "en": "The white cross sits in the middle on a red background.",
+      "it": "La croce bianca sta al centro su sfondo rosso."
+    },
+    "tags": [
+      "flag",
+      "colours"
+    ]
+  },
+  {
+    "id": "switzerland-chocolate",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wofür ist die Schweiz besonders bekannt?",
+      "en": "What is Switzerland especially famous for?",
+      "it": "Per che cosa è famosa la Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Schokolade",
+          "en": "Chocolate",
+          "it": "Cioccolato"
+        },
+        "correct": true
+      },
+      {
+        "id": "palm-beaches-by-the-sea",
+        "icon": "🌴",
+        "label": {
+          "de": "Palmenstrände am Meer",
+          "en": "Palm beaches by the sea",
+          "it": "Spiagge di palme sul mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "camels",
+        "icon": "🐫",
+        "label": {
+          "de": "Kamele",
+          "en": "Camels",
+          "it": "Cammelli"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz ist berühmt für ihre Schokolade.",
+      "en": "Switzerland is famous for its chocolate.",
+      "it": "La Svizzera è famosa per il suo cioccolato."
+    },
+    "funFact": {
+      "de": "In der Schweiz isst jede Person über zehn Kilo Schokolade im Jahr.",
+      "en": "In Switzerland, each person eats over ten kilos of chocolate a year.",
+      "it": "In Svizzera ogni persona mangia più di dieci chili di cioccolato all'anno."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "switzerland-cheese-holes",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was hat grosse Löcher?",
+      "en": "Which one has big holes?",
+      "it": "Che cosa ha dei grandi buchi?"
+    },
+    "answers": [
+      {
+        "id": "emmental-cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Emmentaler-Käse",
+          "en": "Emmental cheese",
+          "it": "Formaggio Emmental"
+        },
+        "correct": true
+      },
+      {
+        "id": "apple",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfel",
+          "en": "Apple",
+          "it": "Mela"
+        },
+        "correct": false
+      },
+      {
+        "id": "carrot",
+        "icon": "🥕",
+        "label": {
+          "de": "Karotte",
+          "en": "Carrot",
+          "it": "Carota"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Emmentaler aus der Schweiz hat grosse Löcher.",
+      "en": "Swiss Emmental cheese has big holes.",
+      "it": "L'Emmental svizzero ha grandi buchi."
+    },
+    "funFact": {
+      "de": "Die Löcher entstehen, weil im Käse beim Reifen Gas entsteht.",
+      "en": "The holes form because gas is made inside the cheese as it ripens.",
+      "it": "I buchi si formano perché nel formaggio, mentre stagiona, si crea del gas."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "switzerland-matterhorn",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher berühmte Berg steht in der Schweiz?",
+      "en": "Which famous mountain is in Switzerland?",
+      "it": "Quale famosa montagna si trova in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": true
+      },
+      {
+        "id": "vesuvius",
+        "icon": "🌋",
+        "label": {
+          "de": "Vesuv",
+          "en": "Vesuvius",
+          "it": "Vesuvio"
+        },
+        "correct": false
+      },
+      {
+        "id": "mount-fuji",
+        "icon": "🗻",
+        "label": {
+          "de": "Fuji",
+          "en": "Mount Fuji",
+          "it": "Monte Fuji"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Matterhorn steht im Wallis an der Grenze zu Italien.",
+      "en": "The Matterhorn is in Valais, on the border with Italy.",
+      "it": "Il Cervino si trova in Vallese, al confine con l'Italia."
+    },
+    "funFact": {
+      "de": "Das Matterhorn ist fast 4500 Meter hoch.",
+      "en": "The Matterhorn is almost 4,500 metres high.",
+      "it": "Il Cervino è alto quasi 4500 metri."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-cow-bells",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was tragen Kühe in der Schweiz oft um den Hals?",
+      "en": "What do cows in Switzerland often wear round their necks?",
+      "it": "Che cosa portano spesso al collo le mucche svizzere?"
+    },
+    "visual": "🐄",
+    "answers": [
+      {
+        "id": "a-bell",
+        "icon": "🔔",
+        "label": {
+          "de": "Eine Glocke",
+          "en": "A bell",
+          "it": "Un campanaccio"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-scarf",
+        "icon": "🧣",
+        "label": {
+          "de": "Einen Schal",
+          "en": "A scarf",
+          "it": "Una sciarpa"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-crown",
+        "icon": "👑",
+        "label": {
+          "de": "Eine Krone",
+          "en": "A crown",
+          "it": "Una corona"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Viele Kühe tragen eine Glocke.",
+      "en": "Many cows wear a bell.",
+      "it": "Molte mucche portano un campanaccio."
+    },
+    "funFact": {
+      "de": "Mit den Glocken hört man, wo die Kühe auf der Weide sind.",
+      "en": "The bells let you hear where the cows are in the meadow.",
+      "it": "Grazie ai campanacci si sente dove sono le mucche al pascolo."
+    },
+    "tags": [
+      "animals",
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-alp-summer",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Im Sommer gehen viele Kühe hoch auf die Alp. Stimmt das?",
+      "en": "In summer many cows go up to the high mountain pastures. Is that true?",
+      "it": "D'estate molte mucche salgono all'alpeggio. È vero?"
+    },
+    "visual": "🐄🏔️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Oben auf der Alp gibt es im Sommer frisches Gras.",
+      "en": "That's true! Up in the mountains there's fresh grass in summer.",
+      "it": "È vero! D'estate in alpeggio c'è erba fresca."
+    },
+    "funFact": {
+      "de": "Im Herbst kommen die Kühe geschmückt mit Blumen wieder ins Tal.",
+      "en": "In autumn the cows come back down to the valley decorated with flowers.",
+      "it": "In autunno le mucche tornano a valle decorate con fiori."
+    },
+    "tags": [
+      "animals",
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-languages-count",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Landessprachen hat die Schweiz?",
+      "en": "How many national languages does Switzerland have?",
+      "it": "Quante lingue nazionali ha la Svizzera?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "four",
+        "icon": "4",
+        "label": {
+          "de": "Vier",
+          "en": "Four",
+          "it": "Quattro"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eine",
+          "en": "One",
+          "it": "Una"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Deutsch, Französisch, Italienisch und Rätoromanisch.",
+      "en": "German, French, Italian and Romansh.",
+      "it": "Tedesco, francese, italiano e romancio."
+    },
+    "funFact": {
+      "de": "Viele Menschen in der Schweiz sprechen mehr als eine Sprache.",
+      "en": "Many people in Switzerland speak more than one language.",
+      "it": "In Svizzera molte persone parlano più di una lingua."
+    },
+    "tags": [
+      "languages",
+      "numbers"
+    ]
+  },
+  {
+    "id": "switzerland-money",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das Geld in der Schweiz?",
+      "en": "What is the money in Switzerland called?",
+      "it": "Come si chiamano i soldi in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "francs",
+        "icon": "🪙",
+        "label": {
+          "de": "Franken",
+          "en": "Francs",
+          "it": "Franchi"
+        },
+        "correct": true
+      },
+      {
+        "id": "euros",
+        "icon": "💶",
+        "label": {
+          "de": "Euro",
+          "en": "Euros",
+          "it": "Euro"
+        },
+        "correct": false
+      },
+      {
+        "id": "dollars",
+        "icon": "💵",
+        "label": {
+          "de": "Dollar",
+          "en": "Dollars",
+          "it": "Dollari"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Schweiz bezahlt man mit Franken.",
+      "en": "In Switzerland you pay with francs.",
+      "it": "In Svizzera si paga in franchi."
+    },
+    "funFact": {
+      "de": "Ein Franken hat hundert Rappen.",
+      "en": "One franc has a hundred centimes, called Rappen.",
+      "it": "Un franco ha cento centesimi."
+    },
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "id": "switzerland-many-lakes",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In der Schweiz gibt es viele Seen. Stimmt das?",
+      "en": "There are lots of lakes in Switzerland. Is that true?",
+      "it": "In Svizzera ci sono tanti laghi. È vero?"
+    },
+    "visual": "🏞️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Grosse und ganz kleine.",
+      "en": "That's true! Big ones and tiny ones.",
+      "it": "È vero! Grandi e piccolissimi."
+    },
+    "funFact": {
+      "de": "In der Schweiz gibt es über tausend Seen.",
+      "en": "Switzerland has more than a thousand lakes.",
+      "it": "In Svizzera ci sono più di mille laghi."
+    },
+    "tags": [
+      "lakes"
+    ]
+  },
+  {
+    "id": "switzerland-trains",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit reisen viele Menschen in der Schweiz?",
+      "en": "How do lots of people travel in Switzerland?",
+      "it": "Con che cosa viaggiano molte persone in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "by-train",
+        "icon": "🚆",
+        "label": {
+          "de": "Mit dem Zug",
+          "en": "By train",
+          "it": "In treno"
+        },
+        "correct": true
+      },
+      {
+        "id": "by-camel",
+        "icon": "🐪",
+        "label": {
+          "de": "Mit dem Kamel",
+          "en": "By camel",
+          "it": "In cammello"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-rocket",
+        "icon": "🚀",
+        "label": {
+          "de": "Mit der Rakete",
+          "en": "By rocket",
+          "it": "In razzo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Schweiz fahren viele Menschen Zug.",
+      "en": "Lots of people in Switzerland travel by train.",
+      "it": "In Svizzera molte persone viaggiano in treno."
+    },
+    "funFact": {
+      "de": "Schweizer Züge sind bekannt dafür, sehr pünktlich zu sein.",
+      "en": "Swiss trains are famous for being very punctual.",
+      "it": "I treni svizzeri sono famosi per la loro puntualità."
+    },
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "switzerland-many-mountains",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was gibt es in der Schweiz besonders viel?",
+      "en": "What does Switzerland have lots of?",
+      "it": "Che cosa c'è in abbondanza in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "mountains",
+        "icon": "🏔️",
+        "label": {
+          "de": "Berge",
+          "en": "Mountains",
+          "it": "Montagne"
+        },
+        "correct": true
+      },
+      {
+        "id": "deserts",
+        "icon": "🏜️",
+        "label": {
+          "de": "Wüsten",
+          "en": "Deserts",
+          "it": "Deserti"
+        },
+        "correct": false
+      },
+      {
+        "id": "volcanoes",
+        "icon": "🌋",
+        "label": {
+          "de": "Vulkane",
+          "en": "Volcanoes",
+          "it": "Vulcani"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz hat sehr viele Berge.",
+      "en": "Switzerland has lots and lots of mountains.",
+      "it": "La Svizzera ha tantissime montagne."
+    },
+    "funFact": {
+      "de": "Die Alpen bedecken mehr als die Hälfte der Schweiz.",
+      "en": "The Alps cover more than half of Switzerland.",
+      "it": "Le Alpi coprono più di metà della Svizzera."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-winter-fun",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was machen viele Kinder in der Schweiz im Winter gern?",
+      "en": "What do lots of children in Switzerland like doing in winter?",
+      "it": "Che cosa fanno volentieri d'inverno molti bambini svizzeri?"
+    },
+    "answers": [
+      {
+        "id": "skiing",
+        "icon": "⛷️",
+        "label": {
+          "de": "Skifahren",
+          "en": "Skiing",
+          "it": "Sciare"
+        },
+        "correct": true
+      },
+      {
+        "id": "surfing-at-the-sea",
+        "icon": "🏄",
+        "label": {
+          "de": "Surfen am Meer",
+          "en": "Surfing at the sea",
+          "it": "Fare surf al mare"
+        },
+        "correct": false
+      },
+      {
+        "id": "building-sandcastles-in-the-desert",
+        "icon": "🏜️",
+        "label": {
+          "de": "Sandburgen in der Wüste bauen",
+          "en": "Building sandcastles in the desert",
+          "it": "Castelli di sabbia nel deserto"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Winter fahren viele Kinder Ski oder schlitteln.",
+      "en": "In winter, lots of children ski or go sledging.",
+      "it": "D'inverno tanti bambini sciano o vanno in slitta."
+    },
+    "funFact": {
+      "de": "Viele Schulen in der Schweiz machen im Winter ein Skilager.",
+      "en": "Many Swiss schools go on a ski camp in winter.",
+      "it": "Molte scuole svizzere fanno un campo di sci d'inverno."
+    },
+    "tags": [
+      "winter",
+      "sport"
+    ]
+  },
+  {
+    "id": "switzerland-government-city",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt arbeitet die Schweizer Regierung?",
+      "en": "In which city does the Swiss government work?",
+      "it": "In quale città lavora il governo svizzero?"
+    },
+    "answers": [
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": true
+      },
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": false
+      },
+      {
+        "id": "geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf",
+          "en": "Geneva",
+          "it": "Ginevra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Regierung arbeitet in Bern.",
+      "en": "The government works in Bern.",
+      "it": "Il governo lavora a Berna."
+    },
+    "funFact": {
+      "de": "Im Wappen von Bern ist ein Bär.",
+      "en": "There's a bear on Bern's coat of arms.",
+      "it": "Nello stemma di Berna c'è un orso."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-bern-animal",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier ist im Wappen von Bern?",
+      "en": "Which animal is on Bern's coat of arms?",
+      "it": "Quale animale c'è nello stemma di Berna?"
+    },
+    "answers": [
+      {
+        "id": "bear",
+        "icon": "🐻",
+        "label": {
+          "de": "Bär",
+          "en": "Bear",
+          "it": "Orso"
+        },
+        "correct": true
+      },
+      {
+        "id": "lion",
+        "icon": "🦁",
+        "label": {
+          "de": "Löwe",
+          "en": "Lion",
+          "it": "Leone"
+        },
+        "correct": false
+      },
+      {
+        "id": "cow",
+        "icon": "🐮",
+        "label": {
+          "de": "Kuh",
+          "en": "Cow",
+          "it": "Mucca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Berner Wappentier ist der Bär.",
+      "en": "Bern's animal is the bear.",
+      "it": "L'animale di Berna è l'orso."
+    },
+    "funFact": {
+      "de": "In Bern gibt es einen Bärenpark am Fluss Aare.",
+      "en": "Bern has a bear park beside the river Aare.",
+      "it": "A Berna c'è un parco degli orsi sul fiume Aare."
+    },
+    "tags": [
+      "cities",
+      "animals"
+    ]
+  },
+  {
+    "id": "switzerland-fondue",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was isst man bei einem Fondue?",
+      "en": "What do you eat at a fondue?",
+      "it": "Che cosa si mangia con la fonduta?"
+    },
+    "answers": [
+      {
+        "id": "melted-cheese-with-bread",
+        "icon": "🧀",
+        "label": {
+          "de": "Geschmolzenen Käse mit Brot",
+          "en": "Melted cheese with bread",
+          "it": "Formaggio fuso con pane"
+        },
+        "correct": true
+      },
+      {
+        "id": "ice-cream-with-mustard",
+        "icon": "🍦",
+        "label": {
+          "de": "Glace mit Senf",
+          "en": "Ice cream with mustard",
+          "it": "Gelato con senape"
+        },
+        "correct": false
+      },
+      {
+        "id": "raw-fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Rohen Fisch",
+          "en": "Raw fish",
+          "it": "Pesce crudo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Käsefondue tunkt man Brot in geschmolzenen Käse.",
+      "en": "At a cheese fondue you dip bread into melted cheese.",
+      "it": "Con la fonduta si intinge il pane nel formaggio fuso."
+    },
+    "funFact": {
+      "de": "Wer sein Brotstück im Fondue verliert, muss oft eine kleine lustige Aufgabe machen.",
+      "en": "Whoever drops their bread in the fondue often has to do a funny little task.",
+      "it": "Chi perde il pane nella fonduta spesso deve fare una piccola penitenza divertente."
+    },
+    "tags": [
+      "food",
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-watches",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wofür ist die Schweiz auch berühmt?",
+      "en": "What else is Switzerland famous for?",
+      "it": "Per che cos'altro è famosa la Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "watches",
+        "icon": "⌚",
+        "label": {
+          "de": "Für Uhren",
+          "en": "Watches",
+          "it": "Orologi"
+        },
+        "correct": true
+      },
+      {
+        "id": "surfboards",
+        "icon": "🏄",
+        "label": {
+          "de": "Für Surfbretter",
+          "en": "Surfboards",
+          "it": "Tavole da surf"
+        },
+        "correct": false
+      },
+      {
+        "id": "coconuts",
+        "icon": "🥥",
+        "label": {
+          "de": "Für Kokosnüsse",
+          "en": "Coconuts",
+          "it": "Noci di cocco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz ist berühmt für ihre Uhren.",
+      "en": "Switzerland is famous for its watches.",
+      "it": "La Svizzera è famosa per i suoi orologi."
+    },
+    "funFact": {
+      "de": "In der Schweiz baut man schon seit Jahrhunderten Uhren.",
+      "en": "Watches have been made in Switzerland for centuries.",
+      "it": "In Svizzera si costruiscono orologi da secoli."
+    },
+    "tags": [
+      "inventions"
+    ]
+  },
+  {
+    "id": "switzerland-heidi",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Mädchen wohnt beim Grossvater in den Bergen?",
+      "en": "Which girl lives with her grandfather in the mountains?",
+      "it": "Quale bambina vive col nonno in montagna?"
+    },
+    "answers": [
+      {
+        "id": "heidi",
+        "icon": "🐐",
+        "label": {
+          "de": "Heidi",
+          "en": "Heidi",
+          "it": "Heidi"
+        },
+        "correct": true
+      },
+      {
+        "id": "little-red-riding-hood",
+        "icon": "🧺",
+        "label": {
+          "de": "Rotkäppchen",
+          "en": "Little Red Riding Hood",
+          "it": "Cappuccetto Rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "snow-white",
+        "icon": "🍎",
+        "label": {
+          "de": "Schneewittchen",
+          "en": "Snow White",
+          "it": "Biancaneve"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Heidi lebt beim Grossvater auf der Alp.",
+      "en": "Heidi lives with her grandfather up in the mountains.",
+      "it": "Heidi vive con il nonno in alpeggio."
+    },
+    "funFact": {
+      "de": "Die Geschichte von Heidi hat Johanna Spyri geschrieben.",
+      "en": "Heidi's story was written by Johanna Spyri.",
+      "it": "La storia di Heidi l'ha scritta Johanna Spyri."
+    },
+    "tags": [
+      "stories"
+    ]
+  },
+  {
+    "id": "switzerland-chocolate-from",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Woraus macht man Schokolade?",
+      "en": "What is chocolate made from?",
+      "it": "Con che cosa si fa il cioccolato?"
+    },
+    "answers": [
+      {
+        "id": "cocoa-beans",
+        "icon": "🫘",
+        "label": {
+          "de": "Aus Kakaobohnen",
+          "en": "Cocoa beans",
+          "it": "Fave di cacao"
+        },
+        "correct": true
+      },
+      {
+        "id": "carrots",
+        "icon": "🥕",
+        "label": {
+          "de": "Aus Karotten",
+          "en": "Carrots",
+          "it": "Carote"
+        },
+        "correct": false
+      },
+      {
+        "id": "mushrooms",
+        "icon": "🍄",
+        "label": {
+          "de": "Aus Pilzen",
+          "en": "Mushrooms",
+          "it": "Funghi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Schokolade macht man aus Kakaobohnen, Zucker und oft Milch.",
+      "en": "Chocolate is made from cocoa beans, sugar and often milk.",
+      "it": "Il cioccolato si fa con fave di cacao, zucchero e spesso latte."
+    },
+    "funFact": {
+      "de": "Kakao wächst nicht in der Schweiz, sondern in warmen Ländern.",
+      "en": "Cocoa doesn't grow in Switzerland – it grows in warm countries.",
+      "it": "Il cacao non cresce in Svizzera, ma nei paesi caldi."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "switzerland-alphorn",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches sehr lange Instrument spielt man in den Bergen?",
+      "en": "Which very long instrument is played in the mountains?",
+      "it": "Quale strumento lunghissimo si suona in montagna?"
+    },
+    "answers": [
+      {
+        "id": "alphorn",
+        "icon": "📯",
+        "label": {
+          "de": "Alphorn",
+          "en": "Alphorn",
+          "it": "Corno delle Alpi"
+        },
+        "correct": true
+      },
+      {
+        "id": "drum",
+        "icon": "🥁",
+        "label": {
+          "de": "Trommel",
+          "en": "Drum",
+          "it": "Tamburo"
+        },
+        "correct": false
+      },
+      {
+        "id": "piano",
+        "icon": "🎹",
+        "label": {
+          "de": "Klavier",
+          "en": "Piano",
+          "it": "Pianoforte"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Alphorn ist ein langes Instrument aus Holz.",
+      "en": "The alphorn is a long wooden instrument.",
+      "it": "Il corno delle Alpi è un lungo strumento di legno."
+    },
+    "funFact": {
+      "de": "Ein Alphorn kann über drei Meter lang sein.",
+      "en": "An alphorn can be more than three metres long.",
+      "it": "Un corno delle Alpi può essere lungo più di tre metri."
+    },
+    "tags": [
+      "music",
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-whistling-animal",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier pfeift laut in den Bergen, wenn Gefahr droht?",
+      "en": "Which mountain animal whistles loudly when there's danger?",
+      "it": "Quale animale di montagna fischia forte quando c'è pericolo?"
+    },
+    "answers": [
+      {
+        "id": "marmot",
+        "icon": "🐿️",
+        "label": {
+          "de": "Murmeltier",
+          "en": "Marmot",
+          "it": "Marmotta"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish",
+        "icon": "🐟",
+        "label": {
+          "de": "Fisch",
+          "en": "Fish",
+          "it": "Pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Murmeltiere pfeifen, um die anderen zu warnen.",
+      "en": "Marmots whistle to warn the others.",
+      "it": "Le marmotte fischiano per avvisare le altre."
+    },
+    "funFact": {
+      "de": "Murmeltiere schlafen im Winter bis zu sechs Monate lang.",
+      "en": "Marmots sleep for up to six months in winter.",
+      "it": "Le marmotte dormono d'inverno fino a sei mesi."
+    },
+    "tags": [
+      "animals",
+      "mountains"
+    ],
+    "uncertain": "There is no marmot emoji; 🐿️ is a squirrel."
+  },
+  {
+    "id": "switzerland-ibex",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier mit langen, gebogenen Hörnern klettert in den Alpen?",
+      "en": "Which animal with long curved horns climbs in the Alps?",
+      "it": "Quale animale con lunghe corna ricurve si arrampica sulle Alpi?"
+    },
+    "answers": [
+      {
+        "id": "ibex",
+        "icon": "🐐",
+        "label": {
+          "de": "Steinbock",
+          "en": "Ibex",
+          "it": "Stambecco"
+        },
+        "correct": true
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      },
+      {
+        "id": "giraffe",
+        "icon": "🦒",
+        "label": {
+          "de": "Giraffe",
+          "en": "Giraffe",
+          "it": "Giraffa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Steinbock klettert geschickt über Felsen.",
+      "en": "The ibex climbs skilfully over rocks.",
+      "it": "Lo stambecco si arrampica abilmente sulle rocce."
+    },
+    "funFact": {
+      "de": "Der Steinbock ist das Wappentier von Graubünden.",
+      "en": "The ibex is on the coat of arms of Graubünden.",
+      "it": "Lo stambecco è l'animale dello stemma dei Grigioni."
+    },
+    "tags": [
+      "animals",
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-roesti",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist Rösti?",
+      "en": "What is Rösti?",
+      "it": "Che cos'è la Rösti?"
+    },
+    "answers": [
+      {
+        "id": "fried-potatoes",
+        "icon": "🥔",
+        "label": {
+          "de": "Gebratene Kartoffeln",
+          "en": "Fried potatoes",
+          "it": "Patate fritte in padella"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-chocolate",
+        "icon": "🍫",
+        "label": {
+          "de": "Eine Schokolade",
+          "en": "A chocolate",
+          "it": "Un cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cow",
+        "icon": "🐄",
+        "label": {
+          "de": "Eine Kuh",
+          "en": "A cow",
+          "it": "Una mucca"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Rösti macht man aus geriebenen Kartoffeln, die in der Pfanne knusprig gebraten werden.",
+      "en": "Rösti is grated potato fried crispy in a pan.",
+      "it": "La Rösti si fa con patate grattugiate e rosolate in padella."
+    },
+    "funFact": {
+      "de": "Rösti isst man in der Deutschschweiz besonders gern.",
+      "en": "Rösti is especially popular in German-speaking Switzerland.",
+      "it": "La Rösti è amatissima nella Svizzera tedesca."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "switzerland-higher-matterhorn-house",
+    "category": "switzerland",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist höher?",
+      "en": "Which is higher?",
+      "it": "Che cosa è più alto?"
+    },
+    "answers": [
+      {
+        "id": "matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": true
+      },
+      {
+        "id": "house",
+        "icon": "🏠",
+        "label": {
+          "de": "Haus",
+          "en": "House",
+          "it": "Casa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Matterhorn ist viel, viel höher als ein Haus.",
+      "en": "The Matterhorn is much, much higher than a house.",
+      "it": "Il Cervino è molto, molto più alto di una casa."
+    },
+    "funFact": {
+      "de": "Jedes Jahr klettern viele Bergsteigerinnen und Bergsteiger aufs Matterhorn.",
+      "en": "Many climbers go up the Matterhorn every year.",
+      "it": "Ogni anno molti alpinisti salgono sul Cervino."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-bigger-lake-puddle",
+    "category": "switzerland",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist grösser?",
+      "en": "Which is bigger?",
+      "it": "Che cosa è più grande?"
+    },
+    "answers": [
+      {
+        "id": "lake-geneva",
+        "icon": "🏞️",
+        "label": {
+          "de": "Genfersee",
+          "en": "Lake Geneva",
+          "it": "Lago Lemano"
+        },
+        "correct": true
+      },
+      {
+        "id": "puddle",
+        "icon": "💦",
+        "label": {
+          "de": "Pfütze",
+          "en": "Puddle",
+          "it": "Pozzanghera"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Genfersee ist ein riesiger See.",
+      "en": "Lake Geneva is a huge lake.",
+      "it": "Il Lago Lemano è un lago enorme."
+    },
+    "funFact": {
+      "de": "Der Genfersee hat die Form eines Gipfeli, also eines Croissants.",
+      "en": "Lake Geneva is shaped like a croissant.",
+      "it": "Il Lago Lemano ha la forma di un cornetto."
+    },
+    "tags": [
+      "lakes"
+    ]
+  },
+  {
+    "id": "switzerland-by-the-sea",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Schweiz liegt am Meer. Stimmt das?",
+      "en": "Switzerland is by the sea. Is that true?",
+      "it": "La Svizzera è sul mare. È vero?"
+    },
+    "visual": "🌊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz hat kein Meer.",
+      "en": "Switzerland has no sea.",
+      "it": "La Svizzera non ha il mare."
+    },
+    "funFact": {
+      "de": "Dafür hat die Schweiz viele Seen und Flüsse zum Baden.",
+      "en": "But it has lots of lakes and rivers for swimming.",
+      "it": "In compenso ha tanti laghi e fiumi dove fare il bagno."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "switzerland-glaciers",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In der Schweiz gibt es Gletscher. Stimmt das?",
+      "en": "There are glaciers in Switzerland. Is that true?",
+      "it": "In Svizzera ci sono ghiacciai. È vero?"
+    },
+    "visual": "🧊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Hoch in den Bergen liegen grosse Gletscher.",
+      "en": "That's true! There are big glaciers high in the mountains.",
+      "it": "È vero! In alta montagna ci sono grandi ghiacciai."
+    },
+    "funFact": {
+      "de": "Leider schmelzen die Gletscher, weil es auf der Erde wärmer wird.",
+      "en": "Sadly the glaciers are melting because the Earth is getting warmer.",
+      "it": "Purtroppo i ghiacciai si sciolgono perché la Terra si sta scaldando."
+    },
+    "tags": [
+      "mountains",
+      "nature"
+    ]
+  },
+  {
+    "id": "switzerland-national-day",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wann feiert die Schweiz Geburtstag?",
+      "en": "When does Switzerland celebrate its birthday?",
+      "it": "Quando festeggia il compleanno la Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "on-1-august",
+        "icon": "🎆",
+        "label": {
+          "de": "Am 1. August",
+          "en": "On 1 August",
+          "it": "Il 1° agosto"
+        },
+        "correct": true
+      },
+      {
+        "id": "at-christmas",
+        "icon": "🎄",
+        "label": {
+          "de": "An Weihnachten",
+          "en": "At Christmas",
+          "it": "A Natale"
+        },
+        "correct": false
+      },
+      {
+        "id": "at-easter",
+        "icon": "🐣",
+        "label": {
+          "de": "An Ostern",
+          "en": "At Easter",
+          "it": "A Pasqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Schweizer Nationalfeiertag ist am 1. August.",
+      "en": "Switzerland's national day is 1 August.",
+      "it": "La festa nazionale svizzera è il 1° agosto."
+    },
+    "funFact": {
+      "de": "Am 1. August gibt es Feuerwerk und Höhenfeuer auf den Bergen.",
+      "en": "On 1 August there are fireworks and bonfires on the hills.",
+      "it": "Il 1° agosto ci sono fuochi d'artificio e falò sulle montagne."
+    },
+    "tags": [
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-lanterns",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit laufen Kinder am 1. August oft herum?",
+      "en": "What do children often carry around on 1 August?",
+      "it": "Che cosa portano spesso in giro i bambini il 1° agosto?"
+    },
+    "answers": [
+      {
+        "id": "paper-lanterns",
+        "icon": "🏮",
+        "label": {
+          "de": "Mit Lampions",
+          "en": "Paper lanterns",
+          "it": "Lanterne di carta"
+        },
+        "correct": true
+      },
+      {
+        "id": "pumpkins",
+        "icon": "🎃",
+        "label": {
+          "de": "Mit Kürbissen",
+          "en": "Pumpkins",
+          "it": "Zucche"
+        },
+        "correct": false
+      },
+      {
+        "id": "easter-eggs",
+        "icon": "🥚",
+        "label": {
+          "de": "Mit Ostereiern",
+          "en": "Easter eggs",
+          "it": "Uova di Pasqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am 1. August laufen Kinder mit Lampions herum.",
+      "en": "On 1 August children walk around with paper lanterns.",
+      "it": "Il 1° agosto i bambini girano con le lanterne."
+    },
+    "funFact": {
+      "de": "Auf vielen Lampions ist das Schweizer Kreuz.",
+      "en": "Many lanterns have the Swiss cross on them.",
+      "it": "Su molte lanterne c'è la croce svizzera."
+    },
+    "tags": [
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-postbus",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches gelbe Fahrzeug fährt bis in kleine Bergdörfer?",
+      "en": "Which yellow vehicle drives all the way to little mountain villages?",
+      "it": "Quale veicolo giallo arriva fino ai piccoli villaggi di montagna?"
+    },
+    "answers": [
+      {
+        "id": "postbus",
+        "icon": "🚌",
+        "label": {
+          "de": "Postauto",
+          "en": "Postbus",
+          "it": "Autopostale"
+        },
+        "correct": true
+      },
+      {
+        "id": "rocket",
+        "icon": "🚀",
+        "label": {
+          "de": "Rakete",
+          "en": "Rocket",
+          "it": "Razzo"
+        },
+        "correct": false
+      },
+      {
+        "id": "ship",
+        "icon": "🛳️",
+        "label": {
+          "de": "Schiff",
+          "en": "Ship",
+          "it": "Nave"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das gelbe Postauto fährt auch auf steile Bergstrassen.",
+      "en": "The yellow postbus drives up steep mountain roads too.",
+      "it": "L'autopostale giallo sale anche sulle strade ripide di montagna."
+    },
+    "funFact": {
+      "de": "Das Postauto hat eine Hupe mit einer Melodie aus drei Tönen.",
+      "en": "The postbus has a horn that plays a three-note tune.",
+      "it": "L'autopostale ha un clacson che suona una melodia di tre note."
+    },
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "switzerland-rescue-dog",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher grosse Hund ist berühmt dafür, Menschen in den Bergen gerettet zu haben?",
+      "en": "Which big dog is famous for rescuing people in the mountains?",
+      "it": "Quale grande cane è famoso per aver salvato persone in montagna?"
+    },
+    "answers": [
+      {
+        "id": "st-bernard",
+        "icon": "🐕",
+        "label": {
+          "de": "Bernhardiner",
+          "en": "St Bernard",
+          "it": "San Bernardo"
+        },
+        "correct": true
+      },
+      {
+        "id": "poodle",
+        "icon": "🐩",
+        "label": {
+          "de": "Pudel",
+          "en": "Poodle",
+          "it": "Barboncino"
+        },
+        "correct": false
+      },
+      {
+        "id": "chihuahua",
+        "icon": "🐶",
+        "label": {
+          "de": "Chihuahua",
+          "en": "Chihuahua",
+          "it": "Chihuahua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Bernhardiner halfen früher am Grossen St. Bernhard, Menschen im Schnee zu finden.",
+      "en": "St Bernard dogs used to help find people in the snow at the Great St Bernard Pass.",
+      "it": "I San Bernardo aiutavano a trovare le persone nella neve al Gran San Bernardo."
+    },
+    "funFact": {
+      "de": "Der berühmteste hiess Barry. Er soll über 40 Menschen gerettet haben.",
+      "en": "The most famous was called Barry. He is said to have saved more than 40 people.",
+      "it": "Il più famoso si chiamava Barry: si dice abbia salvato più di 40 persone."
+    },
+    "tags": [
+      "animals",
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-palm-trees",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo in der Schweiz wachsen Palmen?",
+      "en": "Where in Switzerland do palm trees grow?",
+      "it": "Dove crescono le palme in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "in-ticino",
+        "icon": "🌴",
+        "label": {
+          "de": "Im Tessin",
+          "en": "In Ticino",
+          "it": "In Ticino"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-a-glacier",
+        "icon": "🧊",
+        "label": {
+          "de": "Auf dem Gletscher",
+          "en": "On a glacier",
+          "it": "Sul ghiacciaio"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-the-matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf dem Matterhorn",
+          "en": "On the Matterhorn",
+          "it": "Sul Cervino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Tessin ist es warm. Dort wachsen sogar Palmen.",
+      "en": "Ticino is warm – palm trees even grow there.",
+      "it": "In Ticino fa caldo: crescono perfino le palme."
+    },
+    "funFact": {
+      "de": "Im Tessin spricht man Italienisch.",
+      "en": "In Ticino people speak Italian.",
+      "it": "In Ticino si parla italiano."
+    },
+    "tags": [
+      "geography",
+      "plants"
+    ]
+  },
+  {
+    "id": "switzerland-swim-river",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Im Sommer kann man in der Schweiz in Seen und Flüssen baden. Stimmt das?",
+      "en": "In summer you can swim in lakes and rivers in Switzerland. Is that true?",
+      "it": "D'estate in Svizzera si può fare il bagno nei laghi e nei fiumi. È vero?"
+    },
+    "visual": "🏊",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Viele Seen und Flüsse sind sauber genug zum Baden.",
+      "en": "That's true! Lots of lakes and rivers are clean enough to swim in.",
+      "it": "È vero! Molti laghi e fiumi sono abbastanza puliti per fare il bagno."
+    },
+    "funFact": {
+      "de": "In Bern lassen sich im Sommer viele Leute in der Aare treiben.",
+      "en": "In Bern, lots of people float down the river Aare in summer.",
+      "it": "A Berna d'estate molti si lasciano trasportare dalla corrente dell'Aare."
+    },
+    "tags": [
+      "lakes",
+      "summer"
+    ]
+  },
+  {
+    "id": "switzerland-cable-car",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Womit fährt man an einem Seil auf den Berg?",
+      "en": "What takes you up a mountain hanging on a cable?",
+      "it": "Con che cosa si sale in montagna appesi a un cavo?"
+    },
+    "answers": [
+      {
+        "id": "a-cable-car",
+        "icon": "🚡",
+        "label": {
+          "de": "Mit der Gondel",
+          "en": "A cable car",
+          "it": "Con la cabinovia"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-speedboat",
+        "icon": "🚤",
+        "label": {
+          "de": "Mit dem Schnellboot",
+          "en": "A speedboat",
+          "it": "Con il motoscafo"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-balloon",
+        "icon": "🎈",
+        "label": {
+          "de": "Mit einem Luftballon",
+          "en": "A balloon",
+          "it": "Con un palloncino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mit Gondeln und Seilbahnen fährt man auf die Berge.",
+      "en": "Cable cars carry you up the mountains.",
+      "it": "Con cabinovie e funivie si sale sulle montagne."
+    },
+    "funFact": {
+      "de": "In der Schweiz gibt es sehr viele Seilbahnen.",
+      "en": "Switzerland has lots and lots of cable cars.",
+      "it": "In Svizzera ci sono tantissime funivie."
+    },
+    "tags": [
+      "transport",
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-colder-peak",
+    "category": "switzerland",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Wo ist es kälter?",
+      "en": "Where is it colder?",
+      "it": "Dove fa più freddo?"
+    },
+    "answers": [
+      {
+        "id": "on-the-mountain-top",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf der Bergspitze",
+          "en": "On the mountain top",
+          "it": "In cima alla montagna"
+        },
+        "correct": true
+      },
+      {
+        "id": "by-the-lake-in-summer",
+        "icon": "🏖️",
+        "label": {
+          "de": "Am See im Sommer",
+          "en": "By the lake in summer",
+          "it": "Al lago d'estate"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Oben auf dem Berg ist es viel kälter.",
+      "en": "It's much colder at the top of the mountain.",
+      "it": "In cima alla montagna fa molto più freddo."
+    },
+    "funFact": {
+      "de": "Auf dem Jungfraujoch liegt das ganze Jahr Schnee.",
+      "en": "There's snow on the Jungfraujoch all year round.",
+      "it": "Sullo Jungfraujoch c'è neve tutto l'anno."
+    },
+    "tags": [
+      "mountains",
+      "temperature"
+    ]
+  },
+  {
+    "id": "switzerland-curling",
+    "category": "switzerland",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Bei welchem Sport schiebt man schwere Steine über das Eis?",
+      "en": "In which sport do you slide heavy stones across the ice?",
+      "it": "In quale sport si fanno scivolare pietre pesanti sul ghiaccio?"
+    },
+    "answers": [
+      {
+        "id": "curling",
+        "icon": "🥌",
+        "label": {
+          "de": "Curling",
+          "en": "Curling",
+          "it": "Curling"
+        },
+        "correct": true
+      },
+      {
+        "id": "volleyball",
+        "icon": "🏐",
+        "label": {
+          "de": "Volleyball",
+          "en": "Volleyball",
+          "it": "Pallavolo"
+        },
+        "correct": false
+      },
+      {
+        "id": "bowling",
+        "icon": "🎳",
+        "label": {
+          "de": "Bowling",
+          "en": "Bowling",
+          "it": "Bowling"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Beim Curling schiebt man Steine übers Eis und wischt davor.",
+      "en": "In curling you slide stones over the ice and sweep in front of them.",
+      "it": "Nel curling si fanno scivolare le pietre e si spazza davanti."
+    },
+    "funFact": {
+      "de": "Ein Curlingstein wiegt fast 20 Kilo.",
+      "en": "A curling stone weighs nearly 20 kilos.",
+      "it": "Una pietra da curling pesa quasi 20 chili."
+    },
+    "tags": [
+      "sport",
+      "winter"
+    ]
+  },
+  {
+    "id": "switzerland-milk-chocolate",
+    "category": "switzerland",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Milchschokolade wurde in der Schweiz erfunden. Stimmt das?",
+      "en": "Milk chocolate was invented in Switzerland. Is that true?",
+      "it": "Il cioccolato al latte è stato inventato in Svizzera. È vero?"
+    },
+    "visual": "🍫🥛",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ein Schweizer hat zum ersten Mal Milch in die Schokolade gemischt.",
+      "en": "That's true! A Swiss man was the first to mix milk into chocolate.",
+      "it": "È vero! Uno svizzero ha mescolato per primo il latte nel cioccolato."
+    },
+    "funFact": {
+      "de": "Er hiess Daniel Peter und lebte in Vevey am Genfersee.",
+      "en": "His name was Daniel Peter and he lived in Vevey on Lake Geneva.",
+      "it": "Si chiamava Daniel Peter e viveva a Vevey, sul Lago Lemano."
+    },
+    "tags": [
+      "food",
+      "inventions"
+    ]
+  },
+  {
+    "id": "switzerland-continent",
+    "category": "switzerland",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Auf welchem Kontinent liegt die Schweiz?",
+      "en": "Which continent is Switzerland in?",
+      "it": "In quale continente si trova la Svizzera?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "europe",
+        "icon": "🌍",
+        "label": {
+          "de": "Europa",
+          "en": "Europe",
+          "it": "Europa"
+        },
+        "correct": true
+      },
+      {
+        "id": "asia",
+        "icon": "🌏",
+        "label": {
+          "de": "Asien",
+          "en": "Asia",
+          "it": "Asia"
+        },
+        "correct": false
+      },
+      {
+        "id": "africa",
+        "icon": "🦁",
+        "label": {
+          "de": "Afrika",
+          "en": "Africa",
+          "it": "Africa"
+        },
+        "correct": false
+      },
+      {
+        "id": "america",
+        "icon": "🌎",
+        "label": {
+          "de": "Amerika",
+          "en": "America",
+          "it": "America"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz liegt mitten in Europa.",
+      "en": "Switzerland is right in the middle of Europe.",
+      "it": "La Svizzera è nel cuore dell'Europa."
+    },
+    "funFact": {
+      "de": "Die Schweiz grenzt an fünf Länder.",
+      "en": "Switzerland borders five countries.",
+      "it": "La Svizzera confina con cinque paesi."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "switzerland-ticino-language",
+    "category": "switzerland",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Sprache spricht man im Tessin?",
+      "en": "Which language is spoken in Ticino?",
+      "it": "Che lingua si parla in Ticino?"
+    },
+    "answers": [
+      {
+        "id": "italian",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch",
+          "en": "Italian",
+          "it": "Italiano"
+        },
+        "correct": true
+      },
+      {
+        "id": "french",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Französisch",
+          "en": "French",
+          "it": "Francese"
+        },
+        "correct": false
+      },
+      {
+        "id": "german",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch",
+          "en": "German",
+          "it": "Tedesco"
+        },
+        "correct": false
+      },
+      {
+        "id": "english",
+        "icon": "🇬🇧",
+        "label": {
+          "de": "Englisch",
+          "en": "English",
+          "it": "Inglese"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Tessin spricht man Italienisch.",
+      "en": "In Ticino people speak Italian.",
+      "it": "In Ticino si parla italiano."
+    },
+    "funFact": {
+      "de": "Auch in einigen Tälern von Graubünden spricht man Italienisch.",
+      "en": "Italian is also spoken in some valleys of Graubünden.",
+      "it": "L'italiano si parla anche in alcune valli dei Grigioni."
+    },
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "id": "switzerland-geneva-language",
+    "category": "switzerland",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Sprache spricht man in Genf?",
+      "en": "Which language is spoken in Geneva?",
+      "it": "Che lingua si parla a Ginevra?"
+    },
+    "answers": [
+      {
+        "id": "french",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Französisch",
+          "en": "French",
+          "it": "Francese"
+        },
+        "correct": true
+      },
+      {
+        "id": "italian",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch",
+          "en": "Italian",
+          "it": "Italiano"
+        },
+        "correct": false
+      },
+      {
+        "id": "german",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch",
+          "en": "German",
+          "it": "Tedesco"
+        },
+        "correct": false
+      },
+      {
+        "id": "spanish",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Spanisch",
+          "en": "Spanish",
+          "it": "Spagnolo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Genf spricht man Französisch.",
+      "en": "In Geneva people speak French.",
+      "it": "A Ginevra si parla francese."
+    },
+    "funFact": {
+      "de": "Den französischsprachigen Teil der Schweiz nennt man Romandie.",
+      "en": "The French-speaking part of Switzerland is called Romandy.",
+      "it": "La parte francofona della Svizzera si chiama Romandia."
+    },
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "id": "switzerland-romansh",
+    "category": "switzerland",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Rätoromanisch ist eine Landessprache der Schweiz. Stimmt das?",
+      "en": "Romansh is a national language of Switzerland. Is that true?",
+      "it": "Il romancio è una lingua nazionale svizzera. È vero?"
+    },
+    "visual": "👋",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Man spricht es vor allem in Graubünden.",
+      "en": "That's true! It's spoken mainly in Graubünden.",
+      "it": "È vero! Si parla soprattutto nei Grigioni."
+    },
+    "funFact": {
+      "de": "Auf Rätoromanisch sagt man «Allegra» zur Begrüssung.",
+      "en": "In Romansh, people say “Allegra” to greet each other.",
+      "it": "In romancio ci si saluta dicendo «Allegra»."
+    },
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "id": "switzerland-cantons",
+    "category": "switzerland",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Kantone hat die Schweiz?",
+      "en": "How many cantons does Switzerland have?",
+      "it": "Quanti cantoni ha la Svizzera?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "twenty-six",
+        "icon": "26",
+        "label": {
+          "de": "Sechsundzwanzig",
+          "en": "Twenty-six",
+          "it": "Ventisei"
+        },
+        "correct": true
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz hat 26 Kantone.",
+      "en": "Switzerland has 26 cantons.",
+      "it": "La Svizzera ha 26 cantoni."
+    },
+    "funFact": {
+      "de": "Jeder Kanton hat sein eigenes Wappen.",
+      "en": "Every canton has its own coat of arms.",
+      "it": "Ogni cantone ha il suo stemma."
+    },
+    "tags": [
+      "geography",
+      "numbers"
+    ]
+  },
+  {
+    "id": "switzerland-william-tell",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer schoss der Sage nach einen Apfel vom Kopf seines Sohnes?",
+      "en": "Who, according to legend, shot an apple off his son's head?",
+      "it": "Chi, secondo la leggenda, colpì una mela sulla testa del figlio?"
+    },
+    "answers": [
+      {
+        "id": "william-tell",
+        "icon": "🏹",
+        "label": {
+          "de": "Wilhelm Tell",
+          "en": "William Tell",
+          "it": "Guglielmo Tell"
+        },
+        "correct": true
+      },
+      {
+        "id": "heidi",
+        "icon": "🐐",
+        "label": {
+          "de": "Heidi",
+          "en": "Heidi",
+          "it": "Heidi"
+        },
+        "correct": false
+      },
+      {
+        "id": "henri-dunant",
+        "icon": "⛑️",
+        "label": {
+          "de": "Henri Dunant",
+          "en": "Henri Dunant",
+          "it": "Henry Dunant"
+        },
+        "correct": false
+      },
+      {
+        "id": "albert-einstein",
+        "icon": "🧠",
+        "label": {
+          "de": "Albert Einstein",
+          "en": "Albert Einstein",
+          "it": "Albert Einstein"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Wilhelm Tell ist ein Held aus einer alten Schweizer Sage.",
+      "en": "William Tell is a hero from an old Swiss legend.",
+      "it": "Guglielmo Tell è un eroe di un'antica leggenda svizzera."
+    },
+    "funFact": {
+      "de": "Die Sage spielt in Altdorf im Kanton Uri.",
+      "en": "The legend takes place in Altdorf in the canton of Uri.",
+      "it": "La leggenda si svolge ad Altdorf, nel canton Uri."
+    },
+    "tags": [
+      "history",
+      "stories"
+    ]
+  },
+  {
+    "id": "switzerland-red-cross",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Hilfsorganisation wurde in Genf gegründet?",
+      "en": "Which aid organisation was founded in Geneva?",
+      "it": "Quale organizzazione umanitaria è nata a Ginevra?"
+    },
+    "answers": [
+      {
+        "id": "the-red-cross",
+        "icon": "⛑️",
+        "label": {
+          "de": "Das Rote Kreuz",
+          "en": "The Red Cross",
+          "it": "La Croce Rossa"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-chocolate-factory",
+        "icon": "🍫",
+        "label": {
+          "de": "Eine Schokoladenfabrik",
+          "en": "A chocolate factory",
+          "it": "Una fabbrica di cioccolato"
+        },
+        "correct": false
+      },
+      {
+        "id": "nasa",
+        "icon": "🚀",
+        "label": {
+          "de": "Die NASA",
+          "en": "NASA",
+          "it": "La NASA"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-circus",
+        "icon": "🎪",
+        "label": {
+          "de": "Ein Zirkus",
+          "en": "A circus",
+          "it": "Un circo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Rote Kreuz wurde 1863 in Genf gegründet.",
+      "en": "The Red Cross was founded in Geneva in 1863.",
+      "it": "La Croce Rossa è stata fondata a Ginevra nel 1863."
+    },
+    "funFact": {
+      "de": "Henri Dunant gründete es und erhielt den allerersten Friedensnobelpreis.",
+      "en": "Henri Dunant founded it and received the very first Nobel Peace Prize.",
+      "it": "Henry Dunant la fondò e ricevette il primissimo premio Nobel per la pace."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-red-cross-flag",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Fahne des Roten Kreuzes ist die umgekehrte Schweizer Fahne. Stimmt das?",
+      "en": "The Red Cross flag is the Swiss flag with its colours swapped. Is that true?",
+      "it": "La bandiera della Croce Rossa è quella svizzera a colori invertiti. È vero?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Rotes Kreuz auf weissem Grund, zu Ehren der Schweiz.",
+      "en": "That's true! A red cross on white, in honour of Switzerland.",
+      "it": "È vero! Croce rossa su fondo bianco, in onore della Svizzera."
+    },
+    "funFact": {
+      "de": "Das Zeichen schützt Helferinnen und Helfer überall auf der Welt.",
+      "en": "The sign protects helpers all over the world.",
+      "it": "Questo simbolo protegge i soccorritori in tutto il mondo."
+    },
+    "tags": [
+      "history",
+      "flag"
+    ]
+  },
+  {
+    "id": "switzerland-federal-city",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Bern heisst offiziell nicht «Hauptstadt», sondern «Bundesstadt». Stimmt das?",
+      "en": "Officially, Bern isn't called the “capital” but the “federal city”. Is that true?",
+      "it": "Ufficialmente Berna non si chiama «capitale», ma «città federale». È vero?"
+    },
+    "visual": "🐻",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! In Bern sitzen Regierung und Parlament.",
+      "en": "That's true! The government and parliament are based in Bern.",
+      "it": "È vero! A Berna hanno sede governo e parlamento."
+    },
+    "funFact": {
+      "de": "Das Parlament arbeitet im Bundeshaus in Bern.",
+      "en": "Parliament meets in the Federal Palace in Bern.",
+      "it": "Il parlamento lavora a Palazzo federale, a Berna."
+    },
+    "tags": [
+      "cities",
+      "politics",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-largest-city",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist die grösste Stadt der Schweiz?",
+      "en": "What is the largest city in Switzerland?",
+      "it": "Qual è la città più grande della Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": true
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      },
+      {
+        "id": "geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf",
+          "en": "Geneva",
+          "it": "Ginevra"
+        },
+        "correct": false
+      },
+      {
+        "id": "lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "Lugano",
+          "en": "Lugano",
+          "it": "Lugano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Zürich ist die grösste Stadt der Schweiz.",
+      "en": "Zurich is Switzerland's largest city.",
+      "it": "Zurigo è la città più grande della Svizzera."
+    },
+    "funFact": {
+      "de": "Zürich liegt am Zürichsee, und die Limmat fliesst hindurch.",
+      "en": "Zurich lies on Lake Zurich, and the river Limmat flows through it.",
+      "it": "Zurigo si trova sul lago di Zurigo ed è attraversata dalla Limmat."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-highest-peak",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher ist der höchste Berg der Schweiz?",
+      "en": "What is the highest mountain in Switzerland?",
+      "it": "Qual è la montagna più alta della Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "dufourspitze",
+        "icon": "🏔️",
+        "label": {
+          "de": "Dufourspitze",
+          "en": "Dufourspitze",
+          "it": "Punta Dufour"
+        },
+        "correct": true
+      },
+      {
+        "id": "matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "eiger",
+        "icon": "🗻",
+        "label": {
+          "de": "Eiger",
+          "en": "Eiger",
+          "it": "Eiger"
+        },
+        "correct": false
+      },
+      {
+        "id": "s-ntis",
+        "icon": "🌄",
+        "label": {
+          "de": "Säntis",
+          "en": "Säntis",
+          "it": "Säntis"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Dufourspitze im Monte-Rosa-Massiv ist mit 4634 Metern der höchste Schweizer Berg.",
+      "en": "At 4,634 metres, the Dufourspitze in the Monte Rosa massif is the highest Swiss peak.",
+      "it": "Con 4634 metri, la Punta Dufour nel massiccio del Monte Rosa è la vetta più alta della Svizzera."
+    },
+    "funFact": {
+      "de": "Viele denken, es sei das Matterhorn. Aber das ist «nur» rund 4478 Meter hoch.",
+      "en": "Many people think it's the Matterhorn, but that's “only” about 4,478 metres.",
+      "it": "Molti pensano sia il Cervino, che però è alto «solo» 4478 metri circa."
+    },
+    "tags": [
+      "mountains",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-river-bern",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Fluss fliesst durch Bern?",
+      "en": "Which river flows through Bern?",
+      "it": "Quale fiume attraversa Berna?"
+    },
+    "answers": [
+      {
+        "id": "aare",
+        "icon": "🏞️",
+        "label": {
+          "de": "Aare",
+          "en": "Aare",
+          "it": "Aare"
+        },
+        "correct": true
+      },
+      {
+        "id": "rhine",
+        "icon": "🌊",
+        "label": {
+          "de": "Rhein",
+          "en": "Rhine",
+          "it": "Reno"
+        },
+        "correct": false
+      },
+      {
+        "id": "rh-ne",
+        "icon": "💧",
+        "label": {
+          "de": "Rhone",
+          "en": "Rhône",
+          "it": "Rodano"
+        },
+        "correct": false
+      },
+      {
+        "id": "ticino",
+        "icon": "🌀",
+        "label": {
+          "de": "Ticino",
+          "en": "Ticino",
+          "it": "Ticino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Aare fliesst in einer grossen Schlaufe um die Berner Altstadt.",
+      "en": "The Aare flows in a big loop around Bern's old town.",
+      "it": "L'Aare scorre con un'ampia ansa intorno al centro storico di Berna."
+    },
+    "funFact": {
+      "de": "Die Aare ist der längste Fluss, der ganz in der Schweiz fliesst.",
+      "en": "The Aare is the longest river that flows entirely within Switzerland.",
+      "it": "L'Aare è il fiume più lungo che scorre tutto in Svizzera."
+    },
+    "tags": [
+      "rivers",
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-rhine-falls",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo ist der grösste Wasserfall Mitteleuropas?",
+      "en": "Where is the biggest waterfall in Central Europe?",
+      "it": "Dove si trova la cascata più grande dell'Europa centrale?"
+    },
+    "answers": [
+      {
+        "id": "the-rhine-falls-near-schaffhausen",
+        "icon": "💦",
+        "label": {
+          "de": "Beim Rheinfall bei Schaffhausen",
+          "en": "The Rhine Falls near Schaffhausen",
+          "it": "Alle cascate del Reno vicino a Sciaffusa"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-lake-geneva",
+        "icon": "🏞️",
+        "label": {
+          "de": "Im Genfersee",
+          "en": "In Lake Geneva",
+          "it": "Nel Lago Lemano"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-the-matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf dem Matterhorn",
+          "en": "On the Matterhorn",
+          "it": "Sul Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-the-gotthard-tunnel",
+        "icon": "🚆",
+        "label": {
+          "de": "Im Gotthardtunnel",
+          "en": "In the Gotthard tunnel",
+          "it": "Nella galleria del Gottardo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Rheinfall bei Schaffhausen ist der grösste Wasserfall Mitteleuropas.",
+      "en": "The Rhine Falls near Schaffhausen are the biggest waterfall in Central Europe.",
+      "it": "Le cascate del Reno presso Sciaffusa sono le più grandi dell'Europa centrale."
+    },
+    "funFact": {
+      "de": "Mit einem Boot kann man zu einem Felsen mitten im Wasserfall fahren.",
+      "en": "You can take a boat to a rock right in the middle of the falls.",
+      "it": "In barca si può arrivare a una roccia in mezzo alla cascata."
+    },
+    "tags": [
+      "rivers"
+    ],
+    "uncertain": "'Largest waterfall in Central Europe' is how Swiss tourism describes it (by water volume); other rankings differ."
+  },
+  {
+    "id": "switzerland-gotthard-tunnel",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst der längste Eisenbahntunnel der Welt?",
+      "en": "What is the longest railway tunnel in the world?",
+      "it": "Qual è la galleria ferroviaria più lunga del mondo?"
+    },
+    "answers": [
+      {
+        "id": "gotthard-base-tunnel",
+        "icon": "🚆",
+        "label": {
+          "de": "Gotthard-Basistunnel",
+          "en": "Gotthard Base Tunnel",
+          "it": "Galleria di base del San Gottardo"
+        },
+        "correct": true
+      },
+      {
+        "id": "simplon-tunnel",
+        "icon": "🚇",
+        "label": {
+          "de": "Simplontunnel",
+          "en": "Simplon Tunnel",
+          "it": "Galleria del Sempione"
+        },
+        "correct": false
+      },
+      {
+        "id": "channel-tunnel",
+        "icon": "🌊",
+        "label": {
+          "de": "Eurotunnel",
+          "en": "Channel Tunnel",
+          "it": "Tunnel della Manica"
+        },
+        "correct": false
+      },
+      {
+        "id": "seelisberg-tunnel",
+        "icon": "🚗",
+        "label": {
+          "de": "Seelisbergtunnel",
+          "en": "Seelisberg Tunnel",
+          "it": "Galleria del Seelisberg"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Gotthard-Basistunnel ist der längste Eisenbahntunnel der Welt.",
+      "en": "The Gotthard Base Tunnel is the world's longest railway tunnel.",
+      "it": "La galleria di base del San Gottardo è la galleria ferroviaria più lunga del mondo."
+    },
+    "funFact": {
+      "de": "Er ist 57 Kilometer lang und wurde 2016 eröffnet.",
+      "en": "It is 57 kilometres long and opened in 2016.",
+      "it": "È lunga 57 chilometri ed è stata aperta nel 2016."
+    },
+    "tags": [
+      "transport",
+      "records"
+    ]
+  },
+  {
+    "id": "switzerland-rhine-sea",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welches Meer fliesst der Rhein?",
+      "en": "Which sea does the Rhine flow into?",
+      "it": "In quale mare sfocia il Reno?"
+    },
+    "answers": [
+      {
+        "id": "the-north-sea",
+        "icon": "🌊",
+        "label": {
+          "de": "In die Nordsee",
+          "en": "The North Sea",
+          "it": "Il Mare del Nord"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-mediterranean",
+        "icon": "🏖️",
+        "label": {
+          "de": "Ins Mittelmeer",
+          "en": "The Mediterranean",
+          "it": "Il Mediterraneo"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-black-sea",
+        "icon": "⚫",
+        "label": {
+          "de": "Ins Schwarze Meer",
+          "en": "The Black Sea",
+          "it": "Il Mar Nero"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-baltic-sea",
+        "icon": "❄️",
+        "label": {
+          "de": "In die Ostsee",
+          "en": "The Baltic Sea",
+          "it": "Il Mar Baltico"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Rhein fliesst von den Alpen bis in die Nordsee.",
+      "en": "The Rhine flows from the Alps to the North Sea.",
+      "it": "Il Reno scorre dalle Alpi fino al Mare del Nord."
+    },
+    "funFact": {
+      "de": "Schweizer Wasser fliesst in drei Meere: Der Rhein in die Nordsee, die Rhone ins Mittelmeer und der Inn bis ins Schwarze Meer.",
+      "en": "Swiss water reaches three seas: the Rhine the North Sea, the Rhône the Mediterranean, and the Inn the Black Sea.",
+      "it": "L'acqua svizzera arriva in tre mari: il Reno nel Mare del Nord, il Rodano nel Mediterraneo e l'Inn fino al Mar Nero."
+    },
+    "tags": [
+      "rivers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-three-languages-canton",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Kanton hat drei Amtssprachen?",
+      "en": "Which canton has three official languages?",
+      "it": "Quale cantone ha tre lingue ufficiali?"
+    },
+    "answers": [
+      {
+        "id": "graub-nden",
+        "icon": "🐐",
+        "label": {
+          "de": "Graubünden",
+          "en": "Graubünden",
+          "it": "Grigioni"
+        },
+        "correct": true
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      },
+      {
+        "id": "valais",
+        "icon": "⛰️",
+        "label": {
+          "de": "Wallis",
+          "en": "Valais",
+          "it": "Vallese"
+        },
+        "correct": false
+      },
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Graubünden spricht man Deutsch, Rätoromanisch und Italienisch.",
+      "en": "In Graubünden people speak German, Romansh and Italian.",
+      "it": "Nei Grigioni si parlano tedesco, romancio e italiano."
+    },
+    "funFact": {
+      "de": "Graubünden ist auch der grösste Kanton der Schweiz.",
+      "en": "Graubünden is also the largest canton in Switzerland.",
+      "it": "I Grigioni sono anche il cantone più grande della Svizzera."
+    },
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "id": "switzerland-bilingual-city",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Stadt ist zweisprachig, Deutsch und Französisch?",
+      "en": "Which city is bilingual, German and French?",
+      "it": "Quale città è bilingue, tedesco e francese?"
+    },
+    "answers": [
+      {
+        "id": "biel-bienne",
+        "icon": "🪧",
+        "label": {
+          "de": "Biel/Bienne",
+          "en": "Biel/Bienne",
+          "it": "Bienne"
+        },
+        "correct": true
+      },
+      {
+        "id": "lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "Lugano",
+          "en": "Lugano",
+          "it": "Lugano"
+        },
+        "correct": false
+      },
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": false
+      },
+      {
+        "id": "chur",
+        "icon": "🏔️",
+        "label": {
+          "de": "Chur",
+          "en": "Chur",
+          "it": "Coira"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Biel/Bienne spricht man Deutsch und Französisch.",
+      "en": "In Biel/Bienne people speak German and French.",
+      "it": "A Bienne si parlano tedesco e francese."
+    },
+    "funFact": {
+      "de": "In Biel stehen die Strassennamen in beiden Sprachen auf den Schildern.",
+      "en": "In Biel the street signs are in both languages.",
+      "it": "A Bienne i nomi delle strade sono scritti in entrambe le lingue."
+    },
+    "tags": [
+      "languages",
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-founding-cantons",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Kantone schlossen sich der Sage nach 1291 als erste zusammen?",
+      "en": "Which cantons, according to legend, first joined together in 1291?",
+      "it": "Quali cantoni, secondo la tradizione, si allearono per primi nel 1291?"
+    },
+    "answers": [
+      {
+        "id": "uri-schwyz-and-unterwalden",
+        "icon": "🤝",
+        "label": {
+          "de": "Uri, Schwyz und Unterwalden",
+          "en": "Uri, Schwyz and Unterwalden",
+          "it": "Uri, Svitto e Untervaldo"
+        },
+        "correct": true
+      },
+      {
+        "id": "zurich-bern-and-basel",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich, Bern und Basel",
+          "en": "Zurich, Bern and Basel",
+          "it": "Zurigo, Berna e Basilea"
+        },
+        "correct": false
+      },
+      {
+        "id": "geneva-vaud-and-valais",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf, Waadt und Wallis",
+          "en": "Geneva, Vaud and Valais",
+          "it": "Ginevra, Vaud e Vallese"
+        },
+        "correct": false
+      },
+      {
+        "id": "ticino-graub-nden-and-glarus",
+        "icon": "🌴",
+        "label": {
+          "de": "Tessin, Graubünden und Glarus",
+          "en": "Ticino, Graubünden and Glarus",
+          "it": "Ticino, Grigioni e Glarona"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Uri, Schwyz und Unterwalden nennt man die Urkantone.",
+      "en": "Uri, Schwyz and Unterwalden are called the original cantons.",
+      "it": "Uri, Svitto e Untervaldo sono chiamati i cantoni primitivi."
+    },
+    "funFact": {
+      "de": "Man erzählt vom Rütlischwur auf einer Wiese am Vierwaldstättersee.",
+      "en": "The story tells of an oath sworn on the Rütli meadow by Lake Lucerne.",
+      "it": "Si racconta del giuramento del Grütli, su un prato sul lago dei Quattro Cantoni."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-name-from-schwyz",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Der Name «Schweiz» kommt vom Kanton Schwyz. Stimmt das?",
+      "en": "The name “Switzerland” comes from the canton of Schwyz. Is that true?",
+      "it": "Il nome «Svizzera» viene dal canton Svitto. È vero?"
+    },
+    "visual": "🇨🇭",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Schwyz gab dem ganzen Land seinen Namen.",
+      "en": "That's true! Schwyz gave the whole country its name.",
+      "it": "È vero! Svitto ha dato il nome a tutto il paese."
+    },
+    "funFact": {
+      "de": "Schwyz ist einer der drei Urkantone.",
+      "en": "Schwyz is one of the three original cantons.",
+      "it": "Svitto è uno dei tre cantoni primitivi."
+    },
+    "tags": [
+      "history",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-ch-letters",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wofür steht «CH» auf Schweizer Autos?",
+      "en": "What does “CH” on Swiss cars stand for?",
+      "it": "Che cosa significa «CH» sulle auto svizzere?"
+    },
+    "answers": [
+      {
+        "id": "confoederatio-helvetica",
+        "icon": "🇨🇭",
+        "label": {
+          "de": "Confoederatio Helvetica",
+          "en": "Confoederatio Helvetica",
+          "it": "Confoederatio Helvetica"
+        },
+        "correct": true
+      },
+      {
+        "id": "chocolate-and-heidi",
+        "icon": "🍫",
+        "label": {
+          "de": "Chocolate und Heidi",
+          "en": "Chocolate and Heidi",
+          "it": "Cioccolato e Heidi"
+        },
+        "correct": false
+      },
+      {
+        "id": "cheese-house",
+        "icon": "🧀",
+        "label": {
+          "de": "Cheese House",
+          "en": "Cheese House",
+          "it": "Casa del formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "chur-capital",
+        "icon": "🏔️",
+        "label": {
+          "de": "Chur Hauptstadt",
+          "en": "Chur Capital",
+          "it": "Coira capitale"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "CH steht für «Confoederatio Helvetica». Das ist Latein.",
+      "en": "CH stands for “Confoederatio Helvetica”, which is Latin.",
+      "it": "CH sta per «Confoederatio Helvetica», in latino."
+    },
+    "funFact": {
+      "de": "Auf Deutsch heisst das «Schweizerische Eidgenossenschaft».",
+      "en": "It means “Swiss Confederation”.",
+      "it": "Significa «Confederazione Svizzera»."
+    },
+    "tags": [
+      "languages",
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-federal-council",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Mitglieder hat der Bundesrat, die Schweizer Regierung?",
+      "en": "How many members does the Federal Council, Switzerland's government, have?",
+      "it": "Quanti membri ha il Consiglio federale, il governo svizzero?"
+    },
+    "answers": [
+      {
+        "id": "seven",
+        "icon": "7",
+        "label": {
+          "de": "Sieben",
+          "en": "Seven",
+          "it": "Sette"
+        },
+        "correct": true
+      },
+      {
+        "id": "one",
+        "icon": "1",
+        "label": {
+          "de": "Eins",
+          "en": "One",
+          "it": "Uno"
+        },
+        "correct": false
+      },
+      {
+        "id": "three",
+        "icon": "3",
+        "label": {
+          "de": "Drei",
+          "en": "Three",
+          "it": "Tre"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty-six",
+        "icon": "26",
+        "label": {
+          "de": "Sechsundzwanzig",
+          "en": "Twenty-six",
+          "it": "Ventisei"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Bundesrat hat sieben Mitglieder.",
+      "en": "The Federal Council has seven members.",
+      "it": "Il Consiglio federale ha sette membri."
+    },
+    "funFact": {
+      "de": "Jedes Jahr ist ein anderes Mitglied Bundespräsidentin oder Bundespräsident.",
+      "en": "Each year a different member becomes the Swiss President.",
+      "it": "Ogni anno un membro diverso diventa presidente della Confederazione."
+    },
+    "tags": [
+      "politics",
+      "numbers"
+    ]
+  },
+  {
+    "id": "switzerland-votes",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie entscheiden die Stimmberechtigten in der Schweiz oft über wichtige Fragen?",
+      "en": "How do Swiss voters often decide important questions?",
+      "it": "Come decidono spesso gli aventi diritto di voto in Svizzera sulle questioni importanti?"
+    },
+    "answers": [
+      {
+        "id": "by-popular-votes",
+        "icon": "🗳️",
+        "label": {
+          "de": "Mit Volksabstimmungen",
+          "en": "By popular votes",
+          "it": "Con le votazioni popolari"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-king-decides",
+        "icon": "👑",
+        "label": {
+          "de": "Ein König entscheidet",
+          "en": "A king decides",
+          "it": "Decide un re"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-rolling-dice",
+        "icon": "🎲",
+        "label": {
+          "de": "Mit Würfeln",
+          "en": "By rolling dice",
+          "it": "Tirando i dadi"
+        },
+        "correct": false
+      },
+      {
+        "id": "by-tossing-a-coin",
+        "icon": "🪙",
+        "label": {
+          "de": "Mit einem Münzwurf",
+          "en": "By tossing a coin",
+          "it": "Lanciando una moneta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In der Schweiz stimmt das Volk direkt über viele Fragen ab.",
+      "en": "In Switzerland, the people vote directly on many questions.",
+      "it": "In Svizzera il popolo vota direttamente su molte questioni."
+    },
+    "funFact": {
+      "de": "In der Schweiz wird mehrmals im Jahr abgestimmt.",
+      "en": "In Switzerland there are votes several times a year.",
+      "it": "In Svizzera si vota più volte all'anno."
+    },
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "switzerland-landsgemeinde",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In zwei Kantonen stimmt man noch draussen auf einem Platz mit erhobener Hand ab. Stimmt das?",
+      "en": "In two cantons, people still vote outdoors in a square by raising their hands. Is that true?",
+      "it": "In due cantoni si vota ancora all'aperto in piazza alzando la mano. È vero?"
+    },
+    "visual": "✋",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! In Glarus und Appenzell Innerrhoden gibt es die Landsgemeinde.",
+      "en": "That's true! Glarus and Appenzell Innerrhoden still hold the Landsgemeinde.",
+      "it": "È vero! A Glarona e Appenzello Interno c'è ancora la Landsgemeinde."
+    },
+    "funFact": {
+      "de": "Die Landsgemeinde ist eine der ältesten Formen der Demokratie.",
+      "en": "The Landsgemeinde is one of the oldest forms of democracy.",
+      "it": "La Landsgemeinde è una delle forme di democrazia più antiche."
+    },
+    "tags": [
+      "politics",
+      "traditions"
+    ]
+  },
+  {
+    "id": "switzerland-women-vote",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Seit wann dürfen Frauen in der Schweiz landesweit abstimmen und wählen?",
+      "en": "Since when have women been able to vote in Swiss national elections?",
+      "it": "Da quando le donne possono votare a livello nazionale in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "since-1971",
+        "icon": "🗳️",
+        "label": {
+          "de": "Seit 1971",
+          "en": "Since 1971",
+          "it": "Dal 1971"
+        },
+        "correct": true
+      },
+      {
+        "id": "since-1871",
+        "icon": "📜",
+        "label": {
+          "de": "Seit 1871",
+          "en": "Since 1871",
+          "it": "Dal 1871"
+        },
+        "correct": false
+      },
+      {
+        "id": "since-1999",
+        "icon": "💿",
+        "label": {
+          "de": "Seit 1999",
+          "en": "Since 1999",
+          "it": "Dal 1999"
+        },
+        "correct": false
+      },
+      {
+        "id": "since-2010",
+        "icon": "📱",
+        "label": {
+          "de": "Seit 2010",
+          "en": "Since 2010",
+          "it": "Dal 2010"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Seit 1971 dürfen Frauen in der Schweiz landesweit abstimmen.",
+      "en": "Since 1971, women in Switzerland can vote nationally.",
+      "it": "Dal 1971 le donne in Svizzera possono votare a livello nazionale."
+    },
+    "funFact": {
+      "de": "Im Kanton Appenzell Innerrhoden kam das Frauenstimmrecht erst 1990.",
+      "en": "In the canton of Appenzell Innerrhoden, women only got the vote in 1990.",
+      "it": "Nel canton Appenzello Interno il voto alle donne è arrivato solo nel 1990."
+    },
+    "tags": [
+      "history",
+      "politics"
+    ]
+  },
+  {
+    "id": "switzerland-einstein-bern",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher berühmte Physiker hatte in Bern grosse Ideen?",
+      "en": "Which famous physicist had big ideas in Bern?",
+      "it": "Quale famoso fisico ebbe grandi idee a Berna?"
+    },
+    "answers": [
+      {
+        "id": "albert-einstein",
+        "icon": "🧠",
+        "label": {
+          "de": "Albert Einstein",
+          "en": "Albert Einstein",
+          "it": "Albert Einstein"
+        },
+        "correct": true
+      },
+      {
+        "id": "isaac-newton",
+        "icon": "🍎",
+        "label": {
+          "de": "Isaac Newton",
+          "en": "Isaac Newton",
+          "it": "Isaac Newton"
+        },
+        "correct": false
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      },
+      {
+        "id": "marie-curie",
+        "icon": "🧪",
+        "label": {
+          "de": "Marie Curie",
+          "en": "Marie Curie",
+          "it": "Marie Curie"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Albert Einstein arbeitete in Bern im Patentamt.",
+      "en": "Albert Einstein worked at the patent office in Bern.",
+      "it": "Albert Einstein lavorava all'ufficio brevetti di Berna."
+    },
+    "funFact": {
+      "de": "1905 schrieb er dort Arbeiten, die die Physik verändert haben.",
+      "en": "In 1905 he wrote papers there that changed physics.",
+      "it": "Nel 1905 vi scrisse studi che hanno cambiato la fisica."
+    },
+    "tags": [
+      "science",
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-cern",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo erforscht man in einem riesigen Ring unter der Erde die kleinsten Teilchen?",
+      "en": "Where do scientists study the tiniest particles in a giant underground ring?",
+      "it": "Dove si studiano le particelle più piccole in un enorme anello sotterraneo?"
+    },
+    "answers": [
+      {
+        "id": "at-cern-near-geneva",
+        "icon": "🔬",
+        "label": {
+          "de": "Am CERN bei Genf",
+          "en": "At CERN near Geneva",
+          "it": "Al CERN vicino a Ginevra"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-the-gotthard",
+        "icon": "🚆",
+        "label": {
+          "de": "Im Gotthard",
+          "en": "In the Gotthard",
+          "it": "Nel Gottardo"
+        },
+        "correct": false
+      },
+      {
+        "id": "on-the-matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf dem Matterhorn",
+          "en": "On the Matterhorn",
+          "it": "Sul Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "In Lugano",
+          "en": "In Lugano",
+          "it": "A Lugano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am CERN bei Genf forscht man an den kleinsten Teilchen.",
+      "en": "At CERN near Geneva, scientists study the tiniest particles.",
+      "it": "Al CERN, vicino a Ginevra, si studiano le particelle più piccole."
+    },
+    "funFact": {
+      "de": "Am CERN wurde auch das World Wide Web erfunden.",
+      "en": "The World Wide Web was invented at CERN too.",
+      "it": "Al CERN è stato inventato anche il World Wide Web."
+    },
+    "tags": [
+      "science",
+      "inventions"
+    ]
+  },
+  {
+    "id": "switzerland-velcro",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Schweizer Erfindung wurde von Kletten inspiriert?",
+      "en": "Which Swiss invention was inspired by burrs that stuck to a dog?",
+      "it": "Quale invenzione svizzera è stata ispirata dalle lappole?"
+    },
+    "answers": [
+      {
+        "id": "velcro",
+        "icon": "🩹",
+        "label": {
+          "de": "Der Klettverschluss",
+          "en": "Velcro",
+          "it": "Il velcro"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-telephone",
+        "icon": "☎️",
+        "label": {
+          "de": "Das Telefon",
+          "en": "The telephone",
+          "it": "Il telefono"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-light-bulb",
+        "icon": "💡",
+        "label": {
+          "de": "Die Glühbirne",
+          "en": "The light bulb",
+          "it": "La lampadina"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-car",
+        "icon": "🚗",
+        "label": {
+          "de": "Das Auto",
+          "en": "The car",
+          "it": "L'automobile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Klettverschluss wurde von einem Schweizer Ingenieur erfunden.",
+      "en": "Velcro was invented by a Swiss engineer.",
+      "it": "Il velcro è stato inventato da un ingegnere svizzero."
+    },
+    "funFact": {
+      "de": "Die Idee kam ihm, als nach einem Spaziergang Kletten im Fell seines Hundes hingen.",
+      "en": "He got the idea when burrs stuck in his dog's fur after a walk.",
+      "it": "L'idea gli venne quando, dopo una passeggiata, delle lappole si attaccarono al pelo del suo cane."
+    },
+    "tags": [
+      "inventions",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-jet-deau",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt steht der Jet d'eau, eine riesige Wasserfontäne?",
+      "en": "In which city is the Jet d'Eau, a giant water fountain?",
+      "it": "In quale città si trova il Jet d'eau, un'enorme fontana?"
+    },
+    "answers": [
+      {
+        "id": "geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf",
+          "en": "Geneva",
+          "it": "Ginevra"
+        },
+        "correct": true
+      },
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": false
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      },
+      {
+        "id": "lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "Lugano",
+          "en": "Lugano",
+          "it": "Lugano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Jet d'eau spritzt in Genf aus dem See.",
+      "en": "The Jet d'Eau shoots up out of the lake in Geneva.",
+      "it": "Il Jet d'eau zampilla dal lago a Ginevra."
+    },
+    "funFact": {
+      "de": "Die Fontäne spritzt bis zu 140 Meter hoch.",
+      "en": "The fountain shoots up to 140 metres high.",
+      "it": "La fontana arriva fino a 140 metri d'altezza."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-chapel-bridge",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt steht die berühmte Kapellbrücke aus Holz?",
+      "en": "In which city is the famous wooden Chapel Bridge?",
+      "it": "In quale città si trova il famoso ponte della Cappella in legno?"
+    },
+    "answers": [
+      {
+        "id": "lucerne",
+        "icon": "🌉",
+        "label": {
+          "de": "Luzern",
+          "en": "Lucerne",
+          "it": "Lucerna"
+        },
+        "correct": true
+      },
+      {
+        "id": "basel",
+        "icon": "🦆",
+        "label": {
+          "de": "Basel",
+          "en": "Basel",
+          "it": "Basilea"
+        },
+        "correct": false
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      },
+      {
+        "id": "geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf",
+          "en": "Geneva",
+          "it": "Ginevra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Kapellbrücke steht in Luzern über der Reuss.",
+      "en": "The Chapel Bridge crosses the river Reuss in Lucerne.",
+      "it": "Il ponte della Cappella attraversa la Reuss a Lucerna."
+    },
+    "funFact": {
+      "de": "Sie ist eine der ältesten Holzbrücken Europas.",
+      "en": "It's one of the oldest wooden bridges in Europe.",
+      "it": "È uno dei ponti di legno più antichi d'Europa."
+    },
+    "tags": [
+      "cities",
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-basel-carnival",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo beginnt die Fasnacht um vier Uhr morgens, wenn alle Lichter ausgehen?",
+      "en": "Where does carnival begin at four in the morning when all the lights go out?",
+      "it": "Dove comincia il carnevale alle quattro del mattino, quando si spengono tutte le luci?"
+    },
+    "answers": [
+      {
+        "id": "in-basel",
+        "icon": "🥁",
+        "label": {
+          "de": "In Basel",
+          "en": "In Basel",
+          "it": "A Basilea"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "In Zürich",
+          "en": "In Zurich",
+          "it": "A Zurigo"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "In Lugano",
+          "en": "In Lugano",
+          "it": "A Lugano"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "In Genf",
+          "en": "In Geneva",
+          "it": "A Ginevra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Basler Fasnacht beginnt mit dem Morgestraich um vier Uhr früh.",
+      "en": "Basel carnival starts with the Morgestraich at four in the morning.",
+      "it": "Il carnevale di Basilea comincia con il Morgestraich alle quattro del mattino."
+    },
+    "funFact": {
+      "de": "Dann ziehen Gruppen mit Trommeln, Piccolos und Laternen durch die dunkle Stadt.",
+      "en": "Then groups with drums, piccolos and lanterns march through the dark city.",
+      "it": "Poi gruppi con tamburi, ottavini e lanterne sfilano per la città buia."
+    },
+    "tags": [
+      "traditions",
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-boeoegg",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was wird in Zürich am Sechseläuten verbrannt?",
+      "en": "What is burned in Zurich at the Sechseläuten festival?",
+      "it": "Che cosa si brucia a Zurigo durante il Sechseläuten?"
+    },
+    "answers": [
+      {
+        "id": "the-b-gg-a-snowman",
+        "icon": "⛄",
+        "label": {
+          "de": "Der Böögg, ein Schneemann",
+          "en": "The Böögg, a snowman",
+          "it": "Il Böögg, un pupazzo di neve"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-cheese",
+        "icon": "🧀",
+        "label": {
+          "de": "Ein Käse",
+          "en": "A cheese",
+          "it": "Un formaggio"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-christmas-tree",
+        "icon": "🎄",
+        "label": {
+          "de": "Ein Weihnachtsbaum",
+          "en": "A Christmas tree",
+          "it": "Un albero di Natale"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-car",
+        "icon": "🚗",
+        "label": {
+          "de": "Ein Auto",
+          "en": "A car",
+          "it": "Un'automobile"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am Sechseläuten verbrennt man den Böögg, einen Schneemann aus Watte.",
+      "en": "At Sechseläuten, the Böögg – a snowman made of cotton wool – is burned.",
+      "it": "Al Sechseläuten si brucia il Böögg, un pupazzo di neve di ovatta."
+    },
+    "funFact": {
+      "de": "Je schneller sein Kopf explodiert, desto schöner soll der Sommer werden.",
+      "en": "The faster his head explodes, the nicer the summer is supposed to be.",
+      "it": "Più in fretta gli esplode la testa, più bella sarà l'estate, si dice."
+    },
+    "tags": [
+      "traditions",
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-largest-lake-inside",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist der grösste See, der ganz in der Schweiz liegt?",
+      "en": "What is the largest lake that lies entirely in Switzerland?",
+      "it": "Qual è il lago più grande che si trova interamente in Svizzera?"
+    },
+    "answers": [
+      {
+        "id": "lake-neuch-tel",
+        "icon": "🏞️",
+        "label": {
+          "de": "Neuenburgersee",
+          "en": "Lake Neuchâtel",
+          "it": "Lago di Neuchâtel"
+        },
+        "correct": true
+      },
+      {
+        "id": "lake-geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genfersee",
+          "en": "Lake Geneva",
+          "it": "Lago Lemano"
+        },
+        "correct": false
+      },
+      {
+        "id": "lake-constance",
+        "icon": "🌊",
+        "label": {
+          "de": "Bodensee",
+          "en": "Lake Constance",
+          "it": "Lago di Costanza"
+        },
+        "correct": false
+      },
+      {
+        "id": "lake-zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürichsee",
+          "en": "Lake Zurich",
+          "it": "Lago di Zurigo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Neuenburgersee ist der grösste See ganz in der Schweiz.",
+      "en": "Lake Neuchâtel is the largest lake entirely in Switzerland.",
+      "it": "Il lago di Neuchâtel è il più grande interamente svizzero."
+    },
+    "funFact": {
+      "de": "Der Genfersee ist grösser, aber ein Teil davon gehört zu Frankreich.",
+      "en": "Lake Geneva is bigger, but part of it belongs to France.",
+      "it": "Il Lemano è più grande, ma una parte appartiene alla Francia."
+    },
+    "tags": [
+      "lakes",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-national-park",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo liegt der Schweizerische Nationalpark?",
+      "en": "Where is the Swiss National Park?",
+      "it": "Dove si trova il Parco Nazionale Svizzero?"
+    },
+    "answers": [
+      {
+        "id": "in-graub-nden",
+        "icon": "🐐",
+        "label": {
+          "de": "In Graubünden",
+          "en": "In Graubünden",
+          "it": "Nei Grigioni"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "In Genf",
+          "en": "In Geneva",
+          "it": "A Ginevra"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-basel",
+        "icon": "🦆",
+        "label": {
+          "de": "In Basel",
+          "en": "In Basel",
+          "it": "A Basilea"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "In Zürich",
+          "en": "In Zurich",
+          "it": "A Zurigo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Nationalpark liegt im Engadin in Graubünden.",
+      "en": "The National Park is in the Engadine in Graubünden.",
+      "it": "Il Parco Nazionale si trova in Engadina, nei Grigioni."
+    },
+    "funFact": {
+      "de": "Er wurde 1914 gegründet und ist der älteste Nationalpark der Alpen.",
+      "en": "It was founded in 1914 and is the oldest national park in the Alps.",
+      "it": "È stato fondato nel 1914 ed è il parco nazionale più antico delle Alpi."
+    },
+    "tags": [
+      "nature",
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-eiger-moench",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Eiger, Mönch und ... – wie heisst der dritte berühmte Berg?",
+      "en": "Eiger, Mönch and ... – what's the third famous mountain?",
+      "it": "Eiger, Mönch e ... – come si chiama la terza famosa montagna?"
+    },
+    "answers": [
+      {
+        "id": "jungfrau",
+        "icon": "🏔️",
+        "label": {
+          "de": "Jungfrau",
+          "en": "Jungfrau",
+          "it": "Jungfrau"
+        },
+        "correct": true
+      },
+      {
+        "id": "matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "pilatus",
+        "icon": "🗻",
+        "label": {
+          "de": "Pilatus",
+          "en": "Pilatus",
+          "it": "Pilatus"
+        },
+        "correct": false
+      },
+      {
+        "id": "s-ntis",
+        "icon": "🌄",
+        "label": {
+          "de": "Säntis",
+          "en": "Säntis",
+          "it": "Säntis"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Eiger, Mönch und Jungfrau stehen im Berner Oberland nebeneinander.",
+      "en": "The Eiger, Mönch and Jungfrau stand side by side in the Bernese Oberland.",
+      "it": "Eiger, Mönch e Jungfrau si trovano uno accanto all'altro nell'Oberland bernese."
+    },
+    "funFact": {
+      "de": "Mit dem Zug kommt man aufs Jungfraujoch, zum höchsten Bahnhof Europas.",
+      "en": "A train takes you up to the Jungfraujoch, the highest railway station in Europe.",
+      "it": "In treno si arriva allo Jungfraujoch, la stazione ferroviaria più alta d'Europa."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "switzerland-bigger-city",
+    "category": "switzerland",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Stadt hat mehr Einwohner?",
+      "en": "Which city has more people?",
+      "it": "Quale città ha più abitanti?"
+    },
+    "answers": [
+      {
+        "id": "zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürich",
+          "en": "Zurich",
+          "it": "Zurigo"
+        },
+        "correct": true
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Zürich leben mehr als doppelt so viele Menschen wie in Bern.",
+      "en": "More than twice as many people live in Zurich as in Bern.",
+      "it": "A Zurigo vivono più del doppio delle persone che a Berna."
+    },
+    "funFact": {
+      "de": "Zürich hat über vierhunderttausend Einwohner.",
+      "en": "Zurich has more than four hundred thousand inhabitants.",
+      "it": "Zurigo ha più di quattrocentomila abitanti."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "switzerland-bigger-lake",
+    "category": "switzerland",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher See ist grösser?",
+      "en": "Which lake is bigger?",
+      "it": "Quale lago è più grande?"
+    },
+    "answers": [
+      {
+        "id": "lake-geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genfersee",
+          "en": "Lake Geneva",
+          "it": "Lago Lemano"
+        },
+        "correct": true
+      },
+      {
+        "id": "lake-zurich",
+        "icon": "🏙️",
+        "label": {
+          "de": "Zürichsee",
+          "en": "Lake Zurich",
+          "it": "Lago di Zurigo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Genfersee ist viel grösser als der Zürichsee.",
+      "en": "Lake Geneva is much bigger than Lake Zurich.",
+      "it": "Il Lemano è molto più grande del lago di Zurigo."
+    },
+    "funFact": {
+      "de": "Der Genfersee ist einer der grössten Seen Westeuropas.",
+      "en": "Lake Geneva is one of the largest lakes in Western Europe.",
+      "it": "Il Lemano è uno dei laghi più grandi dell'Europa occidentale."
+    },
+    "tags": [
+      "lakes"
+    ]
+  },
+  {
+    "id": "switzerland-more-speakers",
+    "category": "switzerland",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Sprache sprechen in der Schweiz mehr Menschen als Hauptsprache?",
+      "en": "Which language do more people in Switzerland speak as their main language?",
+      "it": "Quale lingua parlano più persone in Svizzera come lingua principale?"
+    },
+    "answers": [
+      {
+        "id": "german",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch",
+          "en": "German",
+          "it": "Tedesco"
+        },
+        "correct": true
+      },
+      {
+        "id": "italian",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch",
+          "en": "Italian",
+          "it": "Italiano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die meisten Menschen in der Schweiz sprechen Deutsch als Hauptsprache.",
+      "en": "Most people in Switzerland speak German as their main language.",
+      "it": "La maggior parte delle persone in Svizzera parla tedesco come lingua principale."
+    },
+    "funFact": {
+      "de": "Etwa sechs von zehn Menschen in der Schweiz sprechen vor allem Deutsch.",
+      "en": "About six out of ten people in Switzerland mainly speak German.",
+      "it": "Circa sei persone su dieci in Svizzera parlano soprattutto tedesco."
+    },
+    "tags": [
+      "languages"
+    ]
+  },
+  {
+    "id": "switzerland-eu-member",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Schweiz ist Mitglied der Europäischen Union. Stimmt das?",
+      "en": "Switzerland is a member of the European Union. Is that true?",
+      "it": "La Svizzera fa parte dell'Unione Europea. È vero?"
+    },
+    "visual": "🇪🇺",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": false
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": true
+      }
+    ],
+    "explanation": {
+      "de": "Die Schweiz liegt mitten in Europa, ist aber nicht in der EU.",
+      "en": "Switzerland is in the middle of Europe, but it isn't in the EU.",
+      "it": "La Svizzera è nel cuore dell'Europa, ma non fa parte dell'UE."
+    },
+    "funFact": {
+      "de": "Darum bezahlt man in der Schweiz mit Franken und nicht mit Euro.",
+      "en": "That's one reason Switzerland uses francs rather than euros.",
+      "it": "Anche per questo in Svizzera si paga in franchi e non in euro."
+    },
+    "tags": [
+      "politics",
+      "surprise"
+    ]
+  },
+  {
+    "id": "switzerland-neutral",
+    "category": "switzerland",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Schweiz ist seit langer Zeit neutral. Stimmt das?",
+      "en": "Switzerland has been neutral for a long time. Is that true?",
+      "it": "La Svizzera è neutrale da molto tempo. È vero?"
+    },
+    "visual": "🕊️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Neutral heisst: Die Schweiz macht bei Kriegen anderer Länder nicht mit.",
+      "en": "That's true! Neutral means Switzerland doesn't take part in other countries' wars.",
+      "it": "È vero! Neutrale vuol dire che la Svizzera non partecipa alle guerre di altri paesi."
+    },
+    "funFact": {
+      "de": "Darum treffen sich in der Schweiz oft Länder, um miteinander zu reden.",
+      "en": "That's why countries often meet in Switzerland to talk things over.",
+      "it": "Per questo spesso i paesi si incontrano in Svizzera per parlarsi."
+    },
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "switzerland-un-city",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Schweizer Stadt arbeiten viele internationale Organisationen, auch die UNO?",
+      "en": "Which Swiss city is home to many international organisations, including the UN?",
+      "it": "In quale città svizzera hanno sede molte organizzazioni internazionali, anche l'ONU?"
+    },
+    "answers": [
+      {
+        "id": "geneva",
+        "icon": "⛲",
+        "label": {
+          "de": "Genf",
+          "en": "Geneva",
+          "it": "Ginevra"
+        },
+        "correct": true
+      },
+      {
+        "id": "bern",
+        "icon": "🐻",
+        "label": {
+          "de": "Bern",
+          "en": "Bern",
+          "it": "Berna"
+        },
+        "correct": false
+      },
+      {
+        "id": "basel",
+        "icon": "🦆",
+        "label": {
+          "de": "Basel",
+          "en": "Basel",
+          "it": "Basilea"
+        },
+        "correct": false
+      },
+      {
+        "id": "lugano",
+        "icon": "🌴",
+        "label": {
+          "de": "Lugano",
+          "en": "Lugano",
+          "it": "Lugano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Genf hat die UNO einen grossen Sitz.",
+      "en": "The UN has a big office in Geneva.",
+      "it": "A Ginevra l'ONU ha una sede importante."
+    },
+    "funFact": {
+      "de": "In Genf arbeiten Menschen aus fast allen Ländern der Welt.",
+      "en": "People from almost every country in the world work in Geneva.",
+      "it": "A Ginevra lavorano persone di quasi tutti i paesi del mondo."
+    },
+    "tags": [
+      "cities",
+      "politics"
+    ]
+  },
+  {
+    "id": "switzerland-gotthard-pass",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Pass verbindet Uri mit dem Tessin?",
+      "en": "Which pass links Uri with Ticino?",
+      "it": "Quale passo collega Uri al Ticino?"
+    },
+    "answers": [
+      {
+        "id": "gotthard",
+        "icon": "🛣️",
+        "label": {
+          "de": "Gotthard",
+          "en": "Gotthard",
+          "it": "San Gottardo"
+        },
+        "correct": true
+      },
+      {
+        "id": "simplon",
+        "icon": "⛰️",
+        "label": {
+          "de": "Simplon",
+          "en": "Simplon",
+          "it": "Sempione"
+        },
+        "correct": false
+      },
+      {
+        "id": "grimsel",
+        "icon": "🏔️",
+        "label": {
+          "de": "Grimsel",
+          "en": "Grimsel",
+          "it": "Grimsel"
+        },
+        "correct": false
+      },
+      {
+        "id": "julier",
+        "icon": "🌄",
+        "label": {
+          "de": "Julier",
+          "en": "Julier",
+          "it": "Giulia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Gotthardpass verbindet die Deutschschweiz mit dem Tessin.",
+      "en": "The Gotthard Pass links German-speaking Switzerland with Ticino.",
+      "it": "Il passo del San Gottardo collega la Svizzera tedesca al Ticino."
+    },
+    "funFact": {
+      "de": "Schon vor rund 800 Jahren zogen Händler über den Gotthard.",
+      "en": "Traders were already crossing the Gotthard about 800 years ago.",
+      "it": "Già circa 800 anni fa i mercanti attraversavano il Gottardo."
+    },
+    "tags": [
+      "mountains",
+      "transport",
+      "history"
+    ]
+  },
+  {
+    "id": "switzerland-rappen",
+    "category": "switzerland",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Rappen hat ein Franken?",
+      "en": "How many Rappen are in one franc?",
+      "it": "Quanti centesimi ha un franco?"
+    },
+    "visual": "🪙",
+    "answers": [
+      {
+        "id": "a-hundred",
+        "icon": "100",
+        "label": {
+          "de": "Hundert",
+          "en": "A hundred",
+          "it": "Cento"
+        },
+        "correct": true
+      },
+      {
+        "id": "ten",
+        "icon": "10",
+        "label": {
+          "de": "Zehn",
+          "en": "Ten",
+          "it": "Dieci"
+        },
+        "correct": false
+      },
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-thousand",
+        "icon": "1000",
+        "label": {
+          "de": "Tausend",
+          "en": "A thousand",
+          "it": "Mille"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Franken hat hundert Rappen.",
+      "en": "One franc has a hundred Rappen.",
+      "it": "Un franco ha cento centesimi."
+    },
+    "funFact": {
+      "de": "Die kleinste Münze ist heute das 5-Rappen-Stück.",
+      "en": "The smallest coin today is the 5-centime piece.",
+      "it": "Oggi la moneta più piccola è quella da 5 centesimi."
+    },
+    "tags": [
+      "money",
+      "numbers"
+    ]
+  }
+]

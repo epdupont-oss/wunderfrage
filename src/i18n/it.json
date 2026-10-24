@@ -1,0 +1,170 @@
+{
+  "start": {
+    "go": "Si parte!",
+    "greeting": "Ciao! Sono Pip, il gufo. Chi gioca oggi?"
+  },
+  "profiles": {
+    "who": "Chi gioca?",
+    "hello": "Ciao {name}!",
+    "setupTitle": "Benvenuti in Wunderfrage!",
+    "setupText": "Create un profilo per ogni bambina o bambino. Ci vuole solo un minuto.",
+    "setupButton": "Crea i profili"
+  },
+  "home": {
+    "choose": "A cosa vuoi giocare?",
+    "switch": "Cambia giocatore",
+    "letsGo": "{category}! Si parte!",
+    "book": "La mia raccolta",
+    "plant": "La mia piantina"
+  },
+  "categories": {
+    "science": "Scienze",
+    "maths": "Matematica",
+    "deutsch": "Tedesco",
+    "italiano": "Italiano",
+    "switzerland": "Svizzera",
+    "italy": "Italia",
+    "america": "America",
+    "animals": "Animali",
+    "body": "Il mio corpo",
+    "space": "Spazio",
+    "nature": "Natura",
+    "surprise": "Mix a sorpresa"
+  },
+  "quiz": {
+    "replay": "Ascolta ancora",
+    "confirm": "Questa!",
+    "next": "Avanti",
+    "stop": "Basta",
+    "hint": "Tocca una figura una volta per ascoltarla. Toccala ancora per sceglierla!",
+    "true": "Vero",
+    "false": "Falso"
+  },
+  "feedback": {
+    "praise": [
+      "Ottimo lavoro!",
+      "Wow, giusto!",
+      "Esatto!",
+      "Fantastico!",
+      "Sei una stella!",
+      "Perfetto!",
+      "Sì, proprio così!",
+      "Ben fatto!",
+      "Evviva, è giusto!",
+      "Incredibile!",
+      "Che bella risposta!",
+      "Centro!",
+      "Meraviglioso!",
+      "Ottima idea!",
+      "Complimenti!",
+      "Grande!",
+      "Super!",
+      "Giustissimo!",
+      "Hai indovinato!",
+      "Lo sapevi proprio bene!"
+    ],
+    "tryAgain": [
+      "Bel tentativo!",
+      "Buona idea!",
+      "Quasi!",
+      "Ci hai provato, ed è questo che conta!",
+      "Non fa niente, ottimo tentativo!"
+    ],
+    "answerIs": "La risposta giusta è: {answer}.",
+    "isTrue": "È vero!",
+    "isFalse": "Non è vero.",
+    "funFact": "Lo sapevi?",
+    "wordIs": "In {language} si dice:"
+  },
+  "roundEnd": {
+    "title": "Ottimo lavoro!",
+    "stars": "Hai raccolto {n} stelle!",
+    "starsOne": "Hai raccolto una stella!",
+    "starsNone": "Hai giocato un intero round! Ogni round ti rende più sapiente.",
+    "again": "Gioca ancora",
+    "home": "Inizio",
+    "perfect": "Tutte le risposte erano giuste!",
+    "book": "La mia raccolta"
+  },
+  "gate": {
+    "hold": "Per i genitori: tieni premuto 3 secondi",
+    "question": "Quanto fa {a} × {b}?",
+    "wrong": "Non proprio. Ecco un altro calcolo:",
+    "cancel": "Annulla",
+    "ok": "OK"
+  },
+  "parent": {
+    "title": "Area genitori",
+    "profiles": "Profili",
+    "addProfile": "Aggiungi bambino/a",
+    "newProfile": "Nuovo profilo",
+    "editProfile": "Modifica profilo",
+    "name": "Nome",
+    "avatar": "Personaggio",
+    "level": "Livello",
+    "little": "Piccoli (circa 5)",
+    "big": "Grandi (circa 8)",
+    "language": "Lingua",
+    "speechRate": "Velocità della voce",
+    "slower": "più lenta",
+    "faster": "più veloce",
+    "test": "Prova la voce",
+    "testSentence": "Ciao {name}! Ecco la mia voce.",
+    "sound": "Effetti sonori",
+    "on": "Sì",
+    "off": "No",
+    "categories": "Argomenti",
+    "noQuestionsYet": "ancora nessuna domanda",
+    "reset": "Azzera i progressi",
+    "resetConfirm": "Cancellare davvero tutti i progressi di {name}? Non si può annullare.",
+    "delete": "Elimina profilo",
+    "deleteConfirm": "Eliminare davvero il profilo di {name} con tutti i progressi?",
+    "save": "Salva",
+    "cancel": "Annulla",
+    "done": "Fatto",
+    "voices": "Voci su questo dispositivo",
+    "voiceAuto": "Automatica: {voice}",
+    "voiceNone": "Nessuna voce trovata",
+    "voiceTip": "Consiglio: sull'iPad scarica le voci «Migliorata» o «Premium» in Impostazioni → Accessibilità → Contenuto letto ad alta voce → Voci, poi riavvia l'app.",
+    "parentLanguage": "Lingua dell'area genitori",
+    "noName": "Inserisci un nome.",
+    "storage": "Memoria",
+    "persisted": "I progressi sono salvati in modo permanente su questo dispositivo.",
+    "notPersisted": "Il browser potrebbe cancellare i progressi se la memoria scarseggia. Aggiungi l'app alla schermata Home per tenerli al sicuro.",
+    "stats": "{stars} stelle · {answered} domande risposte"
+  },
+  "languageName": {
+    "de": "tedesco",
+    "en": "inglese",
+    "it": "italiano"
+  },
+  "rewards": {
+    "present": "Hai vinto un regalo!",
+    "tapToOpen": "Tocca il regalo per aprirlo!",
+    "newSticker": "Un nuovo adesivo: {name}!",
+    "newBadge": "Un nuovo distintivo da esploratore: {tier} per {category}!",
+    "plantWater": "Oggi hai giocato, quindi la tua piantina riceve un po' d'acqua!",
+    "plantGrew": "Guarda, la tua piantina è cresciuta!",
+    "nextSticker": "Ancora {n} stelle per il prossimo adesivo!",
+    "nextStickerOne": "Solo un'altra stella per il prossimo adesivo!",
+    "allStickers": "Hai raccolto tutti gli adesivi. Incredibile!",
+    "tier10": "Bronzo",
+    "tier25": "Argento",
+    "tier50": "Oro",
+    "tier100": "Diamante"
+  },
+  "collection": {
+    "title": "La mia raccolta",
+    "stickers": "Adesivi",
+    "badges": "Distintivi",
+    "locked": "Non ancora raccolto. Continua a raccogliere stelle!",
+    "count": "{n} di {total}",
+    "badgeInfo": "Distintivo di {tier} per {category}: {n} risposte giuste.",
+    "badgeLocked": "Rispondi giusto a {n} domande di {category} per vincere questo distintivo. Finora ne hai {have}."
+  },
+  "plant": {
+    "none": "Gioca un round e la tua piantina comincerà a crescere!",
+    "one": "Hai giocato per un giorno. La tua piantina ha cominciato a crescere!",
+    "days": "Hai giocato per {n} giorni. Guarda come cresce la tua piantina!"
+  }
+}

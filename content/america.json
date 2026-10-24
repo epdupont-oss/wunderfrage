@@ -1,0 +1,4680 @@
+[
+  {
+    "id": "america-flag",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Zu welchem Land gehört diese Fahne?",
+      "en": "Which country does this flag belong to?",
+      "it": "Di quale paese è questa bandiera?"
+    },
+    "visual": "🇺🇸",
+    "answers": [
+      {
+        "id": "usa",
+        "icon": "🗽",
+        "label": {
+          "de": "USA",
+          "en": "USA",
+          "it": "Stati Uniti"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🏔️",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      },
+      {
+        "id": "italy",
+        "icon": "🍕",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das ist die Fahne der USA mit Sternen und Streifen.",
+      "en": "That's the US flag with its stars and stripes.",
+      "it": "È la bandiera degli Stati Uniti, con stelle e strisce."
+    },
+    "funFact": {
+      "de": "Auf der Fahne sind 50 Sterne, einer für jeden Bundesstaat.",
+      "en": "The flag has 50 stars, one for each state.",
+      "it": "Sulla bandiera ci sono 50 stelle, una per ogni stato."
+    },
+    "tags": [
+      "flag"
+    ]
+  },
+  {
+    "id": "america-statue-of-liberty",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche grosse Statue steht in New York?",
+      "en": "Which big statue stands in New York?",
+      "it": "Quale grande statua si trova a New York?"
+    },
+    "answers": [
+      {
+        "id": "statue-of-liberty",
+        "icon": "🗽",
+        "label": {
+          "de": "Freiheitsstatue",
+          "en": "Statue of Liberty",
+          "it": "Statua della Libertà"
+        },
+        "correct": true
+      },
+      {
+        "id": "stone-head",
+        "icon": "🗿",
+        "label": {
+          "de": "Steinkopf",
+          "en": "Stone head",
+          "it": "Testa di pietra"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-tower",
+        "icon": "🗼",
+        "label": {
+          "de": "Ein Turm",
+          "en": "A tower",
+          "it": "Una torre"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In New York steht die Freiheitsstatue.",
+      "en": "The Statue of Liberty stands in New York.",
+      "it": "A New York c'è la Statua della Libertà."
+    },
+    "funFact": {
+      "de": "Die Freiheitsstatue war ein Geschenk aus Frankreich.",
+      "en": "The Statue of Liberty was a gift from France.",
+      "it": "La Statua della Libertà è stata un regalo della Francia."
+    },
+    "tags": [
+      "landmarks"
+    ]
+  },
+  {
+    "id": "america-eagle",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Vogel ist das Wappentier der USA?",
+      "en": "Which bird is the national bird of the USA?",
+      "it": "Quale uccello è il simbolo degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "bald-eagle",
+        "icon": "🦅",
+        "label": {
+          "de": "Weisskopfseeadler",
+          "en": "Bald eagle",
+          "it": "Aquila di mare testabianca"
+        },
+        "correct": true
+      },
+      {
+        "id": "duck",
+        "icon": "🦆",
+        "label": {
+          "de": "Ente",
+          "en": "Duck",
+          "it": "Anatra"
+        },
+        "correct": false
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Weisskopfseeadler ist das Wappentier der USA.",
+      "en": "The bald eagle is the national bird of the USA.",
+      "it": "L'aquila di mare testabianca è il simbolo degli Stati Uniti."
+    },
+    "funFact": {
+      "de": "Er hat einen weissen Kopf und einen gelben Schnabel.",
+      "en": "It has a white head and a yellow beak.",
+      "it": "Ha la testa bianca e il becco giallo."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-cowboys",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer reitet im Westen der USA auf Pferden und hütet Rinder?",
+      "en": "Who rides horses and herds cattle in the American West?",
+      "it": "Chi va a cavallo e porta al pascolo il bestiame nel West americano?"
+    },
+    "answers": [
+      {
+        "id": "cowboys",
+        "icon": "🤠",
+        "label": {
+          "de": "Cowboys",
+          "en": "Cowboys",
+          "it": "Cowboy"
+        },
+        "correct": true
+      },
+      {
+        "id": "astronauts",
+        "icon": "🧑‍🚀",
+        "label": {
+          "de": "Astronauten",
+          "en": "Astronauts",
+          "it": "Astronauti"
+        },
+        "correct": false
+      },
+      {
+        "id": "cooks",
+        "icon": "🧑‍🍳",
+        "label": {
+          "de": "Köche",
+          "en": "Cooks",
+          "it": "Cuochi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Cowboys und Cowgirls hüten Rinder auf Pferden.",
+      "en": "Cowboys and cowgirls herd cattle on horseback.",
+      "it": "Cowboy e cowgirl portano il bestiame a cavallo."
+    },
+    "funFact": {
+      "de": "Cowboys tragen breite Hüte gegen Sonne und Regen.",
+      "en": "Cowboys wear wide hats against sun and rain.",
+      "it": "I cowboy portano cappelli larghi contro sole e pioggia."
+    },
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "id": "america-thanksgiving",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Essen gibt es in den USA oft an Thanksgiving?",
+      "en": "Which food is often eaten in the USA at Thanksgiving?",
+      "it": "Che cosa si mangia spesso negli Stati Uniti per il Giorno del Ringraziamento?"
+    },
+    "answers": [
+      {
+        "id": "turkey",
+        "icon": "🦃",
+        "label": {
+          "de": "Truthahn",
+          "en": "Turkey",
+          "it": "Tacchino"
+        },
+        "correct": true
+      },
+      {
+        "id": "fish-fingers",
+        "icon": "🐟",
+        "label": {
+          "de": "Fischstäbchen",
+          "en": "Fish fingers",
+          "it": "Bastoncini di pesce"
+        },
+        "correct": false
+      },
+      {
+        "id": "pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Pizza",
+          "en": "Pizza",
+          "it": "Pizza"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "An Thanksgiving gibt es oft einen grossen Truthahn.",
+      "en": "At Thanksgiving there's often a big roast turkey.",
+      "it": "Per il Ringraziamento spesso c'è un grande tacchino."
+    },
+    "funFact": {
+      "de": "An Thanksgiving sagt man Danke für alles Gute im Jahr.",
+      "en": "At Thanksgiving people give thanks for all the good things in the year.",
+      "it": "Nel Giorno del Ringraziamento si dice grazie per le cose belle dell'anno."
+    },
+    "tags": [
+      "traditions",
+      "food"
+    ]
+  },
+  {
+    "id": "america-skyscrapers",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wofür ist New York berühmt?",
+      "en": "What is New York famous for?",
+      "it": "Per che cosa è famosa New York?"
+    },
+    "answers": [
+      {
+        "id": "tall-skyscrapers",
+        "icon": "🏙️",
+        "label": {
+          "de": "Für hohe Wolkenkratzer",
+          "en": "Tall skyscrapers",
+          "it": "Per i grattacieli"
+        },
+        "correct": true
+      },
+      {
+        "id": "glaciers",
+        "icon": "🏔️",
+        "label": {
+          "de": "Für Gletscher",
+          "en": "Glaciers",
+          "it": "Per i ghiacciai"
+        },
+        "correct": false
+      },
+      {
+        "id": "sand-dunes",
+        "icon": "🏜️",
+        "label": {
+          "de": "Für Sanddünen",
+          "en": "Sand dunes",
+          "it": "Per le dune di sabbia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "New York ist berühmt für seine Wolkenkratzer.",
+      "en": "New York is famous for its skyscrapers.",
+      "it": "New York è famosa per i suoi grattacieli."
+    },
+    "funFact": {
+      "de": "In New York leben über acht Millionen Menschen.",
+      "en": "More than eight million people live in New York.",
+      "it": "A New York vivono più di otto milioni di persone."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "america-pumpkin",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was schnitzt man an Halloween?",
+      "en": "What do people carve at Halloween?",
+      "it": "Che cosa si intaglia ad Halloween?"
+    },
+    "answers": [
+      {
+        "id": "pumpkins",
+        "icon": "🎃",
+        "label": {
+          "de": "Kürbisse",
+          "en": "Pumpkins",
+          "it": "Zucche"
+        },
+        "correct": true
+      },
+      {
+        "id": "watermelons",
+        "icon": "🍉",
+        "label": {
+          "de": "Wassermelonen",
+          "en": "Watermelons",
+          "it": "Angurie"
+        },
+        "correct": false
+      },
+      {
+        "id": "carrots",
+        "icon": "🥕",
+        "label": {
+          "de": "Karotten",
+          "en": "Carrots",
+          "it": "Carote"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "An Halloween schnitzt man Gesichter in Kürbisse.",
+      "en": "At Halloween people carve faces into pumpkins.",
+      "it": "Ad Halloween si intagliano facce nelle zucche."
+    },
+    "funFact": {
+      "de": "Kinder ziehen dann verkleidet von Tür zu Tür und sammeln Süssigkeiten.",
+      "en": "Children dress up and go from door to door collecting sweets.",
+      "it": "I bambini si travestono e vanno di porta in porta a raccogliere dolci."
+    },
+    "tags": [
+      "traditions"
+    ]
+  },
+  {
+    "id": "america-language",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Sprache spricht man in den USA am meisten?",
+      "en": "Which language is spoken most in the USA?",
+      "it": "Quale lingua si parla di più negli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "english",
+        "icon": "🇬🇧",
+        "label": {
+          "de": "Englisch",
+          "en": "English",
+          "it": "Inglese"
+        },
+        "correct": true
+      },
+      {
+        "id": "italian",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch",
+          "en": "Italian",
+          "it": "Italiano"
+        },
+        "correct": false
+      },
+      {
+        "id": "german",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch",
+          "en": "German",
+          "it": "Tedesco"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In den USA spricht man vor allem Englisch.",
+      "en": "In the USA people mostly speak English.",
+      "it": "Negli Stati Uniti si parla soprattutto inglese."
+    },
+    "funFact": {
+      "de": "Viele Menschen in den USA sprechen auch Spanisch.",
+      "en": "Lots of people in the USA speak Spanish too.",
+      "it": "Molte persone negli Stati Uniti parlano anche spagnolo."
+    },
+    "tags": [
+      "language"
+    ]
+  },
+  {
+    "id": "america-dollar",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das Geld in den USA?",
+      "en": "What is the money in the USA called?",
+      "it": "Come si chiamano i soldi negli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "dollars",
+        "icon": "💵",
+        "label": {
+          "de": "Dollar",
+          "en": "Dollars",
+          "it": "Dollari"
+        },
+        "correct": true
+      },
+      {
+        "id": "francs",
+        "icon": "🪙",
+        "label": {
+          "de": "Franken",
+          "en": "Francs",
+          "it": "Franchi"
+        },
+        "correct": false
+      },
+      {
+        "id": "euros",
+        "icon": "💶",
+        "label": {
+          "de": "Euro",
+          "en": "Euros",
+          "it": "Euro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In den USA bezahlt man mit Dollar.",
+      "en": "In the USA you pay with dollars.",
+      "it": "Negli Stati Uniti si paga in dollari."
+    },
+    "funFact": {
+      "de": "Ein Dollar hat hundert Cent.",
+      "en": "A dollar has a hundred cents.",
+      "it": "Un dollaro ha cento centesimi."
+    },
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "id": "america-school-bus",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farbe haben die Schulbusse in den USA?",
+      "en": "What colour are school buses in the USA?",
+      "it": "Di che colore sono gli scuolabus negli Stati Uniti?"
+    },
+    "visual": "🚌",
+    "answers": [
+      {
+        "id": "yellow",
+        "icon": "🟡",
+        "label": {
+          "de": "Gelb",
+          "en": "Yellow",
+          "it": "Giallo"
+        },
+        "correct": true
+      },
+      {
+        "id": "red",
+        "icon": "🔴",
+        "label": {
+          "de": "Rot",
+          "en": "Red",
+          "it": "Rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "purple",
+        "icon": "🟣",
+        "label": {
+          "de": "Lila",
+          "en": "Purple",
+          "it": "Viola"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Schulbusse in den USA sind gelb.",
+      "en": "School buses in the USA are yellow.",
+      "it": "Gli scuolabus negli Stati Uniti sono gialli."
+    },
+    "funFact": {
+      "de": "Gelb sieht man besonders gut, auch bei Regen und Nebel.",
+      "en": "Yellow is easy to see, even in rain and fog.",
+      "it": "Il giallo si vede benissimo, anche con pioggia e nebbia."
+    },
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "id": "america-grand-canyon",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In den USA gibt es eine riesige Schlucht, den Grand Canyon. Stimmt das?",
+      "en": "There's a giant canyon in the USA called the Grand Canyon. Is that true?",
+      "it": "Negli Stati Uniti c'è un enorme canyon, il Grand Canyon. È vero?"
+    },
+    "visual": "🏜️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Der Grand Canyon ist sehr tief und sehr lang.",
+      "en": "That's true! The Grand Canyon is very deep and very long.",
+      "it": "È vero! Il Grand Canyon è profondissimo e lunghissimo."
+    },
+    "funFact": {
+      "de": "Der Fluss Colorado hat die Schlucht in Millionen von Jahren gegraben.",
+      "en": "The Colorado River carved the canyon over millions of years.",
+      "it": "Il fiume Colorado ha scavato il canyon in milioni di anni."
+    },
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "america-bison",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches grosse Tier mit dickem Fell lebt in der Prärie von Nordamerika?",
+      "en": "Which big animal with thick fur lives on the North American prairie?",
+      "it": "Quale grande animale dal pelo folto vive nelle praterie del Nord America?"
+    },
+    "answers": [
+      {
+        "id": "bison",
+        "icon": "🦬",
+        "label": {
+          "de": "Bison",
+          "en": "Bison",
+          "it": "Bisonte"
+        },
+        "correct": true
+      },
+      {
+        "id": "camel",
+        "icon": "🐪",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      },
+      {
+        "id": "elephant",
+        "icon": "🐘",
+        "label": {
+          "de": "Elefant",
+          "en": "Elephant",
+          "it": "Elefante"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Bison lebt in der Prärie.",
+      "en": "The bison lives on the prairie.",
+      "it": "Il bisonte vive nella prateria."
+    },
+    "funFact": {
+      "de": "Bisons sind schwer, können aber erstaunlich schnell rennen.",
+      "en": "Bison are heavy, but they can run surprisingly fast.",
+      "it": "I bisonti sono pesanti, ma corrono velocissimi."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-continent",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Amerika ist ein Kontinent mit Nordamerika und Südamerika. Stimmt das?",
+      "en": "America is a continent with North America and South America. Is that true?",
+      "it": "L'America è un continente con il Nord America e il Sud America. È vero?"
+    },
+    "visual": "🌎",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Dazu gehören viele Länder.",
+      "en": "That's true! Lots of countries are part of it.",
+      "it": "È vero! Ne fanno parte tanti paesi."
+    },
+    "funFact": {
+      "de": "Zum Beispiel Kanada, die USA, Mexiko und Brasilien.",
+      "en": "For example Canada, the USA, Mexico and Brazil.",
+      "it": "Per esempio Canada, Stati Uniti, Messico e Brasile."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-rainforest",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo ist der grösste Regenwald der Welt?",
+      "en": "Where is the biggest rainforest in the world?",
+      "it": "Dove si trova la foresta pluviale più grande del mondo?"
+    },
+    "answers": [
+      {
+        "id": "in-south-america-along-the-amazon",
+        "icon": "🌳",
+        "label": {
+          "de": "In Südamerika am Amazonas",
+          "en": "In South America, along the Amazon",
+          "it": "In Sud America, sul Rio delle Amazzoni"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-switzerland",
+        "icon": "🏔️",
+        "label": {
+          "de": "In der Schweiz",
+          "en": "In Switzerland",
+          "it": "In Svizzera"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-antarctica",
+        "icon": "🧊",
+        "label": {
+          "de": "In der Antarktis",
+          "en": "In Antarctica",
+          "it": "In Antartide"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der grösste Regenwald ist am Amazonas in Südamerika.",
+      "en": "The biggest rainforest is along the Amazon in South America.",
+      "it": "La foresta pluviale più grande è lungo il Rio delle Amazzoni, in Sud America."
+    },
+    "funFact": {
+      "de": "Dort leben Papageien, Affen und Jaguare.",
+      "en": "Parrots, monkeys and jaguars live there.",
+      "it": "Lì vivono pappagalli, scimmie e giaguari."
+    },
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "america-llama",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier lebt in den Bergen von Südamerika?",
+      "en": "Which animal lives in the mountains of South America?",
+      "it": "Quale animale vive sulle montagne del Sud America?"
+    },
+    "answers": [
+      {
+        "id": "llama",
+        "icon": "🦙",
+        "label": {
+          "de": "Lama",
+          "en": "Llama",
+          "it": "Lama"
+        },
+        "correct": true
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      },
+      {
+        "id": "kangaroo",
+        "icon": "🦘",
+        "label": {
+          "de": "Känguru",
+          "en": "Kangaroo",
+          "it": "Canguro"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Lamas leben in den Anden in Südamerika.",
+      "en": "Llamas live in the Andes in South America.",
+      "it": "I lama vivono sulle Ande, in Sud America."
+    },
+    "funFact": {
+      "de": "Lamas können spucken, wenn sie sich ärgern.",
+      "en": "Llamas can spit when they're annoyed.",
+      "it": "I lama possono sputare quando si arrabbiano."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-maple-leaf",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Blatt ist auf der Fahne von Kanada?",
+      "en": "Which leaf is on the flag of Canada?",
+      "it": "Quale foglia c'è sulla bandiera del Canada?"
+    },
+    "visual": "🇨🇦",
+    "answers": [
+      {
+        "id": "maple-leaf",
+        "icon": "🍁",
+        "label": {
+          "de": "Ahornblatt",
+          "en": "Maple leaf",
+          "it": "Foglia d'acero"
+        },
+        "correct": true
+      },
+      {
+        "id": "clover-leaf",
+        "icon": "🍀",
+        "label": {
+          "de": "Kleeblatt",
+          "en": "Clover leaf",
+          "it": "Quadrifoglio"
+        },
+        "correct": false
+      },
+      {
+        "id": "herb-leaf",
+        "icon": "🌿",
+        "label": {
+          "de": "Kräuterblatt",
+          "en": "Herb leaf",
+          "it": "Foglia di erba"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf der Fahne von Kanada ist ein rotes Ahornblatt.",
+      "en": "Canada's flag has a red maple leaf.",
+      "it": "Sulla bandiera del Canada c'è una foglia d'acero rossa."
+    },
+    "funFact": {
+      "de": "Aus dem Saft der Ahornbäume macht man Ahornsirup.",
+      "en": "Maple syrup is made from the sap of maple trees.",
+      "it": "Con la linfa degli aceri si fa lo sciroppo d'acero."
+    },
+    "tags": [
+      "flag",
+      "nature"
+    ]
+  },
+  {
+    "id": "america-corn",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Pflanze kommt ursprünglich aus Amerika?",
+      "en": "Which plant originally comes from America?",
+      "it": "Quale pianta viene originariamente dall'America?"
+    },
+    "answers": [
+      {
+        "id": "corn",
+        "icon": "🌽",
+        "label": {
+          "de": "Mais",
+          "en": "Corn",
+          "it": "Mais"
+        },
+        "correct": true
+      },
+      {
+        "id": "apple",
+        "icon": "🍎",
+        "label": {
+          "de": "Apfel",
+          "en": "Apple",
+          "it": "Mela"
+        },
+        "correct": false
+      },
+      {
+        "id": "grapes",
+        "icon": "🍇",
+        "label": {
+          "de": "Traube",
+          "en": "Grapes",
+          "it": "Uva"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Mais kommt ursprünglich aus Amerika.",
+      "en": "Corn originally comes from America.",
+      "it": "Il mais viene originariamente dall'America."
+    },
+    "funFact": {
+      "de": "Auch Kartoffeln, Tomaten und Kakao kommen aus Amerika.",
+      "en": "Potatoes, tomatoes and cocoa come from America too.",
+      "it": "Anche patate, pomodori e cacao vengono dall'America."
+    },
+    "tags": [
+      "food",
+      "plants"
+    ]
+  },
+  {
+    "id": "america-cocoa-origin",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Kakao für Schokolade kommt ursprünglich aus Amerika. Stimmt das?",
+      "en": "Cocoa for chocolate originally comes from America. Is that true?",
+      "it": "Il cacao per il cioccolato viene originariamente dall'America. È vero?"
+    },
+    "visual": "🍫",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Kakao kommt aus Mittel- und Südamerika.",
+      "en": "That's true! Cocoa comes from Central and South America.",
+      "it": "È vero! Il cacao viene dall'America centrale e meridionale."
+    },
+    "funFact": {
+      "de": "Die Maya und Azteken tranken schon vor langer Zeit Kakao.",
+      "en": "The Maya and Aztecs drank cocoa long, long ago.",
+      "it": "I Maya e gli Aztechi bevevano il cacao già tanto tempo fa."
+    },
+    "tags": [
+      "food",
+      "history"
+    ]
+  },
+  {
+    "id": "america-hollywood",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo werden viele berühmte Filme gemacht?",
+      "en": "Where are lots of famous films made?",
+      "it": "Dove si fanno molti film famosi?"
+    },
+    "answers": [
+      {
+        "id": "in-hollywood",
+        "icon": "🎬",
+        "label": {
+          "de": "In Hollywood",
+          "en": "In Hollywood",
+          "it": "A Hollywood"
+        },
+        "correct": true
+      },
+      {
+        "id": "on-the-matterhorn",
+        "icon": "🏔️",
+        "label": {
+          "de": "Auf dem Matterhorn",
+          "en": "On the Matterhorn",
+          "it": "Sul Cervino"
+        },
+        "correct": false
+      },
+      {
+        "id": "inside-a-volcano",
+        "icon": "🌋",
+        "label": {
+          "de": "In einem Vulkan",
+          "en": "Inside a volcano",
+          "it": "Dentro un vulcano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Hollywood werden viele Filme gemacht.",
+      "en": "Lots of films are made in Hollywood.",
+      "it": "A Hollywood si girano tantissimi film."
+    },
+    "funFact": {
+      "de": "Hollywood ist ein Stadtteil von Los Angeles in Kalifornien.",
+      "en": "Hollywood is part of Los Angeles in California.",
+      "it": "Hollywood è un quartiere di Los Angeles, in California."
+    },
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "id": "america-moon-landing",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Aus welchem Land kamen die ersten Menschen auf dem Mond?",
+      "en": "Which country did the first people on the moon come from?",
+      "it": "Da quale paese venivano le prime persone sulla luna?"
+    },
+    "visual": "🌕",
+    "answers": [
+      {
+        "id": "usa",
+        "icon": "🇺🇸",
+        "label": {
+          "de": "USA",
+          "en": "USA",
+          "it": "Stati Uniti"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🇨🇭",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      },
+      {
+        "id": "italy",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die ersten Menschen auf dem Mond kamen aus den USA.",
+      "en": "The first people on the moon came from the USA.",
+      "it": "I primi uomini sulla luna venivano dagli Stati Uniti."
+    },
+    "funFact": {
+      "de": "Das war im Jahr 1969.",
+      "en": "That was in 1969.",
+      "it": "Era il 1969."
+    },
+    "tags": [
+      "space",
+      "history"
+    ]
+  },
+  {
+    "id": "america-what-skyscraper",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist ein Wolkenkratzer?",
+      "en": "What is a skyscraper?",
+      "it": "Che cos'è un grattacielo?"
+    },
+    "answers": [
+      {
+        "id": "a-very-tall-building",
+        "icon": "🏙️",
+        "label": {
+          "de": "Ein sehr hohes Haus",
+          "en": "A very tall building",
+          "it": "Un palazzo altissimo"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-cloud",
+        "icon": "☁️",
+        "label": {
+          "de": "Eine Wolke",
+          "en": "A cloud",
+          "it": "Una nuvola"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-broom",
+        "icon": "🧹",
+        "label": {
+          "de": "Ein Besen",
+          "en": "A broom",
+          "it": "Una scopa"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Wolkenkratzer ist ein sehr hohes Haus.",
+      "en": "A skyscraper is a very tall building.",
+      "it": "Un grattacielo è un palazzo altissimo."
+    },
+    "funFact": {
+      "de": "Manche Wolkenkratzer in New York haben über hundert Stockwerke.",
+      "en": "Some skyscrapers in New York have more than a hundred floors.",
+      "it": "Alcuni grattacieli di New York hanno più di cento piani."
+    },
+    "tags": [
+      "cities",
+      "buildings"
+    ]
+  },
+  {
+    "id": "america-alligator",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier lebt in den Sümpfen von Florida?",
+      "en": "Which animal lives in the swamps of Florida?",
+      "it": "Quale animale vive nelle paludi della Florida?"
+    },
+    "answers": [
+      {
+        "id": "alligator",
+        "icon": "🐊",
+        "label": {
+          "de": "Alligator",
+          "en": "Alligator",
+          "it": "Alligatore"
+        },
+        "correct": true
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      },
+      {
+        "id": "camel",
+        "icon": "🐫",
+        "label": {
+          "de": "Kamel",
+          "en": "Camel",
+          "it": "Cammello"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Florida leben Alligatoren.",
+      "en": "Alligators live in Florida.",
+      "it": "In Florida vivono gli alligatori."
+    },
+    "funFact": {
+      "de": "Alligatoren haben eine breitere, rundere Schnauze als Krokodile.",
+      "en": "Alligators have a wider, rounder snout than crocodiles.",
+      "it": "Gli alligatori hanno il muso più largo e arrotondato dei coccodrilli."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-bigger-usa-ch",
+    "category": "america",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Welches Land ist grösser?",
+      "en": "Which country is bigger?",
+      "it": "Quale paese è più grande?"
+    },
+    "answers": [
+      {
+        "id": "usa",
+        "icon": "🇺🇸",
+        "label": {
+          "de": "USA",
+          "en": "USA",
+          "it": "Stati Uniti"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🇨🇭",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die USA sind riesig, viel grösser als die Schweiz.",
+      "en": "The USA is huge – much bigger than Switzerland.",
+      "it": "Gli Stati Uniti sono enormi, molto più grandi della Svizzera."
+    },
+    "funFact": {
+      "de": "Die USA sind über zweihundert Mal so gross wie die Schweiz.",
+      "en": "The USA is more than two hundred times as big as Switzerland.",
+      "it": "Gli Stati Uniti sono più di duecento volte la Svizzera."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-higher-tower",
+    "category": "america",
+    "level": "little",
+    "type": "compare",
+    "prompt": {
+      "de": "Was ist höher?",
+      "en": "Which is taller?",
+      "it": "Che cosa è più alto?"
+    },
+    "answers": [
+      {
+        "id": "skyscraper",
+        "icon": "🏙️",
+        "label": {
+          "de": "Wolkenkratzer",
+          "en": "Skyscraper",
+          "it": "Grattacielo"
+        },
+        "correct": true
+      },
+      {
+        "id": "house",
+        "icon": "🏠",
+        "label": {
+          "de": "Einfamilienhaus",
+          "en": "House",
+          "it": "Casetta"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Ein Wolkenkratzer ist viel höher als ein Haus.",
+      "en": "A skyscraper is much taller than a house.",
+      "it": "Un grattacielo è molto più alto di una casetta."
+    },
+    "funFact": {
+      "de": "Das höchste Gebäude in New York ist über 500 Meter hoch.",
+      "en": "The tallest building in New York is over 500 metres high.",
+      "it": "L'edificio più alto di New York supera i 500 metri."
+    },
+    "tags": [
+      "buildings"
+    ]
+  },
+  {
+    "id": "america-fifty-states",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die USA haben 50 Bundesstaaten. Stimmt das?",
+      "en": "The USA has 50 states. Is that true?",
+      "it": "Gli Stati Uniti hanno 50 stati. È vero?"
+    },
+    "visual": "🇺🇸",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Darum sind auf der Fahne 50 Sterne.",
+      "en": "That's true! That's why the flag has 50 stars.",
+      "it": "È vero! Per questo sulla bandiera ci sono 50 stelle."
+    },
+    "funFact": {
+      "de": "Der grösste Bundesstaat ist Alaska. Dort gibt es Bären und Gletscher.",
+      "en": "The biggest state is Alaska, with bears and glaciers.",
+      "it": "Lo stato più grande è l'Alaska, con orsi e ghiacciai."
+    },
+    "tags": [
+      "geography",
+      "numbers"
+    ]
+  },
+  {
+    "id": "america-hawaii",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Bundesstaat der USA liegt auf Inseln mitten im Meer?",
+      "en": "Which US state is made of islands in the middle of the ocean?",
+      "it": "Quale stato americano è fatto di isole in mezzo all'oceano?"
+    },
+    "answers": [
+      {
+        "id": "hawaii",
+        "icon": "🌺",
+        "label": {
+          "de": "Hawaii",
+          "en": "Hawaii",
+          "it": "Hawaii"
+        },
+        "correct": true
+      },
+      {
+        "id": "texas",
+        "icon": "🤠",
+        "label": {
+          "de": "Texas",
+          "en": "Texas",
+          "it": "Texas"
+        },
+        "correct": false
+      },
+      {
+        "id": "alaska",
+        "icon": "🐻",
+        "label": {
+          "de": "Alaska",
+          "en": "Alaska",
+          "it": "Alaska"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Hawaii besteht aus Inseln im Pazifik.",
+      "en": "Hawaii is made up of islands in the Pacific.",
+      "it": "Le Hawaii sono isole nel Pacifico."
+    },
+    "funFact": {
+      "de": "Auf Hawaii gibt es aktive Vulkane.",
+      "en": "Hawaii has active volcanoes.",
+      "it": "Alle Hawaii ci sono vulcani attivi."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-baseball",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Sport mit Schläger und kleinem Ball ist in den USA sehr beliebt?",
+      "en": "Which sport with a bat and a small ball is very popular in the USA?",
+      "it": "Quale sport con mazza e pallina è molto amato negli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "baseball",
+        "icon": "⚾",
+        "label": {
+          "de": "Baseball",
+          "en": "Baseball",
+          "it": "Baseball"
+        },
+        "correct": true
+      },
+      {
+        "id": "curling",
+        "icon": "🥌",
+        "label": {
+          "de": "Curling",
+          "en": "Curling",
+          "it": "Curling"
+        },
+        "correct": false
+      },
+      {
+        "id": "ski-jumping",
+        "icon": "🎿",
+        "label": {
+          "de": "Skispringen",
+          "en": "Ski jumping",
+          "it": "Salto con gli sci"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Baseball ist in den USA sehr beliebt.",
+      "en": "Baseball is very popular in the USA.",
+      "it": "Il baseball è amatissimo negli Stati Uniti."
+    },
+    "funFact": {
+      "de": "Beim Baseball läuft man um vier Male herum.",
+      "en": "In baseball you run around four bases.",
+      "it": "Nel baseball si corre intorno a quattro basi."
+    },
+    "tags": [
+      "sport"
+    ]
+  },
+  {
+    "id": "america-popcorn",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Popcorn wird aus Mais gemacht. Stimmt das?",
+      "en": "Popcorn is made from corn. Is that true?",
+      "it": "I popcorn si fanno con il mais. È vero?"
+    },
+    "visual": "🍿",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Maiskörner platzen in der Hitze auf.",
+      "en": "That's true! Corn kernels pop open in the heat.",
+      "it": "È vero! I chicchi di mais scoppiano con il calore."
+    },
+    "funFact": {
+      "de": "Die Körner platzen, weil das Wasser darin heiss wird und sich ausdehnt.",
+      "en": "They pop because the water inside gets hot and expands.",
+      "it": "Scoppiano perché l'acqua dentro si scalda e si espande."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "america-penguins-south",
+    "category": "america",
+    "level": "little",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In Südamerika gibt es auch Pinguine. Stimmt das?",
+      "en": "There are penguins in South America too. Is that true?",
+      "it": "Anche in Sud America ci sono i pinguini. È vero?"
+    },
+    "visual": "🐧",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Ganz im Süden, in Argentinien und Chile.",
+      "en": "That's true! Right down in the south, in Argentina and Chile.",
+      "it": "È vero! Nell'estremo sud, in Argentina e in Cile."
+    },
+    "funFact": {
+      "de": "Dort ist es kalt und windig, genau richtig für Pinguine.",
+      "en": "It's cold and windy there – just right for penguins.",
+      "it": "Lì fa freddo e c'è vento: perfetto per i pinguini."
+    },
+    "tags": [
+      "animals",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-fourth-of-july",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was feiert man in den USA am 4. Juli?",
+      "en": "What is celebrated in the USA on the Fourth of July?",
+      "it": "Che cosa si festeggia negli Stati Uniti il 4 luglio?"
+    },
+    "answers": [
+      {
+        "id": "the-country-s-birthday",
+        "icon": "🎆",
+        "label": {
+          "de": "Den Geburtstag des Landes",
+          "en": "The country's birthday",
+          "it": "Il compleanno del paese"
+        },
+        "correct": true
+      },
+      {
+        "id": "christmas",
+        "icon": "🎄",
+        "label": {
+          "de": "Weihnachten",
+          "en": "Christmas",
+          "it": "Natale"
+        },
+        "correct": false
+      },
+      {
+        "id": "easter",
+        "icon": "🐣",
+        "label": {
+          "de": "Ostern",
+          "en": "Easter",
+          "it": "Pasqua"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am 4. Juli feiern die USA ihren Nationalfeiertag.",
+      "en": "On 4 July the USA celebrates its national day.",
+      "it": "Il 4 luglio gli Stati Uniti celebrano la festa nazionale."
+    },
+    "funFact": {
+      "de": "Die USA wurden 1776 unabhängig.",
+      "en": "The USA became independent in 1776.",
+      "it": "Gli Stati Uniti sono diventati indipendenti nel 1776."
+    },
+    "tags": [
+      "traditions",
+      "history"
+    ]
+  },
+  {
+    "id": "america-across-atlantic",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Kontinent liegt westlich von uns, auf der anderen Seite des Atlantiks?",
+      "en": "Which continent lies to the west of us, across the Atlantic?",
+      "it": "Quale continente si trova a ovest, dall'altra parte dell'Atlantico?"
+    },
+    "answers": [
+      {
+        "id": "america",
+        "icon": "🌎",
+        "label": {
+          "de": "Amerika",
+          "en": "America",
+          "it": "America"
+        },
+        "correct": true
+      },
+      {
+        "id": "africa",
+        "icon": "🦁",
+        "label": {
+          "de": "Afrika",
+          "en": "Africa",
+          "it": "Africa"
+        },
+        "correct": false
+      },
+      {
+        "id": "asia",
+        "icon": "🐼",
+        "label": {
+          "de": "Asien",
+          "en": "Asia",
+          "it": "Asia"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Auf der anderen Seite des Atlantiks liegt Amerika.",
+      "en": "America lies across the Atlantic.",
+      "it": "Dall'altra parte dell'Atlantico c'è l'America."
+    },
+    "funFact": {
+      "de": "Ein Flug von Zürich nach New York dauert etwa neun Stunden.",
+      "en": "A flight from Zurich to New York takes about nine hours.",
+      "it": "Un volo da Zurigo a New York dura circa nove ore."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-raccoon",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier mit einer schwarzen «Maske» kommt aus Nordamerika?",
+      "en": "Which animal with a black “mask” comes from North America?",
+      "it": "Quale animale con una «mascherina» nera viene dal Nord America?"
+    },
+    "answers": [
+      {
+        "id": "raccoon",
+        "icon": "🦝",
+        "label": {
+          "de": "Waschbär",
+          "en": "Raccoon",
+          "it": "Procione"
+        },
+        "correct": true
+      },
+      {
+        "id": "panda",
+        "icon": "🐼",
+        "label": {
+          "de": "Panda",
+          "en": "Panda",
+          "it": "Panda"
+        },
+        "correct": false
+      },
+      {
+        "id": "koala",
+        "icon": "🐨",
+        "label": {
+          "de": "Koala",
+          "en": "Koala",
+          "it": "Koala"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Waschbär hat eine schwarze Maske im Gesicht.",
+      "en": "The raccoon has a black mask on its face.",
+      "it": "Il procione ha una mascherina nera sul muso."
+    },
+    "funFact": {
+      "de": "Waschbären leben inzwischen auch in Europa.",
+      "en": "Raccoons now live in Europe too.",
+      "it": "Oggi i procioni vivono anche in Europa."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-skunk",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Tier stinkt ganz fest, wenn es Angst hat?",
+      "en": "Which animal makes a terrible smell when it's scared?",
+      "it": "Quale animale fa una puzza tremenda quando ha paura?"
+    },
+    "answers": [
+      {
+        "id": "skunk",
+        "icon": "🦨",
+        "label": {
+          "de": "Stinktier",
+          "en": "Skunk",
+          "it": "Moffetta"
+        },
+        "correct": true
+      },
+      {
+        "id": "rabbit",
+        "icon": "🐰",
+        "label": {
+          "de": "Hase",
+          "en": "Rabbit",
+          "it": "Coniglio"
+        },
+        "correct": false
+      },
+      {
+        "id": "bird",
+        "icon": "🐦",
+        "label": {
+          "de": "Vogel",
+          "en": "Bird",
+          "it": "Uccellino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das Stinktier verspritzt einen stinkenden Saft.",
+      "en": "The skunk sprays a smelly liquid.",
+      "it": "La moffetta spruzza un liquido puzzolente."
+    },
+    "funFact": {
+      "de": "Vorher hebt es den Schwanz hoch, als Warnung.",
+      "en": "First it lifts its tail as a warning.",
+      "it": "Prima alza la coda per avvisare."
+    },
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "id": "america-pancakes",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Was essen viele in den USA zum Frühstück mit Sirup?",
+      "en": "What do many people in the USA eat for breakfast with syrup?",
+      "it": "Che cosa mangiano a colazione con lo sciroppo molti americani?"
+    },
+    "answers": [
+      {
+        "id": "pancakes",
+        "icon": "🥞",
+        "label": {
+          "de": "Pancakes",
+          "en": "Pancakes",
+          "it": "Pancake"
+        },
+        "correct": true
+      },
+      {
+        "id": "pizza",
+        "icon": "🍕",
+        "label": {
+          "de": "Pizza",
+          "en": "Pizza",
+          "it": "Pizza"
+        },
+        "correct": false
+      },
+      {
+        "id": "salad",
+        "icon": "🥗",
+        "label": {
+          "de": "Salat",
+          "en": "Salad",
+          "it": "Insalata"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Pancakes mit Sirup sind ein beliebtes Frühstück.",
+      "en": "Pancakes with syrup are a popular breakfast.",
+      "it": "I pancake con lo sciroppo sono una colazione molto amata."
+    },
+    "funFact": {
+      "de": "Dazu gibt es oft Ahornsirup aus Kanada.",
+      "en": "They often come with maple syrup from Canada.",
+      "it": "Spesso si mangiano con lo sciroppo d'acero del Canada."
+    },
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "id": "america-flag-colours",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Farben hat die Fahne der USA?",
+      "en": "What colours is the US flag?",
+      "it": "Di che colori è la bandiera degli Stati Uniti?"
+    },
+    "visual": "🇺🇸",
+    "answers": [
+      {
+        "id": "red-white-and-blue",
+        "icon": "🔴⚪🔵",
+        "label": {
+          "de": "Rot, Weiss und Blau",
+          "en": "Red, white and blue",
+          "it": "Rosso, bianco e blu"
+        },
+        "correct": true
+      },
+      {
+        "id": "green-white-and-red",
+        "icon": "🟢⚪🔴",
+        "label": {
+          "de": "Grün, Weiss und Rot",
+          "en": "Green, white and red",
+          "it": "Verde, bianco e rosso"
+        },
+        "correct": false
+      },
+      {
+        "id": "yellow-and-blue",
+        "icon": "🟡🔵",
+        "label": {
+          "de": "Gelb und Blau",
+          "en": "Yellow and blue",
+          "it": "Giallo e blu"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Fahne der USA ist rot, weiss und blau.",
+      "en": "The US flag is red, white and blue.",
+      "it": "La bandiera americana è rossa, bianca e blu."
+    },
+    "funFact": {
+      "de": "Die 13 Streifen stehen für die ersten 13 Kolonien.",
+      "en": "The 13 stripes stand for the first 13 colonies.",
+      "it": "Le 13 strisce rappresentano le prime 13 colonie."
+    },
+    "tags": [
+      "flag",
+      "colours"
+    ]
+  },
+  {
+    "id": "america-white-house",
+    "category": "america",
+    "level": "little",
+    "type": "mc",
+    "prompt": {
+      "de": "Wo wohnt die Präsidentin oder der Präsident der USA?",
+      "en": "Where does the President of the USA live?",
+      "it": "Dove abita il presidente degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "in-the-white-house",
+        "icon": "🏛️",
+        "label": {
+          "de": "Im Weissen Haus",
+          "en": "In the White House",
+          "it": "Alla Casa Bianca"
+        },
+        "correct": true
+      },
+      {
+        "id": "in-a-castle",
+        "icon": "🏰",
+        "label": {
+          "de": "In einem Schloss",
+          "en": "In a castle",
+          "it": "In un castello"
+        },
+        "correct": false
+      },
+      {
+        "id": "in-a-tent",
+        "icon": "⛺",
+        "label": {
+          "de": "In einem Zelt",
+          "en": "In a tent",
+          "it": "In una tenda"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Präsident wohnt im Weissen Haus.",
+      "en": "The President lives in the White House.",
+      "it": "Il presidente abita alla Casa Bianca."
+    },
+    "funFact": {
+      "de": "Das Weisse Haus steht in der Hauptstadt Washington.",
+      "en": "The White House is in the capital, Washington.",
+      "it": "La Casa Bianca si trova nella capitale, Washington."
+    },
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "america-capital",
+    "category": "america",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die Hauptstadt der USA?",
+      "en": "What is the capital of the USA?",
+      "it": "Qual è la capitale degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "Washington",
+          "en": "Washington",
+          "it": "Washington"
+        },
+        "correct": true
+      },
+      {
+        "id": "new-york",
+        "icon": "🗽",
+        "label": {
+          "de": "New York",
+          "en": "New York",
+          "it": "New York"
+        },
+        "correct": false
+      },
+      {
+        "id": "los-angeles",
+        "icon": "🎬",
+        "label": {
+          "de": "Los Angeles",
+          "en": "Los Angeles",
+          "it": "Los Angeles"
+        },
+        "correct": false
+      },
+      {
+        "id": "chicago",
+        "icon": "🌬️",
+        "label": {
+          "de": "Chicago",
+          "en": "Chicago",
+          "it": "Chicago"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Hauptstadt der USA ist Washington, nicht New York.",
+      "en": "The capital of the USA is Washington, not New York.",
+      "it": "La capitale degli Stati Uniti è Washington, non New York."
+    },
+    "funFact": {
+      "de": "Die Stadt ist nach dem ersten Präsidenten, George Washington, benannt.",
+      "en": "The city is named after the first president, George Washington.",
+      "it": "La città porta il nome del primo presidente, George Washington."
+    },
+    "tags": [
+      "cities",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-ocean-between",
+    "category": "america",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Ozean liegt zwischen Europa und Amerika?",
+      "en": "Which ocean lies between Europe and America?",
+      "it": "Quale oceano si trova tra Europa e America?"
+    },
+    "answers": [
+      {
+        "id": "atlantic-ocean",
+        "icon": "🌊",
+        "label": {
+          "de": "Atlantik",
+          "en": "Atlantic Ocean",
+          "it": "Oceano Atlantico"
+        },
+        "correct": true
+      },
+      {
+        "id": "pacific-ocean",
+        "icon": "🐋",
+        "label": {
+          "de": "Pazifik",
+          "en": "Pacific Ocean",
+          "it": "Oceano Pacifico"
+        },
+        "correct": false
+      },
+      {
+        "id": "indian-ocean",
+        "icon": "🐠",
+        "label": {
+          "de": "Indischer Ozean",
+          "en": "Indian Ocean",
+          "it": "Oceano Indiano"
+        },
+        "correct": false
+      },
+      {
+        "id": "arctic-ocean",
+        "icon": "🧊",
+        "label": {
+          "de": "Nordpolarmeer",
+          "en": "Arctic Ocean",
+          "it": "Mar Glaciale Artico"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Zwischen Europa und Amerika liegt der Atlantik.",
+      "en": "The Atlantic lies between Europe and America.",
+      "it": "Tra Europa e America c'è l'Atlantico."
+    },
+    "funFact": {
+      "de": "Kolumbus segelte 1492 über den Atlantik.",
+      "en": "Columbus sailed across the Atlantic in 1492.",
+      "it": "Colombo attraversò l'Atlantico nel 1492."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-named-after-italian",
+    "category": "america",
+    "level": "both",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Amerika wurde nach einem Italiener benannt. Stimmt das?",
+      "en": "America was named after an Italian. Is that true?",
+      "it": "L'America ha preso il nome da un italiano. È vero?"
+    },
+    "visual": "🗺️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Er hiess Amerigo Vespucci.",
+      "en": "That's true! His name was Amerigo Vespucci.",
+      "it": "È vero! Si chiamava Amerigo Vespucci."
+    },
+    "funFact": {
+      "de": "Vespucci war ein Seefahrer aus Florenz.",
+      "en": "Vespucci was a sailor from Florence.",
+      "it": "Vespucci era un navigatore fiorentino."
+    },
+    "tags": [
+      "history",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-south-neighbour",
+    "category": "america",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Land grenzt im Süden an die USA?",
+      "en": "Which country borders the USA to the south?",
+      "it": "Quale paese confina a sud con gli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "mexico",
+        "icon": "🇲🇽",
+        "label": {
+          "de": "Mexiko",
+          "en": "Mexico",
+          "it": "Messico"
+        },
+        "correct": true
+      },
+      {
+        "id": "canada",
+        "icon": "🇨🇦",
+        "label": {
+          "de": "Kanada",
+          "en": "Canada",
+          "it": "Canada"
+        },
+        "correct": false
+      },
+      {
+        "id": "brazil",
+        "icon": "🇧🇷",
+        "label": {
+          "de": "Brasilien",
+          "en": "Brazil",
+          "it": "Brasile"
+        },
+        "correct": false
+      },
+      {
+        "id": "argentina",
+        "icon": "🇦🇷",
+        "label": {
+          "de": "Argentinien",
+          "en": "Argentina",
+          "it": "Argentina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Süden der USA liegt Mexiko.",
+      "en": "Mexico lies to the south of the USA.",
+      "it": "A sud degli Stati Uniti c'è il Messico."
+    },
+    "funFact": {
+      "de": "In Mexiko spricht man vor allem Spanisch.",
+      "en": "In Mexico people mainly speak Spanish.",
+      "it": "In Messico si parla soprattutto spagnolo."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-north-neighbour",
+    "category": "america",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Land liegt nördlich der USA?",
+      "en": "Which country lies north of the USA?",
+      "it": "Quale paese si trova a nord degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "canada",
+        "icon": "🇨🇦",
+        "label": {
+          "de": "Kanada",
+          "en": "Canada",
+          "it": "Canada"
+        },
+        "correct": true
+      },
+      {
+        "id": "mexico",
+        "icon": "🇲🇽",
+        "label": {
+          "de": "Mexiko",
+          "en": "Mexico",
+          "it": "Messico"
+        },
+        "correct": false
+      },
+      {
+        "id": "brazil",
+        "icon": "🇧🇷",
+        "label": {
+          "de": "Brasilien",
+          "en": "Brazil",
+          "it": "Brasile"
+        },
+        "correct": false
+      },
+      {
+        "id": "peru",
+        "icon": "🇵🇪",
+        "label": {
+          "de": "Peru",
+          "en": "Peru",
+          "it": "Perù"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Norden der USA liegt Kanada.",
+      "en": "Canada lies to the north of the USA.",
+      "it": "A nord degli Stati Uniti c'è il Canada."
+    },
+    "funFact": {
+      "de": "Kanada ist das zweitgrösste Land der Welt.",
+      "en": "Canada is the second-biggest country in the world.",
+      "it": "Il Canada è il secondo paese più grande del mondo."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-andes",
+    "category": "america",
+    "level": "both",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches lange Gebirge liegt in Südamerika?",
+      "en": "Which long mountain range is in South America?",
+      "it": "Quale lunga catena di montagne si trova in Sud America?"
+    },
+    "answers": [
+      {
+        "id": "the-andes",
+        "icon": "🦙",
+        "label": {
+          "de": "Die Anden",
+          "en": "The Andes",
+          "it": "Le Ande"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-alps",
+        "icon": "🏔️",
+        "label": {
+          "de": "Die Alpen",
+          "en": "The Alps",
+          "it": "Le Alpi"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-himalayas",
+        "icon": "🐼",
+        "label": {
+          "de": "Der Himalaja",
+          "en": "The Himalayas",
+          "it": "L'Himalaya"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-rocky-mountains",
+        "icon": "🤠",
+        "label": {
+          "de": "Die Rocky Mountains",
+          "en": "The Rocky Mountains",
+          "it": "Le Montagne Rocciose"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Anden ziehen sich durch ganz Südamerika.",
+      "en": "The Andes stretch all the way through South America.",
+      "it": "Le Ande attraversano tutto il Sud America."
+    },
+    "funFact": {
+      "de": "Die Anden sind das längste Gebirge der Welt an Land.",
+      "en": "The Andes are the longest mountain range on land in the world.",
+      "it": "Le Ande sono la catena montuosa terrestre più lunga del mondo."
+    },
+    "tags": [
+      "geography",
+      "mountains"
+    ]
+  },
+  {
+    "id": "america-lincoln",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Präsident der USA kämpfte für das Ende der Sklaverei?",
+      "en": "Which US president fought to end slavery?",
+      "it": "Quale presidente americano lottò per abolire la schiavitù?"
+    },
+    "answers": [
+      {
+        "id": "abraham-lincoln",
+        "icon": "🎩",
+        "label": {
+          "de": "Abraham Lincoln",
+          "en": "Abraham Lincoln",
+          "it": "Abraham Lincoln"
+        },
+        "correct": true
+      },
+      {
+        "id": "george-washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "George Washington",
+          "en": "George Washington",
+          "it": "George Washington"
+        },
+        "correct": false
+      },
+      {
+        "id": "barack-obama",
+        "icon": "🎤",
+        "label": {
+          "de": "Barack Obama",
+          "en": "Barack Obama",
+          "it": "Barack Obama"
+        },
+        "correct": false
+      },
+      {
+        "id": "john-f-kennedy",
+        "icon": "🚀",
+        "label": {
+          "de": "John F. Kennedy",
+          "en": "John F. Kennedy",
+          "it": "John F. Kennedy"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Abraham Lincoln setzte sich für das Ende der Sklaverei ein.",
+      "en": "Abraham Lincoln worked to end slavery.",
+      "it": "Abraham Lincoln si impegnò per abolire la schiavitù."
+    },
+    "funFact": {
+      "de": "Sein Gesicht ist auf der Ein-Cent-Münze.",
+      "en": "His face is on the one-cent coin.",
+      "it": "Il suo volto è sulla moneta da un centesimo."
+    },
+    "tags": [
+      "history",
+      "politics"
+    ]
+  },
+  {
+    "id": "america-first-president",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer war der erste Präsident der USA?",
+      "en": "Who was the first President of the USA?",
+      "it": "Chi è stato il primo presidente degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "george-washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "George Washington",
+          "en": "George Washington",
+          "it": "George Washington"
+        },
+        "correct": true
+      },
+      {
+        "id": "abraham-lincoln",
+        "icon": "🎩",
+        "label": {
+          "de": "Abraham Lincoln",
+          "en": "Abraham Lincoln",
+          "it": "Abraham Lincoln"
+        },
+        "correct": false
+      },
+      {
+        "id": "barack-obama",
+        "icon": "🎤",
+        "label": {
+          "de": "Barack Obama",
+          "en": "Barack Obama",
+          "it": "Barack Obama"
+        },
+        "correct": false
+      },
+      {
+        "id": "john-f-kennedy",
+        "icon": "🚀",
+        "label": {
+          "de": "John F. Kennedy",
+          "en": "John F. Kennedy",
+          "it": "John F. Kennedy"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "George Washington war der erste Präsident.",
+      "en": "George Washington was the first president.",
+      "it": "George Washington è stato il primo presidente."
+    },
+    "funFact": {
+      "de": "Die Hauptstadt Washington ist nach ihm benannt.",
+      "en": "The capital, Washington, is named after him.",
+      "it": "La capitale Washington porta il suo nome."
+    },
+    "tags": [
+      "history",
+      "politics"
+    ]
+  },
+  {
+    "id": "america-i-have-a-dream",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer hielt die berühmte Rede «I have a dream»?",
+      "en": "Who gave the famous “I have a dream” speech?",
+      "it": "Chi pronunciò il famoso discorso «I have a dream»?"
+    },
+    "answers": [
+      {
+        "id": "martin-luther-king",
+        "icon": "🕊️",
+        "label": {
+          "de": "Martin Luther King",
+          "en": "Martin Luther King",
+          "it": "Martin Luther King"
+        },
+        "correct": true
+      },
+      {
+        "id": "abraham-lincoln",
+        "icon": "🎩",
+        "label": {
+          "de": "Abraham Lincoln",
+          "en": "Abraham Lincoln",
+          "it": "Abraham Lincoln"
+        },
+        "correct": false
+      },
+      {
+        "id": "george-washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "George Washington",
+          "en": "George Washington",
+          "it": "George Washington"
+        },
+        "correct": false
+      },
+      {
+        "id": "neil-armstrong",
+        "icon": "🌕",
+        "label": {
+          "de": "Neil Armstrong",
+          "en": "Neil Armstrong",
+          "it": "Neil Armstrong"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Martin Luther King hielt die Rede 1963 in Washington.",
+      "en": "Martin Luther King gave the speech in Washington in 1963.",
+      "it": "Martin Luther King tenne il discorso a Washington nel 1963."
+    },
+    "funFact": {
+      "de": "Er kämpfte friedlich für gleiche Rechte für alle Menschen.",
+      "en": "He fought peacefully for equal rights for everyone.",
+      "it": "Lottò in modo pacifico per gli stessi diritti per tutti."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "america-obama",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer war der erste schwarze Präsident der USA?",
+      "en": "Who was the first Black President of the USA?",
+      "it": "Chi è stato il primo presidente afroamericano degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "barack-obama",
+        "icon": "🎤",
+        "label": {
+          "de": "Barack Obama",
+          "en": "Barack Obama",
+          "it": "Barack Obama"
+        },
+        "correct": true
+      },
+      {
+        "id": "abraham-lincoln",
+        "icon": "🎩",
+        "label": {
+          "de": "Abraham Lincoln",
+          "en": "Abraham Lincoln",
+          "it": "Abraham Lincoln"
+        },
+        "correct": false
+      },
+      {
+        "id": "george-washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "George Washington",
+          "en": "George Washington",
+          "it": "George Washington"
+        },
+        "correct": false
+      },
+      {
+        "id": "john-f-kennedy",
+        "icon": "🚀",
+        "label": {
+          "de": "John F. Kennedy",
+          "en": "John F. Kennedy",
+          "it": "John F. Kennedy"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Barack Obama war der erste schwarze Präsident der USA.",
+      "en": "Barack Obama was the first Black President of the USA.",
+      "it": "Barack Obama è stato il primo presidente afroamericano."
+    },
+    "funFact": {
+      "de": "Er war von 2009 bis 2017 Präsident.",
+      "en": "He was president from 2009 to 2017.",
+      "it": "È stato presidente dal 2009 al 2017."
+    },
+    "tags": [
+      "history",
+      "politics"
+    ]
+  },
+  {
+    "id": "america-stripes",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie viele Streifen hat die Fahne der USA?",
+      "en": "How many stripes does the US flag have?",
+      "it": "Quante strisce ha la bandiera americana?"
+    },
+    "visual": "🇺🇸",
+    "answers": [
+      {
+        "id": "thirteen",
+        "icon": "13",
+        "label": {
+          "de": "Dreizehn",
+          "en": "Thirteen",
+          "it": "Tredici"
+        },
+        "correct": true
+      },
+      {
+        "id": "fifty",
+        "icon": "50",
+        "label": {
+          "de": "Fünfzig",
+          "en": "Fifty",
+          "it": "Cinquanta"
+        },
+        "correct": false
+      },
+      {
+        "id": "seven",
+        "icon": "7",
+        "label": {
+          "de": "Sieben",
+          "en": "Seven",
+          "it": "Sette"
+        },
+        "correct": false
+      },
+      {
+        "id": "twenty",
+        "icon": "20",
+        "label": {
+          "de": "Zwanzig",
+          "en": "Twenty",
+          "it": "Venti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Fahne hat 13 rote und weisse Streifen.",
+      "en": "The flag has 13 red and white stripes.",
+      "it": "La bandiera ha 13 strisce rosse e bianche."
+    },
+    "funFact": {
+      "de": "Die Fahne nennt man «Stars and Stripes», Sterne und Streifen.",
+      "en": "The flag is called the “Stars and Stripes”.",
+      "it": "La bandiera si chiama «Stars and Stripes», stelle e strisce."
+    },
+    "tags": [
+      "flag",
+      "numbers"
+    ]
+  },
+  {
+    "id": "america-biggest-state",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches ist der grösste Bundesstaat der USA?",
+      "en": "What is the biggest state in the USA?",
+      "it": "Qual è lo stato più grande degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "alaska",
+        "icon": "🐻",
+        "label": {
+          "de": "Alaska",
+          "en": "Alaska",
+          "it": "Alaska"
+        },
+        "correct": true
+      },
+      {
+        "id": "texas",
+        "icon": "🤠",
+        "label": {
+          "de": "Texas",
+          "en": "Texas",
+          "it": "Texas"
+        },
+        "correct": false
+      },
+      {
+        "id": "california",
+        "icon": "🎬",
+        "label": {
+          "de": "Kalifornien",
+          "en": "California",
+          "it": "California"
+        },
+        "correct": false
+      },
+      {
+        "id": "florida",
+        "icon": "🐊",
+        "label": {
+          "de": "Florida",
+          "en": "Florida",
+          "it": "Florida"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Alaska ist der grösste Bundesstaat.",
+      "en": "Alaska is the biggest state.",
+      "it": "L'Alaska è lo stato più grande."
+    },
+    "funFact": {
+      "de": "Die USA kauften Alaska im Jahr 1867 von Russland.",
+      "en": "The USA bought Alaska from Russia in 1867.",
+      "it": "Gli Stati Uniti comprarono l'Alaska dalla Russia nel 1867."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-newest-state",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Bundesstaat kam als fünfzigster und letzter dazu?",
+      "en": "Which state joined fiftieth and last?",
+      "it": "Quale stato è entrato per cinquantesimo e ultimo?"
+    },
+    "answers": [
+      {
+        "id": "hawaii",
+        "icon": "🌺",
+        "label": {
+          "de": "Hawaii",
+          "en": "Hawaii",
+          "it": "Hawaii"
+        },
+        "correct": true
+      },
+      {
+        "id": "alaska",
+        "icon": "🐻",
+        "label": {
+          "de": "Alaska",
+          "en": "Alaska",
+          "it": "Alaska"
+        },
+        "correct": false
+      },
+      {
+        "id": "texas",
+        "icon": "🤠",
+        "label": {
+          "de": "Texas",
+          "en": "Texas",
+          "it": "Texas"
+        },
+        "correct": false
+      },
+      {
+        "id": "california",
+        "icon": "🎬",
+        "label": {
+          "de": "Kalifornien",
+          "en": "California",
+          "it": "California"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Hawaii wurde 1959 der fünfzigste Bundesstaat.",
+      "en": "Hawaii became the fiftieth state in 1959.",
+      "it": "Le Hawaii sono diventate il cinquantesimo stato nel 1959."
+    },
+    "funFact": {
+      "de": "Alaska kam im gleichen Jahr kurz davor dazu.",
+      "en": "Alaska joined just before, in the same year.",
+      "it": "L'Alaska era entrato poco prima, nello stesso anno."
+    },
+    "tags": [
+      "geography",
+      "history"
+    ]
+  },
+  {
+    "id": "america-mississippi",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher lange Fluss fliesst durch die Mitte der USA?",
+      "en": "Which long river flows through the middle of the USA?",
+      "it": "Quale lungo fiume attraversa il centro degli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "mississippi",
+        "icon": "🛶",
+        "label": {
+          "de": "Mississippi",
+          "en": "Mississippi",
+          "it": "Mississippi"
+        },
+        "correct": true
+      },
+      {
+        "id": "amazon",
+        "icon": "🌳",
+        "label": {
+          "de": "Amazonas",
+          "en": "Amazon",
+          "it": "Rio delle Amazzoni"
+        },
+        "correct": false
+      },
+      {
+        "id": "nile",
+        "icon": "🐊",
+        "label": {
+          "de": "Nil",
+          "en": "Nile",
+          "it": "Nilo"
+        },
+        "correct": false
+      },
+      {
+        "id": "rhine",
+        "icon": "🏞️",
+        "label": {
+          "de": "Rhein",
+          "en": "Rhine",
+          "it": "Reno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Mississippi fliesst von Norden nach Süden durch die USA.",
+      "en": "The Mississippi flows from north to south through the USA.",
+      "it": "Il Mississippi attraversa gli Stati Uniti da nord a sud."
+    },
+    "funFact": {
+      "de": "Der Name kommt aus einer indigenen Sprache und bedeutet ungefähr «grosser Fluss».",
+      "en": "The name comes from a Native American language and means roughly “big river”.",
+      "it": "Il nome viene da una lingua dei nativi americani e significa più o meno «grande fiume»."
+    },
+    "tags": [
+      "rivers"
+    ]
+  },
+  {
+    "id": "america-amazon-water",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Fluss führt am meisten Wasser auf der Welt?",
+      "en": "Which river carries the most water in the world?",
+      "it": "Quale fiume porta più acqua al mondo?"
+    },
+    "answers": [
+      {
+        "id": "amazon",
+        "icon": "🌳",
+        "label": {
+          "de": "Amazonas",
+          "en": "Amazon",
+          "it": "Rio delle Amazzoni"
+        },
+        "correct": true
+      },
+      {
+        "id": "nile",
+        "icon": "🐊",
+        "label": {
+          "de": "Nil",
+          "en": "Nile",
+          "it": "Nilo"
+        },
+        "correct": false
+      },
+      {
+        "id": "mississippi",
+        "icon": "🛶",
+        "label": {
+          "de": "Mississippi",
+          "en": "Mississippi",
+          "it": "Mississippi"
+        },
+        "correct": false
+      },
+      {
+        "id": "rhine",
+        "icon": "🏞️",
+        "label": {
+          "de": "Rhein",
+          "en": "Rhine",
+          "it": "Reno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Amazonas führt mehr Wasser als jeder andere Fluss.",
+      "en": "The Amazon carries more water than any other river.",
+      "it": "Il Rio delle Amazzoni porta più acqua di qualsiasi altro fiume."
+    },
+    "funFact": {
+      "de": "Er führt mehr Wasser als die nächsten sieben grössten Flüsse zusammen.",
+      "en": "It carries more water than the next seven biggest rivers put together.",
+      "it": "Porta più acqua dei sette fiumi più grandi successivi messi insieme."
+    },
+    "tags": [
+      "rivers",
+      "nature"
+    ],
+    "uncertain": "The 'next seven rivers combined' comparison is widely quoted; exact rankings depend on the source."
+  },
+  {
+    "id": "america-rockies",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst das grosse Gebirge im Westen von Nordamerika?",
+      "en": "What is the big mountain range in western North America called?",
+      "it": "Come si chiama la grande catena montuosa nell'ovest del Nord America?"
+    },
+    "answers": [
+      {
+        "id": "rocky-mountains",
+        "icon": "🏔️",
+        "label": {
+          "de": "Rocky Mountains",
+          "en": "Rocky Mountains",
+          "it": "Montagne Rocciose"
+        },
+        "correct": true
+      },
+      {
+        "id": "andes",
+        "icon": "🦙",
+        "label": {
+          "de": "Anden",
+          "en": "Andes",
+          "it": "Ande"
+        },
+        "correct": false
+      },
+      {
+        "id": "alps",
+        "icon": "⛰️",
+        "label": {
+          "de": "Alpen",
+          "en": "Alps",
+          "it": "Alpi"
+        },
+        "correct": false
+      },
+      {
+        "id": "urals",
+        "icon": "🐻",
+        "label": {
+          "de": "Ural",
+          "en": "Urals",
+          "it": "Urali"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Im Westen Nordamerikas liegen die Rocky Mountains.",
+      "en": "The Rocky Mountains are in western North America.",
+      "it": "Nell'ovest del Nord America ci sono le Montagne Rocciose."
+    },
+    "funFact": {
+      "de": "Dort leben Bären, Elche und Wölfe.",
+      "en": "Bears, moose and wolves live there.",
+      "it": "Lì vivono orsi, alci e lupi."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "america-niagara",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher berühmte Wasserfall liegt an der Grenze zwischen den USA und Kanada?",
+      "en": "Which famous waterfall is on the border between the USA and Canada?",
+      "it": "Quale famosa cascata si trova al confine tra Stati Uniti e Canada?"
+    },
+    "answers": [
+      {
+        "id": "niagara-falls",
+        "icon": "💦",
+        "label": {
+          "de": "Niagarafälle",
+          "en": "Niagara Falls",
+          "it": "Cascate del Niagara"
+        },
+        "correct": true
+      },
+      {
+        "id": "rhine-falls",
+        "icon": "🏞️",
+        "label": {
+          "de": "Rheinfall",
+          "en": "Rhine Falls",
+          "it": "Cascate del Reno"
+        },
+        "correct": false
+      },
+      {
+        "id": "victoria-falls",
+        "icon": "🦁",
+        "label": {
+          "de": "Victoriafälle",
+          "en": "Victoria Falls",
+          "it": "Cascate Vittoria"
+        },
+        "correct": false
+      },
+      {
+        "id": "iguaz-falls",
+        "icon": "🌴",
+        "label": {
+          "de": "Iguazú-Fälle",
+          "en": "Iguazú Falls",
+          "it": "Cascate dell'Iguazú"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Niagarafälle liegen zwischen den USA und Kanada.",
+      "en": "Niagara Falls lie between the USA and Canada.",
+      "it": "Le cascate del Niagara sono tra Stati Uniti e Canada."
+    },
+    "funFact": {
+      "de": "Jede Sekunde stürzen dort Millionen Liter Wasser hinunter.",
+      "en": "Millions of litres of water crash down every second.",
+      "it": "Ogni secondo precipitano milioni di litri d'acqua."
+    },
+    "tags": [
+      "nature",
+      "rivers"
+    ]
+  },
+  {
+    "id": "america-yellowstone",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst der erste Nationalpark der Welt?",
+      "en": "What is the name of the world's first national park?",
+      "it": "Come si chiama il primo parco nazionale del mondo?"
+    },
+    "answers": [
+      {
+        "id": "yellowstone",
+        "icon": "♨️",
+        "label": {
+          "de": "Yellowstone",
+          "en": "Yellowstone",
+          "it": "Yellowstone"
+        },
+        "correct": true
+      },
+      {
+        "id": "swiss-national-park",
+        "icon": "🐐",
+        "label": {
+          "de": "Schweizerischer Nationalpark",
+          "en": "Swiss National Park",
+          "it": "Parco Nazionale Svizzero"
+        },
+        "correct": false
+      },
+      {
+        "id": "gran-paradiso",
+        "icon": "🏔️",
+        "label": {
+          "de": "Gran Paradiso",
+          "en": "Gran Paradiso",
+          "it": "Gran Paradiso"
+        },
+        "correct": false
+      },
+      {
+        "id": "grand-canyon",
+        "icon": "🏜️",
+        "label": {
+          "de": "Grand Canyon",
+          "en": "Grand Canyon",
+          "it": "Grand Canyon"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Yellowstone in den USA wurde 1872 der erste Nationalpark der Welt.",
+      "en": "Yellowstone in the USA became the world's first national park in 1872.",
+      "it": "Yellowstone, negli Stati Uniti, è diventato il primo parco nazionale del mondo nel 1872."
+    },
+    "funFact": {
+      "de": "In Yellowstone spritzen Geysire heisses Wasser hoch in die Luft.",
+      "en": "In Yellowstone, geysers shoot hot water high into the air.",
+      "it": "A Yellowstone i geyser sparano acqua bollente in alto."
+    },
+    "tags": [
+      "nature",
+      "history"
+    ]
+  },
+  {
+    "id": "america-golden-gate",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welcher Stadt steht die rote Golden-Gate-Brücke?",
+      "en": "In which city is the red Golden Gate Bridge?",
+      "it": "In quale città si trova il ponte rosso Golden Gate?"
+    },
+    "answers": [
+      {
+        "id": "san-francisco",
+        "icon": "🌉",
+        "label": {
+          "de": "San Francisco",
+          "en": "San Francisco",
+          "it": "San Francisco"
+        },
+        "correct": true
+      },
+      {
+        "id": "new-york",
+        "icon": "🗽",
+        "label": {
+          "de": "New York",
+          "en": "New York",
+          "it": "New York"
+        },
+        "correct": false
+      },
+      {
+        "id": "chicago",
+        "icon": "🌬️",
+        "label": {
+          "de": "Chicago",
+          "en": "Chicago",
+          "it": "Chicago"
+        },
+        "correct": false
+      },
+      {
+        "id": "miami",
+        "icon": "🐊",
+        "label": {
+          "de": "Miami",
+          "en": "Miami",
+          "it": "Miami"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Golden-Gate-Brücke steht in San Francisco.",
+      "en": "The Golden Gate Bridge is in San Francisco.",
+      "it": "Il Golden Gate si trova a San Francisco."
+    },
+    "funFact": {
+      "de": "Ihre orange-rote Farbe sieht man auch im Nebel gut.",
+      "en": "Its orange-red colour is easy to see even in fog.",
+      "it": "Il suo colore rosso-arancio si vede bene anche nella nebbia."
+    },
+    "tags": [
+      "landmarks",
+      "cities"
+    ]
+  },
+  {
+    "id": "america-liberty-gift",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Land schenkte den USA die Freiheitsstatue?",
+      "en": "Which country gave the Statue of Liberty to the USA?",
+      "it": "Quale paese ha regalato la Statua della Libertà agli Stati Uniti?"
+    },
+    "answers": [
+      {
+        "id": "france",
+        "icon": "🇫🇷",
+        "label": {
+          "de": "Frankreich",
+          "en": "France",
+          "it": "Francia"
+        },
+        "correct": true
+      },
+      {
+        "id": "switzerland",
+        "icon": "🇨🇭",
+        "label": {
+          "de": "Schweiz",
+          "en": "Switzerland",
+          "it": "Svizzera"
+        },
+        "correct": false
+      },
+      {
+        "id": "italy",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italien",
+          "en": "Italy",
+          "it": "Italia"
+        },
+        "correct": false
+      },
+      {
+        "id": "england",
+        "icon": "🇬🇧",
+        "label": {
+          "de": "England",
+          "en": "England",
+          "it": "Inghilterra"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Frankreich schenkte den USA die Freiheitsstatue.",
+      "en": "France gave the Statue of Liberty to the USA.",
+      "it": "La Francia ha regalato la Statua della Libertà agli Stati Uniti."
+    },
+    "funFact": {
+      "de": "Ihr Gerüst aus Eisen hat Gustave Eiffel entworfen, der auch den Eiffelturm baute.",
+      "en": "Its iron frame was designed by Gustave Eiffel, who also built the Eiffel Tower.",
+      "it": "La struttura di ferro l'ha progettata Gustave Eiffel, quello della Torre Eiffel."
+    },
+    "tags": [
+      "landmarks",
+      "history"
+    ]
+  },
+  {
+    "id": "america-mount-rushmore",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Was ist am Mount Rushmore in den Fels gemeisselt?",
+      "en": "What is carved into the rock at Mount Rushmore?",
+      "it": "Che cosa è scolpito nella roccia del Monte Rushmore?"
+    },
+    "answers": [
+      {
+        "id": "the-faces-of-four-presidents",
+        "icon": "🗿",
+        "label": {
+          "de": "Gesichter von vier Präsidenten",
+          "en": "The faces of four presidents",
+          "it": "I volti di quattro presidenti"
+        },
+        "correct": true
+      },
+      {
+        "id": "a-giant-eagle",
+        "icon": "🦅",
+        "label": {
+          "de": "Ein riesiger Adler",
+          "en": "A giant eagle",
+          "it": "Un'aquila gigante"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-cowboy-hat",
+        "icon": "🤠",
+        "label": {
+          "de": "Ein Cowboyhut",
+          "en": "A cowboy hat",
+          "it": "Un cappello da cowboy"
+        },
+        "correct": false
+      },
+      {
+        "id": "a-map",
+        "icon": "🗺️",
+        "label": {
+          "de": "Eine Landkarte",
+          "en": "A map",
+          "it": "Una cartina"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Am Mount Rushmore sind vier Präsidentengesichter in den Fels gehauen.",
+      "en": "Four presidents' faces are carved into Mount Rushmore.",
+      "it": "Sul Monte Rushmore sono scolpiti i volti di quattro presidenti."
+    },
+    "funFact": {
+      "de": "Jedes Gesicht ist etwa 18 Meter hoch.",
+      "en": "Each face is about 18 metres tall.",
+      "it": "Ogni volto è alto circa 18 metri."
+    },
+    "tags": [
+      "landmarks"
+    ]
+  },
+  {
+    "id": "america-indigenous",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie nennt man die Völker, die schon vor den Europäern in Amerika lebten?",
+      "en": "What do we call the peoples who lived in America before the Europeans came?",
+      "it": "Come si chiamano i popoli che vivevano in America prima degli europei?"
+    },
+    "answers": [
+      {
+        "id": "indigenous-peoples",
+        "icon": "🪶",
+        "label": {
+          "de": "Indigene Völker",
+          "en": "Indigenous peoples",
+          "it": "Popoli indigeni"
+        },
+        "correct": true
+      },
+      {
+        "id": "romans",
+        "icon": "⚔️",
+        "label": {
+          "de": "Römer",
+          "en": "Romans",
+          "it": "Romani"
+        },
+        "correct": false
+      },
+      {
+        "id": "pharaohs",
+        "icon": "🏺",
+        "label": {
+          "de": "Pharaonen",
+          "en": "Pharaohs",
+          "it": "Faraoni"
+        },
+        "correct": false
+      },
+      {
+        "id": "knights",
+        "icon": "🏰",
+        "label": {
+          "de": "Ritter",
+          "en": "Knights",
+          "it": "Cavalieri"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die ersten Menschen in Amerika nennt man indigene Völker.",
+      "en": "The first people in America are called Indigenous peoples.",
+      "it": "I primi abitanti dell'America si chiamano popoli indigeni."
+    },
+    "funFact": {
+      "de": "Es gibt Hunderte verschiedene indigene Völker mit eigenen Sprachen.",
+      "en": "There are hundreds of different Indigenous peoples with their own languages.",
+      "it": "Ci sono centinaia di popoli indigeni diversi, con lingue proprie."
+    },
+    "tags": [
+      "history",
+      "culture"
+    ]
+  },
+  {
+    "id": "america-vikings",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Wikinger kamen schon vor Kolumbus nach Nordamerika. Stimmt das?",
+      "en": "Vikings reached North America before Columbus. Is that true?",
+      "it": "I Vichinghi arrivarono in Nord America prima di Colombo. È vero?"
+    },
+    "visual": "⛵",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Wikinger landeten etwa 500 Jahre vor Kolumbus in Kanada.",
+      "en": "That's true! Vikings landed in Canada about 500 years before Columbus.",
+      "it": "È vero! I Vichinghi sbarcarono in Canada circa 500 anni prima di Colombo."
+    },
+    "funFact": {
+      "de": "Ihr Anführer hiess Leif Eriksson.",
+      "en": "Their leader was called Leif Erikson.",
+      "it": "Il loro capo si chiamava Leif Eriksson."
+    },
+    "tags": [
+      "history",
+      "explorers",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-machu-picchu",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Volk baute Machu Picchu hoch in den Anden?",
+      "en": "Which people built Machu Picchu high in the Andes?",
+      "it": "Quale popolo costruì Machu Picchu in alto sulle Ande?"
+    },
+    "answers": [
+      {
+        "id": "the-inca",
+        "icon": "🏔️",
+        "label": {
+          "de": "Die Inka",
+          "en": "The Inca",
+          "it": "Gli Inca"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-romans",
+        "icon": "⚔️",
+        "label": {
+          "de": "Die Römer",
+          "en": "The Romans",
+          "it": "I Romani"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-egyptians",
+        "icon": "🏺",
+        "label": {
+          "de": "Die Ägypter",
+          "en": "The Egyptians",
+          "it": "Gli Egizi"
+        },
+        "correct": false
+      },
+      {
+        "id": "the-vikings",
+        "icon": "⛵",
+        "label": {
+          "de": "Die Wikinger",
+          "en": "The Vikings",
+          "it": "I Vichinghi"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Inka bauten Machu Picchu.",
+      "en": "The Inca built Machu Picchu.",
+      "it": "Gli Inca costruirono Machu Picchu."
+    },
+    "funFact": {
+      "de": "Machu Picchu liegt in Peru auf etwa 2400 Metern Höhe.",
+      "en": "Machu Picchu is in Peru, about 2,400 metres up.",
+      "it": "Machu Picchu si trova in Perù, a circa 2400 metri."
+    },
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "id": "america-pyramids-mexico",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Auch in Mexiko gibt es Pyramiden. Stimmt das?",
+      "en": "There are pyramids in Mexico too. Is that true?",
+      "it": "Anche in Messico ci sono piramidi. È vero?"
+    },
+    "visual": "🛕",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Die Maya und Azteken bauten grosse Stufenpyramiden.",
+      "en": "That's true! The Maya and Aztecs built big step pyramids.",
+      "it": "È vero! I Maya e gli Aztechi costruirono grandi piramidi a gradoni."
+    },
+    "funFact": {
+      "de": "Oben auf den Pyramiden standen oft Tempel.",
+      "en": "There were often temples on top of the pyramids.",
+      "it": "In cima alle piramidi c'erano spesso dei templi."
+    },
+    "tags": [
+      "history",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-brazil-language",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Sprache spricht man in Brasilien?",
+      "en": "Which language is spoken in Brazil?",
+      "it": "Che lingua si parla in Brasile?"
+    },
+    "answers": [
+      {
+        "id": "portuguese",
+        "icon": "🇵🇹",
+        "label": {
+          "de": "Portugiesisch",
+          "en": "Portuguese",
+          "it": "Portoghese"
+        },
+        "correct": true
+      },
+      {
+        "id": "spanish",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Spanisch",
+          "en": "Spanish",
+          "it": "Spagnolo"
+        },
+        "correct": false
+      },
+      {
+        "id": "english",
+        "icon": "🇬🇧",
+        "label": {
+          "de": "Englisch",
+          "en": "English",
+          "it": "Inglese"
+        },
+        "correct": false
+      },
+      {
+        "id": "italian",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch",
+          "en": "Italian",
+          "it": "Italiano"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Brasilien spricht man Portugiesisch.",
+      "en": "In Brazil people speak Portuguese.",
+      "it": "In Brasile si parla portoghese."
+    },
+    "funFact": {
+      "de": "Brasilien ist das grösste Land Südamerikas.",
+      "en": "Brazil is the biggest country in South America.",
+      "it": "Il Brasile è il paese più grande del Sud America."
+    },
+    "tags": [
+      "language",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-time-zones",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In den USA gibt es mehrere Zeitzonen. Stimmt das?",
+      "en": "There are several time zones in the USA. Is that true?",
+      "it": "Negli Stati Uniti ci sono diversi fusi orari. È vero?"
+    },
+    "visual": "🕐",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Das Land ist so breit, dass die Uhrzeit nicht überall gleich ist.",
+      "en": "That's true! The country is so wide that the clock time isn't the same everywhere.",
+      "it": "È vero! Il paese è così largo che l'ora non è uguale dappertutto."
+    },
+    "funFact": {
+      "de": "Wenn es in New York Mittag ist, ist es in Kalifornien erst neun Uhr morgens.",
+      "en": "When it's noon in New York, it's only nine in the morning in California.",
+      "it": "Quando a New York è mezzogiorno, in California sono solo le nove del mattino."
+    },
+    "tags": [
+      "time",
+      "geography"
+    ]
+  },
+  {
+    "id": "america-time-difference",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wenn es bei uns Mittag ist, wie spät ist es meistens in New York?",
+      "en": "When it's noon here, what time is it usually in New York?",
+      "it": "Quando da noi è mezzogiorno, che ore sono di solito a New York?"
+    },
+    "answers": [
+      {
+        "id": "six-in-the-morning",
+        "icon": "🌅",
+        "label": {
+          "de": "Sechs Uhr morgens",
+          "en": "Six in the morning",
+          "it": "Le sei del mattino"
+        },
+        "correct": true
+      },
+      {
+        "id": "midnight",
+        "icon": "🌙",
+        "label": {
+          "de": "Mitternacht",
+          "en": "Midnight",
+          "it": "Mezzanotte"
+        },
+        "correct": false
+      },
+      {
+        "id": "also-noon",
+        "icon": "☀️",
+        "label": {
+          "de": "Auch Mittag",
+          "en": "Also noon",
+          "it": "Anche mezzogiorno"
+        },
+        "correct": false
+      },
+      {
+        "id": "six-in-the-evening",
+        "icon": "🌆",
+        "label": {
+          "de": "Sechs Uhr abends",
+          "en": "Six in the evening",
+          "it": "Le sei di sera"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "New York ist uns meistens sechs Stunden hinterher.",
+      "en": "New York is usually six hours behind us.",
+      "it": "New York di solito è sei ore indietro rispetto a noi."
+    },
+    "funFact": {
+      "de": "Die Welt ist in viele Zeitzonen aufgeteilt.",
+      "en": "The world is divided into lots of time zones.",
+      "it": "Il mondo è diviso in tanti fusi orari."
+    },
+    "tags": [
+      "time"
+    ],
+    "uncertain": "For a few weeks in spring and autumn the difference is five hours, because daylight saving time changes on different dates."
+  },
+  {
+    "id": "america-hollywood-state",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "In welchem Bundesstaat liegt Hollywood?",
+      "en": "Which state is Hollywood in?",
+      "it": "In quale stato si trova Hollywood?"
+    },
+    "answers": [
+      {
+        "id": "california",
+        "icon": "🎬",
+        "label": {
+          "de": "Kalifornien",
+          "en": "California",
+          "it": "California"
+        },
+        "correct": true
+      },
+      {
+        "id": "texas",
+        "icon": "🤠",
+        "label": {
+          "de": "Texas",
+          "en": "Texas",
+          "it": "Texas"
+        },
+        "correct": false
+      },
+      {
+        "id": "alaska",
+        "icon": "🐻",
+        "label": {
+          "de": "Alaska",
+          "en": "Alaska",
+          "it": "Alaska"
+        },
+        "correct": false
+      },
+      {
+        "id": "florida",
+        "icon": "🐊",
+        "label": {
+          "de": "Florida",
+          "en": "Florida",
+          "it": "Florida"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Hollywood liegt in Kalifornien.",
+      "en": "Hollywood is in California.",
+      "it": "Hollywood si trova in California."
+    },
+    "funFact": {
+      "de": "In Kalifornien leben mehr Menschen als in jedem anderen Bundesstaat.",
+      "en": "More people live in California than in any other state.",
+      "it": "La California è lo stato più popoloso."
+    },
+    "tags": [
+      "geography"
+    ]
+  },
+  {
+    "id": "america-jazz",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche Musik entstand in New Orleans?",
+      "en": "Which kind of music was born in New Orleans?",
+      "it": "Quale musica è nata a New Orleans?"
+    },
+    "answers": [
+      {
+        "id": "jazz",
+        "icon": "🎷",
+        "label": {
+          "de": "Jazz",
+          "en": "Jazz",
+          "it": "Jazz"
+        },
+        "correct": true
+      },
+      {
+        "id": "yodelling",
+        "icon": "🏔️",
+        "label": {
+          "de": "Jodeln",
+          "en": "Yodelling",
+          "it": "Jodel"
+        },
+        "correct": false
+      },
+      {
+        "id": "opera",
+        "icon": "🎭",
+        "label": {
+          "de": "Oper",
+          "en": "Opera",
+          "it": "Opera lirica"
+        },
+        "correct": false
+      },
+      {
+        "id": "techno",
+        "icon": "🎧",
+        "label": {
+          "de": "Techno",
+          "en": "Techno",
+          "it": "Techno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Jazz entstand in New Orleans.",
+      "en": "Jazz was born in New Orleans.",
+      "it": "Il jazz è nato a New Orleans."
+    },
+    "funFact": {
+      "de": "Louis Armstrong war ein berühmter Jazztrompeter aus New Orleans.",
+      "en": "Louis Armstrong was a famous jazz trumpeter from New Orleans.",
+      "it": "Louis Armstrong era un famoso trombettista jazz di New Orleans."
+    },
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "america-wright-brothers",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wer flog 1903 als Erste mit einem Motorflugzeug?",
+      "en": "Who made the first powered aeroplane flight in 1903?",
+      "it": "Chi fece il primo volo con un aereo a motore nel 1903?"
+    },
+    "answers": [
+      {
+        "id": "the-wright-brothers",
+        "icon": "✈️",
+        "label": {
+          "de": "Die Brüder Wright",
+          "en": "The Wright brothers",
+          "it": "I fratelli Wright"
+        },
+        "correct": true
+      },
+      {
+        "id": "the-montgolfier-brothers",
+        "icon": "🎈",
+        "label": {
+          "de": "Die Brüder Montgolfier",
+          "en": "The Montgolfier brothers",
+          "it": "I fratelli Montgolfier"
+        },
+        "correct": false
+      },
+      {
+        "id": "leonardo-da-vinci",
+        "icon": "🎨",
+        "label": {
+          "de": "Leonardo da Vinci",
+          "en": "Leonardo da Vinci",
+          "it": "Leonardo da Vinci"
+        },
+        "correct": false
+      },
+      {
+        "id": "neil-armstrong",
+        "icon": "🚀",
+        "label": {
+          "de": "Neil Armstrong",
+          "en": "Neil Armstrong",
+          "it": "Neil Armstrong"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Brüder Wright flogen 1903 zum ersten Mal mit einem Motorflugzeug.",
+      "en": "The Wright brothers made the first powered flight in 1903.",
+      "it": "I fratelli Wright fecero il primo volo a motore nel 1903."
+    },
+    "funFact": {
+      "de": "Der allererste Flug dauerte nur zwölf Sekunden.",
+      "en": "The very first flight lasted only twelve seconds.",
+      "it": "Il primissimo volo durò solo dodici secondi."
+    },
+    "tags": [
+      "inventions",
+      "history"
+    ]
+  },
+  {
+    "id": "america-edison",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Erfinder aus den USA machte die Glühbirne alltagstauglich?",
+      "en": "Which American inventor made the light bulb practical for everyday use?",
+      "it": "Quale inventore americano rese la lampadina adatta all'uso di tutti i giorni?"
+    },
+    "answers": [
+      {
+        "id": "thomas-edison",
+        "icon": "💡",
+        "label": {
+          "de": "Thomas Edison",
+          "en": "Thomas Edison",
+          "it": "Thomas Edison"
+        },
+        "correct": true
+      },
+      {
+        "id": "isaac-newton",
+        "icon": "🍎",
+        "label": {
+          "de": "Isaac Newton",
+          "en": "Isaac Newton",
+          "it": "Isaac Newton"
+        },
+        "correct": false
+      },
+      {
+        "id": "alessandro-volta",
+        "icon": "🔋",
+        "label": {
+          "de": "Alessandro Volta",
+          "en": "Alessandro Volta",
+          "it": "Alessandro Volta"
+        },
+        "correct": false
+      },
+      {
+        "id": "galileo-galilei",
+        "icon": "🔭",
+        "label": {
+          "de": "Galileo Galilei",
+          "en": "Galileo Galilei",
+          "it": "Galileo Galilei"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Thomas Edison baute eine Glühbirne, die lange leuchtete.",
+      "en": "Thomas Edison built a light bulb that glowed for a long time.",
+      "it": "Thomas Edison costruì una lampadina che restava accesa a lungo."
+    },
+    "funFact": {
+      "de": "Edison meldete über tausend Erfindungen an.",
+      "en": "Edison registered more than a thousand inventions.",
+      "it": "Edison registrò più di mille invenzioni."
+    },
+    "tags": [
+      "inventions"
+    ]
+  },
+  {
+    "id": "america-fahrenheit",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In den USA misst man die Temperatur meistens in Fahrenheit. Stimmt das?",
+      "en": "In the USA, temperature is usually measured in Fahrenheit. Is that true?",
+      "it": "Negli Stati Uniti la temperatura si misura di solito in Fahrenheit. È vero?"
+    },
+    "visual": "🌡️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Dort benutzt man nicht Grad Celsius.",
+      "en": "That's true! They don't use degrees Celsius there.",
+      "it": "È vero! Lì non si usano i gradi Celsius."
+    },
+    "funFact": {
+      "de": "100 Grad Fahrenheit sind ungefähr 38 Grad Celsius, also sehr heiss.",
+      "en": "100 degrees Fahrenheit is about 38 degrees Celsius – very hot.",
+      "it": "100 gradi Fahrenheit sono circa 38 gradi Celsius: caldissimo."
+    },
+    "tags": [
+      "measuring",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-miles",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "In den USA misst man Strecken meistens in Meilen. Stimmt das?",
+      "en": "In the USA, distances are usually measured in miles. Is that true?",
+      "it": "Negli Stati Uniti le distanze si misurano di solito in miglia. È vero?"
+    },
+    "visual": "🛣️",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Auf den Strassenschildern stehen Meilen statt Kilometer.",
+      "en": "That's true! Road signs show miles instead of kilometres.",
+      "it": "È vero! Sui cartelli stradali ci sono le miglia invece dei chilometri."
+    },
+    "funFact": {
+      "de": "Eine Meile ist etwa 1,6 Kilometer lang.",
+      "en": "A mile is about 1.6 kilometres.",
+      "it": "Un miglio è lungo circa 1,6 chilometri."
+    },
+    "tags": [
+      "measuring"
+    ]
+  },
+  {
+    "id": "america-canada-languages",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welche zwei Amtssprachen hat Kanada?",
+      "en": "What are Canada's two official languages?",
+      "it": "Quali sono le due lingue ufficiali del Canada?"
+    },
+    "answers": [
+      {
+        "id": "english-and-french",
+        "icon": "🇨🇦",
+        "label": {
+          "de": "Englisch und Französisch",
+          "en": "English and French",
+          "it": "Inglese e francese"
+        },
+        "correct": true
+      },
+      {
+        "id": "spanish-and-english",
+        "icon": "🇪🇸",
+        "label": {
+          "de": "Spanisch und Englisch",
+          "en": "Spanish and English",
+          "it": "Spagnolo e inglese"
+        },
+        "correct": false
+      },
+      {
+        "id": "german-and-english",
+        "icon": "🇩🇪",
+        "label": {
+          "de": "Deutsch und Englisch",
+          "en": "German and English",
+          "it": "Tedesco e inglese"
+        },
+        "correct": false
+      },
+      {
+        "id": "italian-and-french",
+        "icon": "🇮🇹",
+        "label": {
+          "de": "Italienisch und Französisch",
+          "en": "Italian and French",
+          "it": "Italiano e francese"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "In Kanada sind Englisch und Französisch Amtssprachen.",
+      "en": "Canada's official languages are English and French.",
+      "it": "In Canada le lingue ufficiali sono inglese e francese."
+    },
+    "funFact": {
+      "de": "In der Provinz Québec spricht man vor allem Französisch.",
+      "en": "In the province of Quebec, people mostly speak French.",
+      "it": "Nella provincia del Québec si parla soprattutto francese."
+    },
+    "tags": [
+      "language"
+    ]
+  },
+  {
+    "id": "america-longer-amazon",
+    "category": "america",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher Fluss ist länger?",
+      "en": "Which river is longer?",
+      "it": "Quale fiume è più lungo?"
+    },
+    "answers": [
+      {
+        "id": "amazon",
+        "icon": "🌳",
+        "label": {
+          "de": "Amazonas",
+          "en": "Amazon",
+          "it": "Rio delle Amazzoni"
+        },
+        "correct": true
+      },
+      {
+        "id": "rhine",
+        "icon": "🏞️",
+        "label": {
+          "de": "Rhein",
+          "en": "Rhine",
+          "it": "Reno"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Amazonas ist viel länger als der Rhein.",
+      "en": "The Amazon is much longer than the Rhine.",
+      "it": "Il Rio delle Amazzoni è molto più lungo del Reno."
+    },
+    "funFact": {
+      "de": "Der Amazonas ist über 6000 Kilometer lang.",
+      "en": "The Amazon is more than 6,000 kilometres long.",
+      "it": "Il Rio delle Amazzoni è lungo più di 6000 chilometri."
+    },
+    "tags": [
+      "rivers"
+    ]
+  },
+  {
+    "id": "america-higher-aconcagua",
+    "category": "america",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welcher Berg ist höher?",
+      "en": "Which mountain is higher?",
+      "it": "Quale montagna è più alta?"
+    },
+    "answers": [
+      {
+        "id": "aconcagua",
+        "icon": "🏔️",
+        "label": {
+          "de": "Aconcagua",
+          "en": "Aconcagua",
+          "it": "Aconcagua"
+        },
+        "correct": true
+      },
+      {
+        "id": "matterhorn",
+        "icon": "⛰️",
+        "label": {
+          "de": "Matterhorn",
+          "en": "Matterhorn",
+          "it": "Cervino"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Aconcagua ist fast 7000 Meter hoch, viel höher als das Matterhorn.",
+      "en": "Aconcagua is almost 7,000 metres high – much higher than the Matterhorn.",
+      "it": "L'Aconcagua è alto quasi 7000 metri, molto più del Cervino."
+    },
+    "funFact": {
+      "de": "Der Aconcagua in Argentinien ist der höchste Berg Amerikas.",
+      "en": "Aconcagua in Argentina is the highest mountain in the Americas.",
+      "it": "L'Aconcagua, in Argentina, è la montagna più alta delle Americhe."
+    },
+    "tags": [
+      "mountains"
+    ]
+  },
+  {
+    "id": "america-bigger-canada",
+    "category": "america",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welches Land ist grösser?",
+      "en": "Which country is bigger?",
+      "it": "Quale paese è più grande?"
+    },
+    "answers": [
+      {
+        "id": "canada",
+        "icon": "🇨🇦",
+        "label": {
+          "de": "Kanada",
+          "en": "Canada",
+          "it": "Canada"
+        },
+        "correct": true
+      },
+      {
+        "id": "usa",
+        "icon": "🇺🇸",
+        "label": {
+          "de": "USA",
+          "en": "USA",
+          "it": "Stati Uniti"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Kanada ist ein bisschen grösser als die USA.",
+      "en": "Canada is a little bigger than the USA.",
+      "it": "Il Canada è un po' più grande degli Stati Uniti."
+    },
+    "funFact": {
+      "de": "In den USA leben aber über achtmal so viele Menschen.",
+      "en": "But more than eight times as many people live in the USA.",
+      "it": "Però negli Stati Uniti vivono più di otto volte tante persone."
+    },
+    "tags": [
+      "geography",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-bigger-city",
+    "category": "america",
+    "level": "big",
+    "type": "compare",
+    "prompt": {
+      "de": "Welche Stadt hat mehr Einwohner?",
+      "en": "Which city has more people?",
+      "it": "Quale città ha più abitanti?"
+    },
+    "answers": [
+      {
+        "id": "new-york",
+        "icon": "🗽",
+        "label": {
+          "de": "New York",
+          "en": "New York",
+          "it": "New York"
+        },
+        "correct": true
+      },
+      {
+        "id": "washington",
+        "icon": "🏛️",
+        "label": {
+          "de": "Washington",
+          "en": "Washington",
+          "it": "Washington"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "New York ist viel grösser als Washington.",
+      "en": "New York is much bigger than Washington.",
+      "it": "New York è molto più grande di Washington."
+    },
+    "funFact": {
+      "de": "Washington ist die Hauptstadt, aber eine viel kleinere Stadt.",
+      "en": "Washington is the capital, but a much smaller city.",
+      "it": "Washington è la capitale, ma è una città molto più piccola."
+    },
+    "tags": [
+      "cities"
+    ]
+  },
+  {
+    "id": "america-atacama",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Wie heisst die Wüste in Chile, einer der trockensten Orte der Welt?",
+      "en": "What is the desert in Chile – one of the driest places on Earth – called?",
+      "it": "Come si chiama il deserto del Cile, uno dei luoghi più aridi del mondo?"
+    },
+    "answers": [
+      {
+        "id": "atacama",
+        "icon": "🏜️",
+        "label": {
+          "de": "Atacama",
+          "en": "Atacama",
+          "it": "Atacama"
+        },
+        "correct": true
+      },
+      {
+        "id": "sahara",
+        "icon": "🐫",
+        "label": {
+          "de": "Sahara",
+          "en": "Sahara",
+          "it": "Sahara"
+        },
+        "correct": false
+      },
+      {
+        "id": "gobi",
+        "icon": "🐎",
+        "label": {
+          "de": "Gobi",
+          "en": "Gobi",
+          "it": "Gobi"
+        },
+        "correct": false
+      },
+      {
+        "id": "kalahari",
+        "icon": "🦁",
+        "label": {
+          "de": "Kalahari",
+          "en": "Kalahari",
+          "it": "Kalahari"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Atacama-Wüste in Chile ist extrem trocken.",
+      "en": "The Atacama Desert in Chile is extremely dry.",
+      "it": "Il deserto di Atacama, in Cile, è estremamente arido."
+    },
+    "funFact": {
+      "de": "An manchen Orten der Atacama hat es jahrelang nicht geregnet.",
+      "en": "In some parts of the Atacama it hasn't rained for years.",
+      "it": "In alcune zone dell'Atacama non piove da anni."
+    },
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "id": "america-potato-origin",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welches Gemüse kam aus Amerika nach Europa?",
+      "en": "Which vegetable came to Europe from America?",
+      "it": "Quale ortaggio è arrivato in Europa dall'America?"
+    },
+    "answers": [
+      {
+        "id": "potato",
+        "icon": "🥔",
+        "label": {
+          "de": "Kartoffel",
+          "en": "Potato",
+          "it": "Patata"
+        },
+        "correct": true
+      },
+      {
+        "id": "wheat",
+        "icon": "🌾",
+        "label": {
+          "de": "Weizen",
+          "en": "Wheat",
+          "it": "Grano"
+        },
+        "correct": false
+      },
+      {
+        "id": "rice",
+        "icon": "🍚",
+        "label": {
+          "de": "Reis",
+          "en": "Rice",
+          "it": "Riso"
+        },
+        "correct": false
+      },
+      {
+        "id": "onion",
+        "icon": "🧅",
+        "label": {
+          "de": "Zwiebel",
+          "en": "Onion",
+          "it": "Cipolla"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Die Kartoffel kommt ursprünglich aus den Anden in Südamerika.",
+      "en": "The potato originally comes from the Andes in South America.",
+      "it": "La patata viene originariamente dalle Ande, in Sud America."
+    },
+    "funFact": {
+      "de": "Ohne Amerika gäbe es keine Rösti und keine Pommes!",
+      "en": "Without America there'd be no Rösti and no chips!",
+      "it": "Senza l'America non ci sarebbero né Rösti né patatine fritte!"
+    },
+    "tags": [
+      "food",
+      "history",
+      "surprise"
+    ]
+  },
+  {
+    "id": "america-galapagos",
+    "category": "america",
+    "level": "big",
+    "type": "truefalse",
+    "prompt": {
+      "de": "Die Galápagos-Inseln gehören zu Ecuador. Stimmt das?",
+      "en": "The Galápagos Islands belong to Ecuador. Is that true?",
+      "it": "Le isole Galápagos appartengono all'Ecuador. È vero?"
+    },
+    "visual": "🐢",
+    "answers": [
+      {
+        "id": "true",
+        "icon": "👍",
+        "label": {
+          "de": "Stimmt",
+          "en": "True",
+          "it": "Vero"
+        },
+        "correct": true
+      },
+      {
+        "id": "false",
+        "icon": "👎",
+        "label": {
+          "de": "Stimmt nicht",
+          "en": "Not true",
+          "it": "Falso"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Das stimmt! Sie liegen im Pazifik vor Südamerika.",
+      "en": "That's true! They lie in the Pacific off South America.",
+      "it": "È vero! Si trovano nel Pacifico, al largo del Sud America."
+    },
+    "funFact": {
+      "de": "Dort leben Riesenschildkröten, die es nur dort gibt.",
+      "en": "Giant tortoises found nowhere else live there.",
+      "it": "Lì vivono tartarughe giganti che esistono solo lì."
+    },
+    "tags": [
+      "geography",
+      "animals"
+    ]
+  },
+  {
+    "id": "america-panama-canal",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Kanal verbindet den Atlantik mit dem Pazifik?",
+      "en": "Which canal links the Atlantic and the Pacific?",
+      "it": "Quale canale collega l'Atlantico al Pacifico?"
+    },
+    "answers": [
+      {
+        "id": "panama-canal",
+        "icon": "🚢",
+        "label": {
+          "de": "Panamakanal",
+          "en": "Panama Canal",
+          "it": "Canale di Panama"
+        },
+        "correct": true
+      },
+      {
+        "id": "suez-canal",
+        "icon": "🐫",
+        "label": {
+          "de": "Suezkanal",
+          "en": "Suez Canal",
+          "it": "Canale di Suez"
+        },
+        "correct": false
+      },
+      {
+        "id": "english-channel",
+        "icon": "🌊",
+        "label": {
+          "de": "Ärmelkanal",
+          "en": "English Channel",
+          "it": "Canale della Manica"
+        },
+        "correct": false
+      },
+      {
+        "id": "grand-canal",
+        "icon": "🛶",
+        "label": {
+          "de": "Canal Grande",
+          "en": "Grand Canal",
+          "it": "Canal Grande"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Der Panamakanal verbindet die beiden Ozeane.",
+      "en": "The Panama Canal links the two oceans.",
+      "it": "Il Canale di Panama collega i due oceani."
+    },
+    "funFact": {
+      "de": "So sparen Schiffe einen riesigen Umweg um ganz Südamerika herum.",
+      "en": "It saves ships a huge detour all the way round South America.",
+      "it": "Così le navi evitano un enorme giro intorno a tutto il Sud America."
+    },
+    "tags": [
+      "geography",
+      "transport"
+    ]
+  },
+  {
+    "id": "america-macaw",
+    "category": "america",
+    "level": "big",
+    "type": "mc",
+    "prompt": {
+      "de": "Welcher Vogel mit sehr bunten Federn lebt im Regenwald Südamerikas?",
+      "en": "Which brightly feathered bird lives in the South American rainforest?",
+      "it": "Quale uccello dalle piume coloratissime vive nella foresta sudamericana?"
+    },
+    "answers": [
+      {
+        "id": "macaw",
+        "icon": "🦜",
+        "label": {
+          "de": "Ara",
+          "en": "Macaw",
+          "it": "Ara"
+        },
+        "correct": true
+      },
+      {
+        "id": "penguin",
+        "icon": "🐧",
+        "label": {
+          "de": "Pinguin",
+          "en": "Penguin",
+          "it": "Pinguino"
+        },
+        "correct": false
+      },
+      {
+        "id": "crow",
+        "icon": "🐦‍⬛",
+        "label": {
+          "de": "Krähe",
+          "en": "Crow",
+          "it": "Corvo"
+        },
+        "correct": false
+      },
+      {
+        "id": "owl",
+        "icon": "🦉",
+        "label": {
+          "de": "Eule",
+          "en": "Owl",
+          "it": "Gufo"
+        },
+        "correct": false
+      }
+    ],
+    "explanation": {
+      "de": "Aras sind grosse, bunte Papageien aus dem Regenwald.",
+      "en": "Macaws are big, colourful parrots from the rainforest.",
+      "it": "Le are sono grandi pappagalli colorati della foresta pluviale."
+    },
+    "funFact": {
+      "de": "Aras können sehr alt werden, manche über fünfzig Jahre.",
+      "en": "Macaws can live a long time – some over fifty years.",
+      "it": "Le are possono vivere molto a lungo, alcune più di cinquant'anni."
+    },
+    "tags": [
+      "animals",
+      "nature"
+    ]
+  }
+]

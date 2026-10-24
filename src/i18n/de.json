@@ -1,0 +1,170 @@
+{
+  "start": {
+    "go": "Los geht's!",
+    "greeting": "Hallo! Ich bin Pip, die Eule. Wer spielt heute?"
+  },
+  "profiles": {
+    "who": "Wer spielt?",
+    "hello": "Hallo {name}!",
+    "setupTitle": "Willkommen bei Wunderfrage!",
+    "setupText": "Lege für jedes Kind ein Profil an. Das dauert nur eine Minute.",
+    "setupButton": "Profile einrichten"
+  },
+  "home": {
+    "choose": "Was möchtest du spielen?",
+    "switch": "Spieler wechseln",
+    "letsGo": "{category}! Los geht's!",
+    "book": "Meine Sammlung",
+    "plant": "Meine Pflanze"
+  },
+  "categories": {
+    "science": "Wissenschaft",
+    "maths": "Mathe",
+    "deutsch": "Deutsch",
+    "italiano": "Italienisch",
+    "switzerland": "Schweiz",
+    "italy": "Italien",
+    "america": "Amerika",
+    "animals": "Tiere",
+    "body": "Mein Körper",
+    "space": "Weltall",
+    "nature": "Natur",
+    "surprise": "Überraschungs-Mix"
+  },
+  "quiz": {
+    "replay": "Nochmal hören",
+    "confirm": "Das hier!",
+    "next": "Weiter",
+    "stop": "Aufhören",
+    "hint": "Tippe einmal auf ein Bild, dann hörst du es. Tippe nochmal, dann wählst du es!",
+    "true": "Stimmt",
+    "false": "Stimmt nicht"
+  },
+  "feedback": {
+    "praise": [
+      "Super gemacht!",
+      "Wow, richtig!",
+      "Genau so ist es!",
+      "Toll!",
+      "Fantastisch!",
+      "Du bist ein Star!",
+      "Prima!",
+      "Ja, genau!",
+      "Gut gemacht!",
+      "Hurra, richtig!",
+      "Wahnsinn!",
+      "Du bist so schlau!",
+      "Volltreffer!",
+      "Wunderbar!",
+      "Klasse überlegt!",
+      "Bravo!",
+      "Spitze!",
+      "Juhu, das stimmt!",
+      "Perfekt!",
+      "Das hast du super gewusst!"
+    ],
+    "tryAgain": [
+      "Guter Versuch!",
+      "Gut überlegt!",
+      "Fast!",
+      "Gute Idee, aber nicht ganz!",
+      "Nicht schlimm, gut probiert!"
+    ],
+    "answerIs": "Die Antwort ist: {answer}.",
+    "isTrue": "Das stimmt!",
+    "isFalse": "Das stimmt nicht.",
+    "funFact": "Wusstest du?",
+    "wordIs": "Auf {language} sagt man:"
+  },
+  "roundEnd": {
+    "title": "Super gemacht!",
+    "stars": "Du hast {n} Sterne gesammelt!",
+    "starsOne": "Du hast einen Stern gesammelt!",
+    "starsNone": "Du hast eine ganze Runde gespielt! Mit jeder Runde wirst du schlauer.",
+    "again": "Nochmal spielen",
+    "home": "Zum Start",
+    "perfect": "Alle Antworten waren richtig!",
+    "book": "Meine Sammlung"
+  },
+  "gate": {
+    "hold": "Für Eltern: 3 Sekunden gedrückt halten",
+    "question": "Wie viel ist {a} × {b}?",
+    "wrong": "Nicht ganz. Hier ist eine neue Aufgabe:",
+    "cancel": "Abbrechen",
+    "ok": "OK"
+  },
+  "parent": {
+    "title": "Elternbereich",
+    "profiles": "Profile",
+    "addProfile": "Kind hinzufügen",
+    "newProfile": "Neues Profil",
+    "editProfile": "Profil bearbeiten",
+    "name": "Name",
+    "avatar": "Figur",
+    "level": "Stufe",
+    "little": "Klein (ca. 5)",
+    "big": "Gross (ca. 8)",
+    "language": "Sprache",
+    "speechRate": "Sprechtempo",
+    "slower": "langsamer",
+    "faster": "schneller",
+    "test": "Stimme testen",
+    "testSentence": "Hallo {name}! So klinge ich.",
+    "sound": "Soundeffekte",
+    "on": "Ein",
+    "off": "Aus",
+    "categories": "Themen",
+    "noQuestionsYet": "noch keine Fragen",
+    "reset": "Fortschritt zurücksetzen",
+    "resetConfirm": "Wirklich den ganzen Fortschritt von {name} löschen? Das kann nicht rückgängig gemacht werden.",
+    "delete": "Profil löschen",
+    "deleteConfirm": "Wirklich das Profil von {name} mit allem Fortschritt löschen?",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "done": "Fertig",
+    "voices": "Stimmen auf diesem Gerät",
+    "voiceAuto": "Automatisch: {voice}",
+    "voiceNone": "Keine Stimme gefunden",
+    "voiceTip": "Tipp: Lade auf dem iPad unter Einstellungen → Bedienungshilfen → Gesprochene Inhalte → Stimmen die Stimmen in «Erweitert» oder «Premium» herunter und starte die App danach neu.",
+    "parentLanguage": "Sprache des Elternbereichs",
+    "noName": "Bitte einen Namen eingeben.",
+    "storage": "Speicher",
+    "persisted": "Der Fortschritt ist dauerhaft auf diesem Gerät gespeichert.",
+    "notPersisted": "Der Browser könnte den Fortschritt löschen, wenn der Speicher knapp wird. Füge die App zum Home-Bildschirm hinzu, damit er sicher bleibt.",
+    "stats": "{stars} Sterne · {answered} Fragen beantwortet"
+  },
+  "languageName": {
+    "de": "Deutsch",
+    "en": "Englisch",
+    "it": "Italienisch"
+  },
+  "rewards": {
+    "present": "Du hast ein Geschenk verdient!",
+    "tapToOpen": "Tippe auf das Geschenk, um es zu öffnen!",
+    "newSticker": "Ein neuer Sticker: {name}!",
+    "newBadge": "Ein neues Entdecker-Abzeichen: {tier} für {category}!",
+    "plantWater": "Du hast heute gespielt, darum bekommt deine Pflanze Wasser!",
+    "plantGrew": "Schau, deine Pflanze ist gewachsen!",
+    "nextSticker": "Noch {n} Sterne bis zum nächsten Sticker!",
+    "nextStickerOne": "Nur noch ein Stern bis zum nächsten Sticker!",
+    "allStickers": "Du hast alle Sticker gesammelt. Wahnsinn!",
+    "tier10": "Bronze",
+    "tier25": "Silber",
+    "tier50": "Gold",
+    "tier100": "Diamant"
+  },
+  "collection": {
+    "title": "Meine Sammlung",
+    "stickers": "Sticker",
+    "badges": "Abzeichen",
+    "locked": "Noch nicht gesammelt. Sammle weiter Sterne!",
+    "count": "{n} von {total}",
+    "badgeInfo": "Abzeichen in {tier} für {category}: {n} richtige Antworten.",
+    "badgeLocked": "Beantworte {n} Fragen in {category} richtig, dann bekommst du dieses Abzeichen. Du hast schon {have}."
+  },
+  "plant": {
+    "none": "Spiel eine Runde, dann fängt deine Pflanze an zu wachsen!",
+    "one": "Du hast an einem Tag gespielt. Deine Pflanze hat angefangen zu wachsen!",
+    "days": "Du hast an {n} Tagen gespielt. Schau, wie deine Pflanze wächst!"
+  }
+}
